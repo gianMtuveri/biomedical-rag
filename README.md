@@ -217,15 +217,18 @@ This model evaluates each query-document pair to improve ranking quality.
 
 # Answer Generation
 
-The final answer is generated using a **grounded synthesis template**.
+The final answer is produced using a **grounded response template**.
 
-Instead of hallucinating information, the system:
+The system currently:
 
-1. extracts relevant evidence passages
-2. summarizes them into a structured response
-3. cites the source publications
+1. retrieves relevant evidence passages
+2. reranks them
+3. extracts the most relevant snippets
+4. assembles them into a structured evidence-based response
 
-This approach ensures answers remain tied to the retrieved literature.
+This means the current version is **retrieval-grounded**, but it does **not yet perform true abstractive summarization with a generative language model**.
+
+The output is therefore best interpreted as a structured aggregation of retrieved evidence rather than a fully synthesized natural-language answer.
 
 ---
 
@@ -289,7 +292,20 @@ This repository demonstrates how to build a **complete retrieval pipeline** comb
 A lightweight **Retrieval-Augmented Generation (RAG)** system built on biomedical literature.  
 The project retrieves scientific abstracts from Europe PMC, builds a semantic search index, and answers user questions using retrieved evidence from the literature.
 
-The system combines **dense vector retrieval, sparse keyword retrieval, cross-encoder reranking, and grounded answer synthesis** to produce responses supported by relevant scientific publications.
+The system combines **dense vector retrieval, sparse keyword retrieval, cross-encoder reranking, # Answer Generation
+
+The final answer is produced using a **grounded response template**.
+
+The system currently:
+
+1. retrieves relevant evidence passages
+2. reranks them
+3. extracts the most relevant snippets
+4. assembles them into a structured evidence-based response
+
+This means the current version is **retrieval-grounded**, but it does **not yet perform true abstractive summarization with a generative language model**.
+
+The output is therefore best interpreted as a structured aggregation of retrieved evidence rather than a fully synthesized natural-language answer.
 
 ---
 
@@ -794,7 +810,7 @@ The final answer is generated using a **grounded synthesis template**.
 Instead of hallucinating information, the system:
 
 1. extracts relevant evidence passages
-2. summarizes them into a structured response
+2. summarizes them into a structured evidence-based response
 3. cites the source publications
 
 This approach ensures answers remain tied to the retrieved literature.
