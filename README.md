@@ -56,23 +56,23 @@ This architecture is representative of many modern RAG systems used in productio
 # Repository Structure
 
 
-biomedical-rag
-│
-├── src
-│ ├── fetch_corpus.py
-│ ├── embed_index.py
-│ ├── retrieve.py
-│ └── rag_pipeline.py
-│
-├── data
-│ └── .gitkeep
-│
-├── vectorstore
-│ └── .gitkeep
-│
-├── README.md
-└── .gitignore
-
+biomedical-rag  
+│  
+├── src  
+│ ├── fetch_corpus.py  
+│ ├── embed_index.py  
+│ ├── retrieve.py  
+│ └── rag_pipeline.py  
+│  
+├── data  
+│ └── .gitkeep  
+│  
+├── vectorstore  
+│ └── .gitkeep  
+│  
+├── README.md  
+└── .gitignore  
+  
 
 ---
 
