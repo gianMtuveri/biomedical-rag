@@ -32,21 +32,21 @@ The system runs **entirely locally** and does not require external LLM APIs.
 The retrieval pipeline follows this structure:
 
 
-Europe PMC API
-↓
-Corpus construction
-↓
-Document chunking
-↓
-SentenceTransformer embeddings
-↓
-FAISS vector index
-↓
-Hybrid retrieval (FAISS + BM25)
-↓
-Cross-encoder reranking
-↓
-Evidence synthesis
+Europe PMC API  
+↓  
+Corpus construction  
+↓  
+Document chunking  
+↓  
+SentenceTransformer embeddings  
+↓  
+FAISS vector index  
+↓  
+Hybrid retrieval (FAISS + BM25)  
+↓  
+Cross-encoder reranking  
+↓  
+Evidence synthesis  
 
 
 This architecture is representative of many modern RAG systems used in production search and knowledge systems.
