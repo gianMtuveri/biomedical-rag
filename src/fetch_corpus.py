@@ -10,6 +10,7 @@ DEFAULT_QUERY = (
     '("blood brain barrier" OR BBB OR LRP1 OR "receptor-mediated transcytosis" OR transcytosis '
     'OR "brain delivery" OR "CNS delivery" OR "central nervous system" OR TfR OR "transferrin receptor" '
     'OR "insulin receptor" OR nanoparticle OR liposome OR exosome OR "drug delivery")'
+    'OR "lrp1 structure" OR "calcium-binding"'
 )
 
 

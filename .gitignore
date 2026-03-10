@@ -1,3 +1,6 @@
+vectorstore/index.faiss
+vectorstore/metadata.parquet
+vectorstore/config.json
 .venv/
 __pycache__/
 *.pyc

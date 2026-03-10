@@ -2,6 +2,7 @@ import faiss
 import pandas as pd
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from rank_bm25 import BM25Okapi
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 INDEX_PATH = "vectorstore/index.faiss"
 META_PATH = "vectorstore/metadata.parquet"
@@ -156,34 +157,49 @@ def rerank_results(query, results, reranker, top_n=5):
     return reranked[:top_n]
 
 
-def synthesize_answer(query, reranked_results):
-    """
-    Generate a coherent answer using retrieved evidence.
+def synthesize_answer(query, reranked_results, tokenizer, gen_model):
 
-    This is a simple grounded synthesis that merges evidence
-    from multiple retrieved papers into one explanation.
-    """
-
-    evidence_blocks = []
+    context_blocks = []
 
     for score, row in reranked_results:
-        evidence_blocks.append({
-            "title": row["title"],
-            "year": row["year"],
-            "text": row["text"][:400]
-        })
+        context_blocks.append(row["text"][:600])
 
-    answer = []
+    context = "\n\n".join(context_blocks)
 
-    answer.append(f"Question: {query}\n")
-    answer.append("Answer based on retrieved literature:\n")
+    prompt = f"""
+Use the evidence below to answer the biomedical question.
 
-    for ev in evidence_blocks:
-        answer.append(
-            f"- {ev['title']} ({ev['year']}): {ev['text']}"
-        )
+Focus on:
+- the mechanism
+- what the retrieved studies suggest
 
-    return "\n".join(answer)
+If the evidence is incomplete, say so.
+
+Question:
+{query}
+
+Evidence:
+{context}
+
+Write a concise scientific answer (4-6 sentences).
+"""
+    
+    inputs = tokenizer(
+        prompt, 
+        return_tensors="pt", 
+        truncation=True, 
+        max_length=1024
+    )
+
+    output = gen_model.generate(
+        **inputs,
+        max_new_tokens=200,
+        do_sample=False
+    )
+
+    answer = tokenizer.decode(output[0], skip_special_tokens=True)
+
+    return answer
 
 
 def main():
@@ -202,20 +218,28 @@ def main():
         meta,
         query,
         model, 
-        k=10
+        k=25
     )
 
-    results = deduplicate_results(scores, ids, meta, top_n=10)
+    results = deduplicate_results(scores, ids, meta, top_n=15)
 
-    reranked_results = rerank_results(query, results,reranker, top_n=5)
+    reranked_results = rerank_results(query, results, reranker, top_n=4)
 
-    answer = synthesize_answer(query, reranked_results)
+    tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
+    gen_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")
+
+    answer = synthesize_answer(query, reranked_results, tokenizer, gen_model)
 
     print("\n=================================")
     print("GENERATED ANSWER")
     print("=================================\n")
 
     print(answer)
+
+    print("\nSources:\n")
+
+    for i, (_, row) in enumerate(reranked_results, start = 1):
+        print(f"{i}. {row['title']} ({row['year']})")
 
     
 if __name__ == "__main__":

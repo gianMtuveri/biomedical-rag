@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import numpy as np
 import pandas as pd
@@ -14,6 +15,7 @@ MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
 def load_corpus(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
+    print(f"Raw documents: {len(df)}")
 
     if "text" not in df.columns:
         df["text"] = df["title"].fillna("") + "\n\n" + df["abstract"].fillna("")
@@ -40,16 +42,35 @@ def load_corpus(path: str) -> pd.DataFrame:
     return chunk_df
 
 
-def chunk_text(text, chunk_size=120, overlap=30):
-    words = text.split()
-    chunks = []
+def chunk_text(text, chunk_size=180, overlap_sentences=1):
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+    sentences = [s.strip() for s in sentences if s.strip()]
 
-    start = 0
-    while start < len(words):
-        end = start + chunk_size
-        chunk = words[start:end]
-        chunks.append(" ".join(chunk))
-        start += chunk_size - overlap
+    chunks = []
+    current_chunk = []
+    current_len = 0
+
+    for sent in sentences:
+        sent_len = len(sent.split())
+
+        if current_len + sent_len <= chunk_size or not current_chunk:
+            current_chunk.append(sent)
+            current_len += sent_len
+        else:
+            chunks.append(" ".join(current_chunk))
+
+            if overlap_sentences > 0:
+                current_chunk = current_chunk[-overlap_sentences:]
+            else:
+                current_chunk = []
+
+            current_len = sum(len(s.split()) for s in current_chunk)
+
+            current_chunk.append(sent)
+            current_len += sent_len
+
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
 
     return chunks
 
@@ -82,6 +103,8 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
     df = load_corpus(DATA_PATH)
+    print("Corpus loaded.")
+
     texts = df["text"].tolist()
 
     print(f"Loaded {len(texts)} documents")
