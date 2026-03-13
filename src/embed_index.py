@@ -94,7 +94,7 @@ def build_faiss_index(emb: np.ndarray) -> faiss.Index:
 
 
 def save_metadata(df: pd.DataFrame, out_dir: str) -> None:
-    meta_cols = ["id", "year", "title", "journal", "source", "text"]
+    meta_cols = ["id", "chunk_id", "year", "title", "journal", "source", "text"]
     meta = df[meta_cols].copy()
     meta.to_parquet(os.path.join(out_dir, "metadata.parquet"), index=False)
 

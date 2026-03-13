@@ -30,66 +30,6 @@ def search(index, query_vector, k=10):
     return scores[0], ids[0]
 
 
-def deduplicate_results(scores, ids, meta, top_n):
-    seen_titles = set()
-    unique_results = []
-
-    for score, idx in zip(scores, ids):
-        row = meta.iloc[idx]
-        title = row["title"]
-
-        if title in seen_titles:
-            continue
-
-        seen_titles.add(title)
-        unique_results.append((score,row))
-
-        if len(unique_results) == top_n:
-            break
-
-    return unique_results
-
-
-def build_context(results):
-    context_parts = []
-
-    for i, (score, row) in enumerate(results, start=1):
-        block = (
-            f"Source: {i}\n"
-            f"Title: {row['title']}\n"
-            f"Year: {row['year']}\n"
-            f"Journal: {row['journal']}\n"
-            f"Snippet: {row['text']}\n"
-        )
-        context_parts.append(block)
-
-    return "\n\n".join(context_parts)
-
-
-def generate_answer_template(query, results):
-    lines = []
-    lines.append("Answer")
-    lines.append("")
-    lines.append(f"Question: {query}")
-    lines.append("")
-    lines.append("Retrieved evidence suggests the following:")
-    lines.append("")
-
-    for i, (score, row) in enumerate(results, start=1):
-        snippet = row["text"][:400].replace("\n", " ")
-        lines.append(f"{i}. {row['title']} ({row['year']})")
-        lines.append(f"   Relevance score: {score:.3f}")
-        lines.append(f"   Evidence: {snippet}...")
-        lines.append("")
-
-    lines.append("Sources")
-    lines.append("")
-    for i, (_, row) in enumerate(results, start=1):
-        lines.append(f"{i}. {row['title']}")
-
-    return "\n".join(lines)
-
-
 def build_bm25(meta):
     corpus = meta["text"].tolist()
     tokenized_corpus = [doc.lower().split() for doc in corpus]
@@ -158,63 +98,127 @@ def rerank_results(query, results, reranker, top_n=5):
 
 
 def synthesize_answer(query, reranked_results, tokenizer, gen_model):
-
-    context_blocks = []
-
     docs = {}
 
     for score, row in reranked_results:
         doc_id = row["id"]
 
         if doc_id not in docs:
-            docs[doc_id] = []
+            docs[doc_id] = {
+                "title": row["title"],
+                "year": row["year"],
+                "chunks": []
+            }
 
-        docs[doc_id].append(row["text"][:500])
-
+        docs[doc_id]["chunks"].append(row["text"][:250])
 
     context_blocks = []
 
-    for doc_id, chunks in docs.items():
-        merged = "\n".join(chunks)
-
-        context_blocks.append(merged)
+    for i, (_, doc) in enumerate(docs.items(), start=1):
+        merged_chunks = "\n".join(doc["chunks"])
+        block = (
+            f"Source {i}\n"
+            f"Title: {doc['title']}\n"
+            f"Year: {doc['year']}\n"
+            f"Evidence:\n{merged_chunks}"
+        )
+        context_blocks.append(block)
 
     context = "\n\n".join(context_blocks)
-
+    #print(context)
+    
     prompt = f"""
-Use the evidence below to answer the biomedical question.
+You are a biomedical research assistant.
 
-Focus on:
-- the mechanism
-- what the retrieved studies suggest
+Answer the question using only the evidence below.
 
-If the evidence is incomplete, say so.
+If the evidence is incomplete, say so explicitly.
+
 
 Question:
 {query}
 
 Evidence:
 {context}
-
-Write a concise scientific answer (4-6 sentences).
 """
-    
+
     inputs = tokenizer(
-        prompt, 
-        return_tensors="pt", 
-        truncation=True, 
+        prompt,
+        return_tensors="pt",
+        truncation=True,
         max_length=1024
     )
 
     output = gen_model.generate(
         **inputs,
-        max_new_tokens=200,
+        max_new_tokens=500,
         do_sample=False
     )
 
     answer = tokenizer.decode(output[0], skip_special_tokens=True)
-
     return answer
+
+
+def group_chunks_by_document(scores, ids, meta, max_docs=5, max_chunks_per_doc=3):
+
+    doc_chunks = {}
+
+    for score, idx in zip(scores, ids):
+
+        row = meta.iloc[idx]
+        doc_id = row["id"]
+
+        if doc_id not in doc_chunks:
+            doc_chunks[doc_id] = []
+
+        doc_chunks[doc_id].append((score, row))
+
+    # rank documents by best chunk score
+    ranked_docs = sorted(
+        doc_chunks.items(),
+        key=lambda x: max(s for s, _ in x[1]),
+        reverse=True
+    )
+
+    selected = []
+
+    for doc_id, chunks in ranked_docs[:max_docs]:
+
+        chunks = sorted(chunks, key=lambda x: x[0], reverse=True)
+
+        for score, row in chunks[:max_chunks_per_doc]:
+            selected.append((score, row))
+
+    return selected
+
+
+def expand_with_neighbors(selected_results, meta, window=1):
+    expanded = []
+    seen = set()
+
+    for score, row in selected_results:
+        doc_id = row["id"]
+        chunk_id = row["chunk_id"]
+
+        mask = (
+            (meta["id"] == doc_id) &
+            (meta["chunk_id"] >= chunk_id - window) &
+            (meta["chunk_id"] <= chunk_id + window)
+        )
+
+        neighbors = meta[mask].sort_values("chunk_id")
+
+        for _, nrow in neighbors.iterrows():
+
+            key = (nrow["id"], nrow["chunk_id"])
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+            expanded.append((score, nrow))
+
+    return expanded
 
 
 def main():
@@ -225,7 +229,6 @@ def main():
 
     query = input("Enter question: ")
 
-    q_emb = embed_query(model, query)
     scores, ids = hybrid_search(
         index,
         bm25,
@@ -233,17 +236,24 @@ def main():
         meta,
         query,
         model, 
-        k=30
+        k=10
     )
 
-    results = deduplicate_results(scores, ids, meta, top_n=15)
+    results = group_chunks_by_document(
+        scores,
+        ids,
+        meta,
+        max_docs=3,
+        max_chunks_per_doc=3
+    )
 
-    reranked_results = rerank_results(query, results, reranker, top_n=4)
+    reranked_results = rerank_results(query, results, reranker, top_n=3)
+    expanded_results = expand_with_neighbors(reranked_results, meta, window=1)
 
     tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-large")
     gen_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-large")
 
-    answer = synthesize_answer(query, reranked_results, tokenizer, gen_model)
+    answer = synthesize_answer(query, expanded_results, tokenizer, gen_model)
 
     print("\n=================================")
     print("GENERATED ANSWER")
@@ -252,7 +262,6 @@ def main():
     print(answer)
 
     print("\nSources:\n")
-
     for i, (_, row) in enumerate(reranked_results, start = 1):
         print(f"{i}. {row['title']} ({row['year']})")
 
