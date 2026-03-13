@@ -1,61 +1,74 @@
-# Biomedical Literature RAG
+# Biomedical RAG: Literature Retrieval and Question Answering
 
-A Retrieval-Augmented Generation (RAG) pipeline for answering biomedical questions using scientific literature.
+A lightweight Retrieval-Augmented Generation (RAG) system for biomedical literature.  
+The system retrieves relevant scientific papers from Europe PMC, builds a semantic search index, and answers research questions using retrieved evidence.
 
-This project builds a local knowledge base from biomedical abstracts and implements a hybrid retrieval system combining semantic embeddings, keyword search, reranking, and answer synthesis.
-
-The goal is to demonstrate a full modern RAG architecture applied to biomedical research questions.
+This project demonstrates a **full RAG pipeline built from scratch**, including hybrid retrieval, reranking, and local answer generation.
 
 ---
 
-# Project Overview
+# Overview
 
-The system retrieves relevant scientific evidence from a corpus of biomedical papers and synthesizes a concise answer using a lightweight language model.
+The system allows users to ask biomedical questions such as:
 
-Pipeline stages:
+```
+How does LRP1 mediate transport across the blood-brain barrier?
+```
 
-1. Corpus ingestion from Europe PMC  
-2. Document chunking and embedding  
-3. Vector indexing with FAISS  
-4. Hybrid retrieval (semantic + keyword)  
-5. Cross-encoder reranking  
-6. Answer synthesis using an instruction-tuned model  
+The pipeline:
+
+1. retrieves relevant literature
+2. ranks evidence passages
+3. assembles contextual evidence
+4. generates an answer grounded in retrieved papers
 
 ---
 
 # Architecture
 
 ```
-fetch_corpus.py
-        │
-        ▼
-abstracts.csv
-        │
-        ▼
-embed_index.py
-        │
-        ▼
-vectorstore/
-    index.faiss
-    metadata.parquet
-        │
-        ▼
-rag_pipeline.py
-        │
-        ▼
-Hybrid retrieval
-(FAISS + BM25)
-        │
-        ▼
-Cross-encoder reranking
-        │
-        ▼
-Answer synthesis
+User Question
+      │
+      ▼
+Query Embedding (SentenceTransformers)
+      │
+      ▼
+Hybrid Retrieval
+   ├─ FAISS semantic search
+   └─ BM25 lexical search
+      │
+      ▼
+Candidate Pool
+      │
+      ▼
+Cross-Encoder Reranking
+      │
+      ▼
+Document-aware Chunk Grouping
+      │
+      ▼
+Context Assembly
+      │
+      ▼
+Answer Generation (FLAN-T5)
 ```
 
 ---
 
-# Repository Structure
+# Features
+
+- Biomedical literature retrieval from **Europe PMC**
+- Semantic search using **SentenceTransformers**
+- Fast vector search with **FAISS**
+- Lexical search with **BM25**
+- Hybrid retrieval (semantic + lexical)
+- Cross-encoder reranking
+- Document-aware chunk grouping
+- Local LLM answer synthesis
+
+---
+
+# Project Structure
 
 ```
 biomedical-rag
@@ -63,15 +76,16 @@ biomedical-rag
 ├── data
 │   └── abstracts.csv
 │
+├── src
+│   ├── fetch_corpus.py
+│   ├── fetch_full_text.py
+│   ├── embed_index.py
+│   └── rag_pipeline.py
+│
 ├── vectorstore
 │   ├── index.faiss
 │   ├── metadata.parquet
 │   └── config.json
-│
-├── src
-│   ├── fetch_corpus.py
-│   ├── embed_index.py
-│   └── rag_pipeline.py
 │
 ├── requirements.txt
 └── README.md
@@ -79,36 +93,22 @@ biomedical-rag
 
 ---
 
-# Installation
+# Pipeline Components
 
-Create a Python virtual environment and install dependencies.
+## 1. Literature Retrieval
 
-```
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+`fetch_corpus.py`
 
-Required libraries include:
+Queries Europe PMC to build a biomedical literature corpus.
 
-- sentence-transformers  
-- faiss  
-- rank-bm25  
-- transformers  
-- pandas  
-- numpy  
+Features:
 
----
+- keyword-based search
+- filtering for review articles
+- abstract extraction
+- metadata collection
 
-# Building the Corpus
-
-Fetch biomedical abstracts from Europe PMC.
-
-```
-python src/fetch_corpus.py
-```
-
-This generates:
+Output:
 
 ```
 data/abstracts.csv
@@ -116,15 +116,19 @@ data/abstracts.csv
 
 ---
 
-# Building the Vector Index
+## 2. Embedding and Index Construction
 
-Create document chunks, compute embeddings, and build the FAISS index.
+`embed_index.py`
+
+The corpus is split into sentence-based chunks and embedded using:
 
 ```
-python src/embed_index.py
+sentence-transformers/all-MiniLM-L6-v2
 ```
 
-Outputs:
+Embeddings are stored in a **FAISS vector index**.
+
+Output:
 
 ```
 vectorstore/index.faiss
@@ -134,143 +138,173 @@ vectorstore/config.json
 
 ---
 
-# Running the RAG System
+## 3. Hybrid Retrieval
 
-Launch the question-answering pipeline:
+`rag_pipeline.py`
 
-```
-python src/rag_pipeline.py
-```
+Retrieval combines:
 
-Example:
+### Semantic search
+FAISS similarity search over embeddings.
 
-```
-Enter question: How does LRP1 mediate transport across the blood-brain barrier?
-```
+### Lexical search
+BM25 ranking over text tokens.
 
-The system will:
-
-1. retrieve candidate chunks  
-2. perform hybrid search (FAISS + BM25)  
-3. rerank results using a cross-encoder  
-4. synthesize a final answer from the retrieved evidence  
+### Hybrid ranking
+Scores from both methods are combined to produce candidate documents.
 
 ---
 
-# Retrieval Pipeline
+## 4. Cross-Encoder Reranking
 
-The retrieval system combines multiple techniques.
-
-## Semantic Search
-
-Embeddings generated using:
-
-```
-sentence-transformers/all-MiniLM-L6-v2
-```
-
-Indexed with FAISS using cosine similarity.
-
----
-
-## Keyword Retrieval
-
-BM25 retrieval is used to capture exact keyword matches in documents.
-
----
-
-## Hybrid Retrieval
-
-Semantic and BM25 scores are combined to improve recall and robustness.
-
----
-
-## Cross-Encoder Reranking
-
-Top candidate passages are reranked using:
+Candidate passages are reranked using:
 
 ```
 cross-encoder/ms-marco-MiniLM-L-6-v2
 ```
 
-This improves ranking precision before answer generation.
+This improves precision by scoring each passage with the query.
 
 ---
 
-# Answer Generation
+## 5. Context Assembly
 
-Answer synthesis currently uses the instruction-tuned model:
+Relevant chunks are grouped by document to preserve context.
+
+Multiple chunks per document are merged to produce coherent evidence blocks.
+
+---
+
+## 6. Answer Generation
+
+The final context is passed to a local LLM:
 
 ```
 google/flan-t5-base
 ```
 
-The model receives the top reranked evidence chunks and produces a concise biomedical explanation.
+The model generates a short answer using only the retrieved evidence.
 
 ---
 
-# Example Output
-
-Question:
+# Example Query
 
 ```
-How does LRP1 mediate transport across the blood-brain barrier?
+Enter question: How does LRP1 mediate transport across the blood-brain barrier?
 ```
 
-Generated answer:
+Output:
 
 ```
-LRP1 mediates receptor-mediated transcytosis across the blood–brain barrier by binding ligands on endothelial cells, internalizing them through endocytosis, and transporting them across the cell in vesicular compartments. Experimental studies suggest that proteins such as amyloid-β and receptor-associated protein can utilize this pathway for transport. This mechanism has also been explored for targeted drug delivery to the central nervous system.
+GENERATED ANSWER
+
+LRP1 is a member of the LDL receptor family and functions as a large
+endocytic receptor. It binds multiple ligands and mediates their
+internalization and trafficking across endothelial cells. In the
+blood-brain barrier, LRP1 participates in receptor-mediated
+transcytosis, enabling transport of molecules such as amyloid-beta
+and therapeutic cargo across brain endothelial cells.
+```
+
+Sources are also displayed for transparency.
+
+---
+
+# Installation
+
+Create a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
 
-# Current Limitations
+# Build the Corpus
 
-This implementation demonstrates the architecture of a modern RAG pipeline but still has several limitations.
+Fetch biomedical abstracts:
 
-## Chunk-level retrieval
-
-The system retrieves fixed-size text chunks. In many scientific papers, important information is distributed across distant sections of the document. A single chunk may therefore contain incomplete context.
-
-## Document deduplication
-
-Current deduplication keeps only one chunk per document, which may discard relevant evidence from the same paper.
-
-## Lightweight generation model
-
-Answer synthesis currently uses a small model (`flan-t5-base`). While efficient, it may struggle with complex scientific reasoning.
-
-## Abstract-only corpus
-
-The corpus currently contains abstracts rather than full papers, limiting the available context.
+```bash
+python src/fetch_corpus.py
+```
 
 ---
 
-# Planned Improvements
+# Build the Vector Index
 
-Future improvements include:
+```bash
+python src/embed_index.py
+```
 
-- multi-chunk aggregation per document  
-- parent–child retrieval architecture  
-- context window expansion around retrieved chunks  
-- stronger instruction-tuned generation models  
-- evaluation with biomedical QA benchmarks  
+This creates the FAISS index used for retrieval.
+
+---
+
+# Run the RAG Pipeline
+
+```bash
+python src/rag_pipeline.py
+```
+
+Example interaction:
+
+```
+Enter question: What is LRP1?
+```
+
+---
+
+# Limitations
+
+- Answer quality depends on the capability of the local LLM.
+- Scientific literature often contains complex sections not optimized for question answering.
+- Chunking may separate related information across sections.
+- Larger instruction-tuned models could improve answer synthesis.
+
+---
+
+# Future Improvements
+
+Possible extensions:
+
+- larger LLMs for answer generation
+- citation-aware answer synthesis
+- multi-hop retrieval
+- domain-specific biomedical embeddings
+- improved document chunking strategies
+
+---
+
+# Technologies Used
+
+- Python
+- SentenceTransformers
+- FAISS
+- BM25
+- HuggingFace Transformers
+- Europe PMC API
+- Pandas / NumPy
 
 ---
 
 # Purpose
 
-This project was developed as a hands-on exploration of modern Retrieval-Augmented Generation architectures applied to biomedical literature.
+This project demonstrates a **complete Retrieval-Augmented Generation system built from scratch** for biomedical literature exploration.
 
-It demonstrates practical implementation of:
+It is intended as a portfolio project showcasing:
 
-- semantic retrieval  
-- hybrid search  
-- cross-encoder reranking  
-- answer synthesis  
-
-within a compact and reproducible pipeline.
+- NLP
+- information retrieval
+- vector databases
+- hybrid search
+- LLM-based question answering
 
 ---
 
