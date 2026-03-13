@@ -1,0 +1,333 @@
+Role of Transporters in Central Nervous System Drug Delivery and Blood-Brain Barrier Protection: Relevance to Treatment of Stroke
+
+Ischemic stroke is a leading cause of morbidity and mortality in the United States. The only approved pharmacologic treatment for ischemic stroke is thrombolysis via recombinant tissue plasminogen activator (r-tPA). A short therapeutic window and serious adverse events (ie, hemorrhage, excitotoxicity) greatly limit r-tPA therapy, which indicates an essential need to develop novel stroke treatment paradigms. Transporters expressed at the blood-brain barrier (BBB) provide a significant opportunity to advance stroke therapy via central nervous system delivery of drugs that have neuroprotective properties. Examples of such transporters include organic anion–transporting polypeptides (Oatps) and organic cation transporters (Octs). In addition, multidrug resistance proteins (Mrps) are transporter targets in brain microvascular endothelial cells that can be exploited to preserve BBB integrity in the setting of stroke. Here, we review current knowledge on stroke pharmacotherapy and demonstrate how endogenous BBB transporters can be targeted for improvement of ischemic stroke treatment.
+
+Introduction
+
+Stroke is a primary cause of long-term morbidity and is a leading cause of disease-related mortality in the United States. Approximately 86% of strokes are ischemic and characterized by obstructed blood flow, reduced oxygen delivery, and decreased nutritional supply (ie, glucose) to an affected part of the brain. Current epidemiologic data indicate that stroke severity and functional outcomes are highly dependent on biological variables such as age and sex. For example, men under the age of 45 years are more likely to experience ischemic stroke and poorer functional recovery compared with women within the same age group. Incidence of stroke in women between 45 and 54 years of age increases, possibly as an effect related to changes in circulating sex hormone levels that are associated with menopause. From the age of 55 years onward, there are no sex differences in stroke incidence until the age of 85 years when women are at an elevated risk for ischemic stroke. In all groups of patients with stroke, cessation of blood flow leads to the following: (1) formation of an ischemic core that is irreversibly damaged, (2) development of reversible injury to surrounding tissue known as the penumbra, and (3) a region of benign oligemia that spontaneously recovers from damage. Although treatment of the ischemic core is virtually impossible due to rapid development of necrosis (ie, within minutes), the penumbra, a primary therapeutic target due to slower cell degradation, can theoretically be prevented from progressing to infarction by drug therapy. At present, there is only a single drug approved by the Food and Drug Administration (FDA) for ischemic stroke treatment—recombinant tissue plasminogen activator (r-tPA). The objective of r-tPA therapy is thrombolysis (ie, breakdown of an occluding blood clot), effectively restoring blood flow, oxygen, and glucose supply to injured brain tissue. However, only a minority of patients are candidates for r-tPA treatment due to its narrow therapeutic window (4.5 hours) and/or risk of hemorrhagic transformation. More recent evidence suggests that r-tPA can induce considerable damage to neurons when perfusion is reestablished (ie, reoxygenation). Such central nervous system (CNS) damage can range in severity from enlargement in the size of ischemic core to development of edema or fatal hemorrhaging. This is a critical component of the clinical complex known as hypoxia/reperfusion injury (H/RI). Mechanisms underlying H/RI are beyond the scope of this review and have been extensively discussed elsewhere. Nevertheless, it must be emphasized that H/RI involves increased cerebrovascular permeability and leakage, activation of cell death mechanisms (ie, apoptosis, autophagy-associated cell death, necrosis), autoimmune responses, activation of the complement system, infiltration of inflammatory cells, and increase in number of reactive oxygen species (ROS). Indeed, such processes can be attenuated pharmacologically via CNS delivery of neuroprotective drugs. Furthermore, the ability of such drugs to attain effective concentrations in the brain is highly dependent on maintenance of blood-brain barrier (BBB) integrity in the setting of ischemic stroke.
+
+The BBB is a fundamental component of stroke pathophysiology and an emerging target for treatment opportunities. Physiologically, the BBB is a physical and biochemical barrier that precisely controls CNS uptake of endogenous and exogenous substances including drugs and metabolites. Indeed, brain microvascular endothelial cells form a physical diffusion barrier that prevents free exchange of compounds between blood and brain. Maintenance of BBB properties also requires contribution from other CNS cellular constituents such as pericytes, astrocytes, microglia, and neurons, a concept known as the neurovascular unit (NVU). Capillary endothelial cells lack fenestration, display abundant junctional complexes composed of tight and adherens junctions, and have limited pinocytosis. These factors greatly restrict paracellular and transcellular transport of circulating solutes. Indeed, NVU properties render the BBB permeable only to those molecules that are smaller than 400 Da, can form fewer than 8 hydrogen bonds, and are lipophilic in nature. In fact, it has been suggested that more than 98% of all small molecules cannot permeate the BBB. For example, [C]-histamine, a hydrophilic molecule with molecular size of 111 Da, is detectable in all organs except brain and spinal cord at 5 minutes following intravenous injection in mice. In addition to “physical” traits, there are biochemical systems that facilitate drug delivery across the BBB. Such systems include various receptors, such as transferrin, insulin, and low-density liporeceptors (ie, receptor-mediated transcytosis), as well as plasma membrane domains involved in endocytosis of plasma proteins, immunoglobulins, and metalloproteins. Nonspecific transport processes (ie, adsorptive endocytosis) also exist at the BBB and involve electrostatic interactions where cationic proteins bind with anionic binding sites. In contrast, drugs—effectively being solutes with specific kinetic and structural properties—may require putative membrane transporters to get into, and to get out of, brain microvascular endothelial cells. Drug transport mechanisms at the BBB involve numerous proteins of the solute carrier (SLC) and the adenosine triphosphate (ATP)-binding cassette (ABC) superfamilies (Figure 1). Typically, SLC transporters facilitate uptake (ie, influx) of drugs to the CNS, whereas ABC transporters are involved in brain-to-blood (ie, efflux) drug transport. Several SLC and ABC transporters are functionally expressed on all cellular compartments of the NVU (ie, astrocytes, microglia, pericytes, and neurons). Transport activity in these cell types can lead to significant changes in CNS drug distribution and efficacy, thus creating a secondary barrier to brain drug permeability. Finally, it is important to note that the BBB and blood-cerebrospinal fluid (CSF) barrier localized to the choroid plexus is functionally distinct from the BBB and is involved in maintaining homeostasis of CSF. Although this article will focus on transporters expressed on the BBB, we must acknowledge the “sink” effect that the CSF has by lowering the “steady state” of drugs delivered to the CNS. Such “sink” effects reduce the optimal or targeted concentrations of drugs in the brain that are maintained by the transporter system on BBB and various cells of the CNS.
+
+Transporter expression in brain microvessels. Solute carrier (SLC) superfamily members (green fluorescence) (A) Oatp1a4 and (B) Oct1 and adenosine triphosphate (ATP)–binding cassette (ABC) superfamily representative (C) Mrp2 (red fluorescence) are strongly expressed in brain microvessels directly isolated from rat brain. Scale bar = 4 µm. Figure is an original and represents previously unpublished data.
+
+In this review, we provide critical information on stroke pharmacotherapy with a particular emphasis on currently marketed drugs that are known substrates for BBB transport proteins. Effective CNS delivery of neuroprotective drugs via transporters is a therapeutic objective that can greatly improve neurological outcomes in patients with stroke. We also examine endogenous BBB transporters that can be targeted for protection of BBB integrity. Prevention of BBB dysfunction in the setting of ischemic stroke is critical for protection of the CNS from further injury and for more precise control of drug delivery to the brain. Overall, the specific transporters under consideration in this review represent discrete mechanisms that can inform development of novel treatment approaches and/or discovery of new drugs for ischemic stroke.
+
+Limitations and Pitfalls of Current Stroke Therapy
+
+To understand therapeutic benefits of stroke therapy that can be conferred by targeting BBB transporters, it is essential to discuss problems associated with thrombolytic therapy. At present, thrombolysis resulting from r-tPA administration is the only pharmacologic approach approved by the FDA for treatment of ischemic stroke. Although r-tPA is an efficient and cost-effective thrombolytic agent, it has a short therapeutic window—up to a maximum of 4.5 hours after ischemic insult. In terms of distribution, r-tPA remains confined to the lumen of the cerebral microcirculation where it has a short elimination half-life (5-10 minutes in human blood) and does not permeate the BBB. However, r-tPA has been shown to damage the basal lamina of the BBB, suggesting a mechanism that can cause edema and hemorrhage during H/RI. Experimental stroke models using an intravascular filament demonstrated effects of tPA on stroke intensity; tPA knockout mice exhibited approximately 50% smaller infarcts than wild-type (WT) mice. Intravenous administration of r-tPA in both groups resulted in an increase in infarct size, which indicates that r-tPA may enhance stroke-related injury. There are several pathways that are both influenced by r-tPA and can be directly correlated with brain injury/repair. For example, laminin-10, a molecular component of the extraneuronal matrix in mice has been shown to degrade as a consequence of r-tPA administration, resulting in excitotoxicity, neuronal death, and disruption of prosurvival signaling. Furthermore, exogenous serine proteases can activate protease-activated receptor 1 (PAR-1) in the brain which can contribute to harmful side effects of r-tPA administration. It has been clearly demonstrated that PAR-1 knockout mice and intracerebroventricular injections of PAR-1 antagonist reduce infarction size up to 3-fold. Taken together, these studies provide evidence for adverse effects associated with r-tPA therapy that can greatly limit efficacy of a thrombolytic approach for ischemic stroke treatment.
+
+Hypoxia/reperfusion injury is associated with excitotoxicity that results from uncontrolled release of glutamate from injured neurons and increased ROS generation. Indeed, r-tPA can promote these effects by enhancing N-methyl-d-aspartate (NMDA)-induced excitotoxic lesions, Ca++ influx, and neuronal death. Subsequent neuronal apoptosis is characterized by cytochrome c release, poly(adenosine diphosphate ribose) polymerase (PARP) cleavage, caspase 3 activation, and internucleosomal DNA fragmentation. In addition, even if r-tPA thrombolytic therapy is discontinued and the thrombus is excised, reperfusion can still cause H/RI due to reintroduction of oxygen and glucose to the ischemic brain; ROS-associated oxidative stress is indicated by increased levels of hydrogen peroxide, enhanced expression of stress marker proteins (ie, heat shock protein 70), and decreased CNS concentrations of the endogenous antioxidant glutathione (GSH). Blood-brain barrier disruption is also evident via changes in expression of various proteins that can alter BBB function during H/RI. Increased functional expression of the Na-K-Cl cotransporter and decreased activity of Na-K-ATPase (sodium potassium adenosine triphosphatase) are processes that disrupt ion and water balance of the endothelium by increasing sodium, potassium, and water content in the cells. Furthermore, increases in transporters, such as P-glycoprotein (Abcb1) and organic anion–transporting polypeptide 1a4 (Oatp1a4), can influence drug delivery during H/RI (Figure 2).
+
+Structural and functional changes on the endothelial cells of the blood-brain barrier (BBB) during hypoxia/reperfusion (H/RI) injury. Hypoxia (middle) causes an increase in cell volume due to increased functional expression of the Na-K-Cl cotransporter (yellow arrow), water uptake (blue arrow), and actin upregulation (crosshatches). Increased cell volume causes the vascular lumen to shrink reducing cerebral blood flow even further. Although the expression of critical tight junction proteins—ZO-1, ZO-2, occludin, and claudin-1—remain unchanged compared with normal cells (left), there is a significant increase in paracellular permeability (arrows). When the normal blood flow is reintroduced (right), some initial changes, such as Na-K-Cl expression and activity and water permeability, revert back to normal levels, whereas others such as actin are more exacerbated. Increased tight junction protein expression (with exception of claudin-1) helps in regulating paracellular permeability. In addition to these changes, there is a significant upregulation of transporters, including luminal Abcb1 and aluminal/abluminal Oatp1a4 that can affect drug delivery across the BBB during H/RI. Figure is an original and previously unpublished drawing.
+
+This research is focused on improving thrombolytic-oriented therapy by either replacing r-tPA with substances with fewer adverse effects or improving on it using additional compounds such as plasminogen activator inhibitor 1 or apyrase. Discrete biological mechanisms demarcated by increased expression of apoptosis/oxidative stress biomarkers in the brain and/or increasing CNS concentrations of glutamate (ie, excitotoxicity) indicate a potential therapeutic utility of neuroprotective drugs (ie, 3-hydroxy-3-methylglutaryl co-enzyme A [HMG-CoA] reductase inhibitors, NMDA receptor antagonists). Many such drugs have already been tested in preclinical and clinical trials with varying degrees of success. The disparate translational effectiveness of neuroprotective drugs in stroke has been attributed to biological variables (ie, age, sex) and to animal models used in preclinical studies, as well as dosing regimens used in clinical studies. Most trials have focused on calcium and sodium channel blockers, γ-aminobutyric acid agonists and glutamate receptor antagonists, and potassium channel activators, drugs that are all focused on maintaining ion gradients and physiological levels of glutamate. Understanding transporter targeting at the BBB during each stage of H/RI offers a novel approach to attain therapeutic goals of neuroprotection for stroke treatment by achieving free concentrations of drugs in the brain that are pharmacologically effective. Such knowledge can be attained by considering currently marketed drugs with neuroprotective properties that are also known substrates for endogenous BBB transporters (ie, statins, memantine).
+
+Neuroprotective Properties of Statins
+
+Independent of their well-documented effects as cholesterol-lowering drugs, there is increasing evidence that various HMG-CoA reductase inhibitors (ie, statins) exhibit neuroprotective properties. Indeed, such effects have been observed in clinical practice. For example, in a controlled randomized study of 215 hospitalized hemispheric stroke patients, statin withdrawal resulted in a 4.6-fold increase in risk of death or dependency, an 8.67-fold increase in risk of early neurological deterioration, and a 37.63-mL increase in mean infarction volume. Evidence for neuroprotective effects of statins have also been observed in preclinical studies of experimental stroke where treatment with rosuvastatin (0.2, 2, and 20 mg/kg) for 10 days reduced stroke volume by 27%, 56%, and 50%, respectively, in 129/SV WT mice that were subjected to 2-hour middle cerebral artery occlusion (MCAO). In this section, we briefly review neuroprotective effects of statins, which are categorized based on 4 distinct biological mechanisms: (1) reduction in inflammation, (2) attenuation of oxidative stress, (3) inhibition of matrix metalloproteinase 9 (MMP-9) activity, and (4) regulation of nitric oxide synthase activity. An appreciation of how statins can modulate these pathologic processes is critical to assessing their efficacy as neuroprotective agents in the context of ischemic stroke.
+
+Neuronal necrosis, which occurs due to energy (ie, ATP) depletion following impaired oxygen and glucose supply to ischemic brain tissue, is a hallmark of ischemic stroke. Neuronal necrosis induces an inflammatory response that involves peripheral leukocyte infiltration into brain parenchyma and activation of resident microglia. On activation, inflammatory cells release cytokines, which triggers further recruitment of peripheral leukocytes, upregulation of adhesion molecules, and disruption of the BBB. As such, a potential pharmacologic target for both neuroprotection and preservation of BBB integrity are inflammatory mediators that are produced in ischemic brain. Indeed, anti-inflammatory properties of statins have been demonstrated in patients administered simvastatin (5 mg/d for 4 weeks and increased to 10 mg/d for 10 more weeks) where a reduction in plasma concentrations of proinflammatory cytokines (ie, tumor necrosis factor α, interleukin 6) has been reported. These proinflammatory mediators are linked to reduced endothelial function, increased vascular permeability and cellular edema, neuronal ischemia, and ultimately cell death.
+
+Generation of ROS during reperfusion is a critical event that leads to oxidative stress, BBB injury, and cerebral edema. Hydroxyl (OH−) and superoxide (O2−) radicals damage cellular macromolecules, such as lipids, nucleic acids, and proteins, via lipid peroxidation. Using a canine model of Alzheimer’s disease, treatment with high-dose atorvastatin (80 mg/d for 14.5 months) showed upregulation of ROS-scavenging enzymes such as heme oxygenase (HO-1). Increased expression of HO-1 induced an antioxidant defense response evidenced by increased GSH concentration and decreased oxidative cell markers in brain parenchyma, such as 7-ketocholesterol and 4-hydroxynonenal. Clinically, statin-naïve patients who had atherosclerotic stroke were treated with rosuvastatin at a moderate dose of 20 mg/d, and blood samples were collected both prior to treatment and 1 month after treatment. These researchers discovered that serum levels of oxidative stress markers, such as malondialdehyde and oxidized low-density lipoprotein, were significantly reduced by statin treatment, an observation that provides essential evidence in support of antioxidant properties of statins.
+
+Breakdown of cerebral extracellular matrix during ischemic stroke is facilitated, in part, by MMP-9, a proteolytic enzyme that degrades basal lamina, as has been observed 2 hours following MCAO. During ischemic insult, neurons, astrocytes, endothelial cells, and microglia have been shown to express elevated levels of MMP-9, which leads to disruption of the NVU and hemorrhagic transformation. In MMP-9 knockout mice subjected to transient focal ischemia, there was reduced degradation of the critical tight junction protein zonula occluden (ZO)-1, a substrate for MMP, compared with WT mice. Moreover, BBB disruption measured by Evans Blue-albumin leakage was attenuated in MMP-9 knockout mice. Clearly, drugs that can inhibit MMP-9 activity in stroke may have the ability to protect the NVU and, by extension, brain tissue in the setting of stroke. Advancement of drugs with MMP-9 inhibitory properties is particularly critical because r-tPA is known to induce MMP-9 expression in the brain. Indeed, preclinical studies demonstrated that atorvastatin in combination with tPA (ie, 40 mg/kg atorvastatin at 4 hours and 10 mg/kg tPA at 6 hours) following embolic MCAO not only extended the therapeutic window for tPA treatment to 6 hours from the current maximum of 4.5 hours but also significantly decreased tPA-induced upregulation of MMP-9 and reduced incidence of hemorrhagic transformation. This work by Zhang and colleagues is highly significant because it provides, in part, a mechanistic explanation for how statins can improve outcomes in the setting of ischemic stroke.
+
+Nitric oxide (NO) generated from increased inducible nitric oxide synthase (iNOS) activity in astrocytes and macrophages, including its oxidative by-product, peroxynitrite (ONOO−), promotes neuronal death by oxidizing structural proteins. Indeed, MCAO studies in iNOS knockout mice resulted in reduced infarct size and fewer motor deficits compared with WT controls. Conversely, NO produced by endothelial nitric oxide synthase (eNOS) has protective effects at the NVU, including inhibition of leukocyte and platelet adhesion, vasodilation, and maintenance of blood flow to the penumbra. Larger infarct volumes have been reported in eNOS knockout mice when assessed 24 hours post MCAO, compared with the WT strain. Statins have the capability to exert an increase in eNOS activity while decreasing iNOS activity. For example, prophylactic treatment with simvastatin and lovastatin shows upregulation in eNOS in mice, 2 hours after MCAO. In another study, lovastatin showed inhibition of cytokine-induced iNOS upregulation corresponding to reduction in NO production in primary astrocytes from rat cerebral tissue and rat macrophages obtained by peritoneal lavage. Taken together, the ability of statins to target multiple pathophysiological mechanisms (ie, inflammation, oxidative stress, MMP-9 activity, regulation of NO production) suggests that these drugs can act as efficacious neuroprotective agents for treatment of stroke if they are able to successfully permeate the BBB and achieve effective concentrations in the brain.
+
+It is well established that statins can improve clinical outcomes following stroke and, for the most part, are safe drugs where therapeutic benefits outweigh risks. Even at high dosages, less than 1% of patients experience hepatotoxicity as indicated by increased serum levels of transaminases. Another side effect that has been linked to statin use is rhabdomyolysis. In a randomized controlled clinical trial where subjects received 10 to 80 mg/d and were followed for 0.5 to 6.1 years, rhabdomyolysis occurred in only 0.1% of statin-treated patients compared with 0.04% placebo-treated patients. There have been reports of CNS adverse effects associated with statin administration, specifically pertaining to cognitive impairment and memory loss. A review of MedWatch drug surveillance of the FDA conducted from 1997 to 2002 identified 60 patients who had memory loss associated with statins. These patients were prescribed average mean doses of 18 mg simvastatin, 25 mg atorvastatin, and pravastatin (dose not reported). Adverse effects were observed within 2 months of treatment but resolved in most patients when treatment was discontinued. Clearly, such adverse events do not preclude utilization of statins to limit CNS injury and improve clinical outcomes in patients with ischemic stroke.
+
+BBB Transport of Statins
+
+Attempts to develop effective therapeutics that confer neuroprotection in the setting of ischemic stroke have been largely unsuccessful. In many cases, this is due to an inability of neuroprotective drugs to attain efficacious concentrations at their respective molecular targets in the brain. Therefore, understanding mechanisms of BBB transport for currently marketed drugs can provide critical information that may lead to improved development of neuroprotective drugs for stroke treatment. It has been established that OATPs/Oatps, members of the SLC superfamily of membrane transporters, are critical drug uptake transporters at the BBB. The SLC superfamily lists 52 distinctive families with nearly 400 unique transporter genes in the human genome. These are all either passive (ie, transporting solutes in the direction of the electrochemical gradient) or secondary and tertiary active transporters (ie, relying on gradients established, respectively, by primary and secondary transporters to shuttle substrates against the gradient). Regardless of the nature of transport, SLC members exhibit different specificities and affinities for a wide assortment of structurally diverse substrates. As discussed below, BBB transport properties associated with Oatp-mediated transport of statins can inform development of improved approaches and/or discovery of novel drugs for use in treatment of ischemic stroke.
+
+In situ hybridization histochemistry and immunofluorescence microscopic analyses in rats have shown expression and/or localization of Oatp1a4 in brain microvasculature at the luminal and abluminal membranes of the capillary endothelial cell. Similarly, the human orthologue of Oatp1a4, designated OATP1A2, has also been detected in brain microvasculature. Both OATP1A2 and Oatp1a4 are sodium-independent transporters that rely on the concentration gradient of the transport substrate across the membrane to facilitate movement of drugs. Evidence for Oatp-mediated drug uptake has been demonstrated in Oatp1a4 knockout mice, where significantly lower levels of blood-to-brain transport of pitavastatin and rosuvastatin were observed compared with WT controls. In another preclinical study, CNS uptake of Oatp1a4 substrates (ie, taurocholate, [D-penicillamine(2,5)]-enkephalin (DPDPE)) was blocked in the presence of Oatp1a4 inhibitors such as estrone-3-sulfate, fexofenadine, and digoxin. Indeed, efficient delivery of statins to the brain for neuroprotection requires Oatp-mediated uptake transport. Our laboratory has demonstrated that increased CNS uptake of atorvastatin (20 mg/kg) via Oatp1a4 leads to neuroprotection following H/R stress as demarcated by attenuation of PARP cleavage. An increase in CNS expression of cleaved PARP protein is an established biomarker of neuronal apoptosis. Indeed, targeting Oatp transporters at the BBB provides an opportunity to deliver drugs to the brain at doses efficacious for neuroprotection and may prove to be a strategy that is translationally effective.
+
+To optimize delivery of statins across the BBB, functional expression of Oatp1a4 must be precisely regulated. This can be achieved by targeting transforming growth factor β (TGF-β) signaling. Briefly, cytokines from the TGF-β family bind type I serine/threonine kinase receptors (ie, activin receptor–like kinase [ALKs]) and recruit type II receptors to form a heterotetrameric complex (Figure 3). On assembly of the heterotetrameric complex, the signal propagates intracellularly via phosphorylation of small signal-transducing proteins known as Smads, subsequently forming a complex with the common Smad (ie, Smad4) and translocating into the nucleus. Once in the nucleus, the Smad complex functions as a transcription factor and activates transcription of target genes. Our laboratory has demonstrated that pharmacologic inhibition of ALK-5 using the selective antagonist SB431542 increases functional expression of Oatp1a4. Furthermore, treatment of rats with the ALK-1 agonist, bone morphogenetic protein (BMP)-9, also increases expression of Oatp1a4 at the BBB. Specifically, 6 hours of treatment with a pharmacologic dose of BMP-9 increases expression of Oatp1a4 as determined by Western blot analysis in isolated brain microvessels (Abdullahi and Ronaldson, 2016). Taken together, targeting TGF-β signaling, either by inhibition of ALK-5 or by activation of ALK-1, provides discrete molecular targets for controlling functional expression of Oatp1a4 in brain capillary endothelial cells. Indeed, targeting TGF-β signaling at the BBB provides a mechanism-based approach that can lead to improved CNS drug delivery.
+
+The TGF-β signaling pathway: at the blood-brain barrier, TGF-β signaling is mediated by 2 distinct receptors designated activin receptor–like kinase 1 (ALK-1) and ALK-5. Activation of ALK-1 by binding of BMP-9 triggers phosphorylation of Smads 1, 5, and 8, whereas activation of ALK-5 via TGF-β triggers phosphorylation of Smads 2 and 3. Once phosphorylated, these Smad signal-transducing proteins bind to the common Smad (ie, Smad4) and form a complex that translocates into the nucleus and regulate transcription of target genes. TF indicates transcription factor; TGF-β, transforming growth factor β. Figure is an original and previously unpublished drawing.
+
+Neuroprotective Properties of Memantine
+
+Statins are not the only currently marketed drugs that are both established BBB transport substrates and have the ability to exert neuroprotective effects in the CNS. Other classes of drugs that meet both of these criteria include therapeutic agents designed to target excitotoxicity. During the ischemic cascade, energy depletion occurs due to impaired glucose and oxygen delivery to the CNS and can lead to cellular influx of cations in affected brain regions. Uncontrolled influx of Ca2+ into neurons from brain extracellular fluid triggers release of glutamate, which is excitotoxic at high concentrations and can lead to neuronal cell death and development of an infarction. One potential approach to enable achievement of neuroprotection is to limit deleterious consequences of excitoxicity by targeting the NMDA receptor with pharmacological inhibitors following ischemic insult. This approach aims to reduce excitatory effects of elevated glutamate concentrations in ischemic brain tissue. An example of a clinically approved NMDA receptor antagonist is memantine (1-amino-3,5-dimethyladamantane), which is sometimes included in therapeutic regimens for treatment of ischemic stroke. Memantine has a unique advantage over other NMDA antagonists due to its fast on/off kinetics, low to moderate affinity for NMDA receptors, and its ability to attenuate excessive glutamate release without interfering with basal/physiological activation of NMDA receptors. It also reduces potential for cognitive impairment and memory loss that can occur when physiological activation of NMDA receptors is hindered, an effect that underscores the usefulness of memantine as a stroke therapeutic.
+
+In addition to advantages described above, memantine has been observed to confer neuroprotection in various preclinical studies. The first study to observe neuroprotective effects of memantine was conducted in neurons derived from chick embryo retinal tissue. In this study, cultured neurons were exposed to hypoxic insult for 30 minutes by adding NaCN in the presence of memantine (0-10 µM) and allowed to recover for 3 days. Neuroprotection was assessed via improvement in cell viability. This study elegantly showed that memantine increased cell viability under hypoxic conditions in a dose-dependent manner. In another study, 24 hours of pretreatment with memantine significantly reduced striatal and striatocortical lesions in mice subjected to transient MCAO. The reduced lesion volume correlated with improved behavioral scores at 24 hours after MCAO. More recently, mice treated chronically with memantine had improved outcomes following photothrombotic stroke as determined by the cylinder test to assess limb preference and the grid-walking test to measure motor coordination. It should be pointed out that photothrombotic stroke models typically produce early vasogenic edema that is not characteristic of human stroke and, therefore, are not an appropriate model for studies designed to measure efficacy of neuroprotective drugs. In contrast, data from MCAO studies provide encouraging evidence regarding efficacy of memantine as a neuroprotective drug.
+
+BBB Transport of Memantine
+
+Similar to Oatp-mediated transport of statins, a thorough comprehension of BBB transport properties of memantine can advance utilization of this therapeutic for neuroprotection in stroke. Memantine is a small molecule that can cross membranes by passive transcellular diffusion; however, it is predominantly positively charged at physiological pH as demarcated by a pKa of 10.27. The consensus is that memantine requires a specific transport mechanism to traverse biological membranes, including the brain microvascular endothelium. At present, transport properties of memantine at the BBB have not been fully elucidated; however, memantine has been reported to be a substrate for proton-coupled transport systems, such as organic cation transporter (OCT) 1 and 2, members of the SLC22 family of transporters. Confocal microscopy studies in human and rat brain microvessel endothelial cells (BMECs) demonstrated expression of OCT 1 and OCT 2 at the BBB, with localization primarily at the luminal membrane. Furthermore, Western blot analysis on isolated luminal and abluminal membrane fractions of BMECs showed expression of OCT 1 and 2 at the BBB. A recent study demonstrated that memantine uptake via in situ transcardiac perfusion in Swiss outbred mice was not dependent on transmembrane electrochemical potential (ie, changes in K+ concentration in the perfusate), which is a characteristic of OCT 1-3 mediated transport. In addition, memantine uptake was increased in the presence of an enhanced outwardly directed proton gradient. The only known proton-coupled subclass of cation transporters is the organic cation/carnitine transporter (OCTN) 1. In another study using an immortalized human brain endothelial cell line, uptake of memantine was not inhibited by ergothioneine, an OCTN1 substrate. Indeed, the exact mechanism of memantine transport across the BBB requires more extensive research; however, therapeutic targeting of memantine to the CNS via OCT-dependent drug delivery may prove to be an effective mechanism to enhance the utility of this neuroprotective drug in ischemic stroke therapy.
+
+BBB Protection in Ischemic Stroke
+
+Ischemic stroke is an amalgamation of a neuronal disease and a vascular disorder. Central to the pathophysiology of ischemic stroke is the NVU. Cell-to-cell interactions and signaling occur in a coordinated manner between the multiple cell types and matrix constituents that comprise the NVU, events that lead to BBB dysfunction. Unquestionably, BBB permeabilization enables blood-borne substances that are normally restricted, such as excitatory amino acids, kinins, prostaglandins, metals, and proteins, to enter the brain. Pharmacologic interventions aimed at BBB preservation can prevent exacerbation of brain tissue damage and promote stroke recovery. Furthermore, consequences of increased BBB permeability following ischemic stroke are not limited to endogenous substances. Blood-brain barrier dysfunction can lead to uncontrolled leak of exogenous xenobiotics, including drugs, into brain parenchyma. Clearly, the BBB is an emerging therapeutic target in ischemic stroke. Preservation of BBB physiology is critical to maximize stroke recovery and to provide optimal CNS delivery of drugs, such as statins and memantine. Achievement of this therapeutic goal requires identification and characterization of discrete molecular targets such as transporters that can be exploited to limit BBB dysfunction in the setting of stroke.
+
+Oxidative stress injury secondary to reperfusion is a critical process that leads to BBB dysfunction. Reperfusion (and restoration of oxygen supply) results in the production of reactive oxygen and nitrogen species, such as superoxide, NO, and peroxynitrite, within the endothelium, thereby leading to oxidative stress. Oxidative stress in excess of the endothelial cell’s antioxidant capacity leads to alterations in organization and localization of tight junction proteins and contributes to endothelial dysfunction and increased BBB permeability. Indeed, such endothelial dysfunction permits movement of water and circulating proteins into brain parenchyma. In an in vivo global hypoxia-reoxygenation model, which models a component of stroke, oxidative stress due to reoxygenation caused changes in both the structure and localization of occludin oligomeric assemblies at the tight junction and led to increased permeability of the BBB to [C]-sucrose. Sucrose is a vascular marker that does not permeate the BBB under normal physiological conditions. Clinically, such BBB changes are evident in patients with stroke 3 to 4 hours following stroke onset. Vasogenic edema following ischemia/reperfusion is a consequence of BBB disruption due to phasic tight junction disruption and MMP-9 activity and leads to extravasation of fluid and plasma proteins into brain parenchyma. Fluid accumulates in the extracellular space, causing an increase in brain volume and intracranial pressure. These multiple deleterious effects at the brain microvascular endothelium indicate that targeting oxidative stress is a viable approach that can reduce BBB injury in the setting of ischemic stroke.
+
+The therapeutic goal of reducing oxidative stress at the BBB following stroke can be accomplished by preserving redox balance in brain microvascular endothelial cells. Such an objective can be achieved using drugs with antioxidant properties. For example, 4-hydroxy-2,2,6,6-tetramethylpiperidine-N-oxyl (TEMPOL), an established scavenger of ROS, has been reported to attenuate oxidative stress–induced BBB permeability increases in female Sprague-Dawley rats. Statins, discussed above in the context of neuroprotection, may exert antioxidant effects and thus provide similar benefits to the brain vasculature. Indeed, preclinical studies have demonstrated that atorvastatin (10-20 mg/kg/d) preserved endothelial cell function as well as patency of the microvascular network via reduction of inflammation and oxidative stress secondary to ischemic injury. Ascorbic acid (500 mg/kg) reduced BBB permeability to Evans Blue-albumin in a rat model of delayed r-tPA administration following MCAO. Ascorbic acid and dehydroascorbic acid have shown promise as neurovascular protectants in preclinical experiments but do not appear to show similar benefits in humans. These differences may be due to the higher human equivalent doses of ascorbic acid/dehydroascorbic acid used in preclinical studies (compared with clinical dose levels). In addition, use of young, healthy experimental animals does not account for biological variables (ie, age, comorbidities) that affect stroke therapy, leading to poor translation of preclinical data to human studies.
+
+Preserving the antioxidant defense system of the endothelial cell via maintenance of intracellular levels of the endogenous cellular antioxidant GSH presents a novel opportunity to confer BBB protection. Glutathione is a vital component of the antioxidant defense system and is oxidized to glutathione disulfide (GSSG) under conditions of oxidative stress. In vitro studies show that hypoxia reduces levels of GSH and decreases the ratio of GSH:GSSG, a marker of the redox state of the cell, indicating oxidative stress. In vivo studies of vessel occlusion show a decrease in cerebral GSH content following reperfusion. Glutathione depletion results in increased BBB permeability to [C]-sucrose and sodium fluorescein, but not Evans Blue-albumin or horseradish peroxidase, in adult male rats. Although this does not reflect large-scale BBB disruption, this leak may be clinically significant by permitting increased paracellular transport of potentially toxic small molecules. Maintenance of endothelial redox status can be accomplished by pharmacologic inhibition of multidrug resistance proteins (MRPs/Mrps) at the BBB. Mrps are efflux transporters in the ABC family that primarily transport organic anions and various metabolites. Glutathione, GSH conjugates, and GSSG are known substrates for Mrp 1, 2, and 4. In studies of primary cultures of rat astrocytes subjected to oxidative stress, GSH export can be blocked using the established Mrp 1/2 inhibitor MK571. Pathologic conditions associated with ischemic stroke can also modulate functional expression of Mrp isoforms. For example, hypoxic stress induced by hydralazine, a currently marketed drug that promotes hypoxia-inducible factor 1α signaling, induces expression and activity of Mrp1 in mouse brain endothelial cells. Experimental oxidative stress also increased Mrp1-mediated transport activity in glial cells in vitro. Although not directly studied in preclinical stroke models, these observations point toward a biological mechanism that can be targeted to preserve endothelial GSH levels and provide vascular protection in the setting of ischemic stroke.
+
+Expression and localization of Mrp isoforms at the BBB are species dependent and remain highly controversial. Mrp1 is thought to be primarily localized to the abluminal plasma membrane in brain microvascular endothelial cells in rodents, but at the luminal membrane in humans. Mrp4 has been detected on the luminal surface of the BBB in rat; however, abluminal expression has not been confirmed. Based on quantitative polymerase chain reaction and proteomic analysis, MRP4 is the most abundant of the 3 GSH-transporting isoforms in human brain microvessels. Mrp2 is likely localized to the luminal aspect of the BBB, but several studies have failed to detect Mrp2 at the protein level. This may be due to low basal expression of Mrp2, which may be upregulated in response to cellular stressors such as oxidative stress. In mice, there are notable differences in Mrp expression between strains and between vessels of different diameters. For example, Friend virus B (FVB) mice appear to lack Mrp2 in brain vessels, but it is present in C57BL/6 and Swiss mice. This same study also showed that Mrp1 is most abundant in vessels 20 to 50 µm in diameter. To effectively target Mrp isoforms, further study on regulation and expression of Mrps at the BBB following stroke is critical.
+
+One pathway that regulates Mrps and, by extension, BBB permeability in response to oxidative stress is signaling mediated by nuclear factor E2–related factor (Nrf2). Nrf2 is normally inactive in the cytoplasm and rapidly degraded by its association with Kelch-like ECH-associated protein 1 (Keap1). Under conditions of oxidative stress, Keap1 dissociates, allowing Nrf2 to translocate to the nucleus and initiate transcription of genes containing an antioxidant response element. Nrf2 activation has been shown to induce expression of Mrp1, Mrp2, and Mrp4 at the BBB as well as in other tissues. Nrf2 activation, resulting in increased expression of these Mrp isoforms, may therefore contribute to oxidative stress at the brain microvascular endothelium by increasing GSH efflux. Activation of the Nrf2 pathway in endothelial cells is often considered BBB protective. For example, pretreatment with sulforaphane, an Nrf2 activator, has been shown to reduce IgG, a large molecule that permeates the BBB under pathologic conditions, present in brain tissue in a rat MCAO model. These protective effects may be related to the timing of sulforaphane treatment relative to arterial occlusion and reperfusion. Modulation, rather than inhibition, of Nrf2 signaling is desirable for BBB protection because other targets of Nrf2—those involved in the synthesis and metabolism of GSH, for example—have protective functions in the context of ischemia and reperfusion.
+
+Conclusions
+
+Stroke is one of the most significant causes of morbidity and mortality in the United States. A particular concern is the lack of viable treatment options as evidenced by only a single FDA-approved drug for ischemic stroke treatment (ie, r-tPA). Although restoring normal blood flow to infarcted brain tissue is absolutely critical, adverse events associated with r-tPA treatment are numerous and can even promote neurological and vascular damage, thus increasing the magnitude of poststroke neurological injury. This research points to beneficial effects of various drugs with neuroprotective properties, such as statins and memantine. However, CNS delivery of these compounds is greatly restricted by the BBB. Therefore, it is necessary to discern localization and functional properties of transporters responsible for enabling drugs to permeate the BBB and access molecular targets in brain parenchyma. Data from studies with statins and memantine indicate that Oatps and Octs represent transporter targets that can facilitate effective CNS drug delivery. Indeed, future development of novel approaches to treat ischemic stroke with neuroprotective drugs will depend on an improved understanding of BBB transport mechanisms, which will enable the ability of such therapeutics to achieve effective concentrations in the brain. Information derived from BBB transport studies can also be extended to inform discovery of new drugs to treat ischemic stroke. An examination of the chemical properties of statins and memantine that enable these therapeutic agents to be effectively transported by Oatps or Octs can inform direct structure-based drug design of novel therapeutics that are both effective neuroprotectants and good substrates for endogenous BBB uptake transporters. The goal of achieving effective CNS delivery of neuroprotective drugs via transporters must also consider that the BBB itself is damaged by ischemic stroke. Indeed, there is also an essential need for drugs that can exert protective effects on the brain microvasculature by attenuating endothelial dysfunction that is well known to occur in the setting of stroke. One approach that can provide such a benefit is inhibiting Mrp-mediated transport at the BBB, which will limit loss of GSH by endothelial cells, preserve redox balance, and reduce BBB disruption. Achieving the goal of BBB protection in stroke via generation of novel Mrp transport inhibitors will undoubtedly reduce stroke mortality and improve recovery following stroke. Blood-brain barrier protection via pharmacologic Mrp inhibition also offers an opportunity to provide more precise CNS delivery of neuroprotective drugs in the setting of stroke. Overall, endogenous transporters at the brain microvascular endothelium must be studied in detail to discern the optimal time course and the most effective routes of administration for neuroprotective drugs and vascular protective agents. Furthermore, a consideration of those biological variables (ie, age, sex) that affect stroke outcomes should be incorporated into future experimentation to develop a better understanding of BBB transport mechanisms and ultimately improved strategies for pharmacologic treatment of ischemic stroke.
+
+Peer review:Four peer reviewers contributed to the peer review report. Reviewers’ reports totaled 581 words, excluding any confidential comments to the academic editor.
+
+Funding:The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by a grant from the National Institutes of Health (R01-NS084941) to P.T.R. W.A. is supported by a predoctoral appointment to a National Institutes of Health Training Grant (T32-HL07244).
+
+Declaration of conflicting interests:The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Author Contributions: All authors contributed equally to the preparation of this manuscript.
+
+References
+
+Heart disease and stroke statistics—2015 update: a report from the American Heart Association
+
+The impact of gender on stroke pathology and treatment
+
+Stroke incidence, case fatality, and mortality in the WHO MONICA project. World Health Organization Monitoring Trends and Determinants in Cardiovascular Disease
+
+Heart disease and stroke statistics—2008 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee
+
+Targeting ischemic penumbra: part I—from pathophysiology to therapeutic strategy
+
+Thresholds in cerebral ischemia—the ischemic penumbra
+
+Ischemic core and penumbra in human stroke
+
+Acute ischemic stroke: time, penumbra, and reperfusion
+
+Reperfusion injury following cerebral ischemia: pathophysiology, MR imaging, and potential therapies
+
+Ischemia-reperfusion injury in stroke
+
+Ischemia and reperfusion—from mechanism to translation
+
+Drug transport in the brain
+
+The blood-brain barrier: an overview: structure, regulation, and clinical implications
+
+Delivery of therapeutic agents to the central nervous system: the problems and the possibilities
+
+Drug transport across the blood-brain barrier
+
+Approaches to transport therapeutic drugs across the blood-brain barrier to treat brain diseases
+
+Drug transporters in the central nervous system: brain barriers and brain parenchyma considerations
+
+Drug transporters in the central nervous system
+
+Induction of P-glycoprotein expression in astrocytes following intracerebroventricular kainate injections
+
+Functional expression of P-glycoprotein in rat brain microglia
+
+Functional expression of the multidrug resistance protein 1 in microglia
+
+Protein transfer at the blood cerebrospinal fluid barrier and the quantitation of the humoral immune response within the central nervous system
+
+The blood–cerebrospinal fluid barrier: structure and functional significance
+
+The neurotoxicity of tissue plasminogen activator?
+
+Tissue plasminogen activator (tPA) and matrix metalloproteinases in the pathogenesis of stroke: therapeutic strategies
+
+Cost-effectiveness of recombinant tissue-type plasminogen activator within 3 hours of acute ischemic stroke: current evidence
+
+Tissue plasminogen activator (tPA) increases neuronal damage after focal cerebral ischemia in wild-type and tPA-deficient mice
+
+Laminin chain expression suggests that laminin-10 is a major isoform in the mouse hippocampus and is degraded by the tissue plasminogen activator/plasmin protease cascade during excitotoxic injury
+
+tPA and proteolysis in the neurovascular unit
+
+The contribution of protease-activated receptor 1 to neuronal damage caused by transient focal cerebral ischemia
+
+The proteolytic activity of tissue-plasminogen activator enhances NMDA receptor-mediated signaling
+
+Targeting transporters: promoting blood-brain barrier repair in response to oxidative stress injury
+
+Hypoxia/reoxygenation stress signals an increase in organic anion transporting polypeptide 1a4 (Oatp1a4) at the blood-brain barrier: relevance to CNS drug delivery
+
+Diversity of neurodegenerative processes in the model of brain cortex tissue ischemia
+
+Altered lipid metabolism in brain injury and disorders
+
+Oxidative stress is involved in the permeabilization of the inner membrane of brain mitochondria exposed to hypoxia/reoxygenation and low micromolar Ca2+
+
+Oxidative stress increases blood-brain barrier permeability and induces alterations in occludin during hypoxia-reoxygenation
+
+Drug delivery to the ischemic brain
+
+Clinical trials with drugs targeting ionic channels, antiporters, and pumps in ischemic stroke
+
+Transporters at CNS barrier sites: obstacles or opportunities for drug delivery?
+
+Targets of cytoprotection in acute ischemic stroke: present and future
+
+Cerebral microvascular changes in permeability and tight junctions induced by hypoxia-reoxygenation
+
+Hypoxia effects on cell volume and ion uptake of cerebral microvascular endothelial cells
+
+P-glycoprotein expression in immortalised rat brain endothelial cells: comparisons following exogenously applied hydrogen peroxide and after hypoxia-reoxygenation
+
+Blood-brain barrier, reperfusion injury, and hemorrhagic transformation in acute ischemic stroke
+
+Combination treatment of r-tPA and an optimized human apyrase reduces mortality rate and hemorrhagic transformation 6h after ischemic stroke in aged female rats
+
+Apoptosis: future targets for neuroprotective strategies
+
+Vascular protection in brain ischemia
+
+Statin treatment withdrawal in ischemic stroke: a controlled randomized study
+
+Rosuvastatin, a new HMG-CoA reductase inhibitor, upregulates endothelial nitric oxide synthase and protects from ischemic stroke in mice
+
+Statins as potentially neuroprotective agents: a review
+
+Targets for vascular protection after acute ischemic stroke
+
+Atorvastatin treatment in a dog preclinical model of Alzheimer’s disease leads to up-regulation of haem oxygenase-1 and is associated with reduced oxidative stress in brain
+
+Mmp-9 inhibition: a therapeutic strategy in ischemic stroke
+
+Effects of matrix metalloproteinase-9 gene knock-out on the proteolysis of blood-brain barrier and white matter components after cerebral ischemia
+
+Atorvastatin extends the therapeutic window for tPA to 6 h after the onset of embolic stroke in rats
+
+Neuroprotective properties of statins in cerebral ischemia and stroke
+
+Inflammation and acute stroke
+
+The inflammatory response in stroke
+
+Free radicals as triggers of brain edema formation after stroke
+
+Antioxidant effects of statins in patients with atherosclerotic cerebrovascular disease
+
+Matrix metalloproteinases increase very early during experimental focal cerebral ischemia
+
+Inflammatory mechanisms in ischemic stroke: therapeutic approaches
+
+Delayed reduction of ischemic brain injury and neurological deficits in mice lacking the inducible nitric oxide synthase gene
+
+Enlarged infarcts in endothelial nitric oxide synthase knockout mice are attenuated by nitro-L-arginine
+
+Lovastatin and phenylacetate inhibit the induction of nitric oxide synthase and cytokines in rat primary astrocytes, microglia, and macrophages
+
+Statins: mechanisms of neuroprotection
+
+Statin-associated side effects
+
+Statin-associated memory loss: analysis of 60 case reports and review of the literature
+
+The ABCs of membrane transporters in health and disease (SLC series): introduction
+
+SLC transporters as therapeutic targets: emerging opportunities
+
+Memantine transport by a proton-coupled organic cation antiporter in hCMEC/D3 cells, an in vitro human blood-brain barrier model
+
+Localization of the organic anion transporting polypeptide 2 (Oatp2) in capillary endothelium and choroid plexus epithelium of rat brain
+
+Organic anion-transporting polypeptides mediate transport of opioid peptides across blood-brain barrier
+
+Inflammatory pain signals an increase in functional expression of organic anion transporting polypeptide 1a4 at the blood-brain barrier
+
+Targeted drug delivery to treat pain and cerebral hypoxia
+
+Occludin oligomeric assemblies at tight junctions of the blood-brain barrier are altered by hypoxia and reoxygenation stress
+
+The dichotomy of memantine treatment for ischemic stroke: dose-dependent protective and detrimental effects
+
+Amantadine and memantine are NMDA receptor antagonists with neuroprotective properties
+
+Neuroprotective effect of memantine demonstrated in vivo and in vitro
+
+Memantine enhances recovery from stroke
+
+Memantine transport across the mouse blood-brain barrier is mediated by a cationic influx H+ antiporter
+
+Cellular localization of the organic cation transporters, OCT1 and OCT2, in brain microvessel endothelial cells and its implication for MPTP transport across the blood-brain barrier and MPTP-induced dopaminergic toxicity in rodents
+
+Transporters: importance in drug absorption, distribution, and removal
+
+Inducible nitric oxide synthase in neutrophils and endothelium contributes to ischemic brain injury in mice
+
+Blood-brain barrier tight junction permeability and ischemic stroke
+
+Biochemical markers for blood-brain barrier dysfunction in acute ischemic stroke correlate with evolution and outcome
+
+Effects of hypoxia-reoxygenation on rat blood-brain barrier permeability and tight junctional protein expression
+
+Early blood brain barrier changes in acute ischemic stroke: a sequential MRI study
+
+Pathogenesis of brain edema and investigation into anti-edema drugs
+
+Reoxygenation stress on blood-brain barrier paracellular permeability and edema in the rat
+
+Tempol modulates changes in xenobiotic permeability and occludin oligomeric assemblies at the blood-brain barrier during inflammatory pain
+
+Drug repurposing for vascular protection after acute ischemic stroke
+
+Early treatment with atorvastatin exerts parenchymal and vascular protective effects in experimental cerebral ischaemia
+
+Ascorbic acid reduces the adverse effects of delayed administration of tissue plasminogen activator in a rat stroke model
+
+Dehydroascorbic acid, a blood-brain barrier transportable form of vitamin C, mediates potent cerebroprotection in experimental stroke
+
+Dehydroascorbic acid attenuates ischemic brain edema and neurotoxicity in cerebral ischemia: an in vivo study
+
+Influence of vitamin C on markers of oxidative stress in the earliest period of ischemic stroke
+
+A cerebroprotective dose of intravenous citrate/sorbitol-stabilized dehydroascorbic acid is correlated with increased cerebral ascorbic acid and inhibited lipid peroxidation after murine reperfused stroke
+
+Glutathione in cerebral microvascular endothelial biology and pathobiology: implications for brain homeostasis
+
+Involvement of oxidative stress in hypoxia-induced blood-brain barrier breakdown
+
+Temporal profiles of the levels of endogenous antioxidants after four-vessel occlusion in rats
+
+Potential role of cerebral glutathione in the maintenance of blood-brain barrier integrity in rat
+
+Multidrug resistance protein 1-mediated export of glutathione and glutathione disulfide from brain astrocytes
+
+The multidrug resistance protein MRP1 mediates the release of glutathione disulfide from rat astrocytes during oxidative stress
+
+Substrate specificity of human ABCC4 (MRP4)-mediated cotransport of bile acids and reduced glutathione
+
+Canalicular multispecific organic anion transporter/multidrug resistance protein 2 mediates low-affinity transport of reduced glutathione
+
+The leukotriene LTD4 receptor antagonist MK571 specifically modulates MRP associated multidrug resistance
+
+HIV-1 viral envelope glycoprotein gp120 produces oxidative stress and regulates the functional expression of multidrug resistance protein-1 (Mrp1) in glial cells
+
+Hypoxic stress induced by hydralazine leads to a loss of blood-brain barrier integrity and an increase in efflux transporter activity
+
+Regulation of ABC transporters at the blood-brain barrier
+
+Subcellular localization of transporters along the rat blood-brain barrier and blood-cerebral-spinal fluid barrier by in vivo biotinylation
+
+Expression and immunolocalization of the multidrug resistance proteins, MRP1-MRP6 (ABCC1-ABCC6), in human brain
+
+Transcriptomic and quantitative proteomic analysis of transporters and drug metabolizing enzymes in freshly isolated human brain microvessels
+
+Quantitative targeted absolute proteomics of human blood-brain barrier transporters and receptors
+
+Expression of drug transporters at the blood-brain barrier using an optimized isolated rat brain microvessel strategy
+
+Coordinated nuclear receptor regulation of the efflux transporter, Mrp2, and the phase-II metabolizing enzyme, GSTpi, at the blood-brain barrier
+
+Glutamate-mediated upregulation of the multidrug resistance protein 2 in porcine and human brain capillaries
+
+Differential, strain-specific cellular and subcellular distribution of multidrug transporters in murine choroid plexus and blood-brain barrier
+
+The Keap1-Nrf2 cell defense pathway—a promising therapeutic target?
+
+Nrf2 upregulates ATP binding cassette transporter expression and activity at the blood-brain and blood-spinal cord barriers
+
+Induction of Mrp3 and Mrp4 transporters during acetaminophen hepatotoxicity is dependent on Nrf2
+
+Oxidative and electrophilic stress induces multidrug resistance-associated protein transporters via the nuclear factor-E2-related factor-2 transcriptional pathway
+
+Sulforaphane preconditioning of the Nrf2/HO-1 defense pathway protects the cerebral vasculature against blood-brain barrier disruption and neurological deficits in stroke

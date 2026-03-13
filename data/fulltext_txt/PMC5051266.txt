@@ -1,0 +1,421 @@
+Targeting receptor-mediated transport for delivery of biologics across the blood-brain barrier
+
+Biologics are an emerging class of medicines with substantial promise to treat neurological disorders such as Alzheimer’s disease, stroke and multiple sclerosis. However, the blood-brain barrier (BBB) presents a formidable obstacle that appreciably limits brain uptake and hence, therapeutic potential, of biologics following intravenous administration. One promising strategy for overcoming the BBB to deliver biologics is the targeting of endogenous receptor-mediated transport (RMT) systems that employ vesicular trafficking to transport ligands across the BBB endothelium. If a biologic is modified with an appropriate targeting ligand, it can gain improved access to the brain via RMT. Various RMT targeting strategies have been developed over the past 20 years, and this review will explore exciting recent advances, with a particular emphasis on those studies showing brain targeting in vivo.
+
+Introduction
+
+Biologics including monoclonal antibodies (mAbs), recombinant enzymes, and gene therapies have been developed to treat disorders of the central nervous system (CNS). However, the full promise of these therapies has yet to be realized due to the poor ability of biologics to cross the blood-brain barrier (BBB) and enter the brain to a substantial extent after intravenous (iv) administration. The BBB comprises specialized endothelial cells (ECs) that line the brain vasculature and possess properties such as continuous tight junctions (TJs), lack of fenestrae, low levels of pinocytotic uptake, and efflux transporter expression. The combination of these distinctive barrier properties renders the BBB poorly penetrable to the majority of both small and large molecule drugs. As a result, identifying routes for non-invasive brain drug delivery and developing targeting strategies to ferry biologics into the brain has been a research arena of growing importance. There are approximately 100 billion capillaries in the human brain, with an inter-vessel distance of around 40 μm, and a total drug transport surface area of ~20m2. Because of the high vascular density, brain cells are readily accessible to circulating drugs provided that they can cross the BBB. Below, we describe the general non-invasive trans-endothelial routes available for crossing the BBB and motivate the potential delivery utility of RMT systems.
+
+Receptor-mediated transport at the BBB
+
+The development of effective strategies to transport biologics to the brain can be informed by an understanding of the endogenous transport systems employed at the BBB to shuttle nutrients, metabolites, and proteins between the blood and the brain. The major molecular transport routes at the BBB are illustrated in Figure 1. Paracellular diffusion is effectively eliminated by TJs and therefore is not an appropriate target for biologic delivery in the absence of TJ disruption (Figure 1a). Carrier-mediated transport (CMT) is used to shuttle hydrophilic small molecule nutrients such as glucose and amino acids (Figure 1b). CMT tends to be size and stereo-selective and has been used to shuttle small molecule drugs to the brain via linkage of the drug to the natural CMT ligand, but has not been successfully used for transport of large molecule biologics. Lipophilic small molecules less than 600 kDa can readily diffuse across the endothelial plasma membrane (PM). However, efflux pumps such as p-glycoprotein (P-gp), breast cancer resistance protein (BCRP), and multidrug resistance protein-1 (MRP-1) located at the apical (blood-facing) PM of ECs recognize many lipophilic compounds and efflux them back into the blood (Figure 1c). While efflux pumps such as P-gp are implicated in the transport of small peptide fragments like amyloid-β (Aβ), the polarization in the brain-to-blood direction is not helpful for biologic delivery. Adsorptive-mediated transport (AMT) occurs when cationic serum proteins interact with negatively charged domains on the apical PM triggering endocytosis into the EC, subsequent vesicular transport within the cell, and eventual release into the brain (Figure 1d). While this method has been used to ferry a range of cationized proteins into the brain, it is inherently non-specific and therefore may not be an ideal drug delivery target. Finally, receptor-mediated transport (RMT) uses the vesicular trafficking machinery of brain ECs to deliver a range of proteins including transferrin, insulin, leptin, and lipoproteins to the brain (Figure 1e). The RMT process involves four key steps (Figure 2a). First, a circulating ligand binds to a cognate transmembrane receptor expressed on the apical plasma membrane (e.g. transferrin binds the transferrin receptor) (Figure 2ai). Next, endocytosis takes place via membrane invagination and eventual formation of an intracellular vesicle containing receptor-ligand complexes (Figure 2aii). Once inside the cell vesicular trafficking occurs whereby the vesicle can be routed to various final destinations (Figure 2aiii–v). In the case of transcytosis, the vesicle is shuttled to the basolateral (brain side) PM and exocytosis occurs, releasing the vesicle’s contents into the brain parenchyma (Figure 2aiv). RMT is an attractive route for delivery of biologics to the brain since this vesicle-based mechanism allows for transport of a wide range of endogenous proteins; from uniform proteins like transferrin (~80 kDa) to large heterogeneous molecules such as lipoproteins (up to 80 nm in diameter).
+
+Targeting biologics to the brain via RMT
+
+The general strategy employed to deliver biologics into the brain via RMT was developed in the early 1990’s and involves the conjugation of a receptor-targeting moiety with the therapeutic of interest. The targeting moiety could be the endogenous RMT ligand, a peptide ligand mimic, or an anti-receptor antibody. Upon iv administration, at least a portion of the RMT-targeted therapeutic enters the brain by RMT (Figure 2a). The RMT approach has been adapted to the delivery of many different biologics including monoclonal antibodies, recombinant proteins, RNA, DNA, and nanomedicines. The method of coupling the biologic to the RMT targeting moiety is a key aspect of this strategy (reviewed extensively in ref.) and merits brief mention here. Broadly, there are two options for the formulation of RMT-targeting biologics. In the first approach, the RMT targeting moiety and biologic can be directly tethered together by chemical linkage, e.g. streptavidin/biotin linkage, or construction of a fusion protein. The second approach involves the formulation of liposomes or polymeric nanoparticles decorated with RMT targeting ligands, and loaded with the biologic of interest.
+
+While first introduced over 20 years ago, RMT-based drug delivery has recently gained increased visibility in academic and pharmaceutical company settings as a viable method to treat CNS disorders. This review will first discuss the most well-studied BBB RMT targets with a focus on the latest studies as earlier work with these systems has been reviewed elsewhere. Next, novel alternative RMT targeting vectors will be introduced. Finally, significant attention will be paid to recent studies demonstrating the ability to engineer binding properties of RMT targeting vectors in order to attain improved intracellular trafficking and transcytosis across the BBB.
+
+Targets for RMT-based brain drug delivery
+
+Transferrin receptor
+
+The transferrin receptor (TfR) was one of the first RMT systems studied for BBB drug delivery applications. TfR is expressed at a high level at the BBB and mediates iron delivery to the brain via binding and intracellular trafficking of the iron-binding protein transferrin (Tf). Numerous studies have shown that using TfR targeting to deliver drug payloads to the brain can achieve therapeutic outcomes in animal models.
+
+Several recent studies have explored brain delivery through Tf linkage. For example, PEGylated liposomes decorated with Tf and a cell-penetrating poly-L-arginine peptide were constructed for the brain delivery of imaging agents and DNA. Upon iv administration in rat, 4% of the injected dose (ID) reached the brain after 24 hours. When nanoparticles were loaded with an expression plasmid for β-galactosidase (β-gal), β-gal activity in brain lysates was 2-fold higher in rats treated with liposomes compared with those treated with naked DNA. Another recent approach employed a cyclic iron-mimicking peptide, CRTIGPSVC, as the RMT targeting ligand. CRTIGPSVC binds to apo-Tf causing it to adopt its iron-bound holo-Tf conformation, and can thereby gain access to the brain through Tf-TfR interaction. This peptide exhibited promise for use in treatment of brain tumors through delivery of the herpes simplex virus thymidine kinase gene to a mouse model of human glioma. The delivery was accomplished via iv administration of a CRTIGPSVC-targeted adeno-associated virus and phage (AAVP) hybrid vector and resulted in significant tumor shrinkage.
+
+Despite its use as a TfR targeting vector, Tf is not an ideal RMT targeting ligand as endogenous Tf is present at high concentrations in the bloodstream, thus requiring the injected RMT vector to compete with endogenous Tf for TfR binding. As an alternative, antibodies targeting the TfR have been developed for RMT-based delivery. These mAbs bind to epitopes on the extracellular domain of TfR distal to the Tf binding site, and thus do not compete with Tf for TfR binding. There is a significant body of literature demonstrating the efficacy of anti-TfR antibodies for brain delivery of a broad range of biologics with resultant therapeutic effects. A few of the most recent highlights are discussed below.
+
+A fusion protein of the cTfRMAb, a chimeric mAb that binds to the mouse TfR, and tumor necrosis factor α decoy receptor (cTfRMAb-TNFR) was created for treatment of a Parkinson’s Disease (PD) model in mice. One hour after iv injection, cTfRMAb-TNFR uptake into mouse brain was 1.4% of the ID. Subsequently, mice having the 6-hydroxydopamine-induced model of PD were treated every other day for 3 weeks with 1 mg/kg cTfRMAb-TNFR fusion protein, TNFR alone, or saline. In cTfRMAb-TNFR treated mice, there was a 130% increase in striatal tyrosine hydroxylase (TH) enzyme activity, and behavioral testing indicated significant neuroprotection in mice treated with fusion protein compared with controls. This approach was also used to deliver erythropoietin and glial derived neurotrophic factor (GDNF) to the PD model mouse brain with 306% and 272% increases in TH activity, respectively. In another recent example, a GDNF expression plasmid was encapsulated in anti-TfR (OX26 mAb) decorated, PEGylated liposomes and administered to a rat model of PD. In order to diminish off-target effects, the GDNF gene was placed under the control of the tyrosine hydroxylase promoter to drive gene expression in target cells (dopaminergic striatal cells). After 3 weeks of once-weekly liposome injections, behavioral testing indicated significant neuroprotection compared with controls and a corresponding 77% increase in striatal tyrosine hydroxylase activity.
+
+In addition to PD, treatment of a wide array of neurological disorders has been demonstrated using anti-TfR antibodies. For example, the cTfRMab was fused with a single chain fragment variable (scFv) antibody against amyloid-β (Aβ) (cTfRMAb-scFv) yielding 40–60% reductions in brain Aβ fibrils when administered iv to a mouse model of Alzheimer’s Disease (AD). As will be discussed in detail later in this review, researchers at Genentech and Roche have also shown reduction in brain amyloid levels via anti-TfR-mediated delivery of anti-Aβ and anti-BACE antibodies to mouse models of AD. Also, anti-TfR targeted systems have been employed for treatment of lysosomal storage disorders such as those represented by the mouse model of mucopolysaccharidosis type VII (MPS-VII). Anti-TfR mAb (8D3) decorated, PEGylated liposomes loaded with plasmid encoding β-glucuronidase (GUSB) were administered iv in a single dose, and at 48 hours post-injection GUSB activity in the brain was 10-fold higher in treated MPS-VII mice compared with saline controls. Treatment of a murine stroke model was achieved by delivery of a caspase-3 inhibitor peptide loaded into anti-TfR mAb (R17-217) decorated, PEGylated chitosan nanoparticles. When nanoparticles were administered iv after middle cerebral artery occlusion and reperfusion, a significant reduction of infarct volume and neurological deficit was observed in mice treated with targeted nanoparticles compared with non-targeted controls.
+
+While use of anti-TfR mAbs for brain drug delivery is expanding, delivery efficiency using TfR as an RMT target may be limited. First, although TfR is enriched at the BBB, it is also expressed in vascular beds and parenchyma of other organs leading to undesirable, widespread distribution of TfR-targeted therapeutics. Second, full transcytosis of TfR to the brain side may actually be limited (e.g. Figure 2aiv). For example, iron uptake in the rat brain exceeds that of Tf while horseradish peroxidase (HRP) labeled Tf accumulates in brain capillaries without appreciable penetration into the brain parenchyma, suggesting limited TfR transcytosis. To address these issues, engineering of TfR targeting antibodies has recently been used to modulate intracellular trafficking of TfR and its conjugated drug payloads, and these approaches will be discussed in the Improved Brain Penetration section below. Despite these potential limitations, the growing body of literature indicates that anti-TfR antibodies tethered to biologics can reach the brain and mediate pharmacologic effects.
+
+Insulin Receptor
+
+The insulin receptor (IR) is expressed at the BBB and is responsible for the import of blood-borne insulin into the brain via RMT. Use of insulin as an RMT targeting vector has not been pursued, given both a short serum half-life of around 10 minutes and the potential for exogenously administered insulin to cause hypoglycemia. Thus, similar to TfR targeting, anti-IR mAbs have been employed for brain delivery of biologics. Initially, a mouse mAb targeting the human IR (83-14) was used; but more recently, a fully humanized version of 83-14 was created by grafting the complimentary determining regions (CDRs) from 83-14 onto human antibody framework regions. This so-called HIRMAb antibody and HIRMAb fusion proteins are currently under development by ArmaGen Technologies and have been widely tested in monkeys, with some forms slated for human clinical evaluation as described below.
+
+Of particular translational interest, the HIRMab has been studied for the brain delivery of enzyme replacement therapies for treatment of genetic lysosomal storage disorders. For example, the HIRMAb was fused to α-L-iduronidase (IDUA), the enzyme missing in mucopolysaccharidosis Type I (MPS-I, Hurler’s Syndrome). When administered to cultured MPS-I human fibroblasts, the HIRMAb-IDUA fusion mediated a 70% reduction in glycosaminoglycans (GAGs), compounds which accumulate with deleterious effects in tissues of MPS-I patients. Furthermore, approximately 2% of the ID reached the rhesus monkey brain 2 hours after iv injection. Given its in vitro potency and in vivo pharmacokinetic profile, this fusion protein is under development by ArmaGen Technologies for treatment of Hurler’s Syndrome in humans and has been designated AGT-181. The long term safety of AGT-181 treatment was assessed in a pair of studies in rhesus monkeys. In the first study, monkeys were dosed twice weekly with between 0 and 20 mg/kg AGT-181 for four weeks. Over the study period no changes in glycemic control, cerebrospinal fluid (CSF) glucose levels, or CSF/plasma glucose ratio were observed. The production of anti-drug antibodies (ADA) was also measured to gauge the immune response to the chronic dosing regimen and only one out of eight monkeys demonstrated a low level of ADA reactivity in serum with all others under the limit of detection. In the second study, dosing was increased to between 0 and 30 mg/kg and twice weekly injections were performed for 6 months. The results of this study were similar to the first with no significant changes in plasma glucose levels, or CSF/plasma glucose ratios over the 6 month dosing regimen. Hypoglycemia was observed peaking at 180 minutes after each injection in the 30mg/kg group. However, this effect was mitigated by adding glucose to the injection medium. Glucose tolerance at the end of the study was identical for all treated groups. With the exception of the hypoglycemia observed for the 30 mg/kg group, the results of these studies indicated that dosing with the HIRMab-IDUA does not negatively affect glucose homeostasis. In addition, limited ADA is observed indicating little or no immunogenic effect of long-term administration of the fusion protein. Taken as a whole, AGT-181 may ultimately be a safe and efficacious treatment for Hurler’s syndrome and is slated to enter the clinic in 2014. As such, AGT-181 represents the first effort to bring RMT-targeted antibodies to the clinic for treatment of brain disease. Therefore, the clinical trial could also serve as an important enabling study for other antibody targeting systems currently under investigation and optimization.
+
+In addition to AGT-181, the HIRMAb has been fused to numerous other therapeutic proteins. For example, an anti-Aβ scFv HIRMAb fusion was created for treatment of AD. The HIRMAb-scFv was shown to cross the intact BBB as approximately 1% of the ID reached the rhesus monkey brain 2 hours after iv injection. Other HIRMAb-protein fusions include GDNF, TNFR, erythropoietin, and paraoxonase-1 all having similar pharmacokinetic parameters as the AGT-181 and HIRMab-scFv when administered to rhesus monkeys.
+
+Low density lipoprotein receptors
+
+The low density lipoprotein receptor (LDLR) and low density lipoprotein receptor-related proteins 1 (LRP1) and 2 (LRP2) are expressed in brain capillary endothelial cells. The LDLR family (LDLRf) receptors mediate the transport of lipoproteins and a diverse array of other ligands across the BBB via RMT. Brain entry via an LDLRf-mediated route has been posited to have significant potential since the rate of brain uptake of iv administered melanotransferrin (P97) and receptor associated protein (RAP), two ligands for LRP1, greatly exceed that of transferrin, indicating a potentially higher capacity RMT system. While anti-receptor antibodies have not been reported for biologics delivery via the LDLRf, numerous studies have explored the use of LDLR and LRP ligands and peptide ligand mimics as vectors for brain delivery.
+
+ApoB and ApoE are major protein constituents of lipoprotein particles and mediate particle interactions with lipoprotein receptors including LDLR, LRP1, and LRP2. In addition, nanoparticles decorated with ApoE have been shown to cross the BBB in vivo. Thus, a number of recent studies have investigated the efficacy of delivering therapeutic proteins to the brain via fusion to ApoB or ApoE domains. These studies built on previous work in which lentiviral vectors were used to transduce liver cells to drive ectopic protein expression in vivo. For example, Spencer et al. transduced liver cells via intra-peritoneal (ip) injection of a lentiviral vector that could drive expression of a fusion protein of the ApoB receptor binding domain and an Aβ degrading enzyme, neprilysin. These approaches led to in vivo production of the fusion protein, subsequent delivery to the brain, and reduction of brain amyloid levels in mice. Analogously, Wang and colleagues created an expression plasmid for a fusion of IDUA with a peptide derived from amino acids 148-173 of ApoE for the treatment of MPS-I mice. Hydrodynamically-driven tail vein injection of naked plasmid DNA was used to transduce liver cells in MPS-I mice. Two days after injection of DNA, elevated IDUA levels were detected in brain parenchyma and immunofluorescence microscopy showed localization of protein in perivascular cells, neurons, and astrocytes. Therapeutic relevance was shown when 5 months of prolonged gene expression by maturing red blood cells in MPS-I mice resulted in normalization of brain levels of glycosaminoglycans and β-hexosaminidase, compounds which are elevated in tissues of MPS-I patients. In parallel, Sorrentino and colleagues created an expression plasmid for a fusion of sulphamidase with the receptor binding domain of ApoB for treatment of MPS-IIIA mice. An AAV2/8 vector was used to deliver plasmid DNA via iv injection resulting in sustained production of the fusion protein by the liver. At 3, 5, and 7 months after administration of the viral vector, sulphamidase activity in the brains of MPS-IIIA mice reached 10–15% of enzyme activity seen in healthy controls, while changes in brain enzyme activity in mice treated with a non-targeted sulphamidase were not significant. Immunofluorescence microscopy revealed sulphamidase protein co-localized with neurons and astrocytes. In addition, improved behavioral phenotypes were observed in mice treated with the ApoB-targeted construct, whereas similar improvements were not observed in mice treated with non-targeted control. These studies provide strong evidence that the LDLRf mediated delivery of fusion proteins results in entry of protein to the brain with resultant therapeutic effects.
+
+Angiopep-2, a peptide discovered through screening of a rationally designed peptide library based on the Kunitz protease inhibitor (KPI) domain, has shown promise as a delivery vector in the treatment of glioma. The KPI is a conserved LDLRf binding domain shared by a number of LDLRf ligands. Angiopep-2 was selected as an RMT vector because it displayed an elevated rate of transcytosis on an in vitro BBB model, and a larger uptake in the mouse brain after in situ perfusion compared with similar peptides, and was subsequently shown to enter the brain via LRP1. An Angiopep-2-paclitaxel conjugate called ANG1005 was developed to treat glioma as paclitaxel is a P-gp substrate and has restricted brain penetration as an unfused compound. ANG1005 is being developed by Angiochem for treatment of glioma with a number of Phase1 clinical trials completed and Phase 2 trials underway. Angiopep-2 has also been investigated for its ability to deliver genes and peptides to the brain.
+
+New RMT targets
+
+TfR, IR, and LDLRf mediated brain biologic delivery is becoming increasingly well-established with a substantial literature indicating the capability to deliver therapeutics that elicit beneficial effects. One significant drawback of the aforementioned RMT systems is their fairly ubiquitous expression leading to peripheral organ uptake. When combined with the fairly modest trans-BBB RMT transport capacity, relatively low levels of brain uptake result (around 1% of the ID in the examples discussed above). Thus, there has been substantial effort focused on identifying new BBB RMT targets that may have better BBB specificity. Many of these targets were identified through screening of combinatorial peptide and protein libraries. The strategies used in their identification and discussion of their trans-BBB delivery properties has been reviewed elsewhere. Below we discuss two particularly interesting targets, the FC5 antibody and the viral coat peptide RVG29, which have demonstrated the ability to cross the BBB in vivo.
+
+FC5
+
+FC5 is a single domain llama antibody (sdAb) consisting of a single variable heavy domain that was isolated in a phage display screen for antibodies that bind and endocytose into human cerebrovascular endothelial cells. When injected iv, FC5 accumulated in mouse brain. A follow-up study sought to determine the mechanism of FC5 internalization into endothelial cells. The authors showed that FC5 internalization was likely a receptor-mediated process and that FC5 interacted with a cell surface α-sialoglycoprotein, later identified as TMEM-30A. Recently, Haqqani and colleagues employed a novel mass—spectrometry-based quantification method to measure the serum and CSF pharmacokinetics of FC5 in the rat. Rats were dosed with 7 mg/kg FC5 or control sdAbs in 3 consecutive injections 1 hour apart to account for the short serum half-life of these constructs. The plasma pharmacokinetics of FC5 and control sdAb were essentially the same, but the CSF concentration of FC5 was approximately 25-fold higher than control sdAb at 15 minutes after the last injection indicating specific accumulation into the CSF, likely via a trans-BBB route. These studies indicate the potential for FC5 to cross the intact BBB in vivo, and work is underway to test FC5-drug conjugates.
+
+Rabies virus glycoprotein
+
+Kumar and colleagues approached the brain delivery problem by observing that neurotropic viruses like rabies virus must cross the BBB in order to enter the brain and infect brain cells. Thus, they developed a peptidyl-targeting vector based on the portion of the rabies virus glycoprotein (RVG) that had been previously shown to bind to the neuronal nicotinic acetylcholine receptor (AchR). The resultant 29-mer peptide (RVG29) was shown to allow selective brain uptake, leading to a 3-fold increase in RVG29 accumulation in brain compared with mock peptide after iv administration in mice. Comparatively limited uptake of RVG29 in the liver and spleen was observed. Subsequently, RVG29 linked to GFP silencing RNA (GFPsiRNA) was administered to transgenic GFP-expressing mice and reduction of GFP transgene expression was selective to the brain. The therapeutic potential of RVG29 mediated siRNA delivery was subsequently demonstrated by treating immune deficient mice injected with Japanese encephalitis virus with RVG29-linked to an antiviral siRNA. Treated mice had an 80% survival rate at 30 days post infection whereas control mice all died by 10 days post infection. Another study used RVG29 to decorate dendrigraft poly-L-lysine (DGL) nanoparticles loaded with caspase-3 shRNA-coding plasmid (RVG29-DGL-shRNA) for treatment of a rat PD model. Rats suffering from rotenone-induced PD were treated once weekly for 4 weeks with iv injections of the RVG29-DGL-shRNA. At the end of the treatment regimen, activated caspase-3 levels were reduced as much as 3-fold in rats treated with the RVG29-DGL-shRNA compared with non-targeted controls and treatment with RVG29-DGL-shRNA limited dopaminergic neuronal loss.
+
+In another study, RVG29-targeted exosomes were used for brain delivery of siRNA. Exosomes are extracellular vesicles shed by numerous cell types, can be found in the majority of body fluids, and play a key role in cell-cell communication through activation of cell surface receptors on target cells, and through transfer of material between cells. The brain delivery of BACE-1 siRNA using RVG29-targeted exosomes was investigated for treatment of Alzheimer’s disease. Immature mouse dendritic cells were transfected with a plasmid coding for a known exosome-resident protein, Lamp2b, with RVG29 fused to the extra-exosomal terminus. After 4 days of culture, RVG29 decorated exosomes were purified from culture supernatant and loaded with anti-BACE-1 siRNA via electroporation. When administered iv in mice, the RVG29 exosome treatment resulted in a 60% knockdown of BACE-1 gene expression in the brain leading to a significant reduction in Aβ1-42 levels. In addition to the significant therapeutic effects observed in brain, the exosome treatment did not produce any toxic or immunogenic effects in mice even after repeat dosing and exosomes did not accumulate in liver, a common problem when using liposomes for delivery. While this study indicates that exosomes may be a viable route for biologics delivery across the BBB, the production complexity and questions of formulation heterogeneity likely need to be addressed for clinical applications. Despite the fact that the mechanism by which RVG29 traverses the BBB has not been definitively shown, the initial therapeutic results described in the aforementioned studies illustrate that RVG29 may be a very interesting targeting vector moving forward.
+
+Engineering RMT targeting vectors for improved brain penetration
+
+While RMT vectors demonstrating improved tissue specificity could certainly improve the efficiency of brain drug delivery, the intrinsic limits on transcellular transport for a given RMT system could also restrict the overall success of RMT-based delivery. For example, several studies investigating the details of transport of anti-TfR mAbs at the BBB have shown that despite substantial binding and endocytosis into BBB ECs, there was limited transcytosis into the brain parenchyma. After either iv injection or in situ brain perfusion of radiolabeled anti-TfR antibody in rats, immunofluorescence and capillary depletion experiments indicated antibody was predominantly localized to brain capillaries with limited amounts entering the parenchyma. Similar results were observed after iv injection or brain perfusion of anti-TfR antibodies in mice. Collectively, these studies suggest that the mAbs become “trapped” in the brain endothelial cells upon endocytosis. One hypothesis for antibody accumulation within the BBB ECs is that lack of antibody dissociation from the receptor upon endocytosis or transcytosis limits release from ECs into the brain. Another possibility is that the intracellular trafficking of the receptor is affected by the binding interaction with the antibody. Thus, gaining a greater understanding of RMT targeting vector properties that govern intracellular trafficking fate may enable the development of more effective BBB drug delivery vectors through antibody engineering. Indeed, in a recent series of studies, it has been demonstrated that engineering of RMT targeting vector binding properties (affinity, avidity) can be used to improve intracellular trafficking and transcytosis of BBB-targeted antibodies in vitro and in vivo.
+
+To explore the effects of binding affinity on RMT efficiency, a high-affinity parental anti-TfR antibody, anti-TfRA (Kd=1nM), was engineered to have reduced affinity (Kd=6.9–111 nM, anti-TfRB-anti-TfRD) by alanine mutagenesis (Figure 2b). Interestingly, the lowest affinity variant (anti-TfRD) exhibited a roughly 3-fold increase in brain uptake compared with parental anti-TfRA antibody when administered iv in mice at high doses of 20–50 mg/kg and measured 24 hours post-injection. In addition, immunofluorescence microscopy of brain sections taken from anti-TfR treated mice revealed that while the high affinity antibody was predominantly localized to the brain capillaries at 24 hours post-injection as described in previous studies, the lower affinity variants were increasingly localized to the brain parenchyma. Subsequently, a bispecific antibody containing anti-TfRA and anti-BACE arms, anti-TfRA/BACE, was produced (Figure 2b). This bi-specific antibody, by virtue of its now monovalent anti-TfR binding capability, had reduced affinity for TfR (Kd~20nM). When administered to mice iv at a dose of 25 mg/kg, the bispecific antibody caused an approximately 36% reduction in brain Aβ1-40 levels compared with control IgG. Furthermore, the efficacy of the anti-TfRA/BACE (Kd~20nM) was compared with lower affinity anti-TfRD/BACE (Kd~600 nM) bispecific antibody via pharmacokinetic and pharmacodynamic analysis. A single iv dose of 50 mg/kg yielded peak antibody concentrations of ~45 nM in brain homogenates at 1 day post-injection for either anti-TfRA/BACE or anti-TFRD/BACE. Administration of either antibody led to a significant reduction in plasma and brain Aβ1-40 levels (~30% reduction in plasma and ~40% reduction in brain). Over a 10 day evaluation window, anti-TFRD/BACE outperformed anti-TfRA/BACE as the plasma clearance of anti-TfRA/BACE was significantly faster than that for Anti-TFRD/BACE leading to prolonged brain exposure of the lower affinity variant. As a result, the reduction in Aβ1-40 levels achieved after single-dose iv administration lasted 4 days longer in mice treated with anti-TfRD/BACE. Thus, while both antibodies achieved therapeutic results, the lower affinity anti-TfRD/BACE had more desirable pharmacokinetic and pharmacodynamics properties.
+
+The mechanism by which lower affinity, monovalent interactions with endothelial cell surface TfR led to increased brain penetration of anti-TfR bispecific antibodies was next investigated. Bi-specific antibodies with one anti-TfR arm and one control IgG arm (anti-TfR/Ctr) were employed to ensure any effects were the result of the anti-TfR interactions. First, a significant dose dependent decrease in cortical TfR was observed 4 days after mice were injected iv with 5–50 mg/kg of Anti-TfRA/Ctr while no significant decrease was observed for anti-TfRD/Ctr, indicating TfRA/Ctr promoted TfR degradation (Figure 2av). Subsequent in vitro and in vivo analyses revealed that upon antibody internalization, a greater percentage of anti-TfRA/Ctr was trafficked to the lysosome (Figure 2av) compared with anti-TfRD/Ctr. Thus, high affinity anti-TfR interactions with endothelial cell surface TfR appear to alter the trafficking of TfR-antibody complexes once internalized from a recycling/transcytosis route (Figure 2aiii, iv) to a degradation route (Figure 2av).
+
+In direct analogy to the comparisons described above between the high affinity bivalent anti-TfRA antibody and the moderate affinity, monovalent anti-TfRA/BACE bispecific antibody, another study examined the effects of monovalent versus divalent anti-TfR antibody constructs on intracellular trafficking and trans-BBB delivery. Anti-TfR Fab fragments were fused to an anti-Aβ antibody (mAb31) to create either bivalent (dFab, TfR Kd~ 5nM) or monovalent (sFab, TfR Kd~30 nM) anti-TfR constructs (Figure 2b). When mice were administered sFab weekly for 3 months at both low- (0.4 mg/kg) and midrange doses (2.7 mg/kg), an increased reduction in brain amyloid plaque load was observed compared with parental, untargeted Ab31 administration. Similar to findings with the low versus high affinity variants examined with bispecific antibodies, sFab is internalized and transcytosed across BBB ECs (Figure 2aii, iv), while the divalent dFab instead accumulates within BBB ECs, particularly in the lysosomes (Figure 2av). Taken together with the bispecific study, it appears that lowered affinity and reduced valency can both help direct productive transcytosis by avoiding lysosomal sequestration. Previous studies support these findings and have indicated that the valency of the RMT targeting moiety interaction with TfR plays a key role in endocytosis and intracellular trafficking. For example, to address the role of RMT vector avidity, differing amounts of Tf (between 3 and 100 Tf molecules) were conjugated to gold nanoparticles (~85 nm in diameter) and their ability to cross the BBB in vivo was assessed. The authors showed that the highest avidity particles were sequestered in brain blood vessels but did not enter the brain, while particles with mid-range avidity were transcytosed into the brain parenchyma. Those particles with lowest avidity did not bind to brain capillaries, likely due to competition with endogenous Tf. Although the lowering of affinity either by monovalent antibody interactions or by engineered lowered affinity antibodies has proven effective for increasing trans-BBB transport, brain uptake remains limited (0.3% of the ID for Anti-TfRD). In addition, one of the prevailing issues with low affinity RMT targeting vectors is the high necessary dose (~25 mg/kg) that would translate to a large amount of antibody (~2 g/75 kg human) for each treatment dose in humans. For chronic administration, this could potentially be cost prohibitive.
+
+Finally, it is important to note here that not all RMT systems will have the same mechanisms of internalization and intracellular trafficking; and therefore, when engineering RMT vector binding properties for increased brain penetration, the trafficking properties of the target RMT system must be taken into account. For example, TfR is constitutively endocytosed and trafficked within the cell via a clathrin-mediated route. By contrast, a receptor like ICAM-1 undergoes cell adhesion molecule (CAM) mediated endocytosis only upon interaction with multivalent ligands or immune cells. Given these differing mechanisms, binding, internalization, and intracellular trafficking of the receptors may respond differently to engineered targeting ligands. To demonstrate this point, a recent study compared the in vitro binding and in vivo biodistribution of TfR and ICAM-1 targeting vectors. On the one hand, free anti-TfR (8D3) and anti-ICAM-1 (YN1;) mAbs administered to cultured cells in vitro bound to the EC cell surface at comparable levels, but a greater percentage of anti-TfR mAbs internalized into the ECs. In addition, when administered iv the anti-TfR antibodies accumulated in mouse brain to a greater extent than anti-ICAM antibodies. On the other hand, ~250 nm polystyrene nanoparticles (NPs) decorated with ~300 anti-ICAM antibodies showed increased cell surface binding and internalization compared with comparable anti-TfR NPs in vitro. In vivo studies indicated that anti-ICAM NPs showed increased uptake in the brain (~2.2-fold over anti-TfR NPs and ~1.9-fold over anti-TfR antibody) with increased brain selectivity (i.e. decreased accumulation in liver). These results indicate that the efficiency and specificity of brain delivery of different RMT targeting ligands are dependent on the trafficking dynamics of the targeted receptor. Thus, when considering similar approaches for the other RMT targets discussed in this review it will be necessary to approach the problem by taking into account the unique properties of the RMT system of interest.
+
+Conclusion
+
+While the BBB continues to present a formidable obstacle for the treatment of CNS diseases, the work described in this review demonstrates that there are a growing number of strategies to target RMT systems at the BBB for delivery of biologics. Targeting of the well-studied RMT systems at the BBB (e.g. TfR, IR, LDLRf) has demonstrated that receptor-binding antibodies or ligand mimics can be used as RMT targeting vectors to deliver biologics to the brain, with impressive therapeutic outcomes in a number of animal models. The promise of these strategies will likely be bolstered by the ongoing clinical development of RMT targeting biologics at companies such as ArmaGen Technologies and Angiochem. Until recently the mechanistic details of RMT binding and intracellular trafficking that ultimately lead to transcytosis were largely unexplored. The work dealing with anti-TfR antibody engineering illustrates that it is possible to alter binding interactions of targeting vectors with their cognate RMT receptor to improve binding, intracellular trafficking, and transcytosis at the BBB. It is likely that such studies will be extended to other known RMT-targeting vectors to develop even more effective brain delivery constructs. Identification of alternative RMT targets such as FC5 and RVG29 along with a sustained search for new RMT targets will further enhance the use of the RMT approach for brain delivery of biologics.
+
+Abbreviations
+
+Aβ
+
+amyloid-β
+
+AD
+
+Alzheimer’s disease
+
+BBB
+
+blood-brain barrier
+
+CNS
+
+central nervous system
+
+ECs
+
+endothelial cells
+
+GDNF
+
+glial-derived neurotrophic factor
+
+ID
+
+injected dose
+
+ip
+
+intra-peritoneal
+
+IR
+
+insulin receptor
+
+iv
+
+intravenous
+
+LDLRf
+
+low density lipoprotein receptor family
+
+mAb
+
+monoclonal antibody
+
+MPS
+
+mucopolysaccharidosis
+
+PD
+
+Parkinson’s disease
+
+PM
+
+plasma membrane
+
+RMT
+
+receptor-mediated transport
+
+RVG
+
+rabies virus glycoprotein
+
+scFv
+
+single chain fragment variable antibody
+
+Tf
+
+transferrin
+
+TfR
+
+transferrin receptor
+
+TH
+
+tyrosine hydroxylase
+
+TJs
+
+tight junctions
+
+The blood-brain barrier: bottleneck in brain drug development
+
+Cellular elements of the blood-brain barrier
+
+Structure and function of the blood-brain barrier
+
+Abc transporters in the cns - an inventory
+
+The blood-brain barrier in health and disease
+
+Re-engineering biopharmaceuticals for delivery to brain with molecular trojan horses
+
+Blood-brain barrier delivery
+
+Contribution of carrier-mediated transport systems to the blood-brain barrier as a supporting and protecting interface for the brain; importance for cns drug discovery and development
+
+Large neutral amino acid transporter enables brain drug delivery via prodrugs
+
+Abc transporters and the blood-brain barrier
+
+Restoring blood-brain barrier p-glycoprotein reduces brain amyloid-beta in a mouse model of alzheimer’s disease
+
+Absorptive-mediated endocytosis of cationized albumin and a beta-endorphin-cationized albumin chimeric peptide by isolated brain capillaries. model system of blood-brain barrier transport
+
+Polyamine modification increases the permeability of proteins at the blood-nerve and blood-brain barriers
+
+Putrescine-modified nerve growth factor: bioactivity, plasma pharmacokinetics, blood-brain/nerve barrier permeability, and nervous system biodistribution
+
+Cns delivery via adsorptive transcytosis
+
+Receptor-mediated transcytosis of transferrin through blood-brain barrier endothelial cells
+
+A new function for the ldl receptor: transcytosis of ldl across the blood-brain barrier
+
+Blood-brain barrier transcytosis of insulin in developing rabbits
+
+Human blood-brain barrier leptin receptor. binding and endocytosis in isolated human brain microvessels
+
+Vesicle formation and endocytosis: function, machinery, mechanisms, and modeling
+
+Organization of vesicular trafficking in epithelia
+
+The endosomal network
+
+Physiology of blood-brain interfaces in relation to brain disposition of small compounds and macromolecules
+
+Physiological pathway for low-density lipoproteins across the blood-brain barrier: transcytosis through brain capillary endothelial cells in vitro
+
+Potential role of the low-density lipoprotein receptor family as mediators of cellular drug uptake
+
+Anti-transferrin receptor antibody and antibody-drug conjugates cross the blood-brain barrier
+
+Selective transport of an anti-transferrin receptor antibody through the blood-brain barrier in vivo
+
+Transcytosis of protein through the mammalian cerebral epithelium and endothelium. 3 receptor-mediated transcytosis through the blood-brain barrier of blood-borne transferrin and antibody against the transferrin receptor
+
+Blood-brain barrier transport of therapeutics via receptor-mediation
+
+Genetic engineering of a bifunctional igg fusion protein with iduronate-2-sulfatase
+
+Development of new peptide vectors for the transport of therapeutic across the blood-brain barrier
+
+The mouse blood-brain barrier transcriptome: a new resource for understanding the development and function of brain endothelial cells
+
+Quantitative targeted absolute proteomics of human blood-brain barrier transporters and receptors
+
+Transferrin and transferrin receptor function in brain barrier systems
+
+Cell penetrating peptide tethered bi-ligand liposomes for delivery to brain in vivo: biodistribution and transfection
+
+Systemic combinatorial peptide selection yields a non-canonical iron-mimicry mechanism for targeting tumors in a mouse model of human glioblastoma
+
+A hybrid vector for ligand-directed tumor targeting and molecular imaging
+
+Design and construction of targeted aavp vectors for mammalian cell transduction
+
+Targeted drug delivery via the transferrin receptor-mediated endocytosis pathway
+
+Engineering and expression of a chimeric transferrin receptor monoclonal antibody for blood-brain barrier delivery in the mouse
+
+Pharmacokinetics and brain uptake of an igg-tnf decoy receptor fusion protein following intravenous, intraperitoneal, and subcutaneous administration in mice
+
+Brain-penetrating tumor necrosis factor decoy receptor in the mouse
+
+Neuroprotection with a brain-penetrating biologic tumor necrosis factor inhibitor
+
+Brain penetrating igg-erythropoietin fusion protein is neuroprotective following intravenous treatment in parkinson’s disease in the mouse
+
+Intravenous treatment of experimental parkinson’s disease in the mouse with an igg-gdnf fusion protein that penetrates the blood-brain barrier
+
+Near complete rescue of experimental parkinson’s disease with intravenous, non-viral gdnf gene therapy
+
+Pharmacokinetics and brain uptake of a genetically engineered bifunctional fusion antibody targeting the mouse transferrin receptor
+
+Disaggregation of amyloid plaque in brain of alzheimer’s disease transgenic mice with daily subcutaneous administration of a tetravalent bispecific antibody that targets the transferrin receptor and the abeta amyloid peptide
+
+Receptor-mediated abeta amyloid antibody targeting to alzheimer’s disease mouse brain
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Addressing safety liabilities of tfr bispecific antibodies that cross the blood-brain barrier
+
+Transferrin receptor (tfr) trafficking determines brain uptake of tfr antibody affinity variants
+
+Targeting rat anti-mouse transferrin receptor monoclonal antibodies through blood-brain barrier in mouse
+
+Lysosomal enzyme replacement of the brain with intravenous non-viral gene transfer
+
+A nanomedicine transports a peptide caspase-3 inhibitor across the blood-brain barrier and provides neuroprotection
+
+Iron and transferrin uptake by brain and cerebrospinal fluid in the rat
+
+Studies of the mechanism of iron transport across the blood-brain barrier
+
+Transport of insulin across the blood-brain barrier: saturability at euglycemic doses of insulin
+
+Delivery of peptides and proteins through the blood-brain barrier
+
+Human insulin receptor monoclonal antibody undergoes high affinity binding to human brain capillaries in vitro and rapid transcytosis through the blood-brain barrier in vivo in the primate
+
+Humanization of anti-human insulin receptor antibody for drug targeting across the human blood-brain barrier
+
+Genetic engineering of a lysosomal enzyme fusion protein for targeted delivery across the human blood-brain barrier
+
+Genetic engineering of igg-glucuronidase fusion proteins
+
+Expression in cho cells and pharmacokinetics and brain uptake in the rhesus monkey of an igg-iduronate-2-sulfatase fusion protein
+
+Engineering a lysosomal enzyme with a derivative of receptor-binding domain of apoe enables delivery across the blood-brain barrier
+
+Agt-181: expression in cho cells and pharmacokinetics, safety, and plasma iduronidase enzyme activity in rhesus monkeys
+
+Glycemic control and chronic dosing of rhesus monkeys with a fusion protein of iduronidase and a monoclonal antibody against the human insulin receptor
+
+Fusion antibody for alzheimer’s disease with bidirectional transport across the blood-brain barrier and abeta fibril disaggregation
+
+Igg-single chain fv fusion protein therapeutic for alzheimer’s disease: expression in cho cells and pharmacokinetics and brain delivery in the rhesus monkey
+
+Gdnf fusion protein for targeted-drug delivery across the human blood-brain barrier
+
+Comparison of blood-brain barrier transport of glial-derived neurotrophic factor (gdnf) and an igg-gdnf fusion protein in the rhesus monkey
+
+Tumor necrosis factor receptor-igg fusion protein for targeted drug delivery across the human blood-brain barrier
+
+Selective targeting of a tnfr decoy receptor pharmaceutical to the primate brain as a receptor-specific igg fusion protein
+
+Drug targeting of erythropoietin across the primate blood-brain barrier with an igg molecular trojan horse
+
+Igg-paraoxonase-1 fusion protein for targeted drug delivery across the human blood-brain barrier
+
+Cho cell expression, long-term stability, and primate pharmacokinetics and brain uptake of an igg-paroxonase-1 fusion protein
+
+Molecular signatures of tissue-specific microvascular endothelial cell heterogeneity in organ maintenance and regeneration
+
+High transcytosis of melanotransferrin (p97) across the blood-brain barrier
+
+Tissue-type plasminogen activator crosses the intact blood-brain barrier by low-density lipoprotein receptor-related protein-mediated transcytosis
+
+Efficient transfer of receptor-associated protein (rap) across the blood-brain barrier
+
+Potential role of the low-density lipoprotein receptor family as mediators of cellular drug uptake
+
+Glycoprotein 330/low density lipoprotein receptor-related protein-2 mediates endocytosis of low density lipoproteins via interaction with apolipoprotein b100
+
+Identification of the low density lipoprotein receptor-binding site in apolipoprotein b100 and the modulation of its binding activity by the carboxyl terminus in familial defective apo-b100
+
+Albumin nanoparticles targeted with apo e enter the cns by transcytosis and are delivered to neurones
+
+Uptake mechanism of apoe-modified nanoparticles on brain capillary endothelial cells as a blood-brain barrier model
+
+Peripheral delivery of a cns targeted, metalo-protease reduces aβ toxicity in a mouse model of alzheimer’s disease
+
+A highly secreted sulphamidase engineered to cross the blood-brain barrier corrects brain lesions of mice with mucopolysaccharidoses type iiia
+
+Transduction of liver cells by lentiviral vectors: analysis in living animals by fluorescence imaging
+
+Targeted delivery of proteins across the blood-brain barrier
+
+Gene therapy progress and prospects: hydrodynamic gene delivery
+
+Identification and design of peptides as a new drug delivery system for the brain
+
+Ldl receptor-related protein, a multifunctional apoe receptor, binds secreted beta-amyloid precursor protein and mediates its degradation
+
+Antitumour activity of ang1005, a conjugate between paclitaxel and the new brain delivery vector angiopep-2
+
+Uptake of ang1005, a novel paclitaxel derivative, through the blood-brain barrier into brain and experimental brain metastases of breast cancer
+
+Safety, pharmacokinetics, and activity of grn1005, a novel conjugate of angiopep-2, a peptide facilitating brain penetration, and paclitaxel, in patients with advanced solid tumors
+
+Involvement of the low-density lipoprotein receptor-related protein in the transcytosis of the brain delivery vector angiopep-2
+
+Phase i study of grn1005 in recurrent malignant glioma
+
+Gene delivery targeted to the brain using an angiopep-conjugated polyethyleneglycol-modified polyamidoamine dendrimer
+
+Conjugation of a brain-penetrant peptide with neurotensin provides antinociceptive properties
+
+Combinatorial approaches for the identification of brain drug delivery targets
+
+Selection of phage-displayed llama single-domain antibodies that transmigrate across human blood-brain barrier endothelium
+
+The blood-brain barrier transmigrating single domain antibody: mechanisms of transport and antigenic epitopes in human brain endothelial cells
+
+Blood-brain barrier epitopes and uses thereof
+
+Multiplexed evaluation of serum and csf pharmacokinetics of brain-targeting single-domain antibodies using a nanolc-srm-ilis method
+
+Transvascular delivery of small interfering rna to the central nervous system
+
+Rabies virus binding to an acetylcholine receptor alpha-subunit peptide
+
+Targeting caspase-3 as dual therapeutic benefits by rnai facilitating brain-targeted nanoparticles in a rat model of parkinson’s disease
+
+Exosomes as intercellular signalosomes and pharmacological effectors
+
+Exosomes for targeted sirna delivery across biological barriers
+
+Delivery of sirna to the mouse brain by systemic injection of targeted exosomes
+
+Restricted transport of anti-transferrin receptor antibody (ox26) through the blood-brain barrier in the rat
+
+Targeting anti-transferrin receptor antibody (ox26) and ox26-conjugated liposomes to brain capillary endothelial cells using in situ perfusion
+
+In vivo labeling of brain capillary endothelial cells after intravenous injection of monoclonal antibodies targeting the transferrin receptor
+
+Brain uptake of a fluorescent vector targeting the transferrin receptor: a novel application of in situ brain perfusion
+
+Study of the transcytosis of an anti-transferrin receptor antibody with a fab′ cargo across the blood-brain barrier in mice
+
+A therapeutic antibody targeting bace1 inhibits amyloid-β production in vivo
+
+Gantenerumab: a novel human anti-aβ antibody demonstrates sustained cerebral amyloid-β binding and elicits cell-mediated removal of human amyloid-β
+
+Transcytosis and brain uptake of transferrin-containing nanoparticles by tuning avidity to transferrin receptor
+
+The intracellular trafficking pathway of transferrin
+
+Mechanisms of tfr-mediated transcytosis and sorting in epithelial cells and applications toward drug delivery
+
+A novel endocytic pathway induced by clustering endothelial icam-1 or pecam-1
+
+Comparative binding, endocytosis, and biodistribution of antibodies and antibody-coated carriers for targeted delivery of lysosomal enzymes to icam-1 versus transferrin receptor
+
+Differing regulation and function of icam-1 and class ii antigens on renal tubular cells
+
+Endogenous BBB transport routes: (a) Paracellular diffusion of hydrophilic molecules is restricted by the tight junctions formed between adjacent endothelial cells. (b) Small molecules such as glucose, amino acids, and nucleotides gain access to the brain via carrier-mediated transport (CMT). Stereo- and size-selective proteins expressed at both the apical and basolateral plasma membrane mediate the transport of these molecules into the brain. (c) Drug efflux pumps are expressed at the apical plasma membrane and recognize a wide array of ligands including many pharmaceutical compounds. Efflux pumps contribute to the observed barrier properties of the BBB via recognition and removal of unwanted substances from the endothelial cells. (d) Cationic serum proteins can gain access to the brain via adsorptive-mediated transport (AMT). This involves the non-specific adsorption of proteins to negatively charged domains on the apical plasma membrane and subsequent transcytosis. (e) Several proteins gain access to the brain via receptor-mediated transport (RMT). Receptors on the apical plasma membrane recognize and bind to blood-borne ligands with subsequent transcytosis across the endothelial cells and release into the brain.
+
+(a) Schematic of the BBB RMT mechanism: (i) Initially, a protein ligand or an RMT-targeting therapeutic binds to a specific receptor on the apical plasma membrane. (ii) Subsequently the membrane invaginates to form an intracellular vesicle through endocytosis. Once inside the cell, the vesicle containing receptor-ligand complexes can be trafficked to various destinations. (iii) In some cases, the vesicle is recycled back to the apical plasma membrane. (iv) Alternatively, vesicles can be shuttled to the basolateral plasma membrane where fusion with the membrane and release of vesicular contents is termed transcytosis. (v) Vesicles can also be sent to the lysosome for degradation of their contents. An RMT-targeting antibody binding to and trafficking with a transmembrane receptor is shown as an example of the mechanism by which RMT-targeting vectors gain access to the brain. (b) Constructs and binding affinity of the various anti-TfR antibodies engineered to improve BBB transcytosis.

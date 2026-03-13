@@ -161,8 +161,23 @@ def synthesize_answer(query, reranked_results, tokenizer, gen_model):
 
     context_blocks = []
 
+    docs = {}
+
     for score, row in reranked_results:
-        context_blocks.append(row["text"][:600])
+        doc_id = row["id"]
+
+        if doc_id not in docs:
+            docs[doc_id] = []
+
+        docs[doc_id].append(row["text"][:500])
+
+
+    context_blocks = []
+
+    for doc_id, chunks in docs.items():
+        merged = "\n".join(chunks)
+
+        context_blocks.append(merged)
 
     context = "\n\n".join(context_blocks)
 
@@ -218,15 +233,15 @@ def main():
         meta,
         query,
         model, 
-        k=25
+        k=30
     )
 
     results = deduplicate_results(scores, ids, meta, top_n=15)
 
     reranked_results = rerank_results(query, results, reranker, top_n=4)
 
-    tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
-    gen_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base")
+    tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-large")
+    gen_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-large")
 
     answer = synthesize_answer(query, reranked_results, tokenizer, gen_model)
 

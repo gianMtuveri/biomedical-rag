@@ -1,0 +1,553 @@
+Overview of Crosstalk Between Multiple Factor of Transcytosis in Blood Brain Barrier
+
+Blood brain barrier (BBB) conserves unique regulatory system to maintain barrier tightness while allowing adequate transport between neurovascular units. This mechanism possess a challenge for drug delivery, while abnormality may result in pathogenesis. Communication between vascular and neural system is mediated through paracellular and transcellular (transcytosis) pathway. Transcytosis itself showed dependency with various components, focusing on caveolae-mediated. Among several factors, intense communication between endothelial cells, pericytes, and astrocytes is the key for a normal development. Regulatory signaling pathway such as VEGF, Notch, S1P, PDGFβ, Ang/Tie, and TGF-β showed interaction with the transcytosis steps. Recent discoveries showed exploration of various factors which has been proven to interact with one of the process of transcytosis, either endocytosis, endosomal rearrangement, or exocytosis. As well as providing a hypothetical regulatory pathway between each factors, specifically miRNA, mechanical stress, various cytokines, physicochemical, basement membrane and junctions remodeling, and crosstalk between developmental regulatory pathways. Finally, various hypotheses and probable crosstalk between each factors will be expressed, to point out relevant research application (Drug therapy design and BBB-on-a-chip) and unexplored terrain.
+
+Introduction
+
+Blood Brain Barrier Concept and Constituents
+
+The neurovascular unit is a complex system of blood vessels and nerves, together with neighboring cells and the extracellular matrix. There are numerous similarities, functions, interactions, and remodeling process interconnected between these two systems (vascular and nervous) in the body. A prominent example is the formation of the blood brain barrier (commonly abbreviated as BBB). The BBB is a complex mixture of various transport systems located between blood vessels and the brain. It is predominantly composed of endothelial cells, neurons, oligodendrocytes, pericytes, astrocytes, microglia, and surrounded by the extracellular matrix which is mainly composed of collagen and laminin. The primary function of the BBB is to provide a safety mechanism to prevent potentially harmful material from entering the brain, while still enabling the transcytosis of nutrients and signaling factors. Failure to maintain the BBB integrity results in abnormalities, mainly infectious diseases such as meningitis, multiple sclerosis, neurodegenerative diseases, and a plethora of brain disorders. Understanding the exact mechanisms of transcytosis in the BBB will provide useful insights for diseases and their possible treatments.
+
+Among this complex mixture of cells, endothelial cells (ECs) are squamous cells that form the lining wall of the vascular system. The differentiation of endothelial cells is organ and tissue specific, modified via responses of the appropriate gene expression toward hemodynamic forces, extracellular stress, interaction with adjunct cells, and matrix secretions. Brain microvasculature endothelial cells (BMECs) have an adaptation to form tight barriers and also active transport protein, such as P-glycoprotein. Expression of p-glycoprotein at BMECs, which is one of the efflux transporters, shows dependency to β-catenin upregulation. This clearance process showed that transcytosis in the BBB can be accomplished from abluminal to luminal sides. The response and behavior of BMECs also shows dependence on cytokine stimuli. The primary formation of BBB tight junction is also regulated by ECs, together with other cells. Pericyte is interconnected with ECs in microvasculature, and act as the co-regulator of ECs. In the BBB, this type of cell plays an important role as one of the supporting cell types for BBB integrity and permeability via cell to cell communication and ECM to cell communication. Pericytes have been shown to regulate the differentiation of ECs into HBMECs. These cells also interact with astrocytes to induce polarization of astrocytes surrounding the blood vessel. A lack of pericytes in the mouse model and cell culture experiment causes increased BBB permeability. Treatment of imatinib, which depletes pericytes, inhibits the release of tracers from ECs to the brain via transcytosis. Thus it can be inferred that pericytes have a role in regulating transcytosis in the BBB. Astrocytes are part of the modified glial cells. The primary role of these cells is to support neurons. In the BBB complex, the foot of astrocytes encircles ECs and blood vessels. Astrocytes also enable nutrients transport and delivery to neurons. A recent study showed astrocytes may promote blood flow and microvasculature remodeling. One of the prominent mechanisms for tight junction regulation by astrocytes is by regulating the accumulation of agrin, a heparin sulfate proteoglycan which is important for BBB integrity in the basal lamina.
+
+However, the exact mechanism whereby transcytosis may be affected by co-regulation between ECs, pericytes, and astrocytes is still unclear (Figure 1). Various relevant factors also still need further elucidation. This review will focus on revealing and summarizing current findings of interaction between ECs, pericytes, and astrocytes as well as the crosstalk of factors which may affect transcytosis in the BBB.
+
+Close interaction between ECs, astrocytes, and pericytes as the backbone of BBB. Together they share some common developmental pathways, which involves each cell to support one another.
+
+Paracellular and Transcellular BBB Permeability
+
+Molecular transport across the BBB is highly dependent on its permeability, which is defined by the paracellular pathway (molecules cross through ECs junctions) and the transcellular pathway (endocytosis followed by endosomal rearrangement and exocytosis from the cell). These mechanism contributes to the brain’s nutrition supply, as comprehensively reviewed by. BMECs have a specialized tight junction in order to prevent undesirable paracellular transport and consequently direct the necessary molecules by a specific transcellular pathway. The importance of transcytosis is emphasized under certain conditions including hypertension and strokes. When pathogenesis occurs, the primary response is upregulation of caveolin, which facilitates caveolae assembly. A similar finding in the case of multiple sclerosis also stresses the significant upregulation of caveolae-mediated transcytosis. This response may be a reaction to facilitate the recovery process, which requires a higher supply of nutrients, as well as clearance of toxic materials.
+
+Transcellular pathways in cells are categorized into clathrin mediated and non-clathrin mediated. Detail mechanism in several types of transcytosis can be studied extensively in the comprehensive review by and. Non-clathrin mediated transport makes use of dynamin, coat proteins, small GTPases, and RhoGAP proteins. Caveolae-mediated transcytosis is one of the non-clathrin mediated pathway. Transportation between cells using extracellular vesicles (EVs) is very important during development and maintenance of the BBB. A recent study showed atheroprotective intercellular communication via EVs between ECs and smooth muscle cells through miRNAs regulation. Based on these interactions, the transport pathway plays an essential role in intercellular communication. Which brings us to question, is there any interaction between paracellular and transcellular pathways? In the case of water transport, lack of protein transporter in the paracellular path may significantly impair the transcellular path. It has been elucidated that Cav-1 also plays a part in the regulation of TJ protein expression in HBMECs, indicating a central role for the transcellular pathway in the BBB maintenance (Figure 2).
+
+(A) Caveolae formation in endothelial cells. Nu, nucleus. (B) Caveolae is the main endocytosis pathway of ECs compared to clathrin. Uptake of spherical nucleic acids (SNAs) as the nanocarrier showed 60% reduction in the Cav-1 deficient cells, also showed 10% reduction in clathrin heavy chain (CLTC) deficient cells. Reproduced with permission and courtesy of Chad Mirkin.
+
+Caveolae Biosynthesis
+
+There are two main proteins which play a major role in caveolae biosynthesis. The first is caveolin, along with multiple isomers (Cav-1, Cav-2, and Cav-3). The second one is cavin, which currently has four known isomers. These two components are an essential part of caveolae, and the absence of either one will significantly suppress the amount and function of caveolae. Lipodystrophic phenotype has been observed both in mice and humans lacking caveolae, suggesting its importance for lipid transcytosis. A recent discovery has showed that binding of these components with phosphatidylserine plays a crucial role in caveolae formation. Cav-1 and Cav-2 will form 8S oligomer on endoplasmic reticulum, followed by transport via COP II (coat protein complex II) to the Golgi. In this place, 8S Cav-1/Cav-2 will undergo oligomerization with cholesterol forming the 70S subunit, followed by transport to plasma membrane.
+
+In the context of the BBB, HBMECs have been modified to limit the number of caveolae, thus limiting leakiness and transcytosis. One reason for this regulation is the role of Mfsd2a, which is a facilitator at the cell membrane to transport the LPC-DHA supply to the brain. In contrast with the increasing lipid content, the cell will undergo suppression of caveolae amounts. Meanwhile, elevated caveolae occurrence is a sign of pathogenesis (Table 1), indicating BBB leakiness with interaction of several other factors of transcytosis. However, attenuation of caveolae expression inhibits the expression of TJ proteins and also accelerates neurodegeneration and aging. Keeping the balance of caveolae number for appropriate amount of transcytosis has been a challenging aspect for maintaining BBB stability.
+
+Several diseases with abnormality concerning transcytosis, as well as abnormality of the Cav-1 as the component of endocytosis.
+
+Shared Developmental Pathway
+
+Vascular Endothelial Growth Factor (VEGF)
+
+Vascular endothelial growth factor (VEGF) has cytoprotective effects on ECs by preventing apoptosis, mediated through phosphatidyl inositol 3-kinase (PI3K)/Akt pathway. Action of VEGF in angiogenesis is prominent, but for maintenance at the latter stages of development, pericytes will take over this function. Instead of maintaining, VEGF reduces barrier robustness through the nitric oxide synthase (NOS)/cGMP-dependent pathway. The activation of eNOS in Human Umbilical Vein Endothelial Cells (HUVECs) is also crucial for caveolae formation. Endocytosis of VEGF receptors are also caveolae dependent, inferred from a study of leukemia cell line. In vivo retina study using Macaca fascicularis shows administration of VEGF will induce angiogenic phenotype both in ECs and pericytes, thus it might be resulting in BBB instability in adults. This side effect can be neutralized by administration of Ang1, which attenuates the activity of MMP-2 and MMP-9, without disturbing the angiogenesis in mice cerebrovascular. Activation of VEGF/PI3K/Akt pathway may induce actin reorganization in human angioma cells, a process known to be crucial for endocytosis and endosomal rearrangement. This might be one of the ways for VEGF controlling caveolae and transcytosis in the ECs. In the early symptoms of stroke and cerebral ischemia, regions of the brain can end up in hypoxic conditions. During hypoxia, VEGF will be secreted from the pericytes which affects claudin-5 and BBB integrity via paracellular pathway. Other secreted cytokines such as IL-6 and G-CSF attenuates BBB transcellular robustness via an unknown mechanism. Another study also highlights astrocytes role in BBB integrity attenuation for VEGF-A secretion during pathological condition. Balance between VEGF activities to properly upregulate transcytosis while maintaining BBB stability still needs further investigation.
+
+Platelet-Derived Growth Factor (PDGF)-B/PDGF Receptor Beta (PDGFRβ)
+
+At early stages of vessel formation, tip ECs will secrete PDGF-B to promote the recruitment of pericyte progenitor cells. This mitogen growth factor will be detected by PDGFRβ on the pericytes, leading the migration to tip ECs in the process of angiogenesis. The expression will gradually decrease following vessel maturation, but irregularities will arise in the pathological conditions of several diseases as indicated by the increasing PDGF-B expression in mature vasculature. This pathway still persists in the postnatal angiogenesis, indicating an important communication between pericytes and endothelial progenitor cells (EPCs). Lack of pericytes caused by diminished signaling of PDGF-B/PDGFRβ also showed fatality in mice phenotypes. In the neurovascular unit within adult mice, the expression of PDGFRβ exclusively persists only at pericytes, differing from humans which also retain it in general ECs. Transcription factor Foxf2 maintains PDGFRβ expression specifically in brain pericytes to support BBB integrity, indicating the role of the FOX family for maintaining the BBB. Endocytosis receptor Ephrin-B2 supports the internalization and also signaling of PDGFRβ in mice vascular smooth muscle cells, leaving room for further study in brain pericytes. Reactivation of PDGF-B/PDGFRβ signaling through administration of TGF-β can restore the function of the BBB after focal cerebral ischemia, indicating a crosstalk shared by these two pathway. In vitro experiment also showed protective effects of PDGF-BB on astrocytes through activation of antioxidant mechanism. Mice model also support this findings, emphasizing astrocytes roles to recover neuronal damage after hemorrhage. Another complementary communication is the PDGF-D/PDGFRβ signaling which is supported by the co-receptor Neuropilin1 (NRP1) in ECs. This communication involves NRP1 translocation, indicating a regulation for other pathways involving NRP1. NRP1 is also a co-receptor for the VEGF signaling pathway, indicating a crosstalk between these two pathways. NRP1 also regulates HMGB1, which induces caveolae formation in general ECs. Possibly PDGF signaling is able to manage transcytosis via this pathway, additionally activating a regular PI3K/AKT pathway for actin dynamic regulation.
+
+Transforming Growth Factor-β (TGF-β)
+
+Transforming growth factor (TGF-β) plays an important role in angiogenesis together with VEGF. These cytokines have a range of different effects on ECs depending on the conditions: TGF-β may induce apoptosis via MAPK pathway on general ECs, while VEGF will protect general ECs from apoptosis. The process of apoptosis may induce vascular remodeling, which includes vessel pruning and maturation. Thus the role of TGF-β is indispensable within normal vessels. TGF-β1 dimer starts by binding with TGF-β receptor II, followed by TGF-β receptor I. This heterotetramer complex undergoes phosphorylation, subsequently activating Smad transcription factors: Smad2/3 will be activated first, forming a heterocomplex with Co-Smad Smad4. Subsequent transport of this complex to the cell nucleus may regulate expression of target genes. Transport of TGF-β receptor in HeLa cells model is known to be dependent on clathrin and caveolae, including the novel endosomal fusion between two vesicles which are regulated by Rab5. Expression of TGF-β maintains cerebrovascular integrity by regulating N-cadherin expression in cooperation with Notch signaling. However, activation of TGF-β also upregulates α-SMA (Smooth Muscle Actin) and actin in the brain pericytes, as well as the VEGF, MMP-3, and MMP-9 which promotes barrier instability. This is an issue requiring further investigation. TGF-β expression in brain pericytes has showed upregulation via Foxf2 expression. Treatment of brain pericytes with bFGF (basic Fibroblast Growth Factor) may promote expression of desmin, vimentin, and nestin which suppress barrier leakiness. Both TGF-β and bFGF are secreted from astrocytes, further proving their role in regulating BBB functions, as well as interaction with ECs and pericytes. ECs specific TGF-β receptor III (Endoglin) the co-receptor of TGF-βRI, activates ALK1-Smad1/5/8, which can leads to vessel destabilization. In myofibroblast model, TGF-βRI activation may suppress Cav-1 expression via p38/MAPK pathway, and it’s shown to be independent to Smad activation. This dual activity of TGF-β signaling should be investigated even further in BBB.
+
+Sphingosine-1-Phosphate (S1P)
+
+Sphingosine-1-phosphate (S1P) is synthesized by two types of sphingosine kinase (Sphk 1 and 2). The HBMECs only expressed four out of five known S1P G-protein coupled receptors. S1P exposure to ECs might induce proangiogenic gene expression, cell migration, maintenance of cell proliferation, and inhibition of apoptosis. Secretion of S1P from pericytes and astrocytes to retinal microvasculature ECs will promote barrier stability through upregulation of various junctional proteins, as well as the expression of N-cadherin which promotes cell-to-cell interaction. Expression of S1P will induce activation of the PI3K/protein kinase B (Akt/PKB) pathway and also upregulate antiapoptotic Bcl-2 and downregulate proapoptotic Bim. Upregulation and dephosphorylation of the junctional molecule PECAM-1 was also observed in HUVECs. S1P and LRP1 showed synergistic effects on chemotactic migration of HBMECs. Vessel carrier effects showed by the chaperone HDL-associated ApoM may deliver S1P to the S1P1 and S1P3 receptors, promoting ECs proliferation, preventing apoptosis, and also improve barrier stability at the BBB. However, S1P3 receptor activation in astrocytes isolated from mice shows that it might activates RhoA which induces inflammatory cytokines and S1P expression, indicating an autocrine loop which participates in BBB breakdown. In HUVECs and mice model, S1P/S1P1R activity possibly have a vasoprotective effects by regulating the amount of proinflammatory adhesion proteins (in this case ICAM-1). Activation of S1P1R signaling was reported to induce translocation of N-cadherin (making the bond between general ECs and pericytes stronger), and it has also been proposed that it alters the adhesive property of N-cadherin. This activity in general ECs gives rise to complex cellular communication via various ligands interacting with a single receptor, but activated through different pathways. Loss of the S1P1R will induce BBB leakiness. Meanwhile, activation of this receptor will also contribute to the synthesis and also recovery of rat fat-pad ECs glycocalyx, which mediates vascular robustness and adsorptive-mediated transcytosis. Conversely, S1P2 receptor plays a role in suppressing the PI3K pathway which is activated via S1P1R. This inhibition is achieved through the coupling mechanism of Rho-dependent activation of PTEN phosphatase. Activation of these pathways will induce vascular permeability, promoting disruption of adherens junctions and stimulates stress fibers resulting in the leaky barrier. Interestingly, activation of the PI3K/Akt pathway by VEGF has been discovered to induce transcytosis via actin dynamics and Cav-1 activation. Multiple responses from PI3K/Akt pathway activation or suppression is indicating another regulatory pathway is necessary for a balanced transcytosis in ECs, and the outcome of this pathway may differ depending on the cell’s dynamics. A previous study using HeLa cells showed that S1P regulates transport proteins tetraspanins (CD63, CD81) and flotillin into exosomes in the process of MVEs (Multi Vesicular Endosomes) maturation. S1P also has a protective effect on general ECs and adheren junctions, as well as actin and cytoskeleton arrangement. In regulation of the synaptic system, sphingosine was shown to regulate the assembly of SNARE complex via synaptobrevin. In neurons, S1P also regulates localization of synapsin I, showing supporting activity of exocytosis process. It is currently unknown whether S1P also plays similar role in the HBMECs or BBB complex.
+
+Angiopoietin/Tyrosine Kinase With Immunoglobulin-Like and EGF-Like Domains (Ang/TIE)
+
+The mechanism of Ang/TIE pathway involves several angiopoietin ligands (Ang 1, 2, and 4 in humans) and TIE1/TIE2. Ang1 which is expressed from pericytes induces occludin expression in brain capillary ECs through TIE2 activation, thus promoting barrier tightness. Ang1 also inhibits FOXO1 activity via Akt activation in HUVECs, possibly interacting with various downstream target genes which involved in transcytosis. In vitro HUVECs study shows that after activation by Ang1, TIE2 will undergo internalization mediated by clathrin vesicles. Normally, Ang2 is not expressed in adult brain ECs, as Ang2 promotes barrier permeability via upregulation of Caveolin-1 (Cav-1). Release of Ang2 showed dependency on VAMP3 in human brain ECs. The expression of Ang1 and Ang2 will undergo changes during the normal aging process, whereby the former will be more expressed and meanwhile the latter will be suppressed. Expression of both receptors (TIE1 and TIE2) has been shown to be stable both in young ECs or adult ECs. This regulation leads to vessel stability and ECs settlement in HUVECs. Along with the senescence of HUVECs, some expression of junction proteins will be downregulated (Occludin and claudin-5), while ZO-1 will be upregulated compared to the younger ECs in vitro. A recent discovery has clarified that TIE2 receptors in human brain pericytes also play a vital role in the angiogenesis process. Silencing of TIE2 expression in pericytes will induce pro-migratory phenotypes of ECs, indicating a close reciprocal relationship (Figure 3) between pericytes and ECs. This discovery also provides a hypothetical connection between astrocytes and pericytes, since astrocytes also express Ang1 which could regulate TIE2 in pericyte membranes.
+
+Complex shared developmental pathway between ECs, pericytes, and astrocytes to regulate transcytosis in BBB. Notice the central role of PI3K, updated model of TIE2 expressed in pericytes, as well as glycocalyx role for negative membrane charge. Dashed arrows indicates downregulation, straight line arrows indicates upregulation.
+
+Notch
+
+There are four types of Notch receptor in mammals, which showed interaction with five membrane-bound ligands, Jagged1, Jagged2, and also delta-like ligand (Dll) type 1, type 3, and type 4. Both brain pericytes and HUVECs showed expression of Jagged1 during co-culture, indicating their importance in communication. Among several types of Notch receptors and ligands, only Dll4 and Notch4 specifically expressed on mammalian ECs. In mice model, stimulation of Dll4 ligand will induce EphrinB2 expression in ECs. Furthermore, pericytes lacking in EphrinB2 expression will have a defects on vessel recruitment with ECs and impaired interaction with ECM. In a study using HUVECs, upregulation of Dll4 shows inhibition to the expression of VEGFR2 and NRP1, which regulates VEGF type A pathway, suggesting a mechanism to limit the number of caveolae and transcytosis across BBB. Inhibition of Notch signaling by GSI (γ-secretase inhibitor) showed its’ effects to increase blood vessel diameter, but not the vessel length, indicating a local shear stress regulation. Brain ECs showed activity to regulate astrocytes’ GLT-1 via Notch signaling pathway, which requires close contact between cells confirmed by in vitro experiment. This brings us to question- how does Notch signaling between ECs and astrocytes occur in the BBB when ECs are enveloped by pericytes and basal lamina? It has been discovered that Dll-4 and Jagged1 can be transported for intercellular communication, by passing through the extracellular matrix. These discoveries bring our attention to the role of exosomes in signal trafficking, and that they possibly also regulate transcytosis.
+
+Factors Affecting Regulation of Transcytosis
+
+Numerous factors might have a connection, either regulating directly or indirectly the transcytosis mechanism (Figure 4). In this review we would like to highlight some factors which have been indicated to regulate either endocytosis, endosomal rearrangement, exocytosis, or components of transcytosis.
+
+Crosstalk of various factors involved in the regulation of transcytosis. Biomechanics flow sensing by multiple mechanosensor gives several types of regulatory signal, together with miRNA, ECM, physicochemical factors, and various cytokines. Dashed arrows indicates downregulation, straight line arrows indicates upregulation.
+
+Physicochemical (pH, Temperature, O2, CO2, ROS) of the Molecules and Environment
+
+Through several discoveries, physicochemical factors have been shown to play an indispensable role in balanced transcytosis in the BBB. Transcytosis via transferrin receptor showed a dependence on pH and the polarity of proteins. The release of iron also utilizes pH changes in endosomes to change the affinity between iron and transferrin. It is undetermined whether changes in pH might alter the expression of transcytosis’ components or not. A temperature shift induces membrane reorganization and actin dynamics which is cholesterol-dependent, indicating the role of temperature in governing transcytosis. Similar findings in neuron behavior highlights temperature-sensitive clathrin-independent endocytosis, which is mediated by dynamin and actin. Further investigation is required to elucidate the mechanisms behind the effects of these factors. Oxygenation upregulates SSeCKS, a cytoskeleton protein which is expressed by astrocytes to invoke BBB tightness via VEGF suppression and Ang1 stimulation. Exposure to normobaric hyperoxia also can slow BBB damage. On the other hand, hyperoxia/ROS might induce the Fas-BID apoptosis signaling cascade, which is mediated by Cav-1. Signifying balanced regulation is necessary to maintain an appropriate amount of oxygen in the BBB. Hypoxic conditions might alter the content of exosomes for intercellular signaling. It has been shown that Notch ligands transport will be upregulated during hypoxia. Hypoxia may induce oxidative stress, mainly caused by reperfusion, triggering BBB breakdown via NOX4 activation. ROS which is produced by NOX is disruptive to the BBB, and has showed a dependence on cytokines, which actively downregulate junctional proteins in BBB. ROS disrupts brain ECs’ tight junctions arrangement via RhoA/PI3K/PKB pathway. ROS also enhance the transcellular migration of monocytes across BBB, possibly due to stimulation of caveolae production via c-Src. H2O2 from ecSOD in caveolae might also promoting VEGF activity, which causing leakiness. These data indicate that ROS will increase BBB permeability through transcytosis regulation. Supplementation of alpha lipoic acid (ALA) and melatonin helps to alleviate ECs oxidative stress brain, possibly explored as the treatment.
+
+Mechanical Stress
+
+The importance of normal blood flow for healthy brain microvasculature development since infancy has been proved. Maintenance of regular blood flow by neurovascular control as well as cardiac function is prominent especially in childhood, and failure may lead to sleep-disordered breathing. The maintenance of a healthy brain in adults is also closely related to normal hemodynamics, where individuals with cardiac problems will also suffer from brain aging. Hemodynamics affect neural activity and both systems are coupled and synchronized spatiotemporally, especially in excitatory neuron activity. One of the regulators between neural activity and HBMECs is pericytes, which control the capillary diameter within the central nervous system, depending on the neurotransmitter. Pericyte activity as the regulator of blood flow in the neurovascular unit is also detected in the adult brain and during brain aging. Phenotypes such as BBB breakdown, neurodegeneration, and neuroinflammation were observed in pericyte-deficient model mice. In vitro experiments on bovine BMECs showed some proteins related to tight junction of BBB, Occludin and ZO-1 are regulated by blood flow. When there is a higher shear stress, the expression will also be upregulated, and this process is dependent on cyclic strain. Mechanical stress has been shown to regulate cell behavior and other factors involving transcytosis. Shear stress affects the production of NO, independent of intracellular calcium. A recent discovery is that there is a close reciprocal connection between Hippo pathway (mechanosensory pathway) and caveolae. It has been elucidated that caveolae are regulating the mechanosensory action of cells, and they affect the expression of YAP/TAZ which is the transcription factor of Cav-1 and Cavin1. Shear stress also affects vessel growth by regulating miRNA expression. Reduced blood flow will alter ion homeostasis and receptor-mediated transcytosis of insulin at the BBB, but not significantly altered the paracellular transports. Pericyte ability to express α-SMA indicates the cell have a contractile ability for regulating blood vessel diameter and blood flow. In some study, effects of mechanical stress to the cell permeability has been well-elucidated. One example is in the renal epithelial cells, where fluid shear stress modulated the endocytosis via mTOR pathway. In the HUVECs, shear stress affects the endocytosis through PECAM-1 via various pathways depending on the binding of distinct epitopes.
+
+It is indeed a result from specialization that HBMECs behave differently under exposure to shear stress compared to HUVECs as the representative of other ECs. HBMECs can maintain a cobblestone-like appearance under high shear stress, and most likely this mechanism is to minimize the paracellular transport by minimizing the length of tight junctions. The detailed explanation needs to be studied even further. In HBMECs, Mfsd2a (Major Facilitator Superfamily Domain Containing 2A) has been known to facilitate the uptake of DHA into brain as well as maintaining low rates of transcytosis in the cerebrovascular units. By transporting DHA inside the cells, the caveolae vesicles formation can be inhibited by intracellular lipid concentration, thus promoting BBB integrity. Mfsd2a expression is shown to be downregulated by the metastatic brain tumor to disrupt BBB integrity and lipid metabolism. Another study also showed a lethal microcephaly phenotype was shown in the absence of Mfsd2a. The expression of Mfsd2a showed partial dependency to LXR/Srebp1 and Srebp2. Interestingly, shear stress was shown to activate Srebp1 splicing mediated by integrins in EC. SREBP splicing is also showed dependency to shear stress through S1P and S2P activation, allowing SREBP(N) to translocates into nucleus and activating SRE-mediated genes. Inferred from this pathway, this hypothesis opens up a possibility for explaining how mechanotransduction may affecting transcytosis. In astrocytes, mechanical stress is positively regulating the expression of GFAP. P2Y2 and P2Y4 are the mediators of calcium signaling in astrocytes, which also colocalize with GFAP. These calcium receptors are dependent to caveolae regulation, suggesting a crosstalk between these factors to transcytosis process in astrocytes, as well as feedback regulation for promoting caveolae formation.
+
+Basement Membrane and Junctions Remodeling
+
+Close contacts between neurovascular units are maintained through several ways. One of them is the peg-socket junctional complex, where the pericytes act like a peg and are inserted into EC’s sockets through facilitation of proteins, such as N-cadherin and connexin 43 (CX43) hemichannels. Hemichannels are membrane protein structures which are coupled to each other in adjacent cells, providing a channel for signaling molecules and exchange of metabolites. The roles of CX43 as hemichannel between pericytes and ECs has been clearly elucidated. It has a crucial part in the maintenance of intercellular communication between pericytes and ECs, consequently promoting stability of barrier properties. Inactivity of CX43 expression may leads to pericytes detachment and activation of ECs apoptosis. Gap junction alteration as part of tissue remodeling also contributes to alteration of transcytosis. During inflammation, expression of Cx43 and Cav-3 in astrocytes will be downregulated via iNOS activity. Cx43 as the regulator of gap junctions has also showed interaction with Cav-1/Cav-2 during transcytosis, however its relation with Cav-3 still has not been elucidated, leaving room for further study. N-cadherin is one of the transmembrane glycoproteins that is expressed by ECs, together with VE-cadherin. While VE-cadherin is indispensable for vascular morphogenesis, N-cadherin is essential to the process of vascular maturation through pericytes recruitment. The regulation of N-cadherin is closely connected to the S1P pathway, where the activation of S1P1R will promote N-cadherin-dependent of the pericyte-EC connection. Albumin also plays a crucial role in the transcytosis of myeloperoxidase (MPO) via caveolae-albumin binding proteins (ABPs). MPO itself will be localized at fibronectin and induce nitration of ECM, thus promoting the tissue remodeling by binding with adhesion plaques. The expression of Cav-1 was upregulated after the induction of juvenile traumatic brain injury (jTBI), demonstrating signs of BBB repair attempts. Upregulation of MMP-2 and MMP-9 expression was the result of the decreased amount of Cav-1, together with downregulation of TJ protein ZO-1. Rescue experiment using NOS inhibitor showed reserved expression of Cav-1, inhibition of MMPs activity, and restored BBB integrity. Pericytes may induce rapid localized MMP-9 activity during ischemia. MMP-2 is the major contributor to occludin degeneration, meanwhile Cav-1 actively redistributes claudin-5. BBB stabilization through astrocytic laminin (laminins-111 and -211) secretion occurs through pericytes’ integrin α2 (ITGA2) binding. Lack of astrocytic laminins may induce pericytes into contractile form, which compromise BBB integrity. Consequently, all these data represent exemplary cases of how basal lamina might regulate BBB transcytosis.
+
+Various Cytokines
+
+The cytokine family contains the key molecules for cellular signaling. The exchange of cytokines between ECs, pericytes, and astrocytes are necessary to maintain BBB integrity, especially in the process of transcytosis. Discovery of the cytokines related to transcytosis is continuously studied, for example the CTRP5, which promotes LDL transcytosis. It is indeed interesting that several pro-inflammatory cytokines are shown to be promoting transcytosis, one example is the HMGB1 which promotes albumin transcytosis through activation of Src and Cav-1 phosphorylation. Which bring us to question: what about dual-functioning cytokines? And also the anti-inflammatory cytokines?
+
+Cytokine signaling has also showed a dependence on the transcytosis process. One case of this phenomenon is the trafficking of IL-11, which is known to maintain barrier function at the intestinal epithelium. Trafficking of IL-11 through IL-11R1 showed a unidirectional transcytosis process, and IL-11R1/2 also controls redirection of gp130 to the apical part of the cells. Following gp130, one of the inhibitors of the JAK/STAT pathway, the SOCS3 was showed to have another function in the stabilization of cavin-1. In return, cavin-1 also modulate SOCS3 ability to inhibit IL-6 signaling via cAMP. In this case we can see clearly how cytokines might alter cell-signaling processes, regulating transcytosis and at the same time was also showed dependency on the transcytosis process. Further investigation should be conducted regarding the way cytokines might alter endosomal rearrangement, including whether the quantity of cytokines exposure plays a part in transcytosis, and vice versa.
+
+miRNA Intercellular Transport (EC, Pericytes, Astrocytes)
+
+miRNA is another factor which is both regulating and regulated by transcytosis. It has been proven to actively contribute in cell-to-cell communication, a process heavily relying on transcytosis, mainly through EVs. During diabetic complication located on the limb, miR-503 through the shedding of microparticles (MPs) is transferred from ECs to pericytes, resulting in pericyte detachment and increased vessel permeability. Cav-1 downregulation by miR-192 is also observed in synovial tissue fibroblast-like cells, as well as another miR-199a-5p targeting clathrin in cancer cells. It is plausible to see whether miRNA also regulates BBB permeability and transcytosis, given the specialization of HBMECs and the neurovascular unit. An attempt has been made to characterize miR-155 effects on HBMECs, further research should be arranged to see the combined interaction when co-cultured with astrocytes and pericytes, or in vivo study. Previous study showed pericytes capability to regulate vasculogenesis by secreting miRNA targeting Fli1. Astrocytes through EVs of cytokines (TNF-α and IL-1β) also regulates miR-501-3p which disrupts tight junction. Another study showed miR-107, which endogenously expressed in ECs but also present in the cerebrospinal fluid, may protect BBB robustness from amyloid-beta, effects of miRNA also supports recovery after intracerebral hemorrhage. In contrast, there are also miRNA with BBB disrupting activities, for example miR-155 disrupting tight junction protein expression, and miR-181c which secreted by cancer cells. There have been several findings where miRNA was alternating the course of signaling pathway related to BBB transcytosis, mainly VEGF, Ang/Tie, PDGFRβ, and TGF-beta. miRNA was also showed to interact with other factors concerning transcytosis, especially mechanotransduction pathway and cytokines expression. Altogether, miRNA functions and transport system might be one of the factors affecting and also affected by transcytosis. Further research is needed to elucidate the detail mechanism and interaction in order to design an effective treatment strategy.
+
+Conclusion: Future Applications and Perspectives
+
+By exploring factors of transcytosis which have been described above, we can apply the knowledge to the development of drug design and also BBB-on-a-chip.
+
+Drug Therapy Design
+
+One of the obstacles for brain disease treatment is the special design and low permeability of the BBB which requires customized drug design. This design will enable drugs to be taken for transport, which mainly involves caveolae-dependent transcytosis. Several candidates have been tested as potential protagonists of Cav-1, which upregulates caveolae formation (Table 2). Nevertheless, specific protagonists of Cav-1 still have not been found, requiring future study. Targeting the growth factor receptor also seems promising for inducing caveolae formation, even though specificity and delivery should be considered. There are also agents targeting other receptors which may have an indirect effects to caveolae formation (Table 2). Targeting S1P1R might induce small molecule selective of BBB opening, indicating a possibility for drug administration. Recent study successfully create a temperature sensitive liposome utilizing hyperthermia, and conjugated cation transporter which utilize ECs’ glycocalyx negative charge. Inactivating P-gp remains a challenge to prevent drug efflux, and a recent study showed it can be internalized due to ROS activation dependent on Cav-1, consequently emphasizing the control of transcytosis upregulating factors to drug therapy strategies.
+
+Some signaling receptors, along with the characteristics of endocytosis, exocytosis (if available), protagonist, and antagonist molecules.
+
+Signaling pathway membrane receptors	Endocytosis characteristics	Exocytosis characteristics	Protagonist	Antagonist	Relation to phenotype observed	 	TGF-βR I	Novel clathrin/caveolae dependent 		CTGF, SDC2 TGF-β	SB431542, A 83-01 	In homozygous KO mice, lethality was observed. Severe hemorrhage and abnormal vessel development was also present 	 	VEGFR 1	Caveolae dependent 		VEGF-A;B	Sunitinib, Pazopanib, Axitinib 	Lack of this receptor induced by tamoxifen may cause increased angiogenesis, upregulation of VEGFR2 expression, but non-significant BBB Permeability. It also cause lethality in germline mice.	 	VEGFR 2	Caveolae dependent 		VEGF-A;C;D;E, Gremlin,	Monomeric GremlinC141A, Sorafenib, Sunitinib, Pazopanib, Vandetanib, Axitinib 	Deficient of blood-island formation and vasculogenesis was observed in the KO mice, in heterozygous KO mice, angiogenesis was perturbed 	 	S1P1R	Clathrin dependent, Caveolae dependent 		Fingolimod, Ponesimod 	CYM5442, NIBR-0213, AD2900 	Knockout mice showed lethality and severe hemorrhage since infancy 	 	TIE2	Clathrin dependent Caveolae dependent 		ANG1, ANG4	ANG2, ANG3	Global deletion will cause lethality to mice embryo, pericytes specific deletion may cause developmental delay and abnormal vessel maturation 	 	Dll4	Clathrin dependent 	Exosomal markers: LAMP1 TSG101 Rab5 		Dll4-Fc, MEDI0639 	Heterozygous deletion will induce arteriovenous malformation and haploinsufficient lethality in mice 	 	Notch	Clathrin dependent 			Egfl7 	Lack of Notch1 in KO mice cause lethality, meanwhile artery enlargement and vein underdevelopment was observed in heterozygous KO 	 	G Protein-Coupled Receptor (GPCR)	Clathrin dependent Caveolae dependent 		GRI977143, kynurenic acid, 3-methoxycatechol	GDP-β-S	In GPR124 KO mice, embryonic lethality, with abnormality in CNS vascular and BBB was observed 	 	EphrinB2	Clathrin dependent 		EphA4	Dasatinib 	Blocking of EphrinB2 may inhibit angiogenesis in brain via VEGFR2 regulation, global deletion causes defective angiogenesis especially in the head region, and also lethality in embryonic mice.	 	PDGFR- β	EphB2-Caveolae dependent EphB2-null-Clathrin dependent			Sorafenib, Sunitinib 	Knockout mice showed excessive bleeding, hypoplasia of vascular smooth muscle cells in larger vessel, and lack of pericytes in microvasculature 	 	Cav-1	-		PPARγ, Pioglitazone Chlorogenic acid derivatives 	Lovastatin and/or Celecoxib GGTI-286 Incadronate 	Knockout mice showed loss of Cav-2 expression, endocytosis defect, hyper-proliferation and abnormal vascular development 	 	Caveolae-mediated endocytosis	-			MβCD Nystatin 	-	 	Clathrin-mediated endocytosis	-			Dynasore 	-
+
+BBB-on-a-Chip
+
+The organ-on-a-chip offers a possibility to create a model closer to the human body than animal models and conventional cell culture models. One of the primary applications for BBBoC is the drug-testing field, to observe cytotoxicity and pharmacodynamics. It is also useful to study physiological interactions and responses from multiple organs. With relatively simple steps, and also time- and money-saving aspects, the organ-on-a-chip is the future model for experimentation and study models in the field of life science. Elucidation regarding transcytosis factors on the BBB will support establishment of BBBoC. For instance, a fruitful approach was taken by, where a three-dimensional (3D) tetra-culture was made using combined construct of gel-cell matrix, phase guide, and perfusion of medium. The usage of phase guide which composed of capillary pressure barriers enable the separation of gel and fluid phases. Thus, the construction of membrane-free substrate for endothelial cell attachment was made possible, initiated by gel-cell polymerization which contained mix culture of microglia, astrocytes, and neuroblastoma combined to extracellular matrix that comprised of collagen. Cell seeding of ECs with perfused medium was done to mimics the shear stress and blood flow, which resulted in the development of neurovascular unit by ECs and gel-cell matrix (Figure 5). The permeability and integrity of BBBoC was tested by using AChE activity, viability, and residual organo phosphates (OPs) assay, which were known to be toxic and came across the brain through the BBB in vivo. Positive points of this model are the utilization of four types of cell which present in vivo, relatively normal permeability, and closely mimics the neurovascular unit. Some consideration that should be made is regarding the inability to measure TEER because of the difficulty to insert the electrodes, and another thing is the extracellular matrix which only comprised of collagen, whereas the in vivo extracellular matrix also comprised of fibronectin and gelatin. In conclusion, the field of BBBoC still has many possibilities for future development and integration to the body-on-a-chip system. BBBoC is a promising construct that may answer and serves as the future study model in many fields of life science.
+
+Illustration of BBBoC for drug or toxic compound testing. Interaction between various components of the BBB will regulate transcytosis resembling in vivo conditions. Reproduced with permission and courtesy of Yeoheung Yun. (A) Diagram of BBBoC design with inlet and outlet for medium flow. (B) Steps of cell seeding and gel-cell matrix formation. (C) Established model of BBBoC in this study.
+
+Taken together, the whole study regarding factors of transcytosis in BBB still needs further exploration, especially regarding crosstalk between factors, context of environment and nutrition, as well as pathogenesis stimulation. With these factors in mind, application development will be more effective and efficient.
+
+Author Contributions
+
+MT, YW, CD, and GW contributed conception and design of the study. NW and ZH organized the literature. VV performed the design of figures. MT wrote the first draft of the manuscript. All authors contributed to manuscript revision, read and approved the submitted version.
+
+Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Funding. The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article. The work was supported by grants from the National Natural Science Foundation of China (11572064, 31971242, and 31771599), the National Key Technology R&D Program of China (2016YFC1102305), and Chongqing Science and Technology Bureau (cstc2019kjrc).
+
+References
+
+Astrocyte-endothelial interactions at the blood-brain barrier.
+
+Organ-on-a-chip platforms?: a convergence of advanced materials. cells, and microscale technologies.
+
+Capillary pericytes express α-smooth muscle actin, which requires prevention of filamentous-actin depolymerization for detection.
+
+Level of PICALM, a key component of clathrin-mediated endocytosis, is correlated with levels of phosphotau and autophagy-related proteins and is associated with tau inclusions in AD. PSP and Pick disease.
+
+Blood-brain barrier permeability is regulated by lipid transport-dependent suppression of caveolae-mediated transcytosis.
+
+Astrocyte-derived VEGF-A drives blood-brain barrier disruption in CNS inflammatory disease.
+
+Pericytes regulate the blood-brain barrier.
+
+Caveolin expression changes in the neurovascular unit after juvenile traumatic brain injury?: signs of blood – brain barrier healing?
+
+Alpha lipoic acid improves endothelial function in mice subjected to chronic intermittent hypoxia.
+
+Cavin-1 regulates caveolae-mediated LDL transcytosis: crosstalk in an AMPK/eNOS/NF-kB/Sp1 loop.
+
+Pericytes contribute to the disruption of the cerebral endothelial barrier via increasing VEGF expression?: implications for stroke.
+
+Endothelial transcytosis of myeloperoxidase confers specificity to vascular ECM proteins as targets of tyrosine nitration.
+
+Eph receptors and ephrins: therapeutic opportunities.
+
+Endothelial progenitor cells induce a phenotype shift in differentiated endothelial cells towards PDGF / PDGFR b axis-mediated angiogenesis.
+
+Discovery of super soft-drug modulators of sphingosine-1-phosphate receptor 1.
+
+Article pericytes control key neurovascular functions and neuronal phenotype in the adult brain and during brain aging.
+
+Stretch and shear interactions affect intercellular junction protein expression and turnover in endothelial cells.
+
+Reduced connexin 43 expression and its effect on the development of vascular lesions in retinas of diabetic mice.
+
+Oligomerized Tie2 localizes to clathrin-coated pits in response to angiopoietin-1.
+
+Localized delivery of therapeutic doxorubicin dose across the canine blood-brain barrier with hyperthermia and temperature sensitive liposomes.
+
+Endothelial microparticle formation by angiotensin II is mediated via ang II receptor type I/NADPH Oxidase/rho kinase pathways targeted to lipid rafts.
+
+PDGF-BB preserves mitochondrial morphology, attenuates ros production, and upregulates neuroglobin in an astrocytic model under rotenone insult.
+
+Role of plasma membrane caveolae/Lipid rafts in VEGF-induced redox signaling in human leukemia cells.
+
+P75NTR-dependent activation of NF-κB regulates microRNA-503 transcription and pericyte-endothelial crosstalk in diabetes after limb ischaemia.
+
+Pro-inflammatory TNF α and IL-1 β differentially regulate the inflammatory phenotype of brain microvascular endothelial cells.
+
+NOX4-dependent neuronal autotoxicity and BBB breakdown explain the superior sensitivity of the brain to ischemic damage.
+
+Loss of Caveolin-1 in metastasis-associated macrophages drives lung metastatic growth through increased angiogenesis.
+
+Loss of parkin promotes lipid rafts-dependent endocytosis through accumulating caveolin-1: Implications for Parkinson’s disease.
+
+VEGF-induced expression of miR-17-92 cluster in endothelial cells is mediated by ERK/ELK1 activation and regulates angiogenesis.
+
+The lysolipid transporter Mfsd2a regulates lipogenesis in the developing brain.
+
+Agonists and antagonists of the TGF-β family.
+
+Caveolae-mediated albumin transcytosis is enhanced in dengue-infected human endothelial cells: a model of vascular leakage in dengue hemorrhagic fever.
+
+TNFα and IL-1β modify the miRNA cargo of astrocyte shed extracellular vesicles to regulate neurotrophic signaling in neurons article.
+
+MicroRNA-155 regulates ROS production, NO generation, apoptosis and multiple functions of human brain microvessel endothelial cells under physiological and pathological conditions.
+
+Reciprocal regulation of eNOS and Caveolin-1 functions in endothelial cells.
+
+Mechanism for the endocytosis of spherical nucleic acid nanoparticle conjugates.
+
+Cav-1 (Caveolin-1) and arterial remodeling in adult moyamoya disease.
+
+Methylphenidate-triggered ROS generation promotes caveolae-mediated transcytosis via Rac1 signaling and c-Src-dependent caveolin-1 phosphorylation in human brain endothelial cells.
+
+Cyclic strain – mediated regulation of vascular endothelial occludin and ZO-1 influence on intercellular tight junction assembly and function.
+
+Notch1 is required for the coordinate segmentation of somites.
+
+GPR124, an orphan G protein-coupled receptor, is required for CNS-specific vascularization and establishment of the blood-brain barrier.
+
+Transforming growth factor ? -induced Smad1 / 5 phosphorylation in epithelial cells is mediated by novel receptor complexes and is essential for anchorage-independent growth.
+
+Angiopoietin-1 modulates endothelial cell function and gene expression via the transcription factor FKHR (FOXO1).
+
+Sphingosine facilitates SNARE complex assembly and activates synaptic vesicle exocytosis.
+
+Notch signaling pathway is a potential therapeutic target for extracranial vascular malformations.
+
+Fast, temperature-sensitive and clathrin-independent endocytosis at central synapses.
+
+MicroRNA-30 mediates anti-inflammatory effects of shear stress and KLF2 via repression of angiopoietin 2.
+
+Brain pericytes increase the lipopolysaccharide-enhanced transcytosis of HIV-1 free virus across the in vitro blood – brain barrier?: evidence for cytokine-mediated pericyte-endothelial cell crosstalk.
+
+Sphingosine 1-phosphate receptor 3 and RhoA signaling mediate inflammatory gene expression in astrocytes.
+
+Critical role of S1PR1 and integrin β4 in HGF/c-Met-mediated increases in vascular integrity.
+
+MicroRNA-150 regulates blood-brain barrier permeability via Tie-2 after permanent middle cerebral artery occlusion in rats.
+
+C9ORF72, implicated in amytrophic lateral sclerosis and frontotemporal dementia, regulates endosomal trafficking.
+
+Shedding light on the neonatal brain?: probing cerebral hemodynamics by diffuse optical spectroscopic methods.
+
+The biology of VEGF and its receptors.
+
+Transforming growth angiogenesis through vascular endothelial growth factor (VEGF) -mediated apoptosis.
+
+The role(s) of astrocytes and astrocyte activity in neurometabolism, neurovascular coupling, and the production of functional neuroimaging signals.
+
+Ephrin-B2 controls cell motility and adhesion during blood-vessel-wall assembly.
+
+Tiam-Rac signaling mediates trans-endocytosis of ephrin receptor EphB2 and is important for cell repulsion.
+
+PDGF-A and PDGF-B induces cardiac fi brosis in transgenic mice.
+
+HDL-bound sphingosine 1-phosphate acts as a biased agonist for the endothelial cell receptor S1P 1 to limit vascular inflammation.
+
+Increased caveolin-1 expression in Alzheimer’s disease brain.
+
+Hypoxia inducible factor-1α potentiates jagged 1-mediated angiogenesis by mesenchymal stem cell-derived exosomes.
+
+Caveolin-1 regulates nitric oxide-mediated matrix metalloproteinases activity and blood–brain barrier permeability in focal cerebral ischemia and reperfusion injury.
+
+MicroRNA-352 regulates collateral vessel growth induced by elevated fluid shear stress in the rat hind limb.
+
+Inactivating mutations in MFSD2A, required for omega-3 fatty acid transport in brain, cause a lethal microcephaly syndrome.
+
+MiRNA-29c regulates the expression of inflammatory cytokines in diabetic nephropathy by targeting tristetraprolin.
+
+Angiopoietin - 2 - induced blood – brain barrier compromise and increased stroke size are rescued by VE - PTP - dependent restoration of Tie2 signaling.
+
+Flow shear stress differentially regulates endothelial uptake of nanocarriers targeted to distinct epitopes of PECAM-1.
+
+Biogenesis of caveolae: Stepwise assembly of large caveolin and cavin complexes.
+
+Internalization of the TGF-β type i receptor into caveolin-1 and EEA1 double-positive early endosomes.
+
+Loss of caveolin-1 accelerates neurodegeneration and aging.
+
+Role of PDGF-B and PDGFR- β in recruitment of vascular smooth muscle cells and pericytes during embryonic blood vessel formation in the mouse.
+
+Atheroprotective communication between endothelial cells and smooth muscle cells through miRNAs.
+
+Phosphatidylserine dictates the assembly and dynamics of caveolae in the plasma membrane.
+
+Elevated vascular endothelial growth factor receptor-2 abundance contributes to increased angiogenesis in vascular endothelial growth factor receptor-1-deficient mice.
+
+Reduced Ang2 expression in aging endothelial cells.
+
+Effect of reduced flow on blood – brain barrier transport systems.
+
+A pericyte-derived angiopoietin-1 multimeric complex induces occludin gene expression in brain capillary endothelial cells through Tie-2 activation in vitro.
+
+Oxidative stress-induced activation of Abl and Src kinases rapidly induces P-glycoprotein internalization via phosphorylation of caveolin-1 on tyrosine-14, decreasing cortisol efflux at the blood–brain barrier.
+
+TIE2 associates with caveolae and regulates caveolin-1 to promote their nuclear translocation.
+
+MiR-199a-5p suppresses tumorigenesis by targeting clathrin heavy chain in hepatocellular carcinoma.
+
+Inhibition of caveolin-1 expression by incadronate in PC-3 prostate cells.
+
+Abrogated Caveolin-1 expression via histone modification enzyme Setdb2 regulates brain edema in a mouse model of influenza-associated encephalopathy.
+
+MEDI0639: a novel therapeutic antibody targeting Dll4 modulates endothelial cell function and angiogenesis in vivo.
+
+Blocking VEGF/Caveolin-1 signaling contributes to renal protection of fasudil in streptozotocin-induced diabetic rats.
+
+Ongoing activation of sphingosine 1-phosphate receptors mediates maturation of exosomal multivesicular endosomes.
+
+Abnormal intracellular calcium signaling and SNARE-dependent exocytosis contributes to SOD1G93A astrocyte-mediated toxicity in amyotrophic lateral sclerosis.
+
+Interaction between transcellular and paracellular water transport pathways through Aquaporin 5 and the tight junction complex.
+
+Functional antagonism of sphingosine-1-phosphate receptor 1 prevents cuprizone-induced demyelination.
+
+Artery and vein size is balanced by Notch and ephrin B2/EphB4 during angiogenesis.
+
+Sphingosine 1-phosphate may be a major component of plasma lipoproteins responsible for the cytoprotective actions in human umbilical vein endothelial cells.
+
+Stepwise recruitment of transcellular and paracellular pathways underlies blood-brain barrier breakdown in stroke.
+
+Relationship between vascular resistance and sympathetic nerve fiber density in arterial vessels in children with sleep disordered breathing.
+
+Three-dimensional (3D) tetra-culture brain on chip platform for organophosphate toxicity screening.
+
+L-Carnitine-conjugated nanoparticles to promote permeation across blood–brain barrier and to target glioma cells for drug delivery via the novel organic cation/carnitine transporter OCTN2.
+
+Haploinsufficient lethality and formation of arteriovenous malformations in Notch pathway mutants.
+
+Endothelial cell senescence is associated with disrupted cell-cell junctions and increased monolayer permeability.
+
+α-Synuclein pre-formed fibrils impair tight junction protein expression without affecting cerebral endothelial cell function.
+
+High-density lipoprotein stimulates endothelial cell migration and survival through sphingosine 1-phosphate and its receptors.
+
+Physiology of the blood–brain barrier and mechanisms of transport across the BBB
+
+Discovery of microvascular miRNAs using public gene expression data: MiR-145 is expressed in pericytes and is a regulator of Fli1.
+
+Abnormal angiogenesis but intact hematopoietic potential in TGF-β type I receptor-deficient mice.
+
+Brain endothelial cells induce astrocytic expression of the glutamate transporter GLT-1 by a Notch-dependent mechanism.
+
+SSeCKS regulates angiogenesis and tight junction formation in blood-brain barrier.
+
+Upregulation of caveolin-1 by mulberry leaf extract and its major components, chlorogenic acid derivatives, attenuates alcoholic steatohepatitis: via inhibition of oxidative stress.
+
+Endothelial Wnt/β-catenin signaling reduces immune cell infiltration in multiple sclerosis.
+
+High glucose-induced downregulation of connexin 43 expression promotes apoptosis in microvascular endothelial cells.
+
+CTRP5 promotes transcytosis and oxidative modification of low-density lipoprotein and the development of atherosclerosis.
+
+Endothelial Smad4 maintains cerebrovascular integrity by activating N-Cadherin through cooperation with Notch.
+
+MicroRNA-192 suppresses cell proliferation and induces apoptosis in human rheumatoid arthritis fibroblast-like synoviocytes by downregulating caveolin 1.
+
+Normobaric hyperoxia slows blood-brain barrier damage and expands the therapeutic time window for tissue-type plasminogen activator treatment in cerebral ischemia.
+
+Lipopolysaccharide-induced inhibition of connexin43 gap junction communication in astrocytes is mediated by downregulation of caveolin-3.
+
+Activation of β-catenin signalling by GSK-3 inhibition increases p-glycoprotein expression in brain endothelial cells.
+
+Sphingosine kinase-1 enhances endothelial cell survival through a PECAM-1-dependent activation of PI-3K/Akt and regulation of Bcl-2 family members.
+
+Rho-ROCK-LIMK-cofilin pathway regulates shear stress activation of sterol regulatory element binding proteins.
+
+Pericyte loss and microaneurysm formation in PDGF-B-deficient mice.
+
+Matrix metalloproteinase-2-mediated occludin degradation and caveolin-1-mediated claudin-5 redistribution contribute to blood-brain barrier damage in early ischemic stroke stage.
+
+MicroRNA-107 prevents amyloid-beta induced blood-brain barrier disruption and endothelial cell dysfunction by targeting Endophilin-1.
+
+Shear stress activation of SREBP1 in endothelial cells is mediated by integrins.
+
+Edg-1, the G protein-coupled receptor for sphingosine-1-phosphate, is essential for vascular maturation.
+
+Proximal tubule apical endocytosis is modulated by fluid shear stress via an mTOR-dependent pathway.
+
+Caveolin1 is required for Th1 cell infiltration, but not tight junction remodeling, at the blood-brain barrier in autoimmune neuroinflammation.
+
+Resting-state hemodynamics are spatiotemporally coupled to synchronized and symmetric neural activity in excitatory neurons.
+
+NRP1 regulates HMGB1 in vascular endothelial cells under high homocysteine condition.
+
+Human organ-specific endothelial cell heterogeneity human organ-specific endothelial cell heterogeneity.
+
+VEGF increases permeability of the blood-brain barrier via a nitric oxide synthase/cGMP-dependent pathway.
+
+Pericyte-derived sphinogosine 1-phosphate induces the expression of adhesion proteins and modulates the retinal endothelial cell barrier.
+
+Notch ligand endocytosis generates mechanical pulling force dependent on dynamin. epsins, and actin.
+
+transcytosis of IL-11 and apical redirection of gp130 is mediated by IL-11α receptor.
+
+Intracellular transcytosis of albumin in glomerular endothelial cells after endocytosis through caveolae.
+
+Neuropilin 1 binds PDGF-D and is a co-receptor in PDGF-D-PDGFRβ signaling.
+
+Vascular endothelial growth factor (VEGF) receptors: drugs and new inhibitors.
+
+Expression of endothelial phosphorylated caveolin-1 is increased in brain injury.
+
+Ephrin-B2 controls PDGFRβ internalization and signaling.
+
+Mfsd2a is a transporter for the essential omega-3 fatty acid docosahexaenoic acid.
+
+Impaired angiogenesis and altered Notch signaling in mice overexpressing endothelial Egfl7.
+
+Impaired tumor growth and angiogenesis in mice heterozygous for Vegfr2 (Flk1).
+
+Hemichannels in the neurovascular unit and white matter under normal and inflamed conditions.
+
+Extracellular SOD-derived H2O2 promotes VEGF signaling in caveolae/lipid rafts and post-ischemic angiogenesis in mice.
+
+Sphingosine 1-phosphate receptor regulation of N-cadherin mediates vascular stabilization.
+
+Lipid rafts/caveolae as microdomains of calcium signaling.
+
+Prostaglandin E2 Impairs P2Y2/P2Y4 receptor signaling in cerebellar astrocytes via EP3 receptors.
+
+Microtubules deform the nuclear membrane and disrupt nucleocytoplasmic transport in Tau-mediated frontotemporal dementia.
+
+Melatonin protects against oxygen and glucose deprivation by decreasing extracellular glutamate and Nox-derived ROS in rat hippocampal slices.
+
+Bidirectional control of CNS capillary diameter by pericytes.
+
+Stealth and cationic nanoliposomes as drug delivery systems to increase andrographolide BBB permeability.
+
+The pathophysiologic role of VEGF in hematologic malignancies?: therapeutic implications review in translational hematology the pathophysiologic role of VEGF in hematologic malignancies?: therapeutic implications.
+
+Transcytosis to cross the blood brain barrier, new advancements and challenges.
+
+Targeted drug delivery via the transferrin receptor-mediated endocytosis pathway.
+
+A potent and selective S1P1 antagonist with efficacy in experimental autoimmune encephalomyelitis.
+
+The hippo pathway regulates caveolae expression and mediates flow response via caveolae.
+
+Caveolin-1 null mice are viable but show evidence of hyperproliferative and vascular abnormalities.
+
+Endocytosis of ligand-activated Sphingosine 1-Phosphate receptor 1 mediated by the Clathrin-pathway.
+
+Human brain microvascular endothelial cells resist elongation due to shear stress.
+
+Foxf2 is required for brain pericyte differentiation and development and maintenance of the blood-brain barrier.
+
+Sphingosine-1-Phosphate (S1P) impacts presynaptic functions by regulating Synapsin I localization in the presynaptic compartment.
+
+Downregulation of blood-brain barrier phenotype by proinflammatory cytokines involves NADPH oxidase-dependent ROS generation: consequences for interendothelial adherens and tight junctions.
+
+Actin dynamics drive membrane reorganization and Scission in Clathrin-independent endocytosis.
+
+HDL-associated ApoM is anti-apoptotic by delivering sphingosine 1-phosphate to S1P1 & S1P3 receptors on vascular endothelium.
+
+Cardiac hemodynamics are linked with structural and functional.
+
+A human blood-brain barrier transcytosis assay reveals antibody transcytosis influenced by ph-dependent receptor binding.
+
+Spreading depolarizations trigger caveolin-1–dependent endothelial transcytosis.
+
+Induction of vascular permeability by the sphingosine-1-phosphate receptor-2 (S1P2R) and its downstream effectors ROCK and PTEN.
+
+SMAD-independent down-regulation of caveolin-1 by TGF-β: Effects on proliferation and survival of myofibroblasts.
+
+Ephrin-B2 regulates VEGFR2 function in developmental and tumour angiogenesis.
+
+Reactive oxygen species alter brain endothelial tight junction dynamics via RhoA. PI3 kinase, and PKB signaling.
+
+Failure of blood-island formation and vasculogenesis in Flk-1-deficient mice.
+
+High mobility group box protein 1 boosts endothelial albumin transcytosis through the RAGE/Src/Caveolin-1 pathway.
+
+Dll4-containing exosomes induce capillary sprout retraction in a 3D microenvironment.
+
+New mechanism for Notch signaling to endothelium at a distance by Delta-like 4 incorporation into exosomes.
+
+PDGFR-β restores blood-brain barrier functions in a mouse model of focal cerebral ischemia.
+
+The protective role of sphingosine-1-phosphate against the action of the vascular disrupting agent combretastatin A-4 3-O-phosphate.
+
+Inhibition of Caveolin-1 Restores Myeloid Cell Function in Human Glioblastoma.
+
+D114, a novel Notch ligand expressed in arterial endothelium.
+
+The novel sphingosine-1-phosphate receptors antagonist AD2900 affects lymphocyte activation and inhibits T-cell entry into the lymph nodes.
+
+Caveolin-1 regulates expression of junction-associated proteins in brain microvascular endothelial cells.
+
+Differentiation and characterization of human pluripotent stem cell-derived brain microvascular endothelial cells.
+
+Chip in a lab: Microfluidics for next generation life science research.
+
+Alteration of circulating miRNAs in SSc: MiR-30b regulates the expression of PDGF receptor β.
+
+Pericyte-expressed Tie2 controls angiogenesis and vessel maturation.
+
+The impact of pericytes on the blood-brain barrier integrity depends critically on the pericyte differentiation stage.
+
+Oxidative stress and endoplasmic reticulum (ER) stress in the development of neonatal hypoxic–ischaemic brain injury.
+
+Downregulation of Connexin 43 promotes vascular cell loss and excess permeability associated with the development of vascular lesions in the diabetic retina.
+
+N-cadherin deficiency impairs pericyte recruitment, and not endothelial differentiation or sprouting, in embryonic stem cell-derived angiogenesis.
+
+Albumin mediates the transcytosis of myeloperoxidase by means of caveolae in endothelial cells.
+
+Metastatic brain tumors disrupt the blood-brain barrier and alter lipid metabolism by inhibiting expression of the endothelial cell fatty acid transporter Mfsd2a.
+
+Brain metastatic cancer cells release microRNA-181c-containing extracellular vesicles capable of destructing blood-brain barrier.
+
+MicroRNA-mediated therapy modulating blood-brain barrier disruption improves vascular cognitive impairment.
+
+Pericytes as inducers of rapid, matrix metalloproteinase-9-dependent capillary damage during ischemia.
+
+VEGF-induced BBB permeability is associated with an MMP-9 activity increase in cerebral ischemia: Both effects decreased by Ang-1.
+
+Reactive oxygen species enhance the migration of monocytes across the blood-brain barrier in vitro.
+
+Cerebrovascular Angiogenic reprogramming upon LRP1 repression: impact on Sphingosine-1-Phosphate-mediated signaling in brain endothelial cell chemotactism.
+
+Intracellular transport and regulation of transcytosis across the blood–brain barrier.
+
+RACK1 regulates VEGF/Flt1-mediated cell migration via activation of a PI3K/Akt pathway.
+
+Molecular distinction and angiogenic interaction between embryonic arteries and veins revealed by ephrin-B2 and its receptor Eph-B4.
+
+Pioglitazone, a PPARγ agonist, upregulates the expression of Caveolin-1 and Catalase, essential for thyroid cell homeostasis: a clue to the pathogenesis of Hashimoto’s Thyroiditis.
+
+Up-regulation of the Notch ligand Delta-like 4 inhibits VEGF-induced endothelial cell function.
+
+Interaction of suppressor of cytokine signalling 3 with cavin-1 links SOCS3 function and cavin-1 stability.
+
+Pericyte-specific expression of PDGF beta receptor in mouse models with normal and deficient PDGF beta receptor signaling.
+
+In vivo angiogenic phenotype of endothelial cells and pericytes induced by vascular endothelial growth factor-A.
+
+Endosomal/lysosomal location of organically modified silica nanoparticles following caveolae-mediated endocytosis.
+
+MicroRNA-126-3p attenuates blood-brain barrier disruption, cerebral edema and neuronal injury following intracerebral hemorrhage by regulating PIK3R2 and Akt.
+
+Inhibition of transient receptor potential vanilloid 4 decreases the expressions of caveolin-1 and caveolin-2 after focal cerebral ischemia and reperfusion in rats.
+
+Development and characterization of human cerebral organoids: an optimized protocol.
+
+Size-selective opening of the blood-brain barrier by targeting endothelial sphingosine 1-phosphate receptor 1.
+
+Astrocytic laminin regulates pericyte differentiation and maintains blood brain barrier integrity.
+
+Brain microvascular endothelial cells resist elongation due to curvature and shear stress.
+
+Sphingosine 1-phosphate induced synthesis of glycocalyx on endothelial cells.
+
+Caveolin-1 mediates Fas-BID signaling in hyperoxia-induced apoptosis.
+
+Multifactorial regulation of g protein-coupled receptor endocytosis.
+
+Blood-Brain Barrier: A Dual Life of MFSD2A?
+
+Exosome-Mediated miR-155 Transfer from Smooth Muscle Cells to Endothelial Cells Induces Endothelial Injury and Promotes Atherosclerosis.
+
+Endothelial exocytosis of angiopoietin-2 resulting from CCM3 deficiency contributes to cerebral cavernous malformation.
+
+Smad2/3/4 pathway contributes to TGF-β-induced MiRNA-181b expression to promote gastric cancer metastasis by targeting Timp3.
+
+Microvascular endothelial cells engulf myelin debris and promote macrophage recruitment and fibrosis after neural injury.
+
+Crosstalk between soluble PDGF-BB and PDGFRβ promotes astrocytic activation and synaptic recovery in the hippocampus after subarachnoid hemorrhage.

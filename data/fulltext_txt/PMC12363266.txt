@@ -1,0 +1,489 @@
+Receptor-mediated transcytosis for brain delivery of therapeutics: receptor classes and criteria
+
+The delivery of therapeutics into the brain is highly limited by the blood-brain barrier (BBB). Although this is essential to protect the brain from potentially harmful material found in the blood, it poses a great challenge for the treatment of diseases affecting the central nervous system (CNS). Substances from the periphery that are required for the function of the brain must rely on active mechanisms of entry. One such physiological pathway is called receptor-mediated transcytosis (RMT). In this process, ligands bind to specific receptors expressed at the luminal membrane of endothelial cells composing the BBB leading to the internalization of the receptor-ligand complex into intracellular vesicles, their trafficking through various intracellular compartments and finally their fusion with the abluminal membrane to release the cargo into the brain. Targeting such RMT receptors for BBB crossing represents an emerging and clinically validated strategy to increase the brain permeability of biologicals. However, the choice of an appropriate receptor is critical to achieve the best selectivity and efficacy of the delivery method. Whereas the majority of work has been focused on transferrin (Tf) receptor (TfR), the search for novel receptors expressed in brain endothelial cells (BECs) that can deliver protein or viral vector cargos across the BBB has yielded several novel targets with diverse molecular/structural properties and biological functions, and mechanisms of transcytosis. In this review, we summarize well-studied RMT pathways, and explore mechanisms engaged in BBB transport by various RMT receptors. We then discuss key criteria that would be desired for an optimal RMT target, based on lessons-learned from studies on TfR and accumulating experimental evidence on emerging RMT receptors and their ligands.
+
+1 Introduction
+
+Delivering therapeutics into brain tissue is highly restricted due to the presence of a tightly-sealed layer of endothelial cells in brain microvessels that form the blood-brain barrier (BBB). Specialized receptors that are capable of shuttling from the luminal to abluminal side of the BBB, while carrying cargos with them, have provided avenues to deliver therapeutics into this highly restricted area. The specialized pathway(s) that these receptors are involved in is termed receptor-mediated transcytosis (RMT) and thus receptors are usually called “RMT receptors”. Currently, several RMT receptors have been discovered at the BBB and demonstrated to deliver therapeutic cargos into the brain in preclinical studies. These range in their biological functions but are mostly involved in transporting physiological ligands or signals intracellularly and include transporters of iron, lipids and solutes, and receptors of insulin, insulin-like growth factors, neuropeptides, and other proteins. While their involvement in the RMT pathway(s) is one of the most important criteria for a receptor to be able to successfully carry therapeutic cargo from the luminal to abluminal side of the BBB, other criteria, such as receptor extracellular domains accessibility on luminal surface of the BBB, their brain specificity/abundance and sequence conservation, are just as important when assessing developability for successful brain delivery with minimal side-effects. In this review, we summarize the different steps in the RMT process and examine various criteria that are either attractive or undesirable in some of the currently known RMT receptors. While we acknowledge that some non-receptor mediated pathways (e.g., adsorptive-mediated transcytosis) are also important for drug delivery into the brain, these pathways are beyond the scope of this review and have been reviewed elsewhere. Furthermore, this review focuses on criteria for the receptors rather than the criteria for the targeting antibodies, the latter having been reviewed by others and us previously.
+
+2 Receptor-mediated transcytosis
+
+RMT is a multi-step transcellular process that usually occurs in polarized cells and is used by naturally-occurring macromolecules to bypass physiological barriers and enter restricted areas throughout the body. Examples of some of these macromolecules include low-density lipoproteins (LDLs), transferrin (Tf), insulin (INS) and INS-like growth factors 1 and 2 (IGF1, IGF2). These ligands bind to their respective receptors on one surface of the polarized cell resulting in receptor-mediated endocytosis (RME) (step 1), followed by their endosomal sorting (step 2), and eventual exocytosis (step 3) at the opposite surface of the cell. The RMT receptors are thus attractive targets to develop targeting antibodies and peptides as macromolecular Trojan horses for delivering therapeutics across the BBB and into the brain. A significant understanding of the various steps involved in the RMT receptor pathways at the BBB have come from studying trafficking of the targeting antibodies [reviewed previously ]. Here the key steps are briefly summarized, namely, RME, endosomal sorting and exocytosis.
+
+RME is the process of targeted (i.e., receptor-mediated) uptake of macromolecules from the extracellular space into intracellular vesicles to reach endosomes. The RMT receptors at the BBB predominantly internalize through the clathrin-mediated endocytosis (CME) process, although caveolin-mediated endocytosis (CavE), and caveolin- and clathrin-independent endocytosis (CIE) have also been implicated for some receptors. CME itself is a multi-step process that starts with receptor activation, formation of clathrin-coated pits and recruitment of a large endocytic protein machinery. This leads to budding of the pits (containing both the receptor and ligand) into endocytic vesicles, which then undergo un-coating and fuse with early endosomes to release their contents.
+
+The second step of the RMT pathway is endosomal protein sorting where decisions are made regarding the fates of the receptor and bound ligand. Several markers have been used to study trafficking of antibodies in various endosomes, including early endosomes (e.g., RAB5A, EEA1), late endosomes/lysosomes (e.g., RAB7A, LAMP1, LAMP2), multivesicular bodies (e.g., RAB27A, CD82, PDCD6IP). In early endosomes, it is decided whether the antibody will recycle back to the luminal side, be degraded, or undergo exocytosis at the abluminal side. Molecules that do not need to be degraded are concentrated in a network of tubular early endosomal subdomains forming sorting tubules, which are destined for the luminal membrane, multivesicular bodies (MVBs) or the trans-Golgi network (TGN), thereby avoiding lysosomal degradation. Typically, recycling vesicles recycle the RMT receptor (with or without the ligand) back to the luminal side, whereas the multivesicular bodies (MVBs) receive cargo for degradation or exocytosis. For degradation, the cargo is sent to late endosomes and lysosomes.
+
+The final step of the RMT pathway is the externalization of the receptor-ligand complex to the basolateral side of the barrier. This process is the least understood of the RMT steps. Exocytosis may occur through multiple routes from the early endosomes: directly from vesicles (e.g., sorting tubules), via TGN, or via a direct fusion of MVBs with the abluminal membrane [reviewed elsewhere ].
+
+To date about a dozen RMT receptors have been discovered by involvement in one or more aspects of the RMT process. Examples of these include Tf receptor (TfR), LDL receptor (LDLR) and LDLR-related proteins (LRP1 and LRP8), INS receptor (INSR), IGF1 and IGF2 receptors (IGF1R, IGF2R), TMEM30A/ATPase complex, and neutral amino-acid transporter CD98 heavy chain (SLC3A2). These RMT receptors are described below with more details to identify key criteria, besides involvement in the RMT process, that are important for developing BBB carriers against these receptors.
+
+3 Types of transporters and their RMT properties
+
+3.1 Iron transporter: transferrin receptor
+
+Transferrin receptor (TfR, CD71, TFRC) is a cell-surface protein and a main source of cellular import of iron, which is a vital element in several biological processes including oxygen transportation, energy generation/mitochondrial function, as well as DNA synthesis and repair. TfR imports iron via receptor-mediated endocytosis of holo-Tf (i.e., iron-bound Tf) into endosomes. Inside specific endosomes, holo-Tf-TfR may directly reach the abluminal surface where holo-Tf is released and unbound TfR recycled back. However, more likely the lower pH of specific endosomes releases iron from holo-Tf, producing apo-Tf (i.e., iron-lacking Tf) bound to TfR. The apo-Tf-TfR complex is then recycled back to the cell surface, where the apo-Tf is released from TfR at a neutral pH. It should be noted that a homolog to TfR, TfR2 is also able to bind circulating Tf. However, since expression of TfR2 is lacking at the BBB and is predominantly at erythrocyte precursors and hepatocytes, only TfR is discussed here.
+
+At the BBB, TfR has been shown to act in a bidirectional RMT manner, transporting holo-Tf from the blood to the brain and the apo-Tf from the brain to the blood side. TfR has been detected predominantly on the luminal side of the BBB, co-localizes with the CME pathway, early endosomes and MVBs/exocytosing vesicles, and recycles back to luminal membrane likely involving the CavE pathway. Given its ability to internalize and shuttle via endosomes between luminal and abluminal membranes of the BBB, William Pardridge’s group introduced the RMT approach for brain drug delivery and ever since TfR has been extensively targeted to deliver drugs through the BBB and into the brain parenchyma.
+
+The protein sequence and structure of human TfR plays a key role in designing antibodies against it. Human TfR is a single-pass type II membrane protein and has 672 amino acids (89–760 aa) on the extracellular domain (ECD), a significant binding surface accessible at the luminal membrane of the BBB. However, the protein has one O-linked and three N-linked glycosylation sites in the ECD which could provide some steric hindrance for antibody binding. In addition, 192 amino acids at the C-terminus of the ECD (569–760 aa) are important for Tf binding and targeting this region could interfere with iron import into the brain. The remaining 481 amino acids of the ECD region, excluding the transferrin-binding site, are not very conserved between human and rodents, being only 68% similar and 53% identical (Table 1). This has made it difficult to raise species cross-reactive anti-TfR antibodies for translational studies, necessitating the development of transgenic mouse expressing human full-length or ECD of TfR for pre-clinical studies. Nonetheless, several labs have successfully developed anti-TfR antibodies, targeting different ECD regions, with different affinities that can cross the BBB.
+
+Key features of known RMT receptors at the BBB
+a
+.
+
+RMT receptor	Receptor complexity	Transmembrane domains (TMDs)	Luminal/Abluminal	Largest ECD (amino acids)	N-linked glycosylation sites	Human vs. mouse ECD sequence similarity (%)	Human vs. mouse ECD sequence identity (%)	CNS delivery type	Therapeutic cargo delivered	BBB abundance	BBB specificity	 	TFRC	Single-pass type II	1	Mostly L	672	3	86	76	Antibodies	Anti-BACE; Anti-Aβ; IDS; neprilysin; ProGRN	Abundant (top 30%)	Low	 	LDLR	Single-pass type I	1	Unknown	767	5	86	79	Peptides (e.g., Transcend)	IL1R antagonist	Abundant (top 40%)	Low	 	LRP1	Single-pass type I	1	L/A	4400	52	98	98	APOE; Peptides (e.g., Angiopep2)	Placlitaxel; neurotensin; APOE-coated nanoparticles	Abundant (top 30%)	Moderate	 	LRP8	Single-pass type I	1	Unknown	784	6	89	86	Antibody; peptide		Moderate (top 50%)	High	 	TMEM30A	2-TMDs	2	L	255	4	91	87	FC5-based antibodies	mGLUR1; anti-Aβ peptide; dalargin; galanin	Highly abundant (top 10%)	Moderate	 	INSR	Single-pass type I	1	L	929	18	96	95	Antibodies	IDUA; IDS; HEXA; PPT1; ASM; GLB1	Moderate (top 50%)	Low	 	IGF1R	Single-pass type I	1	L	195	16	97	97	Antibodies	Neurotensin; Anti-alpha-synuclein	Moderate (top 50%)	Low/Moderate	 	IGF2R	Single-pass type I	1	Unknown	2264	18	90	82	Antibody	LNP-containing p11 gene	Moderate (<50%)	Low	 	SLC2A1	12-TMDs	12	L	33	1	88	88	Antibodies Glucose	Glucose-coated nanoparticles for SLC2A1	Highly abundant (top 20%)	High	 	SLC3A2	Single-pass type II	1	L	425	4	81	71	Antibodies	BACE1	Highly abundant (top 10%)	Moderate	 	Bsg	Single-pass type I	1	Unknown	186	3	71	51	Antibodies		Abundant (top 30%)	Low	 	LEPR	Single-pass type I	1	Unknown	818	18	84	76	Peptides	Dendrigraft poly-L-Lysine (DGL) containing plasmid DNA	Moderate (<50%)	Low	 	ITM2A	Single-pass type II	1	Unknown	190	1	96	96	Antibodies		Highly abundant (top 10%)	High	 	FCGRT	Single-pass type I	1	Unknown	274	1	76	69	Antibodies		Highly abundant (top 10%)	Low	 	Ideal	Single-pass	1	L>A	>200	≤1	100	100	Antibody	Multiple	Highly abundant (top 10%)	High
+
+BBB specificity was determined by examining the levels of the RMT receptor in the brain and peripheral tissues. Receptors showing 1.5-fold higher levels in the brain were considered “High,” those showing 1.5-fold higher levels in the periphery were considered “Low” and the values in-between were considered “Moderate.”
+
+Bold values represent desirable features of an ideal RMT receptor.
+
+Numerous anti-TfR antibodies against human, non-human primates (NHPs) and rodent TfR have been engineered to deliver therapeutic cargos across the BBB in vivo. Following are few examples of some of the major studies. Watts and coworkers at Genentech generated a bispecific antibody, with anti-TfR BBB-carrier on one arm and anti-β-secretase therapeutic on the other arm, and demonstrated that the antibody can be delivered to the brain and effectively reduce the therapeutic target amyloid beta (Aβ) in both the CSF and the brain of rodents and NHPs. At Roche, Freskgård and co-workers have developed anti-TfR based Brainsshuttle transport system which when coupled to either an anti-Aβ antibody or Aβ-degrading metallopeptidase neprilysin is delivered to the CNS and substantially reduces Aβ levels in CSF and brain parenchyma. At NIH, Brody and coworkers demonstrated in vivo target engagement of therapeutic single-domain antibodies (sdAbs) against anti-Aβ and anti- P2X7 receptor fused to anti-TfR sdAb. Similarly, Rutkowski and co-workers at Ossianix developed shark anti-TfR sdAb, which was able to successfully deliver TrkB neurotrophin receptor agonist antibody to brain parenchyma and completely prevent neuronal cytotoxicity in a mouse model of Parkinson’s disease. Recently, Watts and co-workers at Denali have developed several protein transport vehicles (TVs) in which Fc domains are engineered to have TfR binding site. TVs containing iduronate 2-sulfatase (IDS), progranulin and anti-β-secretase were shown to be successfully delivered to the CNS and demonstrated strong pharmacodynamics effects. The success of targeting TfR to deliver therapeutics into the brain has resulted in several anti-TfR antibodies entering Phase 1 clinical trials. These include delivery of anti-Aβ antibody in Alzheimer’s disease (Roche), recombinant IDS protein in Hunter syndrome (separate clinical trials by JCR Pharmaceuticals Co and Denali Therapeutics), and recombinant progranulin in frontotemporal dementia (Denali Therapeutics), all coupled with anti-TfR BBB-carrier function. Promising efficacy and safety results were recently observed in Phase 2/3 clinical trial of JCR Pharmaceuticals’ anti-TfR-coupled IDS protein, which was recently conducted in 28 Japanese patients with Hunter syndrome, and has recently resulted in the first approval of TfR antibody—enzyme fusion protein for facilitated brain delivery.
+
+While TfR can be targeted to deliver cargo in the brain parenchyma, TfR expression is neither specific to BBB nor to brain tissues. TfR is abundantly present in brain tissues and microvessels, ranking it in the top 30% by gene expression but it is also similarly (or more) abundantly present in the peripheral vessels and tissues. The high peripheral expression has a potential to have off-target side-effects. Adverse drug-related events were observed in Phase 2/3 clinical trial of anti-TfR-coupled IDS protein, although it should be noted that most of the TfR antibody-mediated adverse effects appear to be reversible. However, it remains to be mechanistically determined if any of these events were specifically due to off-target effects either at the peripheral tissues or even within the brain in neurons—since TfR expression is not specific to BBB within the human brain and is abundantly expressed in multiple cell types (e.g., neurons, astrocytes). Thus, while anti-TfR antibodies have provided a significant success in demonstrating clinical proof of concept for the RMT pathway for delivering therapeutics into the brain parenchyma in preclinical and clinical studies, it must be noted that the antibodies could potentially have off-site delivery and adverse but reversible effects since TfR is not a BBB-specific RMT receptor.
+
+3.2 Lipid transporters
+
+Several membrane proteins are responsible for transporting lipids and lipoproteins intracellularly via the RME/RMT pathway and thus considered as potential RMT receptors. These include the family of LDL receptor (LDLR), including LDLR itself and LDLR-related proteins 1 and 8 (LRP1 and LRP8, respectively), as well as a lipid filppase complex containing TMEM30A. The discovery of LDLR about 50 years ago by Michael Brown and Joseph Goldstein (for which they won the Nobel Prize in 1985) introduced the concepts of RME, receptor recycling, and feedback regulation of receptors, which are all central to the process of RMT. They demonstrated that LDLR plays a key role in cholesterol homeostasis by transporting cholesterol-enriched LDL via the CME pathway into cells, which results in feedback regulation of intracellular cholesterol synthesis. LRP1, on the other hand, has a wide range of structurally and functionally diverse ligands that it recognizes on the cell surface. For some ligands, LRP1 transduces their interactions intracellularly via signaling pathways, while for others (e.g., APOE), LRP1 physically translocates the ligands to intracellular compartments via CME or CavE pathways. Like LRP1, LRP8 also plays roles in both cellular signaling and RME. The receptor plays a critical role during development by mediating Reelin signaling, and also functions as a receptor for the transport of APOE. Besides the family of LDLR, the TMEM30A/ATPase complex involvement in various aspects of the RMT pathway and ability to transport a cargo across the BBB has been shown recently. The complex has a flippase activity that transports amino-phospholipids from the outer to the inner leaflet of cellular membranes and ensures the maintenance of asymmetric distribution of phospholipids. Its role as a an RMT receptor was identified after TMEM30A was discovered to be a receptor for FC5 sdAb that can cross the BBB via the RMT pathway. The receptor has been shown to internalize via the CME pathway, traffic via early endosomes into MVBs, and exocytose likely via recycling vesicles and exosomes [summarized in ].
+
+One of the features of the 4 lipid transporters that might make them attractive targets for antibody generation is the accessibility of their ECD. The LDLR family receptors are single-pass type I membrane proteins and have highly accessible ECDs consisting of 767, 4400 and 784 amino acids, respectively (Table 1). TMEM30A, despite having two transmembrane domains, also has a large ECD of 255 amino acids. LRP1 in fact has the largest ECD of all known RMT receptors considered for BBB delivery. In addition, it is the most conserved of the RMT receptors, with 98% sequence similarity and identity between human and mouse LRP1 proteins. However, LRP1 is also known to bind to >100 ligands for its physiological/pathological functions, making it challenging to develop anti-LRP1 therapies that do not interfere with the binding of these ligands to LRP1. Furthermore, LRP1 is the most heavily glycosylated RMT receptor, with more than 50 glycosylation sites spread across its entire ECD, which may also limit in vivo accessibility. The other 3 lipid receptors, LDLR, LRP8 and TMEM30, have moderate-to-high sequence conservation between human and mouse proteins and are moderately glycosylated (Table 1).
+
+Nonetheless, macromolecules targeting these lipid receptors have been developed and demonstrated to cross the BBB and some have been shown to deliver cargo into the brain. For LDLR and LRP1, although evidence of a successful antibody that can target these receptors and cross the BBB is currently lacking, targeting-peptides derived from the natural ligands of the receptors or discovered through phage display technology have been identified as cargo carriers across the BBB. An example is a 12-amino acid peptide, also referred to as Transcend peptide, originating from melanotransferrin (MTf). While having structural homology to Tf, MTf is a natural ligand for LDLR instead of TfR. The Transcend peptide was able to deliver a full-length IgG and interleukin-1 receptor antagonist into brain parenchyma as demonstrated by confocal microscopy and a pharmacodynamic effect in a neuropathic pain mouse model. Another example is a 19-amino acid, LRP1-targeting peptide called Angiopep-2 that was derived from Kunitz domains. Angiopep-2 was demonstrated to efficiently deliver the cancer drug Placlitaxel to gliomas, and its pharmacodynamic effects were demonstrated as a neurotensin fusion protein. Whereas these peptide ligands against LDLR and LRP-1 provided pre-clinical proof of concept that these receptors are “targetable” for brain delivery of payloads, their limitations including short circulation half-life and instability hindered their clinical development. APOE is another natural ligand of LRP1 that has been demonstrated in a number of studies to deliver nanoparticles containing a variety of payloads through the BBB in in vitro models and several animal models (summarized in). Phage display technology has been used to develop targeting peptides that bind to ECDs of LDLR or LRP1. These peptides have been demonstrated to effectively cross the BBB in both in vitro and in vivo conditions, although their abilities to carry a therapeutic along with them has yet to be shown. However, it should be noted that LRP1 may not be predominantly accessible at the luminal membranes of the BBB and has important role for Aβ clearance in the abluminal membranes. Similar to LRP1, anti-LRP8 peptide and anti-LRP8 antibody have been shown to cross the BBB but evidence of their ability to carry a therapeutic cargo into the brain is currently lacking. On the other hand, such evidence has been documented for TMEM30A-binding sdAb FC5. This VHH to anti-TMEM30 complex has been shown to effectively cross the BBB in both in vitro and in vivo models. FC5 has also been demonstrated to effectively carry short therapeutic peptides, including dalargin, galanin and anti-Aβ peptide, as well as larger proteins such as 150 kDa full IgG towards metabotropic glutamate receptor-1 into CNS in animal models, triggering corresponding therapeutic effects.
+
+Similar to TfR the expression of lipid transporters is not BBB-specific, with the exception of LRP8. LDLR and LRP1 are abundantly present in human brain tissues and microvessels, ranking in the top 30% by gene expression, and TMEM30A is even more abundantly present in brain tissues and microvessels, ranking in the top 10%. However, the expression is similarly abundant in the peripheral human tissues for both LRP1 and TMEM30A and even higher for LDLR [ and Table 1]. Thus, off-target effects due to high peripheral expression in various organs may need to be addressed for peptides and antibodies targeting these RMT receptors. In fact, some adverse effects were observed in a first-in-human study in patients with advanced solid tumors, although they appeared to be reversible. On the other hand, LRP8 has strong CNS specificity, showing 5 to 10-fold higher expression in the CNS tissues than in peripheral tissues. However, the abundance of LRP8 is moderate, ranking below the top 40% by overall gene expression, and not as high as some of the other RMT receptors. Thus, even though several lipid transporters have been validated as RMT receptors and demonstrated the ability to deliver cargo into the brain parenchyma, their specificity, accessibility and/or abundance in peripheral tissues may hinder their development towards clinical trials.
+
+3.3 Receptors for insulin and insulin-like growth factors
+
+Receptors for insulin (INS), insulin-like growth factor-1 (IGF1) and −2 (IGF2) are cell-surface proteins that mediate metabolic signals and promote growth. The INS receptor (INSR) and IGF1 receptor (IGF1R) are members of the receptor tyrosine kinase family that are activated following high affinity-binding to their own ligands (INS and IGF1, respectively), and with lower affinity to non-cognate ligands IGF1, IGF2 or INS (e.g., INS can also activate IGF1R, and IGF1 and IGF2 can activate INSR). The activated receptors lead to similar intracellular signaling pathways (PI3K and MAPK) but have distinct functional outcomes; INSR signaling regulates glucose uptake and release, as well as the synthesis and storage of carbohydrates, lipids and protein, whereas IGF1R signaling is involved in cell growth and survival control. IGF2R, on the other hand, is unrelated to either INSR or IGF1R, does not bind to either INS or IGF1, and does not transmit signals intracellularly. IGF2R instead is a receptor for IGF2 and mannose 6-phosphate (M6P)—a post-translational modification of proteins—and mediates their transport from various cellular compartments to endosomal/lysosomal compartments.
+
+The 3 receptors (INSR, IGF1R, IGF2R) are involved in various aspects of the RMT process. Both INSR and IGF1R have been shown to internalize via the CME pathway, the non-CME pathway, and the CavE pathway (summarized in) and sort through early endosomes and MVBs, especially when incubated with their antibodies.
+
+IGF2R plays important roles in intracellular trafficking of IGF2 and M6P-modified proteins. For IGF2, IGF2R acts as a signal antagonist that prevents excess IGF2 signaling by removing it from the extracellular space and trafficking it via endosomes to lysosomes for degradation. For M6P, IGF2R is known to act as a cation-independent receptor, mediating the delivery of newly synthesized M6P-modified lysosomal enzymes from the Golgi complex to lysosomes via the early endosome. Given their involvement in RMT processes and intracellular trafficking, the 3 receptors (INSR, IGF1R, IGF2R) are attractive targets for drug delivery into the brain. However, it should be noted that the IGF2/M6P transport by IGF2R is progressively lost with aging from neonates to adult, and in fact, by adulthood, the BBB has totally lost this transport capacity, suggesting that the IGF2R system might be limited to delivery in neonates only.
+
+The protein sequences and structures of human INSR, IGF1R and IGF2R have several features that make them attractive targets for developing binding antibodies. All 3 receptors are single-pass type I membrane proteins and have highly accessible ECDs consisting of 929, 195 and 2264 amino acids, respectively. In addition, protein sequences for INSR and IGF1R are highly conserved among various species—likely amongst the highest for all known RMT receptors—with each of the human sequences being >95% identical to the sequences of their murine counterpart (Table 1). Human IGF2R, while being only 82% identical to mouse, has a very large ECD and as a result has more conserved residues with mouse (>1850 aa) than the conserved residues of INSR and IGF1R combined. However, the 3 receptors are heavily glycosylated with at least 16 N-linked glycosylation sites in the ECDs, which can potentially provide strong steric hindrance for antibody binding. Furthermore, the receptors have multiple regions throughout their ECDs that are important for their respective ligand binding. Thus, generating antibodies to INSR, IGF1R and IGF2R that do not interfere with their physiological functions could be challenging and evidence needs to be provided that these antibodies do not interfere with downstream pathways.
+
+Antibodies to INSR, IGF1R and IGF2R have been developed and shown to deliver cargo across the BBB in vivo. The most well characterized anti-INSR antibody is the humanized monoclonal antibody called HIRMAb that binds an epitope within the 469–592 amino acid region of the receptor. The antibody has been shown to successfully carry a number of enzymes as cargo across the BBB, including α-l-iduronidase (IDUA), IDS, hexosaminidase A, palmitoylthioesterase-1, acid sphingomyelinase and beta galactosidase-1. The HIRMAb-IDUA antibody has shown positive results in clinical studies and is currently in clinical trials, although some mild adverse effects including infusion related reactions and transient hypoglycemia have been observed in pediatric patients. Anti-IGF1R antibodies have been shown also to cross the BBB and carry cargos into the brain parenchyma. These include multi-species cross-reactive, VHH sdAbs IGF1R3, IGF1R4 and IGF1R5 that can successfully carry cargo of a wide range of molecular weight sizes (<10 kDa–140 kDa) across the BBB either as sdAbs or in Fc format. The proof of concept for use of these IGF1R VHHs has been obtained in human and rat in vitro BBB models, as well as in rat, mouse and NHP in vivo models. These sdAbs target receptor epitopes that do not interfere with the physiological functions. Recently, ABL Bio Inc. demonstrated that an anti-IGF1R scFv (Grabody B) fused with therapeutic anti-alpha-synuclein IgG crosses the BBB and improves the neuropathology and behavior in a Parkinson’s disease animal model better than the therapeutic IgG alone. Finally, an anti-IGF2R antibody called IGF-II was demonstrated to carry lipid nanoparticles-containing p11 gene and deliver it in rat and mouse brain parenchyma, although details of the antibody and in vitro BBB-crossing are unspecified, especially the fact that transport capacity of IGF2R has been shown to be lost in adulthood.
+
+Given the ubiquitous role of insulin and related growth factors, their receptors are not uniquely expressed at the CNS. INSR and IGF2R (mostly neuronal) are moderately expressed in human brain tissues and microvessels, and their expression is actually higher in many of the peripheral human tissues. Similar is seen for IGF1R, although the brain expression is slightly higher than peripheral tissues and it is easily accessible on the luminal surface of the BBB. Nonetheless, while INSR and related receptors have been demonstrated to deliver cargo successfully through the BBB and into the CNS, their roles in essential physiological functions are potential liability and requires careful engineering of binding antibodies to mitigate interference with these functions.
+
+3.4 Solute carrier transporters
+
+Solute carriers (SLCs) represent a major superfamily of membrane transporters with more than 450 members classified into 66 families. These proteins mediate the exchange of substances including ions, nutrients, signaling molecules and drugs across biological barriers. Glucose transporter 1 (Glut1) is a member of the SLC2 family (SLC2A1) that provides basal metabolic energy to the cells mainly in the form of glucose although it can also transport galactose, mannose and glucosamine with different efficiencies. The transport of sugars by this transporter is bidirectional with passive diffusion solely based on a concentration gradient. The heavy chain of the cluster of differentiation 98 (CD98hc) is a member of the SLC3 family (SLC3A2) forming heterodimeric amino acid transporters by interacting covalently with one of six light chain subunits from the SLC7 family. In the heterodimer, the heavy subunit is responsible for the trafficking of the transporter to the plasma membrane while the light subunit catalyzes the transporter function, conferring substrate specificity to the molecule. In addition, CD98hc interacts with the cytoplasmic tails of β-integrin subunits and participates in cellular signaling thereby promoting cellular migration, survival, spreading and growth.
+
+Both CD98 and Glut1 have been shown to internalize via CIE pathways entering the cells independently of dynamin, but dependent upon plasma membrane cholesterol and accumulating in vacuoles containing an active form of the GTPase Arf6 (Arf6Q67L). However, the two proteins employ divergent itineraries to tubular recycling endosomes. Once inside the cells, Glut1 was found to merge with endosomes containing Tf and early endosomal antigen 1 (EEA1) before entering the recycling tubules; in contrast, CD98 utilizes novel downstream sorting mechanisms and directly enters the recycling tubules by-passing the EEA1-positive compartment. CD98 likely utilizes the CLIC/GEEC internalization pathway since it is a GPI-anchored protein.
+
+The structure of Glut1 is extremely complex with 12 trans-membrane (TM) domains and very limited sequences available at the cell surface for the generation of antibodies. Only the first extra-cellular loop (ECL) containing 33 amino acids offers sufficient space for antibody targeting whereas the other five loops are likely too small. ECL1 contains a single N-linked glycosylation site and interestingly, the pattern of glycosylation has been shown to vary depending on the localization of the transporter. The glycosylated form of Glut1 is observed at the BBB and on the membrane of erythrocytes whereas the low molecular weight non-glycosylated form can be found at the cell membrane of astrocytes and to some extent microglia. The sequence of Glut1 is highly conserved between species with 97% identity between human and mouse for the full-length protein and 88% identity for ECL1 (Table 1). Finally, the binding sites for glucose are found within TM domains and therefore, the targeting of any ECL with antibodies is unlikely to affect the physiological function of the transporter. In contrast, CD98hc is a single-pass type II membrane N-glycoprotein composed of an intracellular N-terminal domain, a single transmembrane domain and a large C-terminal ECD (425 aa) which is widely accessible for the generation of antibodies (Table 1). However, this domain only shares 71% identity with the murine protein combined with an inconsistent glycosylation pattern and notable structural differences. Therefore, the development of cross-reactive antibodies with therapeutically significant affinities against this protein is likely to pose a challenge. In addition, cryo-EM analysis of the ECD revealed the presence of four glycans with the potential to sterically hinder antibody binding.
+
+Given the very high energy demand of the brain and the fact that glucose is the main source of energy for this sophisticated organ, it is no surprise that the Glut1 receptor is remarkably abundant at the BBB compared to many other receptors and transporters. Taking advantage of the very high level of expression of this protein in BECs, several nanocarriers were developed in which glucose was used as the targeting ligand decorating the surface of the delivery vessels. Nevertheless, although these earlier versions of the system demonstrated cellular uptake and BBB crossing in vitro, their analysis in vivo only led to a modest accumulation of the nanocarriers in the brain (less than 1% dose/g-brain) following intravenous injection in mice. The first real success of using glucose-modified nanoparticles was obtained under hypoglycemic conditions, which have been shown to result in a significant increase of the luminal expression of Glut1 therefore facilitating target engagement by blood-borne vehicles and leading to a significant increase in transcytosis upon addition of glucose. When fasting mice received a glucose solution, accumulation of glucose-modified nanocarriers at high levels in the brain (∼6% dose/g-brain) was observed. This glycemic control strategy was later applied to deliver nanoparticles containing antisense oligonucleotide (ASO) for brain gene knockdown or antibody fragments for Alzheimer’s disease treatment in the brain. In another set of experiments, Glut1 together with CD98hc were both selected from a proteomic screen aiming at identifying transmembrane proteins highly expressed in isolated mouse primary BECs. Subsequent generation of three antibodies targeting Glut1 (one antibody) or CD98hc (two antibodies) demonstrated a significant accumulation in the brain in vivo. In particular, systemic administration of CD98hc antibodies showed the highest brain concentrations of all RMT targets investigated. Reformatting of anti-CD98hc antibodies into bi-specific molecules targeting CD98hc on one arm and the β-site amyloid precursor protein cleaving enzyme 1 (BACE1) on the other arm led to the reduction of brain Aβ by 30%–40% confirming the penetration of antibody molecules into the brain parenchyma. Importantly, targeting of CD98hc by antibodies did not affect the total brain expression level or subcellular localization of the transporter nor did it affect the level of amino acid transport. Delivery into the brain of an anti-CD98hc antibody was also demonstrated in non-human primates. Finally, a mouse specific scFv fused to the C-terminus of one heavy chain of an IgG molecule was shown to cross the BBB and engage several endogenous targets in the brain parenchyma of wild-type mice. Notably, the CD98hc shuttle demonstrated sustained brain concentration up to 1 week following administration. Although experiments with these transporters have been limited to mice and non-human primates, proteomics on human brain microvasculature revealed a high expression of both CD98hc and Glut1 suggesting that both targets hold the potential to translate into humans. In fact, a human/mouse cross-reactive transport vehicle composed of an anti-CD98hc IgG and a modified Fc region was recently shown to reach the brain in humanized CD98-knock in mice with slower and more prolonged kinetic properties compared to other BBB shuttles and no safety issues noted.
+
+Both Glut1 and Cd98hc are amongst the most abundant proteins in brain microvessels. While Glut1 is expressed in virtually all tissues, it appears to be selectively enriched in brain microvessels compared to peripheral tissues and total brain making it quite attractive as a brain delivery target. In contrast, in addition to the high expression observed in brain microvessels, high levels of the CD98hc transporter have been detected in the lungs and the spleen as well as in total brain posing a significant risk for off-target side effects upon targeting of this protein although nothing has been reported to date.
+
+3.5 Emerging RMT targets
+
+Although the delivery of cargo across the BBB using known RMT receptors described in the previous sections has demonstrated some success, some important limitations remain and no receptor investigated to date is optimal. In recent years, several groups have invested efforts to attempt to identify novel RMT targets with ideal delivery properties. Notably, selective and enriched expression at the BBB compared to whole brain and periphery has been the critical criterion.
+
+Through a screen for proteins highly expressed in mouse BECs leading to the identification of Glut1 and CD98hc as described in the sections above, also identified basigin as a potential RMT target. This protein is a single-pass type I transmembrane protein belonging to the immunoglobulin (Ig) superfamily containing an ECD of 186 amino acids, a single-chain transmembrane domain and a short cytoplasmic tail. The ECD of the most common basigin isoform contains two Ig-like domains covalently inter-linked and three N-linked glycosylation sites which are essential for the cell membrane localization of the protein but that could sterically interfere with the binding of antibodies. Moreover, this domain shares only 51% identity with the mouse basigin ECD severely impeding the development of cross-species reactive anti-basigin therapies (Table 1). Basigin acts as a co-receptor for the lactate transporter, monocarboxylate transporter 1 (MCT1) mediating its cell surface translocation which is essential for the function of the transporter. Basigin has also been shown to interact either directly or indirectly with several other partner molecules and is involved in numerous physiological and pathological processes making it difficult to develop basigin-targeting antibodies that do not interfere with the function of the receptor. Although the expression of basigin is not exclusive to the brain, it appears to be significantly enriched in BECs compared to other organs. However, this protein is also highly expressed in all leukocytes, erythrocytes and platelets in which it plays a critical role and dysregulation of its expression has been associated with an array of immunological diseases. Therefore, the targeting of this receptor for BBB crossing presents significant risks of having detrimental consequences on immune cell development and function. Nevertheless, following identification of high levels of basigin expression in mouse BECs, two antibodies against this protein were generated followed by analysis of in vivo binding after IV administration in mice. Interestingly, while the two anti-basigin antibodies accumulated in the brain, the high affinity antibody was found at levels similar to an anti-TfR control whereas only modest accumulation was observed for the lower affinity antibody against Basigin. This is consistent with the affinity-dependent differences obtained with anti-TfR antibodies at trace dose levels. In contrast, both basigin-targeting antibodies were found to accumulate at similar levels comparable to the anti-TfR control antibody following injection with higher therapeutic doses and all antibodies were able to reach the brain parenchyma as demonstrated by microvessel depletion techniques. In view of better understanding the RMT properties of basigin, a larger panel of antibodies were generated targeting different epitopes of the receptor ECD with variable affinities. Antibodies from all epitope bins demonstrated the ability to bind and internalize to variable levels in a human brain endothelial cell line expressing basigin. Overall, the differences in the binding characteristics observed within each epitope bin did not correlate with differences in affinities although this remains to be further confirmed. In a subsequent study, the same group investigated the transcytosis ability of selected antibodies in a porcine in vitro BBB model and found that all antibodies were able to cross the BBB endothelial cell layer to then internalize in co-cultured astrocytes. The analysis of the trafficking pathway in porcine BECs revealed a CavE-independent internalization mechanism followed by the accumulation of anti-basigin antibodies in EEA1 and TfR-containing recycling vesicles and no localization with late endosomes or lysosomes.
+
+The integral membrane protein 2A (ITM2A) is a single-pass type II integral membrane protein composed of four distinct regions which are the hydrophobic, the linker, the extracellular BRICHOS and the intracellular C-terminal domains. The ECD (190 aa) is of particular interest since it is large and exposed at the cell surface available for antibody targeting and it shares more than 95% homology with the mouse protein (Table 1). ITM2A was first identified as a marker for chondro-osteogenic differentiation whose role was later confirmed by others. Since then, it has also been shown to play a role in myogenic differentiation and in the regulation of autophagy. However, little is known about its biological function in the brain. Several studies identified ITM2A as a brain endothelial cells-specific protein with low expression in other brain cell types including astrocytes, oligodendrocytes, neurons and microglia and in peripheral organs such as liver, kidney, heart and lung. Nevertheless, the involvement of this protein in RMT pathway remains unclear. More recently, at Sanofi interrogated the use of this protein as a delivery agent across the BBB. Antibodies targeting extracellular regions of the protein were generated and their ability to bind and internalize in cells overexpressing ITM2A was demonstrated. However, attempts made by the authors to demonstrate BBB crossing capabilities of ITM2A-specific antibodies in vitro or in vivo were inconclusive. While the overall characteristics of ITM2A point to a good RMT target, its validation for brain delivery remains to be shown.
+
+Leptin, a neuropeptide involved in the regulation of appetite is secreted by peripheral adipocytes and acts centrally on leptin receptor-expressing brain cells to reduce food intake and retard weight gain. Evidence suggests that this peptide reaches the brain parenchyma through its receptor following clathrin- and calveolae-mediated energy dependent endocytosis although other mechanisms of entry might exist. The leptin receptor (LERP) is a single-pass type I membrane protein which is expressed in several regions of the brain including the choroid plexus and the BBB in addition to many other peripheral organs and tissues with enrichment in the lungs. The non-CNS specificity of this receptor could pose a significant challenge to the development of brain delivery vectors. The extracellular part of the receptor (818 aa), although widely accessible for antibody targeting in terms of size, contains several complex structural domains from which the second cytokine receptor homology (CRH2) module has been identified as the high-affinity binding domain for leptin. The targeting of this domain therefore represents a risk to interfere with the physiological function of the protein. In addition, the extracellular part of LERP has limited identity with the mouse domain (76%) and is highly glycosylated representing a major obstacle to the generation of antibodies (Table 1). In a search for regions responsible for brain uptake, peptides covering the full-length human leptin protein were synthesized and assessed for their ability to reach the brain parenchyma in vivo in rats. Two peptides (positions 1–33 and 61–90) demonstrated higher brain uptake compared to control molecules at levels that were similar to those of leptin. Further dissection of peptide 1–33 led to the identification of residues 12–33 with increased brain uptake whereas truncation of the 61–90 peptide led to significantly reduced brain accumulation. The peptides were shown to reach the brain parenchyma through a saturable mechanism. Interestingly, the two regions covered by the peptides were found to be involved in the binding to the leptin receptor confirming the dependency of this interaction for brain uptake. In a subsequent study, the most efficient peptide (leptin30) was further modified by covalent linkage at the surface of synthetic polymers leading to efficient brain-targeted gene delivery both in vitro and in vivo.
+
+Finally, the neonatal crystallizable fragment receptor (FcRn) is a single-pass type I membrane glycoprotein forming heterodimers composed of a major histocompatibility complex Class-I like heavy chain and a non-covalently associated β2-microglobulin (β2m) light chain. The heavy chain consists of three structural ECDs (α1, α2 and α3), one transmembrane domain and a short cytoplasmic tail. The overall extracellular region of the heavy subunit is composed of 274 amino acids sharing 69% identity with its mouse counterpart which could limit the generation of cross-species reactive molecules (Table 1). In addition, the ligand binding sites have been mapped to residues within the α1 and α2 ECDs thereby limiting accessible epitopes for antibody targeting without altering the physiological function of the receptor. FcRn interacts with the fragment crystallizable Fc domain of immunoglobulin G (IgG) molecules and with albumin to regulate their bi-directional transport across numerous biological barriers including the epithelia found at the placenta, the lungs, the kidneys and the intestines translating in a ubiquitous expression across organs and tissues potentially implying off-target sides effects observed with anti-FcRn therapies. The interaction of IgGs and albumin with FcRn is responsible for their prolonged plasma half-life creating a protein reservoir that is protected from lysosomal degradation and subsequently recycled to the extracellular space. At the BBB, FcRn has been shown to regulate the efflux of antibodies from the brain parenchyma into the blood following reverse transcytosis. Recently, from Teva proposed that under the appropriate conditions, the receptor could allow for the influx of antibodies from the blood capillaries into the brain and suggested FcRn as a potential RMT target for the development of brain-targeting therapeutics. In this study, three amino acid substitutions (YTE) known to improve the affinity of antibodies for the mouse FcRn at acidic and neutral pH (6.0 and 7.4, respectively) were introduced within antibody Fc domains resulting in a strong accumulation in the brain parenchyma for an extended period of time (504 h) following IV administration in mice. This was in contrast to antibodies bearing the WT Fc domain for which only very low levels could be detected in the mouse brain. Importantly, the improved translocation of YTE-modified antibodies was independent of their target antigen or functionality while it depended on their interaction with the FcRn receptor leading to cellular internalization and trafficking. Although the experiments were exclusively conducted in mice, the level of FcRn expression in endothelial cells is comparable between human and mouse and this strategy is predicted to be clinically relevant. However, the mutations that were applied in this study do not translate in the same effect in humans than in mice and are unlikely to improve BBB transport in humans. While the YTE substitutions resulted in an improved target engagement at both pH 6.0 and pH 7.4, in humans the same mutations increase the binding at pH 6.0 but not pH 7.4, thereby enhancing FcRn-mediated antibody recycling from endosomes and increasing antibody half-life. Specific mutations that would enhance the interaction of antibodies with the FcRn receptor in a pH-independent manner in humans would have to be independently identified and validated before the real nature of this receptor as a clinically-relevant RMT target for brain delivery can be established. Additionally, it is not clear why these engineered antibodies would behave differently in BECs compared to peripheral ECs and this approach is likely to result in a non-selective increase of transcytosis in all tissues of the body leading to important safety issues.
+
+In addition to the candidates described above, other proteins emerged from early receptor identification studies where in most cases the mechanism of their potential BBB crossing remains unclear. These include the intracellular adhesion molecule 1 (ICAM-1) and podocalyxin (PODXL) which were identified as potential RMT targets from analyses of BBB abundant cell-surface proteins with endocytic properties ICAM-1 is however expressed in several cell types of multiple organs with no real enrichment in the brain and has been investigated more as a target for diseases with a wide range distribution such as lysosomal storage disorders although ICAM-1-targeted carriers have shown the ability to reach the brain amongst other organs with the highest accumulation observed in the lungs. While PODXL was found to be selectively expressed and to internalize in MBECs, further studies are required to elucidate its role in the brain and its function as an RMT target. Transthyretin (Ttr) was identified by screening the rat serum proteome for candidates with the ability to transmigrate in an in vitro rat BBB model. When conjugated at the surface of Quantum Dot (QD) nanoparticles, Ttr-targeted particles demonstrated the ability to cross the BBB both in vitro and in vivo. Although the distribution of Ttr-QDs in the brain was significantly increased compared to control molecules, a strong accumulation was also observed in the liver and to lower extent in the kidney, lung and colon suggesting that Ttr may not represent a safe alternative to current RMT targets.
+
+4 Key criteria for an RMT receptor
+
+At least a dozen RMT receptors have been discovered at the BBB and have been targeted for delivery of therapeutics into the brain (Table 1). While they all have different desirable features that have led to their successes in preclinical and even clinical studies, they also have different limitations and concerns that need to be addressed on the path to clinical translation. So far, none of the known RMT receptors have all the desirable features; therefore, further explorations of the BBB selective “transporter” proteome are currently under way, with novel targets expected to be discovered (or publicly disclosed).
+
+1. Role in transport. Beside their involvement in various RMT processes, a key biological function that is common amongst most (if not all) of the known RMT receptors is that they are involved in cellular trafficking or transport of natural ligands and nutrients, including transport of growth factors, iron, lipid, glucose and other molecules across the BBB. Thus, when choosing a receptor, it might be important to favor those that are naturally involved in transport and understand its endocytic pathways and intracellular trafficking routes. However, as a caveat, antibodies or peptides that target these receptors must not interfere with this physiological function.
+
+2. Abundant expression in brain microvessels. High expression of receptors in brain microvessels is essential for effective therapeutic delivery to the brain. Expression can be determined from omic profiles (e.g., RNAseq, transcriptomics) of brain microvessels and ranking all the genes by abundance (e.g., top 20% as “highly abundant,” 20%–40% as “abundant,” 40%–60% as “moderate,” and <60% as “low abundant”). Receptors with “low” or no brain vascular expression are discouraged since antibodies or peptides targeting them might not be delivered into the brain to achieve pharmacological effect.
+
+3. BBB selective. Beside abundant expression in brain microvessels, low or no expression in peripheral tissues (e.g., lung, liver, kidney) as well as other regions of the brain (e.g., neurons) is important. This BBB selectivity is needed to ensure minimal off-site delivery and adverse side-effects of the therapeutic.
+
+4. Receptor accessibility. Most of the known RMT receptor-targeting antibodies and peptides are administered systemically, usually in the blood (via intravenous injection). Thus, unhindered access to the RMT receptor is necessary for the antibodies or peptides to easily go from the blood to the brain side. Several key criteria for receptor accessibility have been mentioned throughout this review. These include: a) availability of the receptors on the luminal membranes (blood-facing side) of endothelial cells in brain microvessels; b) presence of a large ECD (ideally >100 amino acids) that has minimal hindrance from post-translational modifications (e.g., glycosylation); c) having a single transmembrane domain (TMD), which has shown more success in brain delivery than multi-pass membrane proteins; d) minimal interference with natural ligands such that biological function would not be affected by targeting antibodies.
+
+5. Translatable. Sequence conservation of the ECD is another key criterion that should be considered when deciding on an RMT receptor in order for it to be translatable among multiple species. For receptors that are not highly conserved between human and rodents (e.g., TfR), it is difficult to make species cross-reactive antibodies or peptides to translate studies into pre-clinical settings, and instead transgenic models expressing human full-length or ECD of the receptors are required to study them in rodent models. It is thus important to have high sequence similarity/identity (>95%) between human and rodent sequences.
+
+Hence, here we list some of the key criteria for identifying an “ideal” RMT receptor.
+
+5 Conclusion
+
+The concept of receptor-mediated transcytosis as a pathway for brain delivery of biological therapies, most notably antibodies and therapeutic proteins, has made a significant evolution in the last decade, driven by both better mechanistic understanding of trafficking pathways within endothelial cells that can result in exocytosis, as well as by the development of receptor-binding ligands that allowed testing and confirmation, or revision, of the concept in preclinical in vitro and in vivo models, and most recently, in clinical studies. Whereas the studies with the “classical” target, TfR, that have been initiated in early 90s, have recently resulted in the first approval of TfR antibody—enzyme fusion protein for facilitated brain delivery—and long-awaited clinical proof of concept for RMT as a valid pathway to exploit for brain delivery of biologics, the recent advances have been driven by a search for other RMT receptors using advanced sequencing and proteomic techniques. The rapid generation of antibody tools to validate the function of these receptors provided some critical insights—firstly that they “belong” to vastly distinct functional classes of molecules, including tyrosine kinase receptors, growth factor and neuropeptide receptors, lipid transporters, and even solute carrier family transporters. The ability of these diverse receptors to shuttle antibody/protein cargo across the BBB, demonstrated in various preclinical model systems, vastly expanded horizons of RMT research and open possibilities to discover better and more efficacious transporters, or those more appropriate for particular types of therapeutic cargos. With discovery of each of these “non-canonical” RMTs, comes further understanding of the mechanisms of their internalization, endosomal sorting and cargo “hand-over,” as well as their function in general. Translating from the initial discovery/proof of mechanism studies into development and clinic is arduous and a long process and many of these nominated novel RMTs may fail along the path; however, the optimism and drive in the field to further exploit this mechanism for design of better neurotherapeutics is high and bolstered by initial clinical demonstrations of successes of the first, prototypical TfR that followed through this path.
+
+Author contributions
+
+AH: Conceptualization, Data curation, Writing–original draft, Writing–review and editing. KB: Data curation, Formal Analysis, Writing–original draft, Writing–review and editing. DS (passed away before the final revision of the paper): Data curation, Writing–original draft, Writing–review and editing of the original draft.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+The blood-brain barrier transmigrating single domain antibody: mechanisms of transport and antigenic epitopes in human brain endothelial cells
+
+Blood-brain barrier epitopes and uses thereof. Patent application 12/890,079, USA
+
+Identification and expression profiling of blood-brain barrier membrane proteins
+
+Targeting insulin-like growth factor-1 receptor (IGF1R) for brain delivery of biologics
+
+Development of an LDL receptor-targeted peptide susceptible to facilitate the brain access of diagnostic or therapeutic agents
+
+Glycaemic control boosts glucosylated nanocarrier crossing the BBB into the brain
+
+The use of cyclic peptide antigens to generate LRP8 specific antibodies
+
+Molecular architecture determines brain delivery of a transferrin receptor-targeted lysosomal enzyme
+
+The epithelial membrane protein 1 is a novel tight junction protein of the blood-brain barrier
+
+The many lives of leptin
+
+Viktor Mutt lecture: peptides can cross the blood-brain barrier
+
+Leptin enters the brain by a saturable system independent of insulin
+
+Leptin transport across the blood-brain barrier of the Koletsky rat is not mediated by a product of the leptin receptor gene
+
+Subcellular localization and internalization of the four human leptin receptor isoforms
+
+The identification of leptin-derived peptides that are taken up by the brain
+
+Mfsd2a is critical for the formation and function of the blood–brain barrier
+
+Insulin-like growth factor 2 in development and disease: a mini-review
+
+Transferrin receptor (TfR) trafficking determines brain uptake of TfR antibody affinity variants
+
+Insulin receptor antibody-iduronate 2-sulfatase fusion protein: pharmacokinetics, anti-drug antibody, and safety pharmacology in Rhesus monkeys
+
+Selective targeting of a TNFR decoy receptor pharmaceutical to the primate brain as a receptor-specific IgG fusion protein
+
+Bi-functional IgG-lysosomal enzyme fusion proteins for brain drug delivery
+
+Enhanced ITM2A expression inhibits chondrogenic differentiation of mesenchymal stem cells
+
+Potential role of sugar transporters in cancer and their relationship with anticancer therapy
+
+Brain shuttle neprilysin reduces central amyloid-β levels
+
+Integrin-associated proteins as potential therapeutic targets
+
+Exploring ITM2A as a new potential target for brain delivery
+
+CD98hc is a target for brain delivery of biotherapeutics
+
+Basigin antibodies with capacity for drug delivery across brain endothelial cells
+
+The regulation of cellular iron metabolism
+
+A single domain shark antibody targeting the transferrin receptor 1 delivers a TrkB agonist antibody to the brain and provides full neuroprotection in a mouse model of Parkinson’s disease
+
+Transport across the primate blood-brain barrier of a genetically engineered chimeric monoclonal antibody to the human insulin receptor
+
+Regulated portals of entry into the cell
+
+Efflux of monoclonal antibodies from rat brain by neonatal Fc receptor, FcRn
+
+Unavailability of CD147 leads to selective erythrocyte trapping in the spleen
+
+Increasing the affinity of a human IgG1 for the neonatal Fc receptor: biological consequences
+
+Isolation of markers for chondro-osteogenic differentiation using cDNA library subtraction. Molecular cloning and characterization of a gene belonging to a novel multigene family of integral membrane proteins
+
+Conjugation of a brain-penetrant peptide with neurotensin provides antinociceptive properties
+
+Involvement of the low-density lipoprotein receptor-related protein in the transcytosis of the brain delivery vector angiopep-2
+
+High transcytosis of melanotransferrin (P97) across the blood-brain barrier
+
+Crystal structure of the human glucose transporter GLUT1
+
+Structural differences between the ectodomains of murine and human CD98hc
+
+Iron uptake and transport across physiological barriers
+
+Enhanced delivery of antibodies across the blood-brain barrier via TEMs with inherent receptor-mediated phagocytosis
+
+Enhanced in vivo blood brain barrier transcytosis of macromolecular cargo using an engineered pH-sensitive mouse transferrin receptor binding nanobody
+
+Discovery of new cargo proteins that enter cells through clathrin-independent endocytosis
+
+Rapid insulin-dependent endocytosis of the insulin receptor by caveolae in primary adipocytes
+
+A novel platform for engineering blood-brain barrier-crossing bispecific biologics
+
+Single cell analysis of endothelial cells identified organ-specific molecular signatures and heart-specific cell populations and molecular features
+
+The SLC3 and SLC7 families of amino acid transporters
+
+The recycling endosome of Madin-Darby canine kidney cells is a mildly acidic compartment rich in raft components
+
+IGF-II-Conjugated nanocarrier for brain-targeted delivery of p11 gene for depression
+
+Neonatal Fc receptor and its role in the absorption, distribution, metabolism and excretion of immunoglobulin G-based biotherapeutics
+
+Neurocognitive and somatic stabilization in pediatric patients with severe Mucopolysaccharidosis Type I after 52 weeks of intravenous brain-penetrating insulin receptor antibody-iduronidase fusion protein (valanafusp alpha): an open label phase 1-2 trial
+
+Selective recycling of the mannose 6-phosphate/IGF-II receptor to the trans Golgi network in vitro
+
+Human blood-brain barrier leptin receptor. Binding and endocytosis in isolated human brain microvessels
+
+The LDL receptor
+
+Pathways and mechanisms of endocytic recycling
+
+The role of EMMPRIN in T cell biology and immunological diseases
+
+Deep-apical tubules: dynamic lipid-raft microdomains in the brush-border region of enterocytes
+
+Endosomal trafficking regulates receptor-mediated transcytosis of antibodies across the blood brain barrier
+
+Method for isolation and molecular characterization of extracellular microvesicles released from brain endothelial cells
+
+Brain delivery of therapeutics via transcytosis: types and mechanisms of vesicle-mediated transport across the BBB
+
+Intracellular sorting and transcytosis of the rat transferrin receptor antibody OX26 across the blood-brain barrier in vitro is dependent on its binding affinity
+
+From adsorption to covalent bonding: apolipoprotein E functionalization of polymeric nanoparticles for drug delivery across the blood-brain barrier
+
+Identification of the O-linked glycosylation site of the human transferrin receptor
+
+Single-cell RNA sequencing of mouse brain and lung vascular and vessel-associated cell types
+
+LRP: a multifunctional scavenger and signaling receptor
+
+Proteome of the luminal surface of the blood-brain barrier
+
+The biology of leptin: a review
+
+Enhanced delivery of α-glucosidase for Pompe disease by ICAM-1-targeted nanocarriers: comparative performance of a strategy for three distinct lysosomal storage disorders
+
+Specific binding, uptake, and transport of ICAM-1-targeted nanocarriers across endothelial and subendothelial cell components of the blood-brain barrier
+
+The solute carrier transporters and the brain: physiological and pharmacological implications
+
+Modulation of CD147-induced matrix metalloproteinase activity: role of CD147 N-glycosylation
+
+Role of Rab5 in insulin receptor-mediated endocytosis and signaling
+
+Mapping of the interface between leptin and the leptin receptor CRH2 domain
+
+Identification of cell-surface proteins endocytosed by human brain microvascular endothelial cells in vitro
+
+Characterization of the signal for rapid internalization of the bovine mannose 6-phosphate/insulin-like growth factor-II receptor
+
+Cation-dependent mannose 6-phosphate receptor contains two internalization signals in its cytoplasmic domain
+
+A blood-brain barrier overview on structure, function, impairment, and biomarkers of integrity
+
+Preclinical in vivo longitudinal assessment of KG207-M as a disease-modifying Alzheimer’s disease therapeutic
+
+Brain delivery of therapeutic proteins using an Fc fragment blood-brain barrier transport vehicle in mice and monkeys
+
+Escape from abluminal LRP1-mediated clearance for boosted nanoparticle brain delivery and brain metastasis treatment
+
+Signalling through IGF-I and insulin receptors: where is the specificity?
+
+Transthyretin as a new transporter of nanoparticles for receptor-mediated transcytosis in rat brain microvessels
+
+CD147 is tightly associated with lactate transporters MCT1 and MCT4 and facilitates their cell surface expression
+
+Transferrin receptors TfR1 and TfR2 bind transferrin through differing mechanisms
+
+FcRn-mediated transcytosis of immunoglobulin G in human renal proximal tubular epithelial cells
+
+Safety, pharmacokinetics, and activity of GRN1005, a novel conjugate of angiopep-2, a peptide facilitating brain penetration, and paclitaxel, in patients with advanced solid tumors
+
+Itm2a is a Pax3 target gene, expressed at sites of skeletal muscle formation in vivo
+
+Characterization of immunoisolated human gastric parietal cells tubulovesicles: identification of regulators of apical recycling
+
+Evidence that transferrin supports cell proliferation by supplying iron for DNA synthesis
+
+Distribution of FcRn across species and tissues
+
+Crystal structure of the ectodomain of human transferrin receptor
+
+Isolation from human placenta of the IgG transporter, FcRn, and localization to the syncytiotrophoblast: implications for maternal-fetal antibody transport
+
+Cryo-EM structure of the human L-type amino acid transporter 1 in complex with glycoprotein CD98hc
+
+A passionate kiss, then run: exocytosis and recycling of IgG by FcRn
+
+Cholesterol-sensitive modulation of transcytosis
+
+Structural basis of the activation of type 1 insulin-like growth factor receptor
+
+Rat blood-brain barrier genomics. II
+
+Local clustering of transferrin receptors promotes clathrin-coated pit initiation
+
+A leptin derived 30-amino-acid peptide modified pegylated poly-l-lysine dendrigraft for brain targeted gene delivery
+
+Rescue of a lysosomal storage disorder caused by Grn loss of function with a brain penetrant progranulin biologic
+
+IGF system in sarcomas: a crucial pathway with many unknowns to exploit for therapy
+
+Endocytic recycling
+
+The intracellular trafficking pathway of transferrin
+
+Bidirectional transcytosis of IgG by the rat neonatal Fc receptor expressed in a rat kidney cell line: a system to study protein transport across epithelia
+
+Palmitoylation controls recycling in lysosomal sorting and trafficking
+
+Brain cell type specific gene expression and Co-expression network architectures
+
+Systemic brain delivery of antisense oligonucleotides across the blood-brain barrier with a glucose-coated polymeric nanocarrier
+
+Ligand-mediated endocytosis and trafficking of the insulin-like growth factor receptor I and insulin receptor modulate receptor function
+
+Basigin (CD147), a multifunctional transmembrane glycoprotein with various binding partners
+
+Strategies for delivery of therapeutics into the central nervous system for treatment of lysosomal storage disorders
+
+The integral membrane protein ITM2A, a transcriptional target of PKA-CREB, regulates autophagic flux via interaction with the vacuolar ATPase
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+A phase 2/3 trial of pabinafusp alfa, IDS fused with anti-human transferrin receptor antibody, targeting neurodegeneration in MPS-II
+
+The human cation-independent mannose 6-phosphate receptor. Cloning and sequence of the full-length cDNA and expression of functional receptor in COS cells
+
+In vivo performance of polymer nanocarriers dually-targeted to epitopes of the same or different receptors
+
+Comparative binding, endocytosis, and biodistribution of antibodies and antibody-coated carriers for targeted delivery of lysosomal enzymes to ICAM-1 versus transferrin receptor
+
+Drug targeting to the brain
+
+Delivery of biologics across the blood-brain barrier with molecular trojan horse technology
+
+Receptor-mediated drug delivery of bispecific therapeutic antibodies through the blood-brain barrier
+
+Plasma pharmacokinetics of valanafusp alpha, a human insulin receptor antibody-iduronidase fusion protein, in patients with mucopolysaccharidosis type I
+
+Selective transport of an anti-transferrin receptor antibody through the blood-brain barrier in vivo
+
+Human blood-brain barrier transferrin receptor
+
+Human insulin receptor monoclonal antibody undergoes high affinity binding to human brain capillaries in vitro and rapid transcytosis through the blood-brain barrier in vivo in the primate
+
+Glucose transporters at the blood-brain barrier: function, regulation and gateways for drug delivery
+
+The “early-sorting” endocytic compartment of rat hepatocytes is involved in the intracellular pathway of caveolin-1 (VIP-21)
+
+Bispecific antibody shuttles targeting CD98hc mediate efficient and long-lived brain delivery of IgGs
+
+Low density lipoprotein receptor-related protein-1 in cardiac inflammation and infarct healing
+
+Targeted drug delivery via the transferrin receptor-mediated endocytosis pathway
+
+In vitro and in vivo investigation of glucose-mediated brain-targeting liposomes
+
+Impaired vascular-mediated clearance of brain amyloid beta in Alzheimer’s disease: the role, regulation and restoration of LRP1
+
+A novel human induced pluripotent stem cell blood-brain barrier model: applicability to study antibody-triggered receptor-mediated transcytosis
+
+pH-dependent binding of immunoglobulins to intestinal cells of the neonatal rat
+
+A human blood-brain barrier transcytosis assay reveals antibody transcytosis influenced by pH-dependent receptor binding
+
+Generation of KS-487 as a novel LRP1-binding cyclic peptide with higher affinity, higher stability and BBB permeability
+
+A novel LRP1-binding peptide L57 that crosses the blood brain barrier
+
+Extracellular matrix metalloproteinase inducer (CD147) is a novel receptor on platelets, activates platelets, and augments nuclear factor kappaB-dependent inflammation in monocytes
+
+Regulation of mitochondrial morphology and function by stearoylation of TFR1
+
+Epitope mapping of a blood-brain barrier crossing antibody targeting the cysteine-rich region of IGF1R using hydrogen-exchange mass spectrometry enabled by electrochemical reduction
+
+Defining the epitope of a blood-brain barrier crossing single domain antibody specific for the type 1 insulin-like growth factor receptor
+
+Grabody B, an IGF1 receptor-based shuttle, mediates efficient delivery of biologics across the blood-brain barrier
+
+An Fc receptor structurally related to MHC class I antigens
+
+Blood-brain barrier glucose transporter: effects of hypo- and hyperglycemia revisited
+
+Transport of [125I]transferrin through the rat blood-brain barrier
+
+Altered blood-brain barrier transport of nanotherapeutics in lysosomal storage diseases
+
+Receptor-mediated immunoglobulin G transport across mucosal barriers in adult life: functional expression of FcRn in the mammalian lung
+
+Engineering and pharmacology of blood-brain barrier-permeable bispecific antibodies
+
+A major histocompatibility complex class I-like Fc receptor cloned from human placenta: possible role in transfer of immunoglobulin G from mother to fetus
+
+Death receptors DR6 and TROY regulate brain vascular development
+
+Identification and expression cloning of a leptin receptor, OB-R
+
+A peptide derived from melanotransferrin delivers a protein-based interleukin 1 receptor antagonist across the BBB and ameliorates neuropathic pain in a preclinical model
+
+Uptake of ANG1005, a novel paclitaxel derivative, through the blood-brain barrier into brain and experimental brain metastases of breast cancer
+
+Modifying antibody-FcRn interactions to increase the transport of antibodies through the blood-brain barrier
+
+Iron: the cancer connection
+
+Collagenase-3 (MMP-13) and integral membrane protein 2a (Itm2a) are marker genes of chondrogenic/osteoblastic cells in bone formation: sequential temporal, and spatial expression of Itm2a, alkaline phosphatase, MMP-13, and osteocalcin in the mouse
+
+Quantitative targeted absolute proteomics of human blood-brain barrier transporters and receptors
+
+Towards a knowledge-based human protein atlas
+
+TFRC - transferrin receptor protein 1 - Homo sapiens (Human) - TFRC gene and protein
+
+Developmentally regulated mannose 6-phosphate receptor-mediated transport of a lysosomal enzyme across the blood-brain barrier
+
+In vitro studies on Itm2a reveal its involvement in early stages of the chondrogenic differentiation pathway
+
+Sorting tubules regulate blood-brain barrier transcytosis
+
+Brain penetration, target engagement, and disposition of the blood-brain barrier-crossing bispecific antibody antagonist of metabotropic glutamate receptor type 1
+
+Cancer-related issues of CD147
+
+Investigation of glucose-modified liposomes using polyethylene glycols with different chain lengths as the linkers for brain targeting
+
+Dual-Sensitive nanomicelles enhancing systemic delivery of therapeutically active antibodies specifically into the brain
+
+Angiopep-conjugated poly(ethylene glycol)-co-poly(ε-caprolactone) nanoparticles as dual-targeting drug delivery system for brain glioma
+
+Structure and dynamics of the insulin receptor: implications for receptor activation and drug discovery
+
+Brain delivery of IGF1R5, a single-domain antibody targeting insulin-like growth factor-1 receptor
+
+Crystal structure of HAb18G/CD147: implications for immunoglobulin superfamily homophilic adhesion
+
+Therapeutic bispecific antibodies cross the blood-brain barrier in nonhuman primates
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Class- and splice variant-specific association of CD98 with integrin beta cytoplasmic domains
+
+Blood-brain barrier (BBB)-Crossing strategies for improved treatment of CNS disorders
+
+The expression and function of ABC transporters at the blood-brain barrier
+
+Differential expression of receptors mediating receptor-mediated transcytosis (RMT) in brain microvessels, brain parenchyma and peripheral tissues of the mouse and the human
+
+Rapid transferrin efflux from brain to blood across the blood-brain barrier
+
+Mediated efflux of IgG molecules from brain to blood across the blood-brain barrier
+
+Purification and characterization of progenitor and mature human astrocytes reveals transcriptional and functional differences with mouse
+
+Integral membrane protein 2A inhibits cell growth in human breast cancer via enhancing autophagy induction
+
+Discovery of novel blood-brain barrier targets to enhance brain uptake of therapeutic antibodies

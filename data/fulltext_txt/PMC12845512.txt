@@ -1,0 +1,801 @@
+The Role of Blood–Brain Barrier Disruption in Epilepsy: Mechanisms and Consequences
+
+The blood–brain barrier (BBB) is essential for maintaining cerebral homeostasis, and its dysfunction is increasingly recognized as an active driver of epilepsy. This review explores the mechanisms by which BBB disruption contributes to seizures and the development of chronic epilepsy. Potentially epileptogenic insults, including traumatic brain injury, stroke, and status epilepticus, induce acute and often persistent BBB leakage. This breach permits the extravasation of serum albumin, which activates transforming growth factor-beta (TGF-β) signaling in astrocytes. This cascade leads to astrocytic dysfunction, impaired potassium buffering, neuroinflammation, and synaptic remodeling, collectively fostering neuronal hyperexcitability. Furthermore, BBB disruption facilitates the infiltration of peripheral immune cells, amplifying neuroinflammation and propagating a pathologic cycle of BBB damage and seizure activity. BBB damage is mediated by multiple processes, including the activation of the plasminogen activation (PA) system. Furthermore, these processes of BBB disruption and neuroinflammation provide a shared pathological basis for neuropsychiatric disorders like depression and anxiety, which are common comorbidities of epilepsy, through shared mechanisms of neuroinflammation and neurovascular unit (NVU) dysregulation. BBB dysfunction can also contribute to the resistance to antiepileptic drugs. Finally, we discuss the therapeutic potential of stabilizing the BBB as a viable strategy for developing disease-modifying therapies for epilepsy.
+
+1. Introduction
+
+The function of the CNS significantly depends on the microenvironment around the communicating neurons and glial cells. The barrier between the blood and this microenvironment plays an essential role in maintaining the homeostasis in the neural tissue. The blood–brain barrier (BBB) is an active barrier between the cerebrovascular system and brain tissues. The blood–brain barrier is mainly composed of the endothelial cells connected by tight junctions, but its function is also supported by perivascular astrocytes, pericytes, microglia, and neurons. Together they form a neurovascular unit (NVU) and regulate the brain’s extracellular environment. The BBB functions as a precise regulator of ionic balance through the integrated activity of specific ion channels and transporters, which is critical for effective synaptic signaling. The BBB also keeps separate the central and peripheral pools of neurotransmitters and macromolecules, protects the CNS from neurotoxic substances in the blood, and regulates the transport of nutrients and metabolites necessary for the functioning of the neural tissue.
+
+Under pathologic conditions, the disruption of BBB due to degeneration of tight junctions in the endothelium, changes in the ion and macromolecule transport, pathologic angiogenesis, altered cerebrovascular perfusion, extravasation of immune cells and albumin, and inflammation contribute to the pathological cycle of neuronal and synaptic dysfunction, leading to disease progression. Dysfunction of the BBB disrupts the physiological crosstalk between the periphery and the brain, exerting direct effects on virtually all neural cells. Such BBB dysfunction can both trigger and sustain seizures, thus being a cause and a consequence of epileptic activity, which makes the BBB an important link in the pathophysiology of epilepsy.
+
+Epilepsy is one of the most common neurologic disorders, which is characterized by persistent, abnormal neuronal activation resulting in recurrent, typically unprovoked epileptic seizures. Epilepsy is a disorder with complex etiology and in some cases can be induced by various brain insults—such as traumatic brain injury (TBI), stroke, infection, or prolonged seizures—initiating a cascade of molecular and cellular events that lead to the development of spontaneous seizures during a process, which is referred to as epileptogenesis. Multiple pieces of evidence from studies on epilepsy patients and animal models demonstrate that the BBB is compromised in the epileptic brain. Moreover, BBB disruption accompanies potentially epileptogenic brain insults, including TBI, stroke, inflammatory response, and status epilepticus (SE).
+
+The plasminogen activation (PA) system, comprising proteases, inhibitors, and receptors, regulates the proteolytic conversion of plasminogen to active plasmin—a process fundamental to fibrinolysis—and is now established as a critical modulator of diverse cerebral functions. The components of the PA system, and in particular tissue-type plasminogen activator (tPA), have been found to modulate the functions of astrocytes, neurons, microglia, and pericytes under physiologic and pathologic conditions, and participate in the regulation of BBB permeability. It has been suggested that the PA system components participate in the pathogenesis of epilepsy by the regulation of BBB permeability.
+
+Stress-related disorders, including depression, anxiety, and PTSD, are particularly common in epilepsy patients, with prevalence of these disorders much higher than in the general population. BBB damage leads to a disruption of homeostasis in the brain tissues and changes in neuronal function, which can contribute to the development of neuropsychiatric disorders. Seizures induce BBB disruption leading to hyperexcitability, neurotoxicity, and neuroinflammation, which, in turn, can be a potential link with comorbid neuropsychiatric disorders.
+
+In this review, we explore how BBB disruption affects the components of NVU during potentially epileptogenic brain insults and epileptogenesis, and how increased BBB permeability translates to the development of spontaneous seizure activity. We also review the role of the PA system in BBB damage and its consequences, as well as the cascade initiated by the extravasation of serum albumin and the subsequent activation of transforming growth factor-beta (TGF-β) signaling and facilitation of peripheral immune cell infiltration in response to BBB leakage. We also explore the possible involvement of BBB dysfunction in the pathogenesis of neuropsychiatric disorders and resistance to antiepileptic drugs, which are often observed in epilepsy patients. Finally, we discuss the BBB as a promising therapeutic target for anti-epileptogenic and disease-modifying strategies.
+
+2. BBB Permeability Changes in Response to Epileptogenic Brain Insults and Seizures
+
+Clinical studies have shown that ictal activity during a seizure is followed by transient BBB opening, which can be detected on CT and MRI scans. Potentially epileptogenic brain insults such as TBI and ischemic stroke induce acute BBB damage, and evidence also suggests an association between perivascular inflammation and BBB dysfunction in non-acquired focal epilepsies, though most findings have been made from patients with intractable epilepsy undergoing surgical resection of epileptic focus. At the same time, it has been demonstrated that TBI leads to a sustained increase in BBB permeability in patients with post-traumatic epilepsy. In the case of ischemic damage, it is supposed from animal studies that ischemia-induced BBB damage has biphasic dynamics: an early reversible BBB opening coincides with a decrease in perfusion and delayed irreversible associated with neuroinflammatory response. Human studies confirm that early BBB damage associated with mild ischemia can be reversible if perfusion is recovered. Status epilepticus (SE), including new-onset SE, when refractory seizures appear in patients without a history of epilepsy or other apparent cause, induces changes in BBB permeability detected on MRI. As it clearly follows from clinical data, practically any potentially epileptogenic brain insult is accompanied by at least a transient increase in BBB permeability, which, depending on the parameters of the insult, may further remain as sustained BBB damage.
+
+MRI studies of epilepsy patients often demonstrate signal abnormalities corresponding to BBB damage. The dynamic contrast-enhanced MRI (DCE-MRI) in patients with intractable temporal lobe epilepsy (TLE) has shown multiple sites of BBB damage in the brain of patients with and without hippocampal sclerosis. BBB permeability increases peri-ictally—within a few hours after the seizure onset. At the same time, BBB leakage in patients with drug-resistant epilepsy is persistent and observed inter-ictally. Notably, a recent study has demonstrated a reduction in BBB damage in TLE patients after a successful surgical resection of the epileptic focus compared to pre-surgery MRI findings, while in the patients with break-through seizures, no restoration of the BBB has been found.
+
+BBB damage found on MRI in patients with generalized and secondary generalized seizures is correlated with CSF levels of metalloproteinase-9 (MMP-9). MMP-9 is a member of the family of MMPs, which play a crucial role in the regulation of extracellular matrix (ECM) remodeling. MMP-9 has been found to participate in BBB damage in a number of pathologic conditions, including stroke, traumatic brain injury, and epilepsy. Moreover, upon investigation, serum levels of MMPs and other ECM and BBB-associated proteins have been found to increase in patients with epilepsy, particularly in patients with drug-resistant epilepsy and hippocampal sclerosis. Notably, serum levels of MMP-9 have been reported to be associated with higher seizure severity and decrease after surgical removal of epileptogenic tissue. An increased expression of MMP-9 has been also found in surgically removed brain tissues from patients with intractable TLE and patients with focal cortical dysplasia associated with chronic intractable epilepsy.
+
+BBB changes and their role in epileptogenesis and chronic epilepsy have been massively studied on animal models, particularly on models of chronic epilepsy developing after an episode of chemically or electrically induced SE. In rodents, it has been demonstrated that permeability of the BBB for dyes, like Evans blue, or radiolabeled molecules, which normally do not penetrate through the BBB, increases after the seizures leading to the accumulation of the tracers in various parts of the brain. A massive increase in BBB permeability has been detected in the acute (the first 24–48 h) period after prolonged seizures during KA- or pilocarpine-induced SE. An investigation of long-term MRI changes in rat brains demonstrated that the BBB damage persisted weeks after KA-induced SE when the onset of spontaneous seizures had occurred, and in this model, it was observed within the limbic system.
+
+3. The Mechanisms of BBB Damage
+
+The normally functioning BBB maintains the homeostasis of the central nervous system (CNS), but various damaging events, such as inflammatory disorders, ischemic stroke, TBI, and seizures, intervene in its normal functioning and disrupt its integrity. The pathophysiological processes that drive BBB impairment and disrupt its functions, however, are diverse and context-dependent. Here, we focus on potentially epileptogenic insults and how they affect the components of NVU, activating the processes that may underlie epileptogenesis and seizure recurrency.
+
+3.1. Endothelial Cells and Tight Junctions
+
+As the major structural component of cerebrovascular walls, endothelial cells are essential for regulating cerebral blood flow and maintaining vascular integrity. Inter-endothelial tight junctions, primarily consisting of the proteins claudins-1, -3, -5, -12 and occludin, are the principal component of the BBB, which maintain its structure and integrity. It is believed that claudin-5 plays the major role in the maintaining of BBB integrity under physiological and pathological conditions. A decrease in the expression and redistribution of claudin-5 has been associated with BBB leakage after ischemic damage and TBI. A significant reduction in claudin-5 expression and alterations in its distribution in the temporal lobe has been found in the surgical brain tissues from TLE patients, and similar changes have been observed in the hippocampus of mice in the chronic period after KA-induced seizures. Furthermore, the targeted knockdown of claudin-5 in the murine hippocampus with the adeno-associated virus (AAV) vector expressing a short hairpin RNA against claudin-5 significantly exacerbates KA-induced seizures and BBB disruption. A decrease in the expression of claudin-5 and other tight junction proteins has also been reported in the pilocarpine SE model in rats, where it coincided with upregulation of MMP-2 and MMP-9. The increase in MMP expression induced by seizures in cerebrovascular endothelial cells could disrupt the BBB through the proteolytic degradation of the tight junction proteins that seal the endothelium. However, the study of the expression of tight junction proteins specifically in endothelial cells in the microvasculature of TLE patients showed an increase in claudin-5 expression and a decrease in occludin expression.
+
+Vascular endothelial growth factor (VEGF) is one of the signaling molecules expressed by endothelial cells, as well as by astrocytes and neurons, in response to brain insult and inflammation. VEGF mediates a number of processes, including angiogenesis, vascular permeability, and cell survival. Upregulation of VEGF occurs in response to ischemic damage and after brain injury. While upregulation of VGEF appears to be a protective mechanism directed at repairing the cerebrovascular system, restoring blood flow, and promoting cell proliferation and survival, during the acute phase after injury, VGEF can be detrimental for brain tissues via promoting BBB leakage.
+
+Studies on human resected tissues from patients with intractable focal epilepsies have shown a significant upregulation of VEGF family proteins. mRNA expression and protein levels of VEGFs and their receptors are increased in the temporal cortex and hippocampus of patients with intractable TLE. An increase in VEGF-A and its receptor VEGFR-2 levels has been found specifically in the brain microvasculature of patients with both hippocampal sclerosis TLE and secondary TLE developed as a result of a lesion.
+
+Activation of VEGF expression has been reported in a number of experimental models of epilepsy in rats and mice. It has been shown that microinjections of VEGF in the mouse cerebral cortex disrupt occludin and claudin-5 and induce BBB breakdown. In vitro studies have demonstrated that seizure-like events provoke rapid upregulation of VEGF (2 h after the administration of KA) and activation of VEGF/VEGFR2 signaling, which leads to subsequent vascularization and downregulation of a key protein of tight junctions, zonula occludens-1 (ZO-1). These findings suggest that VEGF signaling is involved in the mechanisms of vascular remodeling and BBB damage induced by seizures.
+
+As a part of the NVU, cerebrovascular endothelial cells participate in the regulation of ion composition and control ion transport between the vascular space and brain tissues. Endothelial cells express a number of ion transporters and ion channels, including ATP-sensitive and inwardly rectifying (Kir2.1) K+ channels, Ca2+ channels, and TRPV4 (Na+ and Ca2+) channels, which participate in the regulation of cerebral blood flow and neuronal function. Upregulation of Kir2 channels in the hippocampal granule cells has been reported in experimental TLE. Recently, it has been reported that K+ channels of the Kv7 family are also expressed in cerebrovascular endothelial cells, and their expression in the brain vessels can be significantly reduced by KA-induced SE relatively early (within 24 h) after seizure onset, possibly contributing to BBB damage.
+
+Activation of brain endothelial cells in response to damaging events also results in upregulation of the cell adhesion molecules ICAM-1 and VCAM-1. These molecules facilitate the infiltration of peripheral immune cells to the brain tissues and promote neuroinflammation.
+
+3.2. Pericytes
+
+Pericytes are a component of the BBB, which are crucial for maintaining BBB integrity and regulating vascular function Located within the vascular basal membrane, pericytes are mural cells that ensheathe the capillary wall and make specific contacts with endothelial cells. Pericytes express platelet-derived growth factor receptor-β (PDGFRβ), which binds its ligand platelet-derived growth factor subunit (PDGF)-B secreted by endothelial cells. PDGF-B/PDGFRβ signaling is involved in the regulation of angiogenesis and is an essential regulator of vascular system development.
+
+A number of studies have shown that pericytes are involved in the mechanisms of the development of NVU injury after a potentially epileptogenic insult, as well as a result of seizures. Prolonged seizures during SE have been found to induce the redistribution of PDGFRβ-positive cells—pericytes—in the cerebral vasculature and brain parenchyma in the hippocampus and cortex after experimental SE, which demonstrated an SE-induced increase in pericyte vascular coverage. Seizure activity has been found to promote pericytosis, which occurred simultaneously with the activation of microglial inflammatory response and the formation of pericyte-microglia clusters, resulting in BBB disruption. An increase in PDGFRβ mRNA and protein levels has been reported in the lesioned hippocampus during epileptogenesis and after the development of spontaneous seizures in the KA model of TLE.
+
+The neuroinflammatory response of the brain to a damaging event includes the activation of pericytes and their involvement in neuroinflammatory response. Early activation of pericytes has been found to contribute to increased seizure susceptibility after cortical damage in a model of TBI by the disruption of NVU function via activation of PDGFRβ signaling in pericytes and subsequent activation of microglia. Pericytes express a number of signaling molecules, primarily chemokines, including chemokine CCL2 and the adhesion molecules ICAM-1 and VCAM-1, which promote the recruitment of peripheral monocytes, T cells, eosinophils, and neutrophils, and their adhesion and extravasation. It has been demonstrated that brain insults, such as inflammation and stroke, induce an increase in CCL2 production by pericytes, leading to an increase in excitatory synaptic transmission and excitation in various brain regions and promoting neuroinflammation, which can further compromise the BBB.
+
+3.3. Astrocytes
+
+Astrocytes are the most abundant cells in the brain, and together with other glial cells, they carry out multiple functions necessary for brain development and physiology, including regulation of synapse formation and maturity, and regulation of neuronal activity. In the NVU, astrocytes send their processes to the blood vessels and form endfeet, which cover the vascular wall, while other processes can extend to various targets in the brain, including neurons and neuronal synapses, positioning them as a key regulator of NVU function. An important function of astrocytes is maintaining ion homeostasis in brain tissues by buffering extracellular K+ and regulating water balance. Astrocytes participate in the maintenance of the BBB; direct evidence has been obtained in experiments with astrocyte ablation in the adult brain, showing that astrocyte loss induces a reduction in the tight junction protein ZO-1 and leads to sustained BBB damage.
+
+Various types of brain insults induce astrocytic response—reactive astrogliosis—that contributes to neuroinflammation and disease progression in the context of TBI, stroke, infection, and neurodegenerative disorders. Astrocytic activation is also a typical finding in epileptogenic tissues of TLE patients with hippocampal sclerosis and in animal models of epilepsy, and it is associated with an increased expression of aquaporin AQP4 and decreased expression of Kir4.1 K+ channels. Kir4.1 is essential for the uptake of K+ from the extracellular space following neuronal activity, preventing its accumulation that leads to hyperexcitability. The water channel AQP4 facilitates water movement across membranes and is essential for maintaining osmotic balance and supporting K+ clearance. Kir4.1 and AQP4 are critical for preventing excitotoxicity by ensuring a stable neuronal microenvironment. The loss of Kir4.1 in the epileptogenic tissue of TLE patients with hippocampal sclerosis has been observed in perivascular endfeet of astrocytes. AQP4, despite reports of significant upregulation in TLE, undergoes redistribution leading to its reduction in perivascular endfeet. Dysregulation of astrocytic Kir4.1 and AQP4 expression leads to the disruption of water and ion balance, which can contribute to changes in neuronal function and hyperexcitability. Such changes also can affect NVU function and modulate BBB permeability, and the modulation of AQP4 expression has been demonstrated to affect BBB integrity in experimental models of brain damage. At the same time, BBB disruption itself can induce rapid changes in AQP4 expression.
+
+3.4. Microglia
+
+Microglia are the principal immune cells of the brain participating in a number of processes maintaining homeostasis in the brain tissues, and they play an important role as a part of the NVU. Under pathological conditions, when brain injury occurs as a result of trauma, ischemic damage, or seizures, microglia activation takes place. Activated microglia can express pro-inflammatory and anti-inflammatory cytokines, including tumor necrosis factor α (TNFα), TGF-β, interleukins IL-1β and IL-10, chemokines, reactive oxygen species, nitrogen monoxide (NO), and many others depending on the phenotype. Activation of microglia is well documented in human epilepsy and in experimental models of seizures. Seizures induce rapid activation of microglia and the release of the pro-inflammatory cytokines TNF-α and IL-1β, which induce inflammatory response and activation of astrocytes and endothelial cells, resulting in the expression of a number of proteins, modification of endothelial tight junctions, and production of NO and MMPs, which lead to BBB disruption. BBB dysfunction and ECM degradation, in turn, can lead to the production of factors activating microglia and microglia-mediated inflammation, demonstrating bidirectional BBB–microglia interactions in the integrated context of the NVU, where active crosstalk between microglia, endothelial cells, and other components of the NVU contribute to the progression of inflammation.
+
+The components of the NVU and processes occurring in response to brain insults are schematically represented in Figure 1.
+
+4. Plasminogen Activation System and BBB Dysfunction
+
+The PA system converts proenzyme plasminogen into its active form, plasmin, by tissue-type (tPA) or urokinase-type (uPA) plasminogen activators. The activity of this proteolytic cascade is tightly controlled by serine protease inhibitors (serpins), primarily plasminogen activator inhibitor-1 (PAI-1) and neuroserpin, which are the main physiological inhibitors of tPA. Multiple studies have demonstrated that tPA can affect NVU function, cerebral flow, and BBB permeability both via its proteolytic and plasmin-independent signaling function.
+
+The plasminogen activators tPA and uPA are involved in the regulation of MMP activity. The MMP family includes zinc endopeptidases that target extracellular matrix (ECM) proteins and can proteolytically alter the ECM integrity and degrade vascular matrix integrity, thus contributing to BBB damage. Administration of exogenous tPA has been reported to increase MMP-9 activity during ischemic damage, and it also mediates upregulation of MMP expression. MMPs are secreted as inactive proenzymes that require activation by an extracellular protease cascade: tPA and uPA convert plasminogen into plasmin, which, in turn, proteolytically activates MMPs. Besides proteolytic activation, tPA also regulates MMP activity via activating LRP1-mediated cell signaling.
+
+Besides upregulation of MMP expression, tPA and uPA/uPAR activate a number of other LRP1-mediated signaling pathways, like NFkB-dependent expression of pro-inflammatory cytokines and the complement system, contributing to neuroinflammatory response, which could also contribute to BBB disruption.
+
+The function of tPA as a signaling molecule is also carried out via its interaction with NMDA receptors (NMDARs). Depolarization induces binding of NMDARs by tPA, which potentiates NMDAR signaling. Activation of neuronal NMDARs by tPA promotes excitotoxic damage and neuroplasticity. tPA has been proposed as a regulator of neurovascular coupling: tPA induces cerebral blood flow in response to neuronal activation via NMDAR-mediated activation of NO synthesis. Activation of endothelial NMDARs is known to cause cellular redistribution of occludin and an increase in BBB permeability, and it has been demonstrated that NR1 in brain endothelial cells plays a critical role in regulating BBB permeability by mediating tPA-induced signal transduction and controlling the transmigration of monocytes.
+
+BBB permeability can also be regulated via PDGF-CC signaling. PDGF-CC is a member of the PDGF family, which can bind PDFGRα and β receptors. PDGFRα signaling plays a vital role in tissue development and homeostasis, and contributes to various processes during brain development. PDGF-CC is a homodimeric protein that is expressed in its inactive form, containing a N-terminal CUB domain, which requires activation via proteolysis. The proteases tPA and uPA can activate PDGF-CC, so they can bind its receptor and promote PDGF-CC/PDGFRα signal transduction.
+
+Studies on experimental models of ischemic stroke have shown that the activation of PDGF-CC/PDGFRα signaling in perivascular cells in response to ischemic damage rapidly increases BBB permeability. The serpins PAI-1 and neuroserpin regulate the activity of tPA, so they can negatively control BBB permeability via limiting tPA activity. It also has been demonstrated that activation of PDGFRα by tPA/PDGF-CC requires co-receptors, such as low-density lipoprotein receptor-related protein 1 (LRP-1). Binding of LRP-1 by tPA leads to a significant increase in BBB permeability.
+
+Besides the relatively well-studied role of tPA/PDGF-CC in brain ischemic damage, the effects of tPA on BBB permeability have been implicated in the pathogenesis of TBI and inflammatory neurological disorders, such as multiple sclerosis.
+
+The ability of tPA to increase BBB permeability has significant implications in pathophysiology and treatment of ischemic stroke. Administration of recombinant tPA to patients with acute ischemic stroke is an approved method of thrombolysis and restoration of cerebral perfusion in such patients. However, treatment with tPA can cause complications, such as intracerebral hemorrhage—hemorrhagic transformation. Moreover, a few studies have suggested that tPA treatment can increase the risk of development of post-stroke epilepsy. Such risks of tPA thrombolysis in stroke have been heavily discussed, and recent studies have suggested that adequate tPA therapy applied at an appropriate therapeutic time window generally does not increase the risks of post-stroke epilepsy, and the potential epileptogenic effects of tPA are insignificant compared to the benefits of reperfusion therapy. However, factors such as large size of ischemia-induced lesion, intracerebral hemorrhage, and cerebral infarction with hemorrhagic transformation clearly increase the risk of early post-stroke seizures and post-stroke epilepsy, so tPA may be involved in the risks of epilepsy development in the case of severe brain damage and complications of stroke. It has been demonstrated that tPA administration increased the number of neutrophils and T cells in the blood of patients with ischemic stroke and in animals with experimental stroke, which transmigrate to the brain and exacerbate BBB damage, increasing the risk of hemorrhagic transformation. Notably, inhibiting endogenous tPA after recanalization is reported to attenuate brain damage and improve recovery after experimental ischemic stroke, while delayed tPA treatment, on the contrary, exacerbated the damage.
+
+A significant body of existing data on the role of tPA in the regulation of BBB permeability has been obtained from stroke patients and experimental ischemia models, where exogenous recombinant tPA was applied. Less is known about the effects of the role of endogenous tPA and other components of the PA system in the regulation of BBB permeability in epilepsy. tPA and its inhibitor neuroserpin are expressed in NVU cells, most likely by neurons innervating the vascular wall and regulating vascular functions. In studies on knockout mice, tPA-deficient tPA−/− mice have demonstrated decreased susceptibility to seizures, while neuroserpin-deficient Nsp−/− mice, on the contrary, have developed very severe seizures in response to KA injection. At the same time, Nsp−/− mice have been characterized by a rapid loss of BBB integrity, while tPA−/− mice have shown a decrease in BBB leakage in response to KA-induced seizures. Inhibition of tPA-induced PDGFRα signaling has attenuated BBB leakage and delayed the propagation of seizure activity, and astrocyte-specific PDGFRα deficiency in mice has also led to a delay in generalization of KA-induced seizures, demonstrating that tPA regulates BBB permeability and seizure spreading via the PDGFRα signaling pathway.
+
+Figure 2 schematically shows the participation of the PA system in the regulation of BBB permeability.
+
+5. BBB Damage in the Pathogenesis of Epilepsy
+
+Seizures can affect NVU function and the integrity of the BBB via a number of mechanisms, including alteration of the basal membrane of the BBB and endothelial cells forming it, as well as changes in the neuronal, astrocyte, and pericyte function. Pathologic hypersynchronization of neuronal activity during epileptic seizures leads to rapid release of glutamate, inducing changes in NVU component function that result in increased vascular permeability and BBB opening. Rapid excessive glutamate release also occurs after the onset of ischemia and in response to trauma, such as TBI.
+
+Altered BBB permeability, in turn, results in the extravasation of albumin and peripheral blood immune cells.
+
+5.1. BBB Permeability and Peripheral Immune Cell Migration in the Pathogenesis of Epilepsy
+
+Epileptogenic insults can damage the BBB, which is suggested to establish a pro-inflammatory microenvironment and facilitate crosstalk between the central and peripheral immune systems. This increase in BBB permeability triggers the invasion of peripheral immune cells—such as neutrophils, T and B lymphocytes, and monocytes—into the brain, initiating a cascade of events that sustains neuroinflammation.
+
+A few studies have shown the activation of peripheral T cells and changes in the CD4(+) and CD8(+) T cell profile in TLE patients, demonstrating persistent peripheral inflammation in such patients. Furthermore, increased peripheral levels of pro-inflammatory cytokines are associated with drug-resistant epilepsy. An increased level of IL-1β-positive CD14+ monocytes has been found in patients with drug-resistant epilepsy, and it correlated with seizure frequency. The correlation between peripheral and central inflammation suggests that peripheral inflammatory biomarkers could potentially be used to evaluate neuroinflammation in drug-resistant epilepsy. These clinical findings also support the existence of crosstalk between central and peripheral immune systems in epilepsy patients.
+
+A significant challenge arises from the postulated ability of monocytes to differentiate into “microglia-like” cells, making it difficult to discriminate them from the native microglial population.
+
+Peripheral blood leukocyte invasion has been detected in surgically removed tissues of TLE patients and patients with cortical dysplasia.
+
+The invasion of peripheral immune cells has been shown in experimental models of acquired epilepsy, including intrahippocampal KA injection, a pilocarpine SE model, and febrile seizures. Potentially epileptogenic events, such as TBI and ischemic stroke, also lead to leukocyte invasion. Neutrophil invasion in the models of ischemia and TBI has been found to contribute to an increase in MMP expression, which in turn, could contribute to the development of inflammatory response and further BBB breakdown.
+
+The facilitation of neuroinflammatory response, neuronal injury and death, and further BBB damage by infiltrating leukocytes has been found in a KA-induced TLE model in rats. Inhibition of monocyte infiltration to the brain attenuated neurodegeneration, reduced pro-inflammatory cytokine IL-1β levels, and decreased BBB damage in the KA and pilocarpine models. In the rat model of electrically induced SE, the number of infiltrated CD68+ monocytes, together with perivascular CD163+ macrophages and activated microglia, positively correlated with the duration of initial SE and with the frequency of spontaneous seizures in the chronic period after SE, while T cells and dendritic cells scarcely infiltrated the brain parenchyma in this model. In the pilocarpine-induced status epilepticus (SE) model, early phases of epileptogenesis are characterized by the infiltration of Ly6G+Ly6C+ neutrophils and the upregulation of proteins, associated with BBB dysfunction, such as MMP-3 and MMP-9.
+
+5.2. Extravasation of Albumin and TGF-β Signaling
+
+One of the primary mechanisms of the input of BBB damage into the development of hyperexcitability has been established as a signaling cascade triggered by extravasation of blood serum albumin. Post-mortem immunohistochemical investigation of the hippocampus of epilepsy patients showed the presence of extravasated serum albumin and activated astrocytes; albumin immunoreactivity has been found also in autopsy material and the surgically removed epileptogenic brain tissues from patients with intractable TLE.
+
+It has been demonstrated that exposure to albumin resulting from BBB damage and to exogenous albumin application induces hyperexcitability and hypersynchronization in vivo and in vitro. In experimental epilepsy models, albumin promoted seizure susceptibility both short- and long-term. It has been demonstrated that administration of albumin facilitates KA-induced epileptiform activity and recurrent ictal events in vitro. Intracerebral administration of albumin increased susceptibility to KA-induced seizures during the acute period after albumin injection and reduced the after-discharge threshold in the hippocampus in the long-term period after albumin injection, demonstrating sustained increase in the neuronal excitability induced by albumin.
+
+Albumin induces hyperexcitability and promotes epileptogenesis by activating astrocytes via TGF-β receptors. It has been shown that albumin accumulates in astrocytes and binds TGF-β type II receptors (TGFβRII) and activates the TGF-β signaling pathway, which regulates the expression of multiple genes leading to the induction of astrocytic activation and neuroinflammatory response. Blocking TGF-β receptors prevents the development of albumin-induced epileptiform activity.
+
+The canonical TGF-β signaling pathway is activated when the ligand binds to the transmembrane TGF-β type II receptor (TGFβRII). This activates TGFβRII, enabling it to phosphorylate the TGF-β type I receptor, also called activin-like kinase 5 (ALK5 or TGFβRI). Phosphorylated ALK5, in turn, phosphorylates intracellular SMAD2/3 proteins, which translocate to the nucleus and alter the transcription of a wide spectrum of genes.
+
+TGF-β signaling is pleiotropic and context-dependent. Notably, it has been demonstrated that the canonical TGF-β signaling pathway is activated in the dentate gyrus and is involved in the regulation of adult neurogenesis. It also regulates migration and growth of neural progenitor cells, and is also involved in the regulation of neuronal survival via PI3K/Akt and MAPK/ERK1/2 pathways. It has been shown that albumin activates the ALK5–SMAD2/3 pathway predominantly in astrocytes, but not in neurons, where it activates the ALK1–SMAD1/5/8 pathway.
+
+The functional changes induced by TGFβR activation in astrocytes are carried out via several downstream mechanisms. Activation of TGF-β signaling leads to downregulation of Kir4.1 and accumulation of extracellular K+ and glutamate and a subsequent increase in neuronal excitability.
+
+An exposure to albumin and activation of TGF-β signaling in astrocytes induces transcriptional changes leading to altered expression of ECM-related proteins and degradation of perineuronal nets around inhibitory parvalbumin interneurons, which could contribute to the alteration of inhibitory synaptic connections and lead to hyperexcitability. Albumin also has been shown to induce changes in neuronal potentiation, a reduction in long-term depression and increase in long-term potentiation in response to stimulation. It also can promote excitatory synaptogenesis, which can be blocked by a specific ALK5/TGF-β inhibitor.
+
+Another mechanism is the induction of pro-inflammatory cytokine expression. TGF-β1, via activation of SMAD2/3 pathway, induces early upregulation of pro-inflammatory cytokine interleukin IL-6 in astrocytes, which also can cause neuronal excitability and trigger epileptogenesis.
+
+The involvement of TGF-β signaling in pathogenesis of epilepsy is supported by clinical data. Increased concentration of TGF-β1 has been found in the CSF of patients with drug-resistant epilepsy, and TGFβRIs are upregulated in the temporal lobe of such patients. There is a significant increase in the expression of the components of the TGF-β canonical pathway—TGF-β1, TGFβRII, SMAD3, and Smad anchor for receptor activation (SARA)—in the surgically removed epileptogenic tissues of the temporal lobe of patients with intractable TLE.
+
+TGF-β1 can induce the expression of MMP-9 in brain astrocytes via activation of kinase signaling cascades and activation of the NF-κB transcription factor, which contributes into the processes of ECM remodeling, which implicates TGF-β signaling in the regulation of ECM metabolism and neuronal plasticity.
+
+TGF-β signaling is also a well-known factor inducing upregulation of PAI-1, and it has been demonstrated that TGF-β can induce an increase in PAI-1 expression in astrocytes. Upregulation of PAI-1 and increased inhibition of tPA has been suggested as a potential mechanism of the neuroprotective effect of TGF-β after a brain insult inducing rapid tPA upregulation. At the same time, studies have reported that PAI-1 antagonists can have a neuroprotective effect on experimental TBI and stroke, demonstrating that TGF-β-induced increases in PAI-1 expression can also have a detrimental effect depending on the context.
+
+6. BBB Dysfunction and Stress-Related Neuropsychiatric Disorders
+
+A growing body of evidence shows that stress-induced dysfunction of the neurovascular unit and increased blood–brain barrier (BBB) permeability is a potential pathological link to psychiatric disorders like major depressive disorder (MDD), but the exact mechanisms underlying this process are not fully understood. The association of BBB dysfunction with neuropsychiatric disorders has been reported in MDD patients and experimental models, as well as in experimental anxiety and PTSD.
+
+Animal studies have shown that the processes and signaling pathways participating in the regulation of BBB permeability and associated with BBB damage can be also implicated in the pathogenesis of anxiety and depression. In animal models of chronic stress, NVU alterations and changes in BBB permeability have been reported to induce anxiety- and depressive-like behavior, accompanied by downregulation of the tight junction protein claudin-5 in the brain tissues.
+
+It recently has been demonstrated that increased VEGF-A plasma and CSF levels correlated with BBB permeability in MDD patients, and inhibition of VEGF-A/VEGFR-2 signaling with a monoclonal antibody suppressed BBB dysfunction and the development of depressive-like behavior in the chronic restraint stress model of depression, which suggested an important role of VEGF-A/VEGFR-2 in the development of depression.
+
+A significant body of data demonstrates that inflammation is involved in the pathogenesis of a number of neuropsychiatric disorders, including major depressive disorder (MDD), posttraumatic stress disorder (PTSD), and anxiety. An increase in markers of inflammation—plasma and CSF levels of pro-inflammatory cytokines and their receptors, chemokines, and adhesion molecules—has long been reported in MDD patients, and findings from animal experiments have suggested the involvement of neuroinflammation in the development of depressive-like behavior. Neuroinflammation is also reported to be implicated in anxiety and PTSD. BBB is an important link in the interactions between the brain and the immune system which potentially implicates BBB damage in the pathogenesis of various disorders, associated with neuroinflammation. BBB damage is associated with leukocyte infiltration to the brain, which results in amplifying and maintaining neuroinflammation. Studies on animal models of depressive and anxiety disorders have shown that recruitment of peripheral monocytes to the brain can be triggered by stress and are associated with depressive-like and anxiety-like behavioral changes. It has been demonstrated that chronic stress can induce an upregulation of VCAM-1 and ICAM-1 adhesion molecules in brain endothelial cells and promote monocyte infiltration and an increase in the production of IL-1β, which leads to the development of stress-induced anxiety.
+
+Notably, the peripheral levels of TGF-β have been reported to be decreased in patients with MDD and anxiety, and in experimental models of stress-induced depression, the expression of TGF-β is downregulated in the brain of animals with depressive- and anxiety-like behaviors. At the same time, as discussed in previous sections, the TGF-β/TGFβRII signaling pathway is involved in epileptogenesis, and its components are upregulated in TLE patients, which is very distinct from depressive and anxiety disorders. However, it has been reported that in cancer-related depression, TGF-β serum levels are increased in cancer patients with and without depression. These findings suggest that TGF-β signaling is implicated differently in the pathogenesis of MDD and comorbid depression and might not be a marker of depression in the case of comorbidity, unlike MDD.
+
+7. BBB Dysfunction and Resistance to Antiepileptic Drugs
+
+Despite a large variety of antiepileptic drugs, antiepileptic treatment fails to control seizures in about 30% of patients with epilepsy, and this ratio persists despite the development of novel antiseizure medications. Despite the increased permeability of the damaged BBB, its dysfunction leads to a decrease in drug penetration to the brain in epilepsy patients. Since BBB is an active barrier participating in the regulation of the transport of a wide spectrum of molecules between peripheral circulation and brain tissues, BBB dysfunction may be one of the mechanisms of the development of resistance to antiepileptic drugs.
+
+While most drugs targeting brain tissues, including antiepileptic drugs, are lipophilic and are supposed to easily cross the BBB via lipid membranes, lipid-soluble drugs often exhibit lower-than-predicted brain permeability due to active efflux by transporters at the blood–brain barrier, which efficiently limit their CNS uptake. The transporter hypothesis suggests that the resistance to antiepileptic drugs develops as a result of overexpression of drug efflux transporter proteins, such as P-glycoprotein (Pgp) and other multidrug transporters, in the BBB in epileptogenic brain tissues. Overexpressed multidrug transporters lower extracellular drug levels in the region of the epileptogenic pathology, diminishing the efficacy of antiepileptic treatment. The transporter hypothesis is supported by evidence from both animal and human studies. An increase in the expression of the MDR1 gene encoding Pgp and Pgp protein expression has been found in the resected brain tissues from patients with drug-resistant epilepsy. Moreover, an increased Pgp immunoreactivity has been associated with high risks of seizure recurrence in epilepsy patients after surgery for drug-resistant TLE. In vivo investigation of Pgp activity using positron emission tomography (PET) with a radiolabeled Pgp substrate has shown that patients with drug-resistant TLE have higher Pgp activity in the temporal lobe compared to seizure-free patients, and higher levels of Pgp activity corresponded to higher seizure frequency. PET imaging has also revealed an increase in Pgp activity in patients with different epileptogenic developmental lesions (focal cortical dysplasia and hamartoma), showing that Pgp activity increase may take place in drug-resistant epilepsy regardless of etiology. Experimental studies have demonstrated overexpression of Pgp in cerebrovascular endothelial cells of rats with post-SE recurrent spontaneous seizures, who did not respond to phenobarbital, in comparison to epileptic rats responding to the medication. Pgp overexpression at the BBB in the limbic structures of chronically epileptic rats has been demonstrated to reduce the local levels of phenytoin compared to that in the regions with unchanged Pgp expression. In the rat kindling model, overexpression of Pgp was also reported, which led to reduced accumulation of carbamazepine and phenytoin in brain tissues.
+
+Despite abundant evidence of overexpression of drug transporters associated with epilepsy, the role of these changes in the development of resistance to antiepileptic drugs is still under debate, mainly due to controversial data on the transport of epileptic drugs by drug efflux transporters. While there is evidence that some antiepileptic drugs, such as phenytoin, phenobarbital, oxcarbazepine, lamotrigine, topiramate, and lacosamide, are likely the substrates for Pgp, others, such as valproate, gabapentin, and vigabatrin, are probably not.
+
+In addition to changes in drug efflux transporter expression, it has been shown that the resistance to antiepileptic drugs is associated with increased expression of cytochrome P450 (CYP) enzymes in BBB endothelial cels, which are responsible for local drug metabolism at the BBB. It has been demonstrated that the silencing or inhibition of nuclear glucocorticoid receptors (GRs) regulating the expression of CYP leads to a decrease in CYP function and an increase in BBB permeability for phenytoin and a reduction of oxcarbazepine metabolism, which indicates that GR and CYP may play a role in the mechanisms regulating the bioavailability of antiepileptic drugs, thus contributing to the development of drug resistance.
+
+8. BBB Targeting as a Potential Therapeutic Strategy
+
+The involvement of BBB damage in pathogenesis of multiple neurologic disorders makes it an attractive target for therapeutic interventions. A few strategies have been offered to prevent BBB damage or mitigate its harmful downstream effects, depending on the mechanism of BBB damage and signaling pathways involved.
+
+In the context of epilepsy and epileptogenesis, the TGF-β/TGFβRII signaling pathway as a target for antiepileptogenic treatment has drawn significant attention. Experiments on animal models have shown that blocking albumin-induced TGF-β signaling by losartan prevents the development of albumin-induced seizures. Losartan is angiotensin AT1 receptor antagonist, which is primarily used in the therapy of hypertension, but it has also been found to inhibit TGF-β signaling and decrease albumin-induced p-Smad2/3 upregulation and astrocytic activation. Losartan also has shown anti-seizure effects in a model of audiogenic seizures and PTZ-induced kindling. Losartan has been reported to attenuate astrocyte activation and BBB damage and inhibit spontaneous seizures in a lithium–pilocarpine SE model. Interestingly, a cohort study on patients with arterial hypertension has shown that patients receiving angiotensin receptor blockers, particularly losartan, demonstrated a lower incidence of new-onset epilepsy compared to patients receiving other groups of antihypertensive medications.
+
+A few studies have shown that epileptogenesis can be modified via targeting microRNAs (miRNAs). miRNAs are a group of small non-coding RNAs which perform regulatory functions during development and under pathological conditions by suppressing protein expression at the post-translational level. It has been demonstrated that the levels of miRNAs can be altered in experimental epilepsy models and in human epileptogenic tissues. The analysis of miRNAs’ expression profiles during epileptogenesis demonstrates that these alterations are associated with a number of signaling pathways, including TGF-β signaling and pathways related to ECM regulation. Suppressing some miRNAs, including miRNA-134, miRNA-124, miRNA-135a, and some others, can inhibit seizure activity and reduce spontaneous seizure activity in experimental models of chronic epilepsy. Overexpression of miRNA-132 in cultured astrocytes has been found to suppress TGF-β2 expression and reduce the expression of pro-inflammatory factors. Interestingly, increased BBB permeability can be exploited for therapeutic benefit, as demonstrated in experiments with timed administration of an intravenous antisense oligonucleotide (antagomir) against miRNA-134 during a period of BBB disruption, which allowed the drug to reach the brain and exert an anti-epileptic effect.
+
+Beyond their symptomatic control of seizures, some conventional antiseizure drugs have been evaluated for their potential to prevent the development of epilepsy following a brain insult. Levetiracetam, an approved antiepileptic drug for treatment of various types of seizures, has been found to produce anti-epileptogenic effects in various models of seizures, including kindling, audiogenic seizures, and SE-induced chronic epilepsy. Treatment with levetiracetam has been demonstrated to inhibit transient SE-induced BBB damage and prevent pro-inflammatory responses and expression of pro-angiogenic factors, and also suppress the infiltration of neutrophils in the hippocampus. Another approved antiepileptic drug, valproate, has been demonstrated to reduce BBB damage in experimental intracerebral hemorrhage via a decrease in the expression of MMP-9 and the pro-inflammatory cytokines TNF-α and IL-6, with a simultaneous increase in the expression of claudin-5 and occludin in the brain. While antiepileptogenic properties of valproate are not confirmed, its neuroprotective effects have been reported in experimental models of ischemic brain damage and TBI.
+
+Pathways which can be potentially targeted for stabilization of BBB permeability include PDGFRα/β signaling. The tyrosine kinase inhibitor imatinib suppresses the phosphorylation of PDGFRα and PDGFRβ and inhibits these receptors. Inhibition of PDGF-CC/PDGFRα signaling has been found to reduce BBB dysfunction and reduce neuronal damage associated with ischemic stroke and TBI. Pre-treatment with imatinib has been found to delay the onset and generalization of KA-induced seizures. It has also been demonstrated that pre-treatment with imatinib together with valproate reduces the severity of PTZ-induced kindling and attenuates spontaneous recurrent seizures in a pilocarpine SE model.
+
+Despite the promising results from experimental studies of BBB modulation, most approaches of BBB targeting are still far from translation into clinical settings. Repurposing existing drugs, such as losartan, offers many advantages, including reduced costs and timelines due to established safety profiles of existing compounds. At the same time, there are still many challenges due to complexity of the disease and requirement of multidisciplinary cooperation, which make it difficult to create an appropriate study design. The dosage of medication and timing of therapeutic intervention are also very important, particularly in the case of treatment of acute, potentially epileptogenic brain insults, such as ischemic stroke, and further studies are required to obtain this data. Moreover, regulation of BBB permeability is very complex and involves a large number of participants with bidirectional and context-dependent interactions. BBB damage also occurs locally and involves region-specific alterations in the processes underlying BBB dysfunction. For example, TGF-β signaling is characterized by profound complexity and diversity involving a large network of components and significant pathway crosstalk with precise spatiotemporal control. This intricate regulation makes therapeutic targeting particularly challenging.
+
+To summarize, the results of experimental studies on animal models of seizures and BBB damage show that targeting specific molecular pathways underlying BBB disruption—notably TGF-β signaling—represents a viable strategy for developing anti-epileptogenic therapies. These approaches aim to prevent the progression to chronic epilepsy by disrupting the cycle of BBB damage and neuroinflammation, contributing to hyperexcitability and epileptogenesis. However, so far, none of the studied candidates have exhibited an ability to fully prevent epileptogenesis. Moreover, there is evidence that increased BBB permeability in some cases might be beneficial for drug delivery in the therapy of potentially epileptogenic brain insults. At the same time, some processes accompanying BBB disruption may be a compensatory response to brain damage; for example, infiltration of peripheral leukocytes can have a protective effect via recruitment of B-cells to the brain, which can have protective or detrimental effects depending on the cell phenotype, timing, and microenvironment.
+
+9. Conclusions
+
+Evidence from both clinical studies and experimental models suggests that BBB dysfunction is involved in pathogenesis of epilepsy and can be a consequence of seizures, but also acts as a driver of epileptogenesis. Brain insults, such as traumatic injury and ischemic damage, disrupt the functions of cells constituting the NVU, leading to changes in vascular permeability and BBB leakage. BBB disruption, in turn, activates pathologic cascades of processes, including the extravasation of serum albumin and activation of TGF-β signaling, initiating astrocytic dysfunction, neuroinflammation, and synaptic remodeling, which lower the seizure threshold and promote the development of chronic epilepsy. Epileptic activity itself can initiate BBB disruption, and chronic recurrent seizures contribute to the maintaining of BBB leakage in the epileptic brain. Importantly, the compromised BBB is also involved in the pathogenesis of stress-related neuropsychiatric disorders. Neuroinflammation and dysregulation of the neuronal microenvironment caused by BBB disruption provide a shared pathological substrate for the common neuropsychiatric comorbidities of epilepsy, such as depression and anxiety. Consequently, restoring the BBB and mitigating the consequences of BBB leakage with drugs like losartan or through approaches like microRNA regulation represents a viable strategy to disrupt the pathologic cycle induced by BBB disruption, potentially providing both seizure control and alleviating comorbid psychiatric symptoms. However, there is evidence that the response of NVU components and activation of signaling pathways, as well as their timing, may differ depending on the context and type of brain insult, and are complicated by intricate, reciprocal interactions within the NVU. Therefore, future research is needed to elucidate the precise spatiotemporal details of BBB damage and NVU dysfunction across different epileptogenic contexts.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+Conceptualization, E.S. and A.K.; investigation, E.S. and A.K.; writing—original draft preparation, E.S.; writing—review and editing, A.K. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+No new data were created or analyzed in this study.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Abbreviations
+
+AAV	Adeno-Associated Virus	 	ALK5	Activin Receptor-Like Kinase 5	 	AQP4	Aquaporin-4	 	ATP	Adenosine Triphosphate	 	BBB	Blood–Brain Barrier	 	CNS	Central Nervous System	 	CSF	Cerebrospinal Fluid	 	CT	Computed Tomography	 	DCE-MRI	Dynamic Contrast-Enhanced Magnetic Resonance Imaging	 	ECM	Extracellular Matrix	 	KA	Kainic Acid	 	LRP-1	Low-Density Lipoprotein Receptor-Related Protein 1	 	MAPK/ERK1/2	Mitogen-Activated Protein Kinase/Extracellular Signal-Regulated Kinase 1/2	 	MDD	Major Depressive Disorder	 	miRs/miRNAs	MicroRNAs	 	MMP	Matrix Metalloproteinase	 	MRI	Magnetic Resonance Imaging	 	NF-κB	Nuclear Factor Kappa-Light-Chain-Enhancer of Activated B Cells	 	NMDAR	N-Methyl-D-Aspartate Receptor	 	NO	Nitric Oxide	 	NVU	Neurovascular Unit	 	PA system	Plasminogen Activation System	 	PAI-1	Plasminogen Activator Inhibitor-1	 	PDGF	Platelet-Derived Growth Factor	 	PDGFRα/β	Platelet-Derived Growth Factor Receptor Alpha/Beta	 	PI3K/Akt	Phosphoinositide 3-Kinase/Protein Kinase B	 	PTSD	Post-Traumatic Stress Disorder	 	SE	Status Epilepticus	 	TBI	Traumatic Brain Injury	 	TGF-β	Transforming Growth Factor-Beta	 	TGFβRI/II	Transforming Growth Factor-Beta Receptor Type I/II	 	TLE	Temporal Lobe Epilepsy	 	TNFα	Tumor Necrosis Factor Alpha	 	tPA	Tissue-Type Plasminogen Activator	 	TRPV4	Transient Receptor Potential Vanilloid 4	 	uPA	Urokinase-Type Plasminogen Activator	 	uPAR	Urokinase-Type Plasminogen Activator Receptor	 	VEGF	Vascular Endothelial Growth Factor	 	VEGFR-2	Vascular Endothelial Growth Factor Receptor 2	 	ZO-1	Zonula Occludens-1
+
+The following abbreviations are used in this manuscript:
+
+References
+
+Structure and Function of the Blood-Brain Barrier
+
+Comparative Physiology of the Blood-Brain Barrier
+
+TPA Modulation of the Blood-Brain Barrier: A Unifying Explanation for the Pleiotropic Effects of TPA in the CNS
+
+Blood-Brain Barrier: From Physiology to Disease and Back
+
+Blood-Brain Barrier Dysfunction and Epilepsy: Pathophysiologic Role and Therapeutic Approaches
+
+Prevention or Modification of Epileptogenesis after Brain Insults: Experimental Approaches and Translational Research
+
+Molecular and Cellular Basis of Epileptogenesis in Symptomatic Epilepsy
+
+Blood-Brain Barrier Dysfunction, Seizures and Epilepsy
+
+Structural, Molecular, and Functional Alterations of the Blood-Brain Barrier during Epileptogenesis and Epilepsy: A Cause, Consequence, or Both?
+
+Fibrinolysis: From Blood to the Brain
+
+Pharmacological Targeting of the PDGF-CC Signaling Pathway for Blood-Brain Barrier Restoration in Neurological Disorders
+
+Psychiatric Comorbidities in Epilepsy
+
+Psychiatric Comorbidities in Epilepsy: Should They Be Considered in the Classification of Epileptic Disorders?
+
+Blood–Brain Barrier Dysfunction in the Pathogenesis of Major Depressive Disorder
+
+PTSD, Major Depression, and Advanced Transcriptomic Age in Brain Tissue
+
+The Role of Glutamate and Blood–Brain Barrier Disruption as a Mechanistic Link between Epilepsy and Depression
+
+Seizure Induced Disruption of Blood-Brain Barrier Demonstrated by CT
+
+Complex Partial Seizure-Induced Transient MR Enhancement
+
+Blood–Brain Barrier Disruption and Hemorrhagic Transformation in Acute Ischemic Stroke: Systematic Review and Meta-Analysis
+
+Pretreatment Blood–Brain Barrier Disruption and Post-Endovascular Intracranial Hemorrhage
+
+The Roof Is Leaking and a Storm Is Raging: Repairing the Blood–Brain Barrier in the Fight Against Epilepsy
+
+Long-Lasting Blood-Brain Barrier Dysfunction and Neuroinflammation after Traumatic Brain Injury
+
+Blood-Brain Barrier Breakdown in Acute and Chronic Cerebrovascular Disease
+
+Identification of Reversible Disruption of the Human Blood-Brain Barrier Following Acute Ischemia
+
+Blood-Brain Barrier Damage and New Onset Refractory Status Epilepticus: An Exploratory Study Using Dynamic Contrast-Enhanced Magnetic Resonance Imaging
+
+Diffusion Changes Suggesting Predominant Vasogenic Oedema during Partial Status Epilepticus
+
+Status Epilepticus and Periictal Imaging
+
+Microvascular Stabilization via Blood-Brain Barrier Regulation Prevents Seizure Activity
+
+Evidence for Peri-Ictal Blood–Brain Barrier Dysfunction in Patients with Epilepsy
+
+Imaging Blood-Brain Barrier Dysfunction in Drug-Resistant Epilepsy: A Multi-Center Feasibility Study
+
+Evidence for Interictal Blood–Brain Barrier Dysfunction in People with Epilepsy
+
+Restoration of Blood Brain Barrier Integrity Post Neurosurgical Resection in Drug Resistant Epilepsy
+
+Disruption of the Blood-Brain Barrier after Generalized Tonic-Clonic Seizures Correlates with Cerebrospinal Fluid MMP-9 Levels
+
+Matrix Metalloproteinase-9 (MMP-9) as a Therapeutic Target: Insights into Molecular Pathways and Clinical Applications
+
+Implications of MMP9 for Blood Brain Barrier Disruption and Hemorrhagic Transformation Following Ischemic Stroke
+
+Elevation of Matrix Metalloproteinases 3 and 9 in Cerebrospinal Fluid and Blood in Patients with Severe Traumatic Brain Injury
+
+Matrix Metalloproteinase-Mediated Blood-Brain Barrier Dysfunction in Epilepsy
+
+Matrix Metalloproteinase 9 in Epilepsy: The Role of Neuroinflammation in Seizure Development
+
+Matrix Metalloproteinase-9 May Be a Potential Therapeutic Target in Epilepsy
+
+Altered S100 Calcium-Binding Protein B and Matrix Metallopeptidase 9 as Biomarkers of Mesial Temporal Lobe Epilepsy with Hippocampus Sclerosis
+
+Central Expression and Peripheral Levels of MMP-9 and TIMP-1 in Patients with Temporal Lobe Epilepsy
+
+Blood-Brain Barrier-Associated Proteins Are Elevated in Serum of Epilepsy Patients
+
+Serum Proteins Associated with Blood–Brain Barrier as Potential Biomarkers for Seizure Prediction
+
+Increased Expression of Matrix Metalloproteinase-9 in Patients with Temporal Lobe Epilepsy
+
+Increased Expression of Matrix Metalloproteinase 9 in Cortical Lesions from Patients with Focal Cortical Dysplasia Type IIb and Tuberous Sclerosis Complex
+
+Regional Patterns of Blood-Brain Barrier Breakdown during Epileptiform Seizures Induced by Various Convulsive Agents
+
+Changes in Transport of [14C]α-Aminoisobutyric Acid across the Blood-Brain Barrier during Pentylenetetrazol-Induced Status Epilepticus in the Immature Rat
+
+Regional Changes in Cerebral Blood Flow and Blood—Brain Barrier Permeability during Epileptiform Seizures and in Acute Hypertension in Rabbits
+
+Longitudinal Assessment of Blood-Brain Barrier Leakage during Epileptogenesis in Rats. A Quantitative MRI Study
+
+The Blood-Brain Barrier Breakdown During Acute Phase of the Pilocarpine Model of Epilepsy Is Dynamic and Time-Dependent
+
+Multimodality Imaging of Blood–Brain Barrier Impairment during Epileptogenesis
+
+The Blood–Brain Barrier: A Help and a Hindrance
+
+Tight Junction Proteins at the Blood–Brain Barrier: Far More than Claudin-5
+
+Claudin-5: Gatekeeper of Neurological Function
+
+Matrix Metalloproteinase-2-Mediated Occludin Degradation and Caveolin-1-Mediated Claudin-5 Redistribution Contribute to Blood–Brain Barrier Damage in Early Ischemic Stroke Stage
+
+Specific Role of Tight Junction Proteins Claudin-5, Occludin, and ZO-1 of the Blood–Brain Barrier in a Focal Cerebral Ischemic Insult
+
+Increased Caveolin-1 Expression Precedes Decreased Expression of Occludin and Claudin-5 during Blood–Brain Barrier Breakdown
+
+Overexpression of Netrin-1 Increases the Expression of Tight Junction-Associated Proteins, Claudin-5, Occludin, and ZO-1, Following Traumatic Brain Injury in Rats
+
+Expression of VEGF- and Tight Junction-Related Proteins in the Neocortical Microvasculature of Patients with Drug-Resistant Temporal Lobe Epilepsy
+
+Increased Expression of Vascular Endothelial Growth Factor-C and Vascular Endothelial Growth Factor Receptor-3 after Pilocarpine-Induced Status Epilepticus in Mice
+
+VEGF Signals through ATF6 and PERK to Promote Endothelial Cell Survival and Angiogenesis in the Absence of ER Stress
+
+VEGF Regulates the Blood-brain Barrier through MMP-9 in a Rat Model of Traumatic Brain Injury
+
+Molecular Mechanism of VEGF and Its Role in Pathological Angiogenesis
+
+Rapid Induction of Vascular Endothelial Growth Factor Gene Expression after Transient Middle Cerebral Artery Occlusion in Rats
+
+Cell Type Specific Upregulation of Vascular Endothelial Growth Factor in an MCA-Occlusion Model of Cerebral Infarct
+
+Differential Expression of Vascular Endothelial Growth Factor-A (VEGF-A) and VEGF-B After Brain Injury
+
+VEGF and VEGF Receptor Expression after Experimental Brain Contusion in Rat
+
+VEGF, a Key Factor for Blood Brain Barrier Injury After Cerebral Ischemic Stroke
+
+The Janus Face of VEGF in Stroke
+
+Angiogenesis Is Associated with Blood–Brain Barrier Permeability in Temporal Lobe Epilepsy
+
+Cellular Distribution of Vascular Endothelial Growth Factor A (VEGFA) and B (VEGFB) and VEGF Receptors 1 and 2 in Focal Cortical Dysplasia Type IIB
+
+Increased Protein Expression of VEGF-A, VEGF-B, VEGF-C and Their Receptors in the Temporal Neocortex of Pharmacoresistant Temporal Lobe Epilepsy Patients
+
+Elevated Expression of VEGF-C and Its Receptors, VEGFR-2 and VEGFR-3, in Patients with Mesial Temporal Lobe Epilepsy
+
+New Aspects of VEGF, GABA, and Glutamate Signaling in the Neocortex of Human Temporal Lobe Pharmacoresistant Epilepsy Revealed by RT-QPCR Arrays
+
+Integrative Analysis of Gene Expression Associated with Epilepsy in Human Epilepsy and Animal Models
+
+VEGF Regulates Hippocampal Neurogenesis and Reverses Cognitive Deficits in Immature Rats after Status Epilepticus through the VEGF R2 Signaling Pathway
+
+Vascular endothelial growth factor is up-regulated after status epilepticus and protects against seizure-induced neuronal loss in hippocampus
+
+Electroconvulsive Seizure Increases Adult Hippocampal Angiogenesis in Rats
+
+Vascular Endothelial Growth Factor Up-Regulation in the Mouse Hippocampus and Its Role in the Control of Epileptiform Activity
+
+VEGF-Mediated Disruption of Endothelial CLN-5 Promotes Blood-Brain Barrier Breakdown
+
+Epileptiform Activity Induces Vascular Remodeling and Zonula Occludens 1 Downregulation in Organotypic Hippocampal Cultures: Role of VEGF Signaling Pathways
+
+Capillary K+-Sensing Initiates Retrograde Hyperpolarization to Increase Local Cerebral Blood Flow
+
+Brain Capillary Ion Channels: Physiology and Channelopathies
+
+L-Type Voltage-Dependent Ca2+ Channels in Cerebral Microvascular Endothelial Cells and ET-1 Biosynthesis
+
+Kv7 Channel Activation Reduces Brain Endothelial Cell Permeability and Prevents Kainic Acid-Induced Blood-Brain Barrier Damage
+
+Upregulation of Inward Rectifier K+ (Kir2) Channels in Dentate Gyrus Granule Cells in Temporal Lobe Epilepsy
+
+The Neuroinflammatory Role of Pericytes in Epilepsy
+
+Pericytes Regulate the Blood–Brain Barrier
+
+Endothelial/Pericyte Interactions
+
+Pericyte-Specific Expression of PDGF Beta Receptor in Mouse Models with Normal and Deficient PDGF Beta Receptor Signaling
+
+Shedding of Soluble Platelet-Derived Growth Factor Receptor-β from Human Brain Pericytes
+
+Platelet-Derived Growth Factor (PDGF)/PDGF Receptors (PDGFR) Axis as Target for Antitumor and Antiangiogenic Therapy
+
+Redistribution of PDGFRβ Cells and NG2DsRed Pericytes at the Cerebrovasculature after Status Epilepticus
+
+Seizure Progression and Inflammatory Mediators Promote Pericytosis and Pericyte-Microglia Clustering at the Cerebrovasculature
+
+A Pericyte-Glia Scarring Develops at the Leaky Capillaries in the Hippocampus during Seizure Activity
+
+Brain Pericytes As Mediators of Neuroinflammation
+
+Reactive Pericytes in Early Phase Are Involved in Glial Activation and Late-Onset Hypersusceptibility to Pilocarpine-Induced Seizures in Traumatic Brain Injury Model Mice
+
+PDGFRβ Cells Rapidly Relay Inflammatory Signal from the Circulatory System to Neurons via Chemokine CCL2
+
+Specification and Morphogenesis of Astrocytes
+
+Cells of the Blood–Brain Barrier: An Overview of the Neurovascular Unit in Health and Disease
+
+Astrocytes Are Necessary for Blood–Brain Barrier Maintenance in the Adult Mouse Brain
+
+The Role of Astrocytes in CNS Inflammation
+
+The Severity of Gliosis in Hippocampal Sclerosis Correlates with Pre-Operative Seizure Burden and Outcome After Temporal Lobectomy
+
+Molecular Analysis of Acute and Chronic Reactive Astrocytes in the Pilocarpine Model of Temporal Lobe Epilepsy
+
+Hippocampal Tissue of Patients with Refractory Temporal Lobe Epilepsy Is Associated with Astrocyte Activation, Inflammation, and Altered Expression of Channels and Receptors
+
+Astroglial Kir4.1 and AQP4 Channels: Key Regulators of Potassium Homeostasis and Their Implications in Autism Spectrum Disorders
+
+Loss of Perivascular Kir4.1 Potassium Channels in the Sclerotic Hippocampus of Patients with Mesial Temporal Lobe Epilepsy
+
+Mechanisms Underlying Aquaporin-4 Subcellular Mislocalization in Epilepsy
+
+The Protective Effect of Targeting AQP4 on Acute Radiation-Induced Brain Injury in Rats: Reducing Brain Edema, Inflammation, Apoptosis and Maintaining the Integrity of Blood-Brain Barrier
+
+Upregulation of AQP4 Improves Blood–Brain Barrier Integrity and Perihematomal Edema Following Intracerebral Hemorrhage
+
+Blood-Brain Barrier Disruption Highly Induces Aquaporin-4 MRNA and Protein in Perivascular and Parenchymal Astrocytes: Protective Effect by Estradiol Treatment in Ovariectomized Animals
+
+The Impact of Microglial Activation on Blood-Brain Barrier in Brain Diseases
+
+Progressive Inflammation-mediated Neurodegeneration after Traumatic Brain or Spinal Cord Injury
+
+Microglia/Macrophage Polarization Dynamics Reveal Novel Mechanism of Injury Expansion after Focal Cerebral Ischemia
+
+Rapid Astrocyte and Microglial Activation Following Pilocarpine-Induced Seizures in Rats
+
+Regulation of Microglial Activation in Stroke
+
+Microglial Reaction and Neuronal Death in the Hippocampus of Rat Models of Epilepsy
+
+Reactive Microglia in Hippocampal Sclerosis Associated with Human Temporal Lobe Epilepsy
+
+Inflammation in Epilepsy: Clinical Observations
+
+Reactive Microglia Are the Major Source of Tumor Necrosis Factor Alpha and Contribute to Astrocyte Dysfunction and Acute Seizures in Experimental Temporal Lobe Epilepsy
+
+Seizure-Induced Brain-Borne Inflammation Sustains Seizure Recurrence and Blood-Brain Barrier Damage
+
+Microglia in the Neurovascular Unit: Blood–Brain Barrier–Microglia Interactions After Central Nervous System Disorders
+
+Impact of Tissue Plasminogen Activator on the Neurovascular Unit: From Clinical Data to Experimental Evidence
+
+Perivascular Inflammation and Extracellular Matrix Alterations in Blood-Brain Barrier Dysfunction and Epilepsy
+
+Lipoprotein Receptor-Mediated Induction of Matrix Metalloproteinase by Tissue Plasminogen Activator
+
+Matrix Metalloproteinase Activation and Blood–Brain Barrier Breakdown Following Thrombolysis
+
+Tissue Plasminogen Activator Promotes Matrix Metalloproteinase-9 Upregulation after Focal Cerebral Ischemia
+
+SUR1-TRPM4 Channel Activation and Phasic Secretion of MMP-9 Induced by TPA in Brain Endothelial Cells
+
+Plasminogen Activators and Matrix Metalloproteases, Mediators of Extracellular Proteolysis in Inflammatory Demyelination of the Central Nervous System
+
+Microglial Low-Density Lipoprotein Receptor-Related Protein 1 Mediates the Effect of Tissue-Type Plasminogen Activator on Matrix Metalloproteinase-9 Activity in the Ischemic Brain
+
+The Multifaceted Role of Plasminogen in Inflammation
+
+Tissue-Type Plasminogen Activator and Tenecteplase-Mediated Increase in Blood Brain Barrier Permeability Involves Cell Intrinsic Complement
+
+The Proteolytic Activity of Tissue-Plasminogen Activator Enhances NMDA Receptor-Mediated Signaling
+
+Unveiling an Exceptional Zymogen: The Single-Chain Form of TPA Is a Selective Activator of NMDA Receptor-Dependent Signaling and Neurotoxicity
+
+Tissue-Type Plasminogen Activator Controls Neuronal Death by Raising Surface Dynamics of Extrasynaptic NMDA Receptors
+
+Key Role of Tissue Plasminogen Activator in Neurovascular Coupling
+
+Circulating TPA Contributes to Neurovascular Coupling by a Mechanism Involving the Endothelial NMDA Receptors
+
+The NR1 Subunit of NMDA Receptor Regulates Monocyte Transmigration through the Brain Endothelial Cell Barrier
+
+The NMDA and AMPA/KA Receptors Are Involved in Glutamate-Induced Alterations of Occludin Expression and Phosphorylation in Brain Endothelial Cells
+
+Platelet-Derived Growth Factor C (PDGF-C), a Novel Growth Factor That Binds to PDGF α and β Receptor
+
+Role of Platelet-Derived Growth Factors in Physiology and Medicine
+
+PDGF-C Is a New Protease-Activated Ligand for the PDGF α-Receptor
+
+Tissue Plasminogen Activator Is a Potent Activator of PDGF-CC
+
+Tissue-Type Plasminogen Activator Is Not Necessary for Platelet-Derived Growth Factor-c Activation
+
+Platelet-Derived Growth Factor-C (PDGF-C) Activation by Serine Proteases: Implications for Breast Cancer Progression
+
+Activation of PDGF-CC by Tissue Plasminogen Activator Impairs Blood-Brain Barrier Integrity during Ischemic Stroke
+
+Microglial-Mediated PDGF-CC Activation Increases Cerebrovascular Permeability during Ischemic Stroke
+
+Tissue-Type Plasminogen Activator Induces Opening of the Blood-Brain Barrier via the LDL Receptor–Related Protein
+
+Blocking PDGF-CC Signaling Ameliorates Multiple Sclerosis-like Neuroinflammation by Inhibiting Disruption of the Blood–Brain Barrier
+
+TPA Mobilizes Immune Cells That Exacerbate Hemorrhagic Transformation in Stroke
+
+Mechanisms of Hemorrhagic Transformation after Tissue Plasminogen Activator Reperfusion Therapy for Ischemic Stroke
+
+Neurovascular Inflammation and Complications of Thrombolysis Therapy in Stroke
+
+Intravenous Thrombolysis with TPA and Cortical Involvement Increase the Risk of Early Poststroke Seizures: Results of a Case–Control Study
+
+Association between Different Acute Stroke Therapies and Development of Post Stroke Seizures
+
+Effect of Reperfusion Therapies on Incidence of Early Post-Stroke Seizures
+
+Risk Factors for Early–Onset Seizures after Stroke: A Systematicreview and Meta-Analysis of 18 Observational Studies
+
+The Association Between Recombinant Tissue Plasminogen Activator and Post-Ischemic Stroke Seizure: A Retrospective Cohort Study
+
+Incidence and Risk Factors of Post-Stroke Seizures and Epilepsy: Systematic Review and Meta-Analysis
+
+Risk Factors of Epilepsy Recurrence in Patients with Post-Stroke Epilepsy
+
+Hemorrhagic Transformation in Focal Cerebral Ischemia: Influence of Time to Artery Reopening and Tissue Plasminogen Activator
+
+Identification of a Neurovascular Signaling Pathway Regulating Seizures in Mice
+
+Excitotoxin-Induced Neuronal Degeneration and Seizure Are Mediated by Tissue Plasminogen Activator
+
+Glutamate-Mediated Blood–Brain Barrier Opening: Implications for Neuroprotection and Drug Delivery
+
+Excitotoxic Mechanisms and the Role of Astrocytic Glutamate Transporters in Traumatic Brain Injury
+
+Glutamate Release and Neuronal Damage in Ischemia
+
+Blood–Brain Barrier Dysfunction in Status Epileptics: Mechanisms and Role in Epileptogenesis
+
+Crosstalk between Peripheral and the Brain-Resident Immune Components in Epilepsy
+
+The Role of Peripheral Immune Cells in the CNS in Steady State and Disease
+
+Increased Frequency of Proinflammatory CD4 T Cells and Pathological Levels of Serum Neurofilament Light Chain in Adult Drug-Resistant Epilepsy
+
+Circulating CD4 and CD8 T Cells Expressing Pro-Inflammatory Cytokines in a Cohort of Mesial Temporal Lobe Epilepsy Patients with Hippocampal Sclerosis
+
+Peripheral Leukocyte Profile in People with Temporal Lobe Epilepsy Reflects the Associated Proinflammatory State
+
+Interleukin-1β in Peripheral Monocytes Is Associated with Seizure Frequency in Pediatric Drug-Resistant Epilepsy
+
+Temporal Lobe Epilepsy: Evaluation of Central and Systemic Immune-Inflammatory Features Associated with Drug Resistance
+
+Neuroimmune Interaction in Seizures and Epilepsy: Focusing on Monocyte Infiltration
+
+Immunopathology in Drug Resistant Mesial Temporal Lobe Epilepsy with Different Types of Hippocampal Sclerosis
+
+Brain Infiltration of Leukocytes Contributes to the Pathophysiology of Temporal Lobe Epilepsy
+
+Evaluation of the Innate and Adaptive Immunity in Type I and Type II Focal Cortical Dysplasias
+
+Peripherally Derived T Regulatory and Γδ T Cells Have Opposing Roles in the Pathogenesis of Intractable Pediatric Epilepsy
+
+Febrile Temperature-Regulated TRPV1 in CD4+ T Cells Mediates Neuroinflammation in Complex Febrile Seizures
+
+P2X7 Receptor Regulates Leukocyte Infiltrations in Rat Frontoparietal Cortex Following Status Epilepticus
+
+The Effects of C5aR1 on Leukocyte Infiltration Following Pilocarpine-Induced Status Epilepticus
+
+Leukocyte Infiltration Triggers Seizure Recurrence in a Rat Model of Temporal Lobe Epilepsy
+
+Functional Differences between Microglia and Monocytes after Ischemic Stroke
+
+T-Cell Infiltration into the Perilesional Cortex Is Long-Lasting and Associates with Poor Somatomotor Recovery after Experimental Traumatic Brain Injury
+
+Quantitative Analyses of Matrix Metalloproteinase Activity after Traumatic Brain Injury in Adult Rats
+
+MMP-9-Positive Neutrophil Infiltration Is Associated to Blood-Brain Barrier Breakdown and Basal Lamina Type IV Collagen Degradation during Hemorrhagic Transformation after Human Ischemic Stroke
+
+Infiltrating Monocytes Promote Brain Inflammation and Exacerbate Neuronal Damage after Status Epilepticus
+
+Activation of the Innate Immune System Is Evident throughout Epileptogenesis and Is Associated with Blood-Brain Barrier Dysfunction and Seizure Progression
+
+Levetiracetam Treatment Influences Blood-Brain Barrier Failure Associated with Angiogenesis and Inflammatory Responses in the Acute Phase of Epileptogenesis in Post-Status Epilepticus Mice
+
+Immunohistochemical Localization of Extravasated Serum Albumin in the Hippocampus of Human Subjects with Partial and Generalized Epilepsies and Epileptiform Convulsions
+
+Blood-Brain Barrier Leakage May Lead to Progression of Temporal Lobe Epilepsy
+
+TGF-β Receptor-Mediated Albumin Uptake into Astrocytes Is Involved in Neocortical Epileptogenesis
+
+Kainic Acid-Induced Albumin Leak across the Blood-Brain Barrier Facilitates Epileptiform Hyperexcitability in Limbic Regions
+
+Long-Lasting pro-Ictogenic Effects Induced in Vivo by Rat Brain Exposure to Serum Albumin in the Absence of Concomitant Pathology
+
+Transcriptome Profiling Reveals TGF-β Signaling Involvement in Epileptogenesis
+
+Mechanism of Activation of the TGF-β Receptor
+
+Mechanisms of TGF-β Signaling from Cell Membrane to the Nucleus
+
+ALK5-Dependent TGF-β Signaling Is a Major Determinant of Late Stage Adult Neurogenesis
+
+Inflammatory Astrocytic TGFβ Signaling Induced by Blood–Brain Barrier Dysfunction Drives Epileptogenesis
+
+Transforming Growth Factor-β1 Regulates the Fate of Cultured Spinal Cord-Derived Neural Progenitor Cells
+
+Neuroprotection by Transforming Growth Factor-Β1 Involves Activation of Nuclear Factor-ΚB through Phosphatidylinositol-3-OH Kinase/Akt and Mitogen-Activated Protein Kinase-Extracellular-Signal Regulated Kinase1,2 Signaling Pathways
+
+Losartan Prevents Acquired Epilepsy via TGF-β Signaling Suppression
+
+TGFβ Signaling Is Associated with Changes in Inflammatory Gene Expression and Perineuronal Net Degradation around Inhibitory Neurons Following Various Neurological Insults
+
+Synaptic Plasticity in Area CA1 of Rat Hippocampal Slices Following Intraventricular Application of Albumin
+
+Albumin Induces Excitatory Synaptogenesis through Astrocytic TGF-β/ALK5 Signaling in a Model of Acquired Epilepsy Following Blood-Brain Barrier Dysfunction
+
+Differential TGF-β Signaling in Glial Subsets Underlies IL-6-Mediated Epileptogenesis in Mice
+
+Altered Cerebrospinal Fluid Concentrations of TGFβ1 in Patients with Drug-Resistant Epilepsy
+
+Increased Expression of TGFβ Type I Receptor in Brain Tissues of Patients with Temporal Lobe Epilepsy
+
+Altered Transforming Growth Factor Beta/SMAD3 Signalling in Patients with Hippocampal Sclerosis
+
+Smad Anchor for Receptor Activation and Phospho-Smad3 Were Upregulated in Patients with Temporal Lobe Epilepsy
+
+Transforming Growth Factor-Β1 Induces Matrix Metalloproteinase-9 and Cell Migration in Astrocytes: Roles of ROS-Dependent ERK- and JNK-NF-ΚB Pathways
+
+Upregulation of PAI-1 Is Mediated through TGF-β/Smad Pathway in Transplant Arteriopathy
+
+Transforming Growth Factor-Βl as a Regulator of the Serpins/t-PA Axis in Cerebral Ischemia
+
+Transforming Growth Factor α-Induced Expression of Type-1 Plasminogen Activator Inhibitor in Astrocytes Rescues Neurons from Excitotoxicity
+
+Neuroprotective Effect of Plasminogen Activator Inhibitor-1 Antagonist in the Rat Model of Mild Traumatic Brain Injury
+
+Plasminogen Activator Inhibitor-1 Augments Damage by Impairing Fibrinolysis after Traumatic Brain Injury
+
+Association between Vascular Endothelial Growth Factor-Mediated Blood-Brain Barrier Dysfunction and Stress-Induced Depression
+
+Neurovascular Unit Dysfunction with Blood-Brain Barrier Hyperpermeability Contributes to Major Depressive Disorder: A Review of Clinical and Experimental Evidence
+
+Blood-Brain Barrier Associated Tight Junction Disruption Is a Hallmark Feature of Major Psychiatric Disorders
+
+The Relationship between Post-Traumatic Stress Disorder Due to Brain Injury and Glutamate Intake: A Systematic Review
+
+Hippocampal Activated Microglia May Contribute to Blood–Brain Barrier Impairment and Cognitive Dysfunction in Post-Traumatic Stress Disorder-Like Rats
+
+Acute High-Intensity Noise Exposure Exacerbates Anxiety-like Behavior via Neuroinflammation and Blood Brain Barrier Disruption of Hippocampus in Male Rats
+
+Social Stress Induces Neurovascular Pathology Promoting Depression
+
+Vascular and Blood-Brain Barrier-Related Changes Underlie Stress Responses and Resilience in Female Mice and Depression in Human Tissue
+
+Psychoneuroimmunology Meets Neuropsychopharmacology: Translational Implications of the Impact of Inflammation on Behavior
+
+Inflammation and Its Discontents: The Role of Cytokines in the Pathophysiology of Major Depression
+
+Inflammation in Fear- and Anxiety-Based Disorders: PTSD, GAD, and Beyond
+
+Interleukin-6 Serum Levels in Depressed Patients before and after Treatment with Fluoxetine
+
+Elevated Specific Peripheral Cytokines Found in Major Depressive Disorder Patients with Childhood Trauma Exposure: A Cytokine Antibody Array Analysis
+
+Cerebrospinal Cytokine Levels in Patients with Acute Depression
+
+The Role of Inflammation in Depression: From Evolutionary Imperative to Modern Treatment Target
+
+NLRP3 Inflammasome Activation Contributes to Long-Term Behavioral Alterations in Mice Injected with Lipopolysaccharide
+
+NLRP3 Inflammasome Mediates Chronic Mild Stress-Induced Depression in Mice via Neuroinflammation
+
+Baicalin Ameliorates Neuroinflammation-Induced Depressive-like Behavior through Inhibition of Toll-like Receptor 4 Expression via the PI3K/AKT/FoxO1 Pathway
+
+High-Cholesterol Diet Promotes Depression- and Anxiety-like Behaviors in Mice by Impact Gut Microbe and Neuroinflammation
+
+Neuroinflammation Is a Susceptibility Factor in Developing a PTSD-like Phenotype
+
+Neuroinflammation Mechanisms of Neuromodulation Therapies for Anxiety and Depression
+
+Neuroinflammation: A Common Pathway in CNS Diseases as Mediated at the Blood-Brain Barrier
+
+Blood-Brain Barrier Dysfunction Amplifies the Development of Neuroinflammation: Understanding of Cellular Events in Brain Microvascular Endothelial Cells for Prevention and Treatment of BBB Dysfunction
+
+Microglial Recruitment of IL-1β-Producing Monocytes to Brain Endothelium Causes Stress-Induced Anxiety
+
+Stress-Induced Recruitment of Bone Marrow-Derived Monocytes to the Brain Promotes Anxiety-like Behavior
+
+Altered Serum IL-6 and TGF-Β1 Levels Are Associated With Generalized Anxiety Disorder: A Case-Control Study
+
+Elevated Macrophage Migration Inhibitory Factor and Decreased Transforming Growth Factor-Beta Levels in Major Depression—No Influence of Celecoxib Treatment
+
+Pro- and Anti-Inflammatory Cytokines Expression in Rat’s Brain and Spleen Exposed to Chronic Mild Stress: Involvement in Depression
+
+Low-Dose IL-2 Attenuated Depression-like Behaviors and Pathological Changes through Restoring the Balances between IL-6 and TGF-β and between Th17 and Treg in a Chronic Stress-Induced Mouse Model of Depression
+
+Investigating the Role of TGF-β and BDNF in Cancer-Related Depression: A Primary Cross-Sectional Study
+
+Revisiting the Concept of Drug Resistant Epilepsy: A TASK1 Report of the ILAE/AES Joint Translational Task Force
+
+Role of Drug Efflux Transporters in the Brain for Drug Disposition and Treatment of Brain Diseases
+
+ABC Transporters in Drug-Resistant Epilepsy: Mechanisms of Upregulation and Therapeutic Approaches
+
+Drug Resistance in Epilepsy: Clinical Impact, Potential Mechanisms, and New Innovative Treatment Options
+
+MDR1 Gene Expression in Brain of Patients with Medically Intractable Epilepsy
+
+Expression and Cellular Distribution of Multidrug Resistance-Related Proteins in the Hippocampus of Patients with Mesial Temporal Lobe Epilepsy
+
+Protein Expression of P-Glycoprotein in Neocortex from Patients with Frontal Lobe Epilepsy
+
+Association between Temporal Lobe P-Glycoprotein Expression and Seizure Recurrence after Surgery for Pharmacoresistant Temporal Lobe Epilepsy
+
+P-Glycoprotein Expression and Function in Patients with Temporal Lobe Epilepsy: A Case-Control Study
+
+P-Glycoprotein Overactivity in Epileptogenic Developmental Lesions Measured in Vivo Using (R)-[11C]Verapamil PET
+
+Multidrug Resistance in Epilepsy: Rats with Drug-Resistant Seizures Exhibit Enhanced Brain Expression of P-Glycoprotein Compared with Rats with Drug-Responsive Seizures
+
+Region-Specific Overexpression of P-Glycoprotein at the Blood-Brain Barrier Affects Brain Uptake of Phenytoin in Epileptic Rats
+
+P-Glycoprotein Alters Blood-Brain Barrier Penetration of Antiepileptic Drugs in Rats with Medically Intractable Epilepsy
+
+Drug Resistance in Epilepsy
+
+Drug-Resistant Epilepsy: Which Drugs Are Substrates of P-Glycoprotein and Which Are Not?
+
+Pattern of P450 Expression at the Human Blood–Brain Barrier: Roles of Epileptic Condition and Laminar Flow
+
+Neurovascular Drug Biotransformation Machinery in Focal Human Epilepsies: Brain CYP3A4 Correlates with Seizure Frequency and Antiepileptic Drug Therapy
+
+Modulation of Glucocorticoid Receptor in Human Epileptic Endothelial Cells Impacts Drug Biotransformation in an in Vitro Blood–Brain Barrier Model
+
+Heat Shock Proteins Accelerate the Maturation of Brain Endothelial Cell Glucocorticoid Receptor in Focal Human Drug-Resistant Epilepsy
+
+Inhibition of the Renin-Angiotensin System Prevents Seizures in a Rat Model of Epilepsy
+
+Effects of Enalapril and Losartan Alone and in Combination with Sodium Valproate on Seizures, Memory, and Cardiac Changes in Rats
+
+Losartan Inhibits Development of Spontaneous Recurrent Seizures by Preventing Astrocyte Activation and Attenuating Blood-Brain Barrier Permeability Following Pilocarpine-Induced Status Epilepticus
+
+Association Between Angiotensin Receptor Blocker Therapy and Incidence of Epilepsy in Patients With Hypertension
+
+Metazoan MicroRNAs
+
+MicroRNAs: Genomics, Biogenesis, Mechanism, and Function
+
+Expression Pattern of MiR-146a, an Inflammation-Associated MicroRNA, in Experimental and Human Temporal Lobe Epilepsy
+
+Interleukin-1β and MicroRNA-146a in an Immature Rat Model and Children with Mesial Temporal Lobe Epilepsy
+
+Hippocampal Subregion-Specific MicroRNA Expression during Epileptogenesis in Experimental Temporal Lobe Epilepsy
+
+Systematic Review and Meta-Analysis of Differentially Expressed MiRNAs in Experimental and Human Temporal Lobe Epilepsy
+
+Silencing MicroRNA-134 Produces Neuroprotective and Prolonged Seizure-Suppressive Effects
+
+Antagonizing Increased MiR-135a Levels at the Chronic Stage of Experimental TLE Reduces Spontaneous Recurrent Seizures
+
+The MicroRNA MiR-124 Suppresses Seizure Activity and Regulates CREB1 Activity
+
+MicroRNA-132 Is Overexpressed in Glia in Temporal Lobe Epilepsy and Reduces the Expression of Pro-epileptogenic Factors in Human Cultured Astrocytes
+
+Systemic Delivery of Antagomirs during Blood-Brain Barrier Disruption Is Disease-Modifying in Experimental Epilepsy
+
+Repurposed Molecules for Antiepileptogenesis: Missing an Opportunity to Prevent Epilepsy?
+
+Levetiracetam Suppresses Development of Spontaneous EEG Seizures and Aberrant Neurogenesis Following Kainate-Induced Status Epilepticus
+
+Anticonvulsive and Antiepileptogenic Effects of Levetiracetam in the Audiogenic Kindling Model
+
+Antiepileptogenic Effects of the Novel Anticonvulsant Levetiracetam (Ucb L059) in the Kindling Model of Temporal Lobe Epilepsy
+
+Levetiracetam Suppresses the Infiltration of Neutrophils and Monocytes and Downregulates Many Inflammatory Cytokines during Epileptogenesis in Pilocarpine-Induced Status Epilepticus Mice
+
+Valproate Sodium Protects Blood Brain Barrier Integrity in Intracerebral Hemorrhage Mice
+
+Treatment with Valproate after Status Epilepticus: Effect on Neuronal Damage, Epileptogenesis, and Behavioral Alterations in Rats
+
+Ketogenic Diet Prevents Epileptogenesis and Disease Progression in Adult Mice and Rats
+
+Chronic Valproate Treatment Enhances Postischemic Angiogenesis and Promotes Functional Recovery in a Rat Model of Ischemic Stroke
+
+Different Resuscitation Strategies and Novel Pharmacologic Treatment with Valproic Acid in Traumatic Brain Injury
+
+Imatinib Treatment Reduces Brain Injury in a Murine Model of Traumatic Brain Injury
+
+Compartmentalized Actions of the Plasminogen Activator Inhibitors, PAI-1 and Nsp, in Ischemic Stroke
+
+Imatinib Attenuates Pentylenetetrazole Kindled and Pilocarpine Induced Recurrent Spontaneous Seizures in Mice
+
+Role of the Renin-Angiotensin Pathway in Epilepsy: A Strategy for Its Management by Drug Repurposing
+
+Recent Advances in Tissue Repair of the Blood-Brain Barrier after Stroke
+
+TGF-β as a Key Modulator of Astrocyte Reactivity: Disease Relevance and Therapeutic Implications
+
+The Immunopathology of B Lymphocytes during Stroke-Induced Injury and Repair
+
+Simplified schematic representation of processes activated in the BBB after a potentially epileptogenic brain insult. Brain damage or neuronal hypersynchronization during seizures induce rapid glutamate release and alter the expression of a variety of proteins by NVU components. An increase in the expression of VEGF, MMPs, tPA, pro-inflammatory cytokines, and cell adhesion molecules promotes the disruption of BBB integrity and neuroinflammatory response. Disruption of BBB integrity and secretion of pro-inflammatory cytokines, chemokines, and cell adhesion molecules leads to infiltration of peripheral immune cells to brain tissues, which further promotes neuroinflammation. Extravasation of albumin leads to activation of TGF-β signaling. Changes in AQP4 expression and distribution and altered expression of K+ channels disrupt ion homeostasis and water balance affecting neuronal function. AQP4—aquaporin 4; CCL2—C-C motif chemokine ligand 2; ICAM-1—inter-cellular adhesion molecule 1; IL-1β—interleukin 1β; Kir2, Kir4.1—potassium inward rectifier channels; Kv7—voltage-gated potassium channel; MMP—matrix metalloproteinase; NO—nitric oxide; PDGFRβ—platelet-derived growth factor receptor β; TGFβRII—transforming growth factor β receptor II; TNF-α—tumor necrosis factor α; tPA—tissue-type plasminogen activator; VCAM-1—vascular cell adhesion molecule 1; VEGF—vascular endothelial growth factor.
+
+Schematic representation of how the PA system participates in the regulation of BBB permeability. tPA and uPA convert plasminogen into its active form, plasmin, which proteolytically degrades ECM proteins and activates MMPs. tPA can regulate BBB function via plasmin-independent mechanisms, such as binding NMDA receptors, activation of LRP-1-mediated increase in the expression of MMPs, pro-inflammatory cytokines, and the complement system. tPA also activates inactive form of PDGF-CC, which binds PDGFRα receptors and activates a number of processes leading to an increase in BBB permeability. Green arrows indicate activation; red arroes indicate inhibition. BBB—blood–brain barrier; LRP-1—low-density lipoprotein-related protein 1; MMP-9—matrix metalloproteinase 9; NMDAR—N-methyl-D-aspartate receptor; PAI-1—plasminogen activator inhibitor 1; PDGF-CC—platelet-derived growth factor CC; PDGFRα—platelet-derived growth factor receptor α; tPA—tissue-type plasminogen activator; uPA—urokinase-type plasminogen activator.

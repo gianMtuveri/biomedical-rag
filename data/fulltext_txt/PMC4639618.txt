@@ -1,0 +1,247 @@
+The Matricellular Receptor LRP1 Forms an Interface for Signaling and Endocytosis in Modulation of the Extracellular Tumor Environment
+
+The membrane protein low-density lipoprotein receptor related-protein 1 (LRP1) has been attributed a role in cancer. However, its presumably often indirect involvement is far from understood. LRP1 has both endocytic and signaling activities. As a matricellular receptor it is involved in regulation, mostly by clearing, of various extracellular matrix degrading enzymes including matrix metalloproteinases, serine proteases, protease inhibitor complexes, and the endoglycosidase heparanase. Furthermore, by binding extracellular ligands including growth factors and subsequent intracellular interaction with scaffolding and adaptor proteins it is involved in regulation of various signaling cascades. LRP1 expression levels are often downregulated in cancer and some studies consider low LRP1 levels a poor prognostic factor. On the contrary, upregulation in brain cancers has been noted and clinical trials explore the use of LRP1 as cargo receptor to deliver cytotoxic agents. This mini-review focuses on LRP1’s role in tumor growth and metastasis especially by modulation of the extracellular tumor environment. In relation to this role its diagnostic, prognostic and therapeutic potential will be discussed.
+
+Introduction
+
+The matricellular receptor low-density lipoprotein (LDL) receptor-related protein 1 (LRP1) is a multifunctional receptor implicated in both endocytosis and signaling pathways. Numerous ligands, both structurally and functionally diverse, bind to LRP1 and the endocytosis of many of these ligands is coupled to activation of signal pathways. Together with its broad expression pattern, the multifunctionality of this receptor accounts for its involvement in various physiological and pathological processes including extracellular matrix modulation, transport across the blood–brain barrier (BBB), coagulation, inflammation, Alzheimer’s disease, atherosclerosis, etc. The role of LRP1 in many of these processes is discussed in detail in recent reviews. Following upon a short general description of the structure and the function of LRP1, the present mini-review, however, focuses on the often indirect role of LRP1 in tumor growth and metastasis by modulation of the extracellular tumor environment.
+
+General Role of LRP1 in Endocytosis and Cell Signaling
+
+Lipoprotein receptor related-protein 1, a type I transmembrane receptor, is a member of the LDL-receptor gene family. The LRP1 precursor is cleaved by furin in the trans-Golgi to generate a 515 kDa N-terminal α-subunit and an 85 kDa C-terminal β-subunit. In the mature two-chain structure, the entirely extracellular α-subunit, containing the ligand binding domains, is non-covalently linked to the transmembrane-containing β-subunit. After maturation, arrival at the cell surface and ligand binding it undergoes highly efficient constitutive endocytosis via clathrin-coated pits and recycling. The dominant signals for endocytosis are YxxL and dileucine motifs in the cytoplasmic or intracellular domain of the β-subunit, whereas two NPxY motifs, of which the latter overlaps with the YxxL motif, are secondary endocytosis signals and binding sites for adaptor proteins involved in signaling. Analyses of knock-in mice and derived MEFs carrying inactivating mutations of the proximal NPxY and the distal NPxYxxL motifs revealed that, besides for endocytosis and signaling, these motifs are also relevant for slow recycling of LRP1 from the perinuclear compartment to the plasma membrane and even for early steps in LRP1 biosynthesis, preventing premature proteasomal degradation of precursor LRP1.
+
+Lipoprotein receptor related-protein 1 ligands include proteases, protease inhibitor complexes, extracellular matrix proteins, growth factors, toxins, and viral proteins. Via clearing of proteases, like (matrix-)metalloproteinases and other secreted proteins, like coagulation FVIII, LRP1 contributes to the homeostasis of many secreted proteins and the integrity of the extracellular matrix (Figure 1A). LRP1 regulates, however, also the abundance of many other proteins, including receptors present at the plasma membrane. For example, the urokinase-type plasminogen activator (uPA)-plasminogen activator inhibitor-1 (PAI-1) complex is a bivalent ligand, which triggers urokinase receptor (uPAR) internalization and regulates the uPAR signaling by bridging extracellularly uPAR and LRP1. Fe65 and PSD-95 are intracellular adaptor proteins (Figure 1B) that interconnect LRP1 to β-amyloid precursor protein (β-APP) and N-methyl-D-aspartate (NMDA) receptor respectively, stimulating APP endocytosis and amyloid (Aβ) generation, and extracellular signal-regulated kinase 1/2 (ERK1/2) signaling.
+
+Schematic representation of LRP1-mediated tumor growth and metastasis fine tuning. (A) LRP1 clears various cancer-related ligands from the ECM by endocytosis. (B) The LRP1 ICD also interacts with several adaptor and scaffolding proteins. (C) LRP1 expression levels vary among different tumor types and tumor stages and (D) the receptor can undergo shedding and subsequent release of the ICD. (E) Heparanase-1 activation is affected by LRP1-mediated uptake of its inactive precursor. (F) The formation of co-receptor complexes with LRP1 influences signaling and (G) also the phosphorylation of the LRP1 ICD influences signaling and regulates endocytosis. (H) LRP1-mediated signaling affects several well-known pathways linked to cancer.
+
+LRP1 and Cancer: A Long but Difficult Marriage
+
+Lipoprotein receptor related-protein 1 has already been attributed a role in cancer shortly after its discovery in 1988. Initially, several groups reported decreased LRP1 expression (Figure 1C) levels in various cancer cell lines and tissues, thus assigning a tumor suppressive role to this receptor. These findings provided a rationale for earlier studies in which decreased binding and uptake of α2-macroglobulin (α2M), an LRP1 ligand, were observed in multiple cancer cell lines. It should be noted, however, that under normoxia cell culture conditions cancer cell lines in vitro might show a reduction in LRP1 expression compared to hypoxic conditions. As in many tumors in vivo hypoxic conditions exist, this observed decrease in LRP1 expression should be interpreted with caution. Nonetheless, more recent work supports a reduction in LRP1 expression in cancer. compared LRP1 expression between low-grade astrocytoma and high-grade astrocytoma (glioblastoma). They correlated a decrease in LRP1 expression with more advanced tumor grade and enhanced uPA-dependent cell invasion. Previously however, and have described opposite results: LRP1 expression was predominantly detected in glioblastoma and to a lesser extent in lower grade astrocytomas. In vitro, LRP1 expression appears to vary substantially among different glioblastoma cell lines. In hepatocellular carcinoma, colorectal carcinoma and lung adenocarcinoma, reduced LRP1 expression levels were linked to a poor prognosis and more advanced tumor stages. Recently, it was shown that LRP1 acts in response to ApoE as an endogenous suppressor of the metastatic phenotype in melanoma. However, contrasting evidence exists suggesting a role for LRP1 in supporting thyroid and breast cancer cell invasion and metastasis. Moreover, increased LRP1 expression was found to be predictive of more aggressive tumor behavior and associated with higher histological grade in endometrial carcinomas.
+
+Post-translational regulation of LRP1 by proteolytic cleavage (also named shedding) is a critical mechanism in regulating cell-surface LRP1 expression, especially in tumor context (Figure 1D). Since the first identification of the extracellular part of LRP1 (LRP1-ECD) solubilized in human plasma, proteolytic enzymes from different classes have been identified as LRP1 sheddases. These include metalloproteinases such as MT1-MMP and ADAM-10 and -12, the serine proteinase tPA and BACE-1. Shedding of LRP1-ECD allows the release from the plasma membrane by γ-secretase of the intra-cytoplasmic domain of LRP1 (LRP1-ICD), which could act as signaling mediator. Accumulation of extracellular proteolytic activities associated to the tumor microenvironment could explain at least in part why cell-surface LRP1 is generally found decreased in advanced tumors. However, the significance of LRP1 shedding is not really understood in the field of malignant diseases.
+
+Only a few LRP1 polymorphisms or mutations were identified in cancer specimens. associated the C766T polymorphism with an increased risk to develop breast cancer in Caucasian women. Although this change into a thymine nucleotide does not result in an amino acid substitution, this silent mutation has previously also been linked to Alzheimer’s and coronary artery disease but also conflicting data were published. Recently, a LRP1-SNRNP25 fusion gene was identified in two osteosarcomas. Only the first eight exons including the promoter region of LRP1 are implicated in the fusion gene. Although the relevance of LRP1 expression to osteosarcoma is currently unknown, in vitro, however, LRP1-SNRNP25 promotes invasion and migration. LRP1-SNRNP25 expression was increased in both tumors via the LRP1 promoter activity of the fusion gene compared to the wild-type SNRNP25 expression in other osteosarcomas specimen.
+
+A Multitude of Cancer-Modifying Pathways
+
+Remodeling of the ECM is essential for both tumor growth and metastasis. As a matricellular receptor, LRP1 is involved in the regulation of several ECM modifying pathways.
+
+(Matrix)-metalloproteinases (MMPs) are key enzymes in physiological but also in cancer-related modulation of ECM and basement membrane components. Their proteolytic function mostly results in inactivation or degradation of many of their different substrates. MMPs are, however, also found involved in signaling functions in a non-proteolytic manner. LRP1 mediates endocytosis of MMP-2, -9, -13, ADAMTS-4 and ADAMTS-5 and clears these proteases from the ECM. Endocytosis by LRP1 can depend on complex formation: (pro)MMP-2:TSP-2 (thrombospondin-2), proMMP-2:TIMP-2 (tissue inhibitor of metalloproteinases 2), and proMMP-9:TIMP-1 complexes are all ligands to LRP1 and cleared by this receptor. Furthermore, other MMPs are being regulated by LRP1, although indirectly, via the clearance of TIMP-1, -2, and -3 by LRP1 whether bound to an MMP or alone (TIMP-1 and -3). These TIMPs also display signaling functions via the ERK and Wnt pathways. Also the broad spectrum protease inhibitor α2M binds to LRP1 followed by subsequent internalization. Not only metalloproteinases are a target of this glycoprotein but also serine-, carboxyl-, and thiol proteinases are blocked from interacting with their respective substrates. Besides its activity as a protease inhibitor, α2M was recently shown to stimulate angiogenesis via activation of stem cells through FGF-2 and nitric oxide via LRP1-mediated signaling.
+
+Heparanase-1 is another matrix modifying enzyme that is endocytosed by LRP1, both for its activation and clearance (Figure 1E). This enzyme cleaves heparan sulfate proteoglycans (HSPG), one of the core components of the ECM. HSPGs not only play a role in the integrity of the ECM but also act as a storage depot for growth factors, chemokines, cytokines and enzymes. Heparanase-1 is synthesized as an inactive precursor. Activation requires proteolytic cleavage that is partly dependent on LRP1-mediated pro-heparanase-1 internalization (Figure 1E). Also mature heparanase-1 can be endocytosed by LRP1 targeting it for degradation or recycling.
+
+uPA-uPAR signaling is another migration- and invasion-related pathway regulated by LRP1 that can promote cell invasion and migration. uPA and tPA proteinase activity are implicated in the plasminogen activator system and as such mediate plasmin-dependent degradation of ECM proteins. Interaction of uPA with PAI-1 on uPAR stimulates uPAR-LRP1 complex formation and subsequent endocytosis. This affects uPAR presence at the plasma membrane with consequences for ECM degradation via the plasminogen activation system and uPAR-integrin interaction, both important for cell migration. Also for angiogenesis the uPA-plasmin system is highly relevant. Furthermore, LRP1 was shown to promote maturation of the integrin β1 precursor thereby increasing the level of integrin β1 at the cell surface. LRP1 also binds to αMβ2 thereby altering integrin function. In macrophages, LRP1 is important for αMβ2 internalization thereby possibly influencing macrophage-mediated inflammation.
+
+Migration of malignant cells is further affected by LRP1-CD44 complexes in the cell membrane (Figure 1F). LRP1 was recently shown to control the adhesion in tumor cells via interaction with, and internalization of CD44, a transmembrane glycoprotein. CD44 mediates cell adhesion to the ECM, migration and is probably involved in tumor and metastasis initiation. Like LRP1, CD44 acts as an interface for signal transduction at the cell surface as recently reviewed. A lowering in LRP1 expression as observed in certain cancers (see supra) could thus result in CD44 accumulation at the cell surface and enforced cancer cell attachment.
+
+Besides this, probably far from complete, overview of LRP1-related ECM modifying processes, LRP1 also forms co-receptor complexes (Figure 1F) at the cell surface with receptors involved in cancer-related pathways. A good example is the association between LRP1 and the platelet-derived growth factor receptor-β (PDGFR-β). LRP1 not only mediates PDGF internalization and degradation, in two accompanying papers, PDGF-BB was shown to mediate the phosphorylation (Figure 1G) of the Tyr63 in the distal NPxY motif of LRP1 located in caveolae. This process is dependent on PDGFR activation and on the kinase activity of the c-Src family of proto-oncogenic tyrosine kinases. This relationship links LRP1 to Ras, c-Myc, MAPK, and Akt/PI3K signaling, well known pathways implicated in oncogenesis (Figure 1H). Later, LRP1 was shown to directly associate with PDGFR-β to form a signal transduction complex. As such PDGF signaling is influenced by LRP1 and vice versa. Recently, the group of May demonstrated that LRP1’s ICD also modulates the crosstalk between PDGF-BB and sphingosine-1 which is important for modulation of PDGF-BB induced cell migration and blood vessel maturation. The possible relevance for tumor angiogenesis is yet to be determined. LRP1 also affects angiogenesis among other things via is regulatory role in VEGF signaling. The complex of the angiogenic inhibitor thrombospondin-1 and VEGF is internalized via LRP1.
+
+The Relevance of LRP1 for the Interaction Between Malignant Cells and the Tumor (Micro)Environment
+
+Both LRP1 expressed in malignant cells themselves and LRP1 expressed in non-tumorous cells present in the tumor (micro)environment are relevant for modulation of the above described cancer-modifying pathways. These pathways are involved in processes like growth and survival of tumor cells, angiogenesis, extravasation of tumor cells, invasion and metastasis. The relative expression of LRP1, its ligands and co-receptors, irrespective whether expressed by the tumor cells themselves or other cells in the tumor (micro)environment determine the modifying role of LRP1 in these different, but linked processes, which may in fact result in opposing effects on cancer progression.
+
+silenced LRP1 in tumor cells only and host LRP1 was left untouched. They observed the failure of metastatic foci to grow in the lungs from xenografts of CL16 cells in SCID mice thus illustrating the relevance of LRP1 expression in tumor cells themselves.
+
+Also the importance of LRP1 expression in non-tumor cells in the tumor environment has been demonstrated. In the breast tumor microenvironment, it was reported that the pro-cath-D protease, highly secreted by tumor cells, may trigger mammary fibroblast outgrowth in a paracrine LRP1-dependent manner. The molecular mechanism engaged appears atypical as pro-cath-D interacts with the extracellular part of LRP1 β-subunit mediating the inhibition of LRP1-regulated intramembrane proteolysis in mammary fibroblasts. Recently, demonstrated that the recruitment of LRP1-deficient monocytes into subcutaneous and orthotopic pancreatic tumors were significantly increased. The secretion of chemokines by LRP1-deficient macrophages is enhanced (especially CCL3), resulting in an increased number of tumor-associated macrophages (TAM) in the tumor site. The authors provided evidence that the LRP1-deficient TAM collectively contribute to an increased VEGF amount into the tumor microenvironment, leading to increased tumor angiogenesis.
+
+The aforementioned role of LRP1 in heparanase activation and uptake implicates a potential regulatory role for LRP1 in exosomes biogenesis. As reviewed elsewhere, exosomes are nanovesicles secreted by various cell types, including cancer cells, that serve in cell–cell communication. They can be isolated from body fluids and are regarded potential biomarkers for diagnosis and prognosis. As recently shown, syndecan heparan sulfate (HS) proteoglycans and heparanase are involved in exosome production. Trimming of HS chains on syndecan molecules by heparanase appears to affect the formation of multimeric complexes of syndecans, co-receptors and the intracellular adaptor protein syntenin triggering the generation of intraluminal vesicles in multivesicular bodies (MVBs), eventually resulting in the release of exosomes. Heparanase apparently does not only regulate secretion of tumor-cell derived exosomes, but also its composition and function. As such, LRP1-mediated control on active heparanase availability could effect exosome production and function.
+
+Drug Delivery Across the Blood–Brain Barrier
+
+Current studies on therapeutic strategies involving LRP1 focus on using it as a cargo receptor to treat brain metastases. The aforementioned expression of LRP1 in glioblastoma and other brain cancers or metastasis combined with LRP1’s expression at the BBB is crucial to this strategy. The capability of LRP1 to mediate transcytosis of a broad range of ligands through the BBB (Figure 2A) could be the long-awaited sluice for chemotherapeutic agents into the brain as BBB penetration is currently the Achilles’ heel in brain cancer therapies. Uptake of paclitaxel through the BBB followed by endocytosis into tumor cells was shown to be increased after conjugating the taxane paclitaxel to a 19 amino acid sequence named angiopep-2. This peptide was derived from the Kunitz domain, a known ligand of LRP1. A phase I clinical study showed that this conjugate (GRN1005) is well tolerated. Therapeutic concentrations could be reached in the tumor and three patients where prior taxane therapy was unsuccessful showed partial response with GRN1005. After an initial phase II study, additional phase II studies are currently ongoing for patients with brain metastases from breast cancer and high grade glioma. Also other constructs are evaluated preclinically including an anti-HER2 antibody conjugated to angiopep-2 to treat brain metastasis from HER2 positive breast cancers. As demonstrated recently in vitro and in animal studies, angiopep-2 could also aid active transport of polymersomes through the BBB via LRP1 mediated trancytosis suitable for antibody delivery to the brain.
+
+Potential clinical applications of LRP1. (A) Using LRP1 as a cargo receptor to sluice chemotherapeutic agents through the tightly controlled blood–brain barrier via transcytosis is undergoing clinical testing. (B) LRP1 antagonists to the ECD could prevent LRP1 internalization and catabolization. (C) The ECD of LRP1 could also be used as a soluble decoy receptor to capture LRP1 ligands and avoid ligand-receptor interaction.
+
+Apart from angiopep-2, also peptides containing a serine-arginine-leucine (SRL) sequence bind LRP1 and were recently shown to aid PAMAM nanoparticle transport across the BBB. These LRP1 targeted particles could become a valuable tool for non-invasive gene targeting to the brain.
+
+Although highly challenging, developing strategies aiming at LRP1 targeting should be relevant in certain tumor microenvironments. We might consider new LRP1 antagonists targeting the extracellular part of the LRP1 β-subunit to avoid LRP1 itself being internalized and catabolized (Figure 2B). Another alternative could be to use the soluble LRP1-ECD as a decoy receptor to interfere with endocytic and signaling activities of cell-surface LRP1 (Figure 2C). The proof of concept exists for TIMP-3. Bound to LRP1-ECD, TIMP-3 becomes resistant to endocytosis and degradation and retains its inhibitory activity against metalloproteinases. LRP1 ligand-binding domains II and IV are probably the most critical regions that could serve as molecular and structural models for designing new therapeutic tools.
+
+Potential of LRP1 in Diagnosis and Prognosis
+
+As discussed previously, in some cancer types, LRP1 expression was correlated with invasiveness, tumor stage, and even clinical outcome. However, although it has been suggested that LRP1 could be a potential biomarker, so far, there seems to be lots of variability and discussion. As mentioned before, LRP1 expression in cell cultures is also debatable as the in vitro conditions could affect LRP1 expression. Recent work on data from tumor samples identified LRP1 as a hub in a biomarker network for multi-cancer clinical outcome prediction. This further illustrates the involvement and possible prognostic value of LRP1 in various cancers. Future large scale studies on patient samples could provide more insights and demonstrate the true relevance of LRP1 in diagnosis and prognosis of cancer.
+
+Conclusion
+
+Via a diverse array of interactions LRP1 modulates various pathways involved in cancer. Especially its role in modifying the ECM could be crucial for tumor growth and metastasis. However, considering the sometimes contradicting studies LRP1 cannot be considered a master switch as some prototype oncogenes or tumor suppressor genes are. Rather, it acts as an interface to fine-tune various cancer-related pathways. Its effects appear to be dependent on both the tumor type and the tumor environment. This complicates LRP1 research and calls for good model systems that integrate the diverse set of LRP1 activities. These should answer the question whether LRP1 could be a valuable target for diagnosis, prognosis and therapeutics in cancer as well as other diseases.
+
+Conflict of Interest Statement
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+References
+
+Protein kinase C-α-mediated regulation of low-density lipoprotein receptor related protein and urokinase increases astrocytoma invasion
+
+Specific binding of α-macroglobulin to complement-type repeat CR4 of the low-density lipoprotein receptor-related protein
+
+Syndecan-syntenin-ALIX regulates the biogenesis of exosomes
+
+Low density lipoprotein receptor related protein gene amplification and 766T polymorphism in astrocytomas
+
+Pro-cathepsin D interacts with the extracellular domain of the β chain of LRP1 and promotes LRP1-dependent fibroblast outgrowth
+
+C766T low-density lipoprotein receptor-related protein 1 (LRP1) gene polymorphism and susceptibility to breast cancer
+
+The C766T low-density lipoprotein receptor related protein polymorphism and coronary artery disease, plasma lipoproteins, and longevity in the Czech population
+
+Influence of glioma tumour microenvironment on the transport of ANG1005 via low-density lipoprotein receptor-related protein 1
+
+Platelet-derived growth factor mediates tyrosine phosphorylation of the cytoplasmic domain of the low density lipoprotein receptor-related protein in caveolae
+
+Low-density lipoprotein receptor-related protein 1 (LRP-1) is associated with highgrade, advanced stage and p53 and p16 alterations in endometrial carcinomas
+
+Promigratory effect of plasminogen activator inhibitor-1 on invasive breast cancer cell populations
+
+Direct binding of occupied urokinase receptor (uPAR) to LDL receptor-related protein is required for endocytosis of uPAR and regulation of cell surface urokinase activity
+
+LRP-1 silencing prevents malignant cell invasion despite increased pericellular proteolytic activities
+
+Cathepsin D is partly endocytosed by the LRP1 receptor and inhibits LRP1-regulated intramembrane proteolysis
+
+Emerging roles of exosomes in normal and pathological conditions: new insights for diagnosis and therapeutic applications
+
+Decreased expression of both the low-density lipoprotein receptor-related protein/α2-macroglobulin receptor and its receptor-associated protein in late stages of cutaneous melanocytic tumor progression
+
+Phase I study of GRN1005 in recurrent malignant glioma
+
+Tissue inhibitor of metalloproteinase-1 (TIMP-1) regulates mesenchymal stem cells through let-7f microRNA and Wnt/β-catenin signaling
+
+Regulation of matrix metalloproteinase (MMP) activity by the low-density lipoprotein receptor-related protein (LRP). A new function for an “old friend”
+
+LRP-1: a checkpoint for the extracellular matrix proteolysis
+
+The serine protease inhibitor protease nexin-1 controls mammary cancer metastasis through LRP-1-mediated MMP-9 expression
+
+Decreased expression of the low-density lipoprotein receptor-related protein-1 (LRP-1) in rats with prostate cancer
+
+Regulation of the urokinase receptor (uPAR) by LDL receptor-related protein-1 (LRP1)
+
+Impaired LDL receptor-related protein 1 translocation correlates with improved dyslipidemia and atherosclerosis in apoE-deficient mice
+
+Inactivation of the LRP1 intracellular NPxYxxL motif in LDLR-deficient mice enhances postprandial dyslipidemia and atherosclerosis
+
+Thrombospondin-1 inhibits VEGF levels in the ovary directly by binding and internalization via the low density lipoprotein receptor-related protein-1 (LRP-1)
+
+Surface location and high affinity for calcium of a 500-kd liver membrane protein closely related to the LDL-receptor suggest a physiological role as lipoprotein receptor
+
+Low level of low-density lipoprotein receptor-related protein 1 predicts an unfavorable prognosis of hepatocellular carcinoma after curative resection
+
+Regulation, function and clinical significance of heparanase in cancer metastasis and angiogenesis
+
+Low α2-macroglobulin-proteinase complex binding: a common but not exclusive characteristic of malignant cells
+
+Glioma and glioblastoma—how much do we (not) know?
+
+Decreased expression of the low density lipoprotein receptor-related protein/α2-macroglobulin receptor in invasive cell clones derived from human prostate and breast tumor cells
+
+The low-density lipoprotein receptor-related protein 1 and amyloid-β clearance in Alzheimer’s disease
+
+Matrix metalloproteinases: regulators of the tumor microenvironment
+
+Matrix metalloproteinases in stem cell regulation and cancer
+
+Association of the C766T polymorphism of the low-density lipoprotein receptor-related protein gene with Alzheimer’s disease
+
+Safety, pharmacokinetics, and activity of GRN1005, a novel conjugate of angiopep-2, a peptide facilitating brain penetration, and paclitaxel, in patients with advanced solid tumors
+
+Proteolysis of cystatin C by cathepsin D in the breast cancer microenvironment
+
+The YXXL motif, but not the two NPXY motifs, serves as the dominant endocytosis signal for low density lipoprotein receptor-related protein
+
+LDL receptor-related protein 1: unique tissue-specific functions revealed by selective gene knockout studies
+
+Tissue inhibitor of metalloproteinase-1 protects human breast epithelial cells against intrinsic apoptotic cell death via the focal adhesion kinase/phosphatidylinositol 3-kinase and MAPK signaling pathway
+
+Platelet-derived growth factor (PDGF)-induced tyrosine phosphorylation of the low density lipoprotein receptor-related protein (LRP). Evidence for integrated co-receptor function between LRP and the PDGF
+
+Human glioblastoma cell lines: levels of low-density lipoprotein receptor and low-density lipoprotein receptor-related protein
+
+The functional role of the second NPXY motif of the LRP1 β-chain in tissue-type plasminogen activator-mediated activation of N-methyl-D-aspartate receptors
+
+Identification of a multi-cancer gene expression biomarker for cancer clinical outcomes using a network-based algorithm
+
+Proteolytic processing of low density lipoprotein receptor-related protein mediates regulated release of its intracellular domain
+
+Neuronal LRP1 functionally associates with postsynaptic proteins and is required for normal motor function in mice
+
+Stromal LRP1 in lung adenocarcinoma predicts clinical outcome
+
+The low-density lipoprotein receptor-related protein regulates cancer cell survival and metastasis development
+
+Low density lipoprotein receptor-related protein 1 (LRP1) forms a signaling complex with platelet-derived growth factor receptor-β in endosomes and regulates activation of the MAPK pathway
+
+The lipoprotein receptor LRP1 modulates sphingosine-1-phosphate signaling and is essential for vascular development
+
+Platelet-derived growth factor receptor-β (PDGFR-β) activation promotes its association with the low density lipoprotein receptor-related protein (LRP). Evidence for co-receptor function
+
+The expression of low density lipoprotein receptor-related protein in colorectal carcinoma
+
+CD44 acts as a signaling platform controlling tumor progression and metastasis
+
+Convergent multi-miRNA targeting of ApoE drives LRP1/LRP8-dependent melanoma metastasis and angiogenesis
+
+LRP-1-CD44, a new cell surface complex regulating tumor cell adhesion
+
+LRP1 mediates bidirectional transcytosis of amyloid-β across the blood–brain barrier
+
+FE65 constitutes the functional link between the low-density lipoprotein receptor-related protein and the amyloid precursor protein
+
+Influence of exonic polymorphisms in the gene for LDL receptor-related protein (LRP) on risk of coronary artery disease
+
+Association study and meta-analysis of low-density lipoprotein receptor related protein in Alzheimer’s disease
+
+Soluble low density lipoprotein receptor-related protein (LRP) circulates in human plasma
+
+Suppression of uPA and uPAR attenuates angiogenin mediated angiogenesis in endothelial and glioblastoma cell lines
+
+Molecular basis for the interaction of low density lipoprotein receptor-related protein 1 (LRP1) with integrin αMβ2: identification of binding sites within αMβ2 for LRP1
+
+Inactivation of the proximal NPXY motif impairs early steps in LRP1 biosynthesis
+
+ANG4043, a novel brain-penetrant peptide-mAb conjugate, is efficacious against HER2-positive intracranial tumors in mice
+
+α-2-Macroglobulin: a physiological guardian
+
+Mutant Lrp1 knock-in mice generated by recombinase-mediated cassette exchange reveal differential importance of the NPXY motifs in the intracellular domain of LRP1 for normal fetal development
+
+Heparanase activates the syndecan-syntenin-ALIX exosome pathway
+
+Presence of α2-macroglobulin in normal but not in malignant human syncytiotrophoblasts
+
+Presence of α2-macroglobulin in normal but not in malignant cervical epithelium
+
+Low density lipoprotein receptor-related protein-1 promotes β1 integrin maturation and transport to the cell surface
+
+α2-Macroglobulin enhances vasculogenesis/angiogenesis of mouse embryonic stem cells by stimulation of nitric oxide generation and induction of fibroblast growth factor-2 expression
+
+Differential regulation of extracellular tissue inhibitor of metalloproteinases-3 levels by cell membrane-bound and shed low density lipoprotein receptor-related protein 1
+
+Myeloid cell receptor LRP1/CD91 regulates monocyte recruitment and angiogenesis in tumors
+
+Low-density lipoprotein receptor-related protein-1: role in the regulation of vascular integrity
+
+Low-density lipoprotein receptor-related protein-1 mediates endocytic clearance of tissue inhibitor of metalloproteinases-1 and promotes its cytokine-like activities
+
+Heparanase regulates secretion, composition, and function of tumor cell-derived exosomes
+
+LRP-1-mediated intracellular antibody delivery to the Central Nervous System
+
+Interaction of cytosolic adaptor proteins with neuronal apolipoprotein E receptors and the amyloid precursor protein
+
+Demonstration of an α2-macroglobulin receptor in human fibroblasts, absent in tumor-derived cell lines
+
+Mammalian heparanase: what is the message?
+
+Cellular uptake of mammalian heparanase precursor involves low density lipoprotein receptor-related proteins, mannose 6-phosphate receptors, and heparan sulfate proteoglycans
+
+Extracellular signal-regulated kinase functions in the urokinase receptor-dependent pathway by which neutralization of low density lipoprotein receptor-related protein promotes fibrosarcoma cell migration and matrigel invasion
+
+Extracellular regulation of metalloproteinases
+
+Low density lipoprotein receptor-related protein 1 (LRP1)-mediated endocytic clearance of a disintegrin and metalloproteinase with thrombospondin motifs-4 (ADAMTS-4): functional differences of non-catalytic domains of ADAMTS-4 and ADAMTS-5 in LRP1 binding
+
+Increased expression of low density lipoprotein receptor-relatedprotein/α2-macroglobulin receptor in human malignant astrocytomas
+
+Recurrent LRP1-SNRNP25 and KCNMB4-CCND3 fusion genes promote tumor cell motility in human osteosarcoma
+
+Synthesis and characterization of a PAMAM dendrimer nanocarrier functionalized by SRL peptide for targeted gene delivery to the brain

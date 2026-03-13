@@ -6,12 +6,11 @@ BASE_URL = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
 
 # Keep the query focused enough to avoid pulling "everything",
 # but broad enough to get a few hundred relevant abstracts.
-DEFAULT_QUERY = (
-    '("blood brain barrier" OR BBB OR LRP1 OR "receptor-mediated transcytosis" OR transcytosis '
-    'OR "brain delivery" OR "CNS delivery" OR "central nervous system" OR TfR OR "transferrin receptor" '
-    'OR "insulin receptor" OR nanoparticle OR liposome OR exosome OR "drug delivery")'
-    'OR "lrp1 structure" OR "calcium-binding"'
-)
+DEFAULT_QUERY = """
+(BBB OR "blood brain barrier" OR LRP1 OR "receptor mediated transcytosis"
+OR "brain delivery" OR "central nervous system delivery")
+AND PUB_TYPE:"Review"
+"""
 
 
 def fetch_page(query: str, page: int = 1, page_size: int = 100) -> dict:
@@ -50,13 +49,20 @@ def parse_results(payload: dict) -> list:
         if not title or not abstract:
             continue
 
+        if r.get("pubType") and "review" not in str(r.get("pubType")).lower():
+            continue
+
         rows.append({
             "id": r.get("pmid") or r.get("id"),
+            "pmcid": r.get("pmcid"),
             "title": title.strip(),
             "abstract": abstract.strip(),
             "year": r.get("pubYear"),
             "journal": r.get("journalTitle"),
             "source": r.get("source"),
+            "is_open_access": r.get("isOpenAccess"),
+            "has_full_text": r.get("hasFullText"),
+            "full_text_url": r.get("fullTextUrlList"),
         })
 
     return rows
@@ -98,20 +104,30 @@ def year_query(base_query: str, year_from: int, year_to: int) -> str:
     return f"({base_query}) AND (PUB_YEAR:[{year_from} TO {year_to}])"
 
 
+def summarize_full_text_availability(df: pd.DataFrame) -> None:
+    print("\n=== FULL TEXT AVAILABILITY ===")
+    print("Total documents:", len(df))
+
+    if "has_full_text" in df.columns:
+        print("has_full_text counts:")
+        print(df["has_full_text"].value_counts(dropna=False))
+
+    if "is_open_access" in df.columns:
+        print("\nis_open_access counts:")
+        print(df["is_open_access"].value_counts(dropna=False))
+
+    if {"has_full_text", "is_open_access"}.issubset(df.columns):
+        mask = (df["has_full_text"] == "Y") | (df["is_open_access"] == "Y")
+        print("\nPotential full-text candidates:", int(mask.sum()))
+
+
 def main():
 
     base = DEFAULT_QUERY
 
     slices = [
-        (2024, 2026),
-        (2021, 2023),
-        (2018, 2020),
-        (2015, 2017),
-        (2012, 2014),
-        (2009, 2011),
-        (2006, 2008),
-        (2003, 2005),
-        (2000, 2002),
+        (2020, 2026),
+        (2013, 2019),
     ]
 
     df = build_corpus_by_year_slices(
@@ -124,11 +140,13 @@ def main():
     out_path = "data/abstracts.csv"
     df.to_csv(out_path, index=False)
 
+    summarize_full_text_availability(df)
+
     print(f"\nsaved: {out_path} ({len(df)} docs)")
     if len(df) > 0:
-        print(df.head(3)[["id", "year", "title"]])
+        print(df.head(3)[["id", "year", "title", "has_full_text", "is_open_access"]])
     else:
-        print("No documents fetched. Try increasing n_pages/page_size or adjusting the query.")
+        print("No documents fetched. Try adjusting the query or year range.")
 
 
 if __name__ == "__main__":

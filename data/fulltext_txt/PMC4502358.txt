@@ -1,0 +1,386 @@
+Impaired vascular-mediated clearance of brain amyloid beta in Alzheimer’s disease: the role, regulation and restoration of LRP1
+
+Amyloid beta (Aβ) homeostasis in the brain is governed by its production and clearance mechanisms. An imbalance in this homeostasis results in pathological accumulations of cerebral Aβ, a characteristic of Alzheimer’s disease (AD). While Aβ may be cleared by several physiological mechanisms, a major route of Aβ clearance is the vascular-mediated removal of Aβ from the brain across the blood-brain barrier (BBB). Here, we discuss the role of the predominant Aβ clearance protein—low-density lipoprotein receptor-related protein 1 (LRP1)—in the efflux of Aβ from the brain. We also outline the multiple factors that influence the function of LRP1-mediated Aβ clearance, such as its expression, shedding, structural modification and transcriptional regulation by other genes. Finally, we summarize approaches aimed at restoring LRP1-mediated Aβ clearance from the brain.
+
+Introduction
+
+Alzheimer’sdisease (AD) is a neurodegenerative disorder characterized by abnormal elevations of amyloid β (Aβ), neurofibrillary tau tangles and neurovascular dysfunction. Aβ is generated from the transmembranous amyloid precursor protein (APP) after proteolytic cleavage by β- and γ-secretase (Selkoe,) and is proposed to have multiple roles in the brain such as, to name a few, neurotrophic activity, modulation of synaptic plasticity, neurogenesis, metal ion sequestration, antioxidant activity, and calcium homeostasis (del Cárdenas-Aguayo et al.,); and also interferes with signal transduction within the neurovascular unit affecting multiple neurovascular functions (Zlokovic,). Thus, regulated clearance of Aβ via receptor-mediated transport potentially allows for controlled regulation of all these Aβ functions at any given time and also prevents accumulation of excess Aβ as a metabolic waste product.
+
+Neurotoxic accumulation of Aβ in the brain has been hypothesized to result from an imbalance in the Aβ homoeostasis i.e., between its production and clearance (Zlokovic,; Musiek and Holtzman,). Recent evidence in humans has suggested that indeed faulty Aβ clearance mechanisms, but not overproduction, contribute to pathological accumulations of cerebral Aβ in late-onset sporadic AD (Mawuenyega et al.,). Because impaired clearance of Aβ is now widely identified as a contributing factor towards AD progression, studying Aβ clearance mechanisms, their regulation and devising methods to modulate clearance function is of importance in generating potential AD-related therapeutic interventions (Tarasoff et al.,).
+
+To prevent Aβ aggregation and deposition, various physiological clearance mechanisms exists to help steer Aβ removal from the brain, namely, transvascular clearance across the blood-brain barrier (BBB; Zlokovic,), interstitial fluid (ISF) bulk flow i.e., traditional perivascular clearance (Weller et al.,; Hawkes et al.,) and glymphatic paravascular clearance (Iliff et al.,), cerebrospinal fluid (CSF) absorption (Pollay,) and enzymatic degradation (Farris et al.,; Kanemitsu et al.,; Hernandez-Guillamon et al.,). Aβ removal from brain by transcytosis is typically a concentration-dependent process physiologically driven by a much higher brain-to-plasma concentration gradient of Aβ This receptor-mediated mechanism allows for removal of Aβ from both the mammalian (Zlokovic et al.,) and human (Roberts et al.,) brain across the largest possible surface area for removal of about 100 cm2 of the capillary endothelium per gram of brain tissue representing the surface of the BBB in vivo (Zlokovic,). Previous studies have demonstrated that the majority of Aβ is cleared by the BBB (~85%) under physiological conditions with a smaller percentage being cleared by ISF bulk flow (Shibata et al.,; Zlokovic and Frangione,). Disrupted Aβ transcytosis leads to accumulation of Aβ in the brain causing pathophysiologal changes as shown by multiple previous studies. In this review, we focus on transvascular clearance of Aβ across the BBB mediated by low-density lipoprotein receptor-related protein 1 (LRP1) in association with AD.
+
+Blood-Brain Barrier and LRP1
+
+Maintenance of a toxin-free brain microenvironment is essential for normal neuronal function. The endothelial cells of brain capillaries are compactly connected end-to-end by tight junction proteins forming the BBB, isolating the brain ISF-CSF compartments from the plasma compartment and authorizing entry of molecules from the blood into the brain (Zlokovic,; Abbott et al.,). The specialized brain vascular endothelial cells of the BBB, along with pericytes, glial cells and neurons form the neurovascular unit (NVU; Zlokovic,). This arrangement is very different from the highly permeable and lenient systemic capillaries permitting transport of solutes and bigger molecules into the parenchymal tissue space (Mann et al.,). At the level of brain capillaries, while oxygen from the blood diffuses freely into the brain, the entry of polar molecules is typically restricted by the BBB (Zlokovic,). However, nutrients can cross the BBB using specific transporters expressed within the brain endothelium (Zlokovic,). The polarized distribution of transporters on the luminal and abluminal endothelial membranes of the BBB allows the brain endothelial cells to control movement of ions, nutrients and other molecules between brain and blood in a highly-regulated manner to match metabolic demands of brain. Although, larger molecules are typically excluded from the brain by the BBB, some proteins and peptides can still cross the BBB slowly if their respective transporters and/or carriers are expressed within the brain endothelium (Zlokovic et al.,; Zlokovic,; Mackic et al.,).
+
+At the BBB, the transporter LRP1 plays a pivotal role in maintaining Aβ homeostasis in the central nervous system (CNS). LRP1 is expressed mainly at the abluminal side of the BBB (Zlokovic,; Ueno et al.,; Zhao et al.,). LRP1 is the primary receptor mediating transport of Aβ across the BBB into circulation, thereby clearing it from the brain. LRP1 is a member of the LDLR family. This cell surface receptor is highly expressed on multiple cell types (Kanekiyo and Bu,). At the neurovascular interface, LRP1 is expressed by vascular endothelial cells forming the BBB, vascular mural cells, namely, pericytes and vascular smooth muscle cells (VSMCs), neurons and astrocytes (Zlokovic et al.,; Sagare et al.,; Kanekiyo and Bu,).
+
+The distinct structural arrangement of LRP1 enables its multifaceted role as a cargo transporter, a multifunctional scavenger and a signaling receptor involved in endocytosis of its ligands (Lillis et al.,). LRP1 recognizes and is involved in the endocytosis of more than 40 different ligands including apolipoprotein E (apoE), APP and Aβ (Zlokovic et al.,; Sagare et al.,; Kanekiyo and Bu,).
+
+LRP1 physiologically exists in two forms: a cell surface bound form (LRP1) and a truncated soluble form (sLRP1; Figure 1A). The surface-bound LRP1 is composed of two subunits that includes an extracellular α-chain (515 kDa) and a β-chain (85 kDa) containing a short extracellular extension, a single transmembrane domain and a 100 amino acid intracellular domain (Emonard et al.,). The characteristic motifs on the cytoplasmic tail of LRP1, namely, two NPXY motifs, one YXXL motif and two di-leucine motifs bind to endocytotic and scaffold adaptors, rapidly trafficking ligands like Aβ into endosomes in a clathrin-dependent manner (Li et al.,; Deane et al.,) transporting them into the vascular lumen. Cell surface levels of LRP1 are controlled by proteolytic cleaving of its ectodomain. Several proteases including beta-secretase 1 (BACE-1), A Disintegrin And Metalloprotease (ADAM)-10, ADAM-12, ADAM-17, membrane type-1 matrix metalloprotease (MT1-MMP) and tissue plasminogen activator (t-PA) have been shown to be involved in shedding of LRP1 (Rozanov et al.,; von Arnim et al.,; Polavarapu et al.,; An et al.,; Liu et al.,; Selvais et al.,). The extracellular domain or ectodomain of LRP1 released after shedding is sLRP1 (Quinn et al.,), as described above. The truncated soluble form of LRP1 freely circulates in the plasma and sequesters unbound Aβ in the periphery (Sagare et al.,). sLRP1 is also detectable in the cerebrospinal fluid (CSF; Qiu et al.,; Liu et al.,).
+
+(A) The structure of LRP1. The extracellular domain consists of a heavy α-chain (515 kDa) with four ligand-binding domains. The light chain or the β-chain (85 kDa) extends into the intracellular compartment where it has two characteristic NPxY motifs involved in endocytosis and cell signaling. Proteolytic cleavage of surface-bound LRP1 yields the soluble sLRP1. (B) The three steps of LRP1-mediated Aβ clearance from brain (step 1), from blood (step 2) and from the body (step 3). For description of these three steps please see panel (B). See “Role of LRP1 in Aβ Clearance” Section for a more detailed explanation.
+
+The endocytotic efficiency of LRP1 is dynamically regulated by post-translational phosphorylation of serine, tyrosine and threonine residues on its cytoplasmic tail (Bu et al.,; van der Geer,), which also enables its downstream cell signaling functions. Phosphorylation on serine and tyrosine residues by protein kinase Cα (PKCα) enables the LRP1 intracellular domain to bind to adaptor protein Disabled-1 (Dab1) decreasing endocytosis by 25% (Ranganathan et al.,), whereas, phosphorylation on serine residues by protein kinase A (PKA) increases LRP1 endocytosis (Li et al.,). Distinct from this, phosphorylation of tyrosine by Src activates the Ras signaling pathway rather than endocytosis (Barnes et al.,).
+
+Interestingly, our recent study (Zhao et al.,) indicates that phosphatidylinositol binding clathrin assembly protein (PICALM; Dreyling et al.,; Tebar et al.,), a highly-validated risk factor for AD confirmed in several genome-wide association studies (Harold et al.,; Lambert et al.,; Carrasquillo et al.,; Chen et al.,; Tanzi,; Liu et al.,; Morgen et al.,) binds to the intracellular tail of LRP1 at the YXXL domain and regulates endocytsosis of LRP1-Aβ complexes. Aβ binding to LRP1 presumably elicits a conformational change in its cytoplasmic tail, enabling PICALM-regulated endosomal transcytosis of Aβ (Zhao et al.,).
+
+Role of LRP1 in Aβ Clearance
+
+In order to prevent pathological accumulations of Aβ in the brain, Aβ clearance from the cerebral milieu into periphery and out of the system is of prime importance. The multi-site role of the key Aβ-binding receptor, LRP1, helps eliminate systemic Aβ in a three-step serial clearance mechanism (Figure 1B; Zlokovic et al.,; Sagare et al.,). Step 1 (BBB). At the site of the BBB, surface LRP1 is expressed on the endothelial membrane facing the brain (abluminal). This membrane-bound LRP1 binds cerebral Aβ and rapidly initiates its clearance into the blood (luminal) side (Shibata et al.,; Deane et al.,; Ito et al.,; Bell et al.,; Sagare et al.,). Radiolabelled and unlabeled Aβ administered intracerebrally has appeared intact in plasma, indicating Aβ efflux from the brain by cerebrovascular LRP1 (Shiiki et al.,; Bell et al.,). Step 2 (Plasma). sLRP1 in the periphery contributes to Aβ clearance by sequestering free Aβ in circulation (Sagare et al.,). Coimmunoprecipitation of sLRP1-bound Aβ in neurologically normal humans has indicated that circulating sLRP1 can sequester 70–90% of plasma Aβ (Sagare et al.,), thereby driving the Aβ gradient in favor of efflux across the BBB. This endogenous peripheral Aβ “sink” created by sLRP1 promotes Aβ clearance from the brain into circulation. Step 3 (Liver). LRP1 was first identified in the liver (Herz et al.,), and at the hepatic site, is responsible for binding to and clearing Aβ from the system (Tamaki et al.,; Sagare et al.,; Sutcliffe et al.,; Sehgal et al.,). In addition to the liver, sLRP1-Aβ complexes are also removed by the kidney and spleen (Sagare et al.,).
+
+Recent Techniques to Study Aβ Clearance from the Brain
+
+For many years, methods involving intracerebral injection of radiolabelled Aβ and studying its efflux from the brain into the plasma and/or CSF has been a validated method to predict Aβ clearance. Over the recent years, there has been an increased interest in exploring the brain ISF pool for Aβ levels, its metabolic dynamics and clearance rates. To this effect, an analytical technique—microdialysis (Figure 2)—which has been popularly used to study neurotransmitters, has recently been recruited to study soluble Aβ in the brain of awake APP overexpressing mice (Cirrito et al.,; Chefer et al.,; Sagare et al.,; Zhao et al.,).
+
+Brain microdialysis. A microdialysis probe is surgically implanted into a specific brain region of interest. Aβ and other solutes from the brain ISF freely enter the semipermeable membrane of the microdialysis probe. Fractions of microdialysates obtained over a period of time are then used to quantify Aβ levels reflecting steady-state levels and/or clearance of Aβ from the brain after inhibition of Aβ production.
+
+In freely moving rodents, cerebral microdialysis enables continuous, time-lapsed readouts of Aβ levels in the brain ISF. Briefly, the microdialysis method entails implanting a small microdialysis probe (~ 200 μm in diameter) into a discrete brain region. Each probe has a characteristic recovery rate for the analyte of interest, here, Aβ, that is optimized in vitro. The probe comprises of a semipermeable membrane of a limited porosity, (in this case, 35 kDa) and is perfused with artificial CSF. Cerebral molecules up to 35 kDa in size can freely enter the membrane and are recovered through the microdialysate. Fractions of microdialysates can be collected over different periods of times to represent a neurochemical “snapshot” of the cerebral milieu around the probe along a certain time period. Aβ in the microdialysate is then quantified using biochemical assays like enzyme-linked immunosorbent assay (ELISA). In addition to obtaining steady-state measurements of Aβ, its efflux kinetics like half-life can be studied by administering a potent γ-secretase inhibitor, compound E which inhibits the production of soluble Aβ. The ISF Aβ levels from the microdialysate, upon compound E injection, now represent its clearance from the brain. This method has been used extensively in AD mouse models to obtain valuable information on genetic factors that affect clearance Aβ (Cirrito et al.,; Farris et al.,; Sagare et al.,; Zhao et al.,). Intracerebral microdialysis has also been used to obtain human ISF Aβ concentrations in patients undergoing invasive intracranial monitoring (Brody et al.,).
+
+A pioneering method was recently developed to measure rates of Aβ synthesis and clearance in human subjects. After intravenously infusing a stable isotope-labeled amino acid (13C6-leucine; Bateman et al.,; Mawuenyega et al.,) CSF and plasma were sampled over a 36-h period. The fractional synthesis rate (FSR) and fractional clearance rate (FCR) of in vivo Aβ was then quantified using high-resolution tandem mass spectrometry. This method was instrumental in demonstrating that diminished Aβ clearance, and not overproduction, contributes towards cerebral Aβ accumulation in late-onset AD (Bateman et al.,; Mawuenyega et al.,).
+
+Factors Regulating LRP1-Mediated Aβ Clearance
+
+The function of the BBB-localized LRP1 in actively removing Aβ from the brain is regulated by several factors. Fluctuations in LRP1 expression levels and structural modifications directly affect Aβ clearance. LRP1 expression is further regulated by several vascular genes in brain endothelium and VSMCs, and genetic risk factors for late-onset AD that can all modulate LRP1-mediated Aβ clearance (Figure 3).
+
+Factors regulating transvascular LRP1-mediated Aβ clearance. (A) Age-dependent reduction in LRP1 levels and its shedding and (B) oxidation of LRP1. LRP1 expression and Aβ clearance are further regulated by (C) transcriptional suppression by Srebp2 and SLC2A1 (encoding glucose transporter, Glut1) in brain endothelial cells and SRF and MYOCD in vascular smooth muscle cells (VSMCs), as well as by MEOX2 in brain endothelial cells. Moreover, well-known highly replicated Alzheimer’s disease (AD) genetic risk factors including PICALM
+(D) and APOE4 gene (E) influence endocytosis and transcytosis of Aβ-LRP1 complexes across brain endothelium of the blood-brain barrier. See “Factors Regulating LRP1-Mediated Aβ Clearance” Section for a more detailed explanation.
+
+Expression Levels
+
+LRP1 expression levels are significantly reduced in brain endothelial cells in normally aging and AD humans and animal models (Kang et al.,; Shibata et al.,; Deane et al.,; Donahue et al.,) leading to higher levels of Aβ in the brain (Figure 3A). Additionally, LRP1 levels are also diminished on VSMCs in AD patients (Bell et al.,). Importantly, there is a significant negative correlation between the expression of LRP1 on microvessels and Aβ accumulation in cerebrovasculature and brain parenchyma (Shibata et al.,; Donahue et al.,). Also, sLRP1 fraction bound to Aβ40 and Aβ42 is significantly reduced in Mild Cognitive Impairment (MCI) and AD subjects that corresponds to elevated levels of free Aβ40 and Aβ42 in plasma (Figure 3A; Sagare et al.,). This free plasma Aβ can cross the BBB and re-enter the brain in a concentration-dependent manner mediated by the receptor for advanced glycation end products (RAGE), the major Aβ influx receptor at the BBB transporting Aβ from blood into the brain (Deane et al.,; Ujiie et al.,; Zlokovic,). Interestingly, RAGE expression levels are increased in AD endothelium that is associated with cerebrovascular and brain accumulation of Aβ (Yan et al.,; Deane et al.,; Silverberg et al.,). Therefore, the accumulation of Aβ in the brain can be attributed to the cumulative effects of reduced expression of surface-bound LRP1 and sLRP1, causing higher cerebral and plasma Aβ levels respectively, and increased expression of RAGE, increasing the re-entry of Aβ into the brain.
+
+Receptor Shedding
+
+Lipoprotein receptors on the BBB are susceptible to ectodomain shedding which alters endocytotic transport and clearance of molecules, including Aβ, from the brain. Treating human brain endothelial cells with Aβ causes shedding of sLRP1 (Bachmeier et al.,; Figure 3A). Similarly, intracranial infusion of Aβ into mouse brain results in sLRP1 shedding (Bachmeier et al.,). In both the in vitro and in vivo experiments, the amount of sLRP1 shedding was reduced in the presence of ApoE2 or ApoE3 but not ApoE4 (Bachmeier et al.,). Furthermore, sLRP1 levels are increased in CSF from aged and AD subjects due to shedding (Qiu et al.,) caused by ADAM10 and ADAM17 (Liu et al.,). The dysregulation of shedded sLRP1, in part due to the presence of Aβ, could impair Aβ clearance from the brain and contribute to the pathogenesis of AD.
+
+Oxidation
+
+There is an increase in oxidative stress in the brain of aged and AD subjects (Moosmann and Behl,; Chen and Zhong,). This is evidenced by increased biomarker levels in the blood that reflect oxidative stress in the brain (Beal,; Torres et al.,). Oligomeric Aβ induces oxidative stress that is believed to contribute to AD pathologies (Drake et al.,; Boyd-Kimball et al.,; Clementi et al.,). Importantly, LRP1 is oxidized in AD hippocampus and does not bind Aβ leading to increased Aβ deposition (Figure 3B; Drake et al.,). In addition to surface LRP1, in AD patients and animal models, sLRP1 binding to Aβ is disrupted by oxidation (Figure 3B; Sagare et al.,). Oxidized sLRP1, which does not bind to Aβ, is associated with elevated levels of free Aβ40 and Aβ42 in the plasma (Sagare et al.,). Our previous studies have shown a significant positive correlation between CSF tau/Aβ42 ratios and oxidized sLRP plasma levels (Sagare et al.,). Therefore, oxidation of both LRP1 and sLRP1 negatively impacts Aβ clearance from the brain. Moreover, there is likely a vicious cycle since Aβ induces LRP1 oxidation rendering the receptor less capable of clearing/reducing Aβ levels in the brain.
+
+Regulation of LRP1 Expression by Genes in Vascular Cells
+
+The expression of LRP1 is negatively regulated by its only known transcriptional suppressor; the sterol regulatory element binding protein (SREBP2; Llorente-Cortés et al.,). Recent studies have evidenced how Aβ clearance mechanisms in the CNS are indirectly altered by vascular- and metabolism-related genes via SREBP2-mediated regulation of LRP1 (Figure 3C).
+
+LRP1 and GLUT1
+
+The brain, which exclusively depends on the vasculature for essential metabolites, receives its supply of glucose across the BBB through the glucose transporter (GLUT1; encoded by SLC2A1). In AD, there is a reduction in this GLUT1 on cerebral microvessels (Mooradian et al.,). Diminished uptake of glucose, as studied by positron emission tomography (PET) using a glucose analog, 18F-2-fluoro-2-deoxy-D-glucose (FDG), is reported to be a forerunner to brain atrophy (Hunt et al.,), and has been observed in individuals with a genetic risk for AD, with a positive familial AD history, as well as those with none or mild cognitive deficits to eventually go on to develop AD (Hunt et al.,; Herholz,).
+
+Our group has recently demonstrated that GLUT1 deficiency in a transgenic AD mouse model overexpressing human APP Swedish mutant, APPsw/0, accelerated amyloid load and aggravated Aβ accumulation (Winkler et al.,). Incidentally, GLUT1 heterozygous mice (Slc2a1+/−) also expressed lower levels of LRP1 with respect to controls (Slc2a1+/+); the trend in diminished LRP1 expression further exacerbating with the addition of APP phenotype in Slc2a1+/−APPSw/0 (Winkler et al.,). Re-expression and silencing of Slc2a1 correspondingly boosted and decreased LRP1 levels, explaining the reversible nature of the GLUT1-LRP1 relationship; while suppressing LRP1 levels did not affect GLUT1 expression, indicating that GLUT1 acts upstream to LRP1. In deciphering the molecular mechanism behind this relationship, it was observed that Slc2a1 deficiency upregulates the SREBP2 transcription factor, in turn downregulating LRP1 expression (Figure 3C; Winkler et al.,).
+
+Reductions in glucose transporters observed in AD (Kalaria and Harik,; Horwood and Davies,; Simpson et al.,; Mooradian et al.,), extends its effects beyond apparent hypometabolism to essentially affect Aβ clearance mechanisms by regulating LRP1 levels in the cerebral endothelia.
+
+LRP1 and vascular-related genes
+
+The expression levels of several vascular-related genes are altered in AD. For example, transcriptome profiling of human brain endothelial cells has indicated that the expression of mesenchyme homeobox gene 2 (MEOX2), a regulator of vascular differentiation and remodeling, is reduced in AD (Wu et al.,). The downregulation of MEOX2, and consequently the encoded protein, growth arrest-specific homeobox (GAX), is associated with altered angiogenesis, cerebral hypoperfusion and accumulation of brain Aβ (Wu et al.,). Unsurprisingly, MEOX2 expression affects Aβ homeostasis by regulating LRP1 expression. Low levels of MEOX2, as studied in vivo and in vitro models, leads to diminished LRP1 levels at the BBB by promoting its proteosomal degradation (Figure 3C; Wu et al.,). On the other hand, two other interrelated transcriptional factors constituting the critical regulators of VSMCs differentiation, namely, serum response factor (SRF) and myocardin (MYOCD) are, in turn, upregulated in AD (Chow et al.,; Bell et al.,). The overexpression profile of SRF/MYOCD initiates a hypercontractile phenotype in the cerebral arteries through increased expression of SRF/MYOCD-regulated contractile proteins, thereby resulting in cerebral hypoperfusion, diminished neurovascular coupling and cerebral amyloid angiopathy (CAA; Chow et al.,). Cerebral VSMCs from AD patients with CAA exhibit, along with overexpressed SRF/MYOCD, an accumulation of Aβ and significantly lower levels of LRP in comparison with age-matched healthy controls (Bell et al.,). Following this, it was then observed that SRF/MYOCD overexpression in VSMCs transcriptionally regulates LRP1 levels by transactivation of SREBP2, diminishing LRP1 surface expression and affecting Aβ efflux from the brain (Figure 3C; Bell et al.,).
+
+Regulation of LRP1-Mediated Aβ Endocytosis and Clearance by AD Risk Genes
+
+PICALM
+
+While the extracellular domain of LRP1 binds a diverse array of ligands, the intracellular cytoplasmic domain is actively involved in ligand endocytosis (Krieger and Herz,; Reekmans et al.,). Recently, a gene crucial for endocytotic internalization of receptors—PICALM (Sorkin and von Zastrow,; Treusch et al.,) encoding phosphatidylinositol binding clathrin assembly protein (Dreyling et al.,; Tebar et al.,), is a highly-validated risk factor for AD and has been confirmed in several genome-wide association studies (Harold et al.,; Lambert et al.,; Carrasquillo et al.,; Chen et al.,; Tanzi,; Liu et al.,; Morgen et al.,). Interestingly, in our most recent work (Zhao et al.,), we observed that Picalm haploinsufficiency imparts diminished clearance of cerebral Aβ and accelerated amyloid pathology. Because the capillaries lining the BBB prolifically express PICALM (Baig et al.,; Parikh et al.,), we investigated whether this high-risk AD gene regulated the internalization of the main Aβ-clearance receptor, LRP1, thereby affecting Aβ clearance. Using primary human brain endothelial cells, we observed that fluorescently-labeled Aβ40-LRP1 complex rapidly colocalizes with PICALM, and remains associated with it for several minutes after exposure, indicating a downstream mechanism of PICALM-regulated clathrin-dependent endocytosis of Aβ40-LRP1 (Figure 3D). Further delineating the endocytotic fate Aβ40-LRP1, proximity ligation studies with several downstream players from endosomal pathway revealed that PICALM-driven Aβ40-LRP1 internalization is shunted away from lysosomal degradation and instead directed towards a transcytotic clearance pathway, shuttling Aβ from the brain into circulation (Figure 3D; Zhao et al.,). This seminal finding marks the first of its kind, mechanistically answering the integral question on the relation between the AD risk factor PICALM, amyloid load and LRP1 function.
+
+The binding of PICALM to the intracellular tail of LRP1 at the YXXL domain is specific for Aβ as the ligand, and did not occur with other LRP1 ligands, like, apoE and α2-macroglobulin (A2M; Zhao et al.,). Aβ binding to LRP1 presumably elicits a conformational change in its cytoplasmic tail, enabling PICALM-regulated endosomal Aβ transcytosis. PICALM is downregulated in AD (Zhao et al.,); these reductions potentially contribute to an exacerbation in disease pathology by hindering LRP1-mediated Aβ transport, further tipping the Aβ balance in the brain (Figure 3D; Zlokovic et al.,; Sagare et al.,).
+
+Importantly, single-nucleotide polymorphisms (SNPs) in PICALM, located upstream of the gene coding region but not in the coding region, have been identified to influence AD risk (Harold et al.,; Lambert et al.,; Carrasquillo et al.,; Chen et al.,; Tanzi,; Liu et al.,; Morgen et al.,). It has been reported that some AD-associated SNPs influence PICALM expression (Raj et al.,). We recently studied the highly validated rs3851179 PICALM variants whose rs3851179A allele is associated with a lower AD risk than the rs3851179G allele (Lambert et al.,) using inducible pluripotent stem cell (iPSC)-derived endothelial cells. These studies revealed that the protective rs3851179A allele significantly increased PICALM expression and, more importantly, Aβ clearance, reiterating the essential role of PICALM in Aβ clearance (Zhao et al.,).
+
+ApoE
+
+ApoE is a 34 kDa glycoprotein produced mainly by the glial cells in brain and liver in the periphery (Huang and Mahley,). ApoE plays an important role in lipid metabolism (Mahley,). In humans, the apoE exists in three isoforms, apoE2, apoE3 and apoE4 which differ from each other by either one or two amino acids at position 112 and 158 (Huang and Mahley,). Several genome wide association studies in the past two decades identified APOE4 as a major genetic risk factor for AD (Corder et al.,; Saunders et al.,; Tanzi,). Recent studies suggest that apoE4 contributes to vascular and neuronal dysfunction via both Aβ-dependent and Aβ-independent pathways (Deane et al.,; Bell et al.,; Hudry et al.,; Huang and Mahley,; Casey et al.,; Halliday et al.,). ApoE interacts with Aβ and plays an important role in its metabolism and AD pathogenesis (Wisniewski and Frangione,; Holtzman et al.,; DeMattos et al.,; Bell et al.,; Deane et al.,; Jiang et al.,; Castellano et al.,; Zlokovic,; Tai et al.,). Previous work from our group has shown that lipidation status of apoE can affect its binding to Aβ and clearance across the BBB (Martel et al.,; Bell et al.,; Deane et al.,). Our studies have also shown that rapid BBB clearance of Aβ complexed to apoE2 and apoE3 occurs mainly by LRP1 (Figure 3E), by contrast, apoE4-Aβ complexes are removed by slower very low density lipoprotein receptor (VLDLR)-mediated internalization and transcytosis (Bell et al.,; Deane et al.,).
+
+Restoration of LRP1
+
+In addressing the reduced expression of LRP1 on AD capillaries, a potential method of selectively targeting LRP1 for its restoration in aging or in diseased state is via the delivery of gene transfer vectors. Viral-mediated gene transfer methods, especially adeno-associated viral (AAV) systems have proven to be effective both in different peripheral cell types as well as in the CNS (Davidson et al.,; Mingozzi and High,), are safe and more commonly used for targeted gene therapy. In general, gene therapy directed towards neurological disorders remains challenging due to the restricted entry of vectors into the brain authorized by the BBB endothelial lining. However, targeting a receptor like LRP1 is more achievable due to its favorable position on the endothelial membrane, making it directly accessible to therapeutic interventions that may be administered intravenously. In animal models, vascular endothelial cells have been successfully transduced with AAV-2 vector system by using peptides with a high affinity for cerebral vasculature, specific for normal and diseased states identified by in vivo phage panning (Chen et al.,). Recently, AAV-9, a serotype less affected by human neutralizing antibodies, has been developed for a highly efficient transduction of endothelial cells (Varadi et al.,). Using these recently-developed gene transfer techniques offering a vascular-directed biodistribution, it is conceivable to use AAV-based targeting vectors to deliver LRP1 whole cDNAs or a part of its domains to restore reduced LRP1 expression at the BBB in AD.
+
+Additionally, another candidate site for restoration or selective enhancement of LRP1 by gene therapy is the liver (Sagare et al.,). Restoring normal LRP1 levels in hepatocytes by use of the highly successful liver-directed AAV-based gene transfer methods (Mingozzi and High,; Wang et al.,) can systemically “vacuum” out the peripheral Aβ and, in turn, promote the removal of brain Aβ by driving the Aβ gradient.
+
+Moreover, Aβ clearance therapy is feasible at the peripheral “sink” constituent of Aβ homeostasis (Zlokovic et al.,; Sagare et al.,). In fact, circulating sLRP1-Aβ in plasma serves as an early biomarker for mild cognitive impairment preceding AD-type dementia (Sagare et al.,). Soluble LRP1 and/or its wild-type recombinant cluster IV, WT-LRPIV, bind to free Aβ, preventing it from reentering the brain via the RAGE receptor, and therapeutically enabling reductions in Aβ pathology (Sagare et al.,). In order to limit the binding of the recombinant LRPIV to only the neurotoxic Aβ while excluding other LRP-binding ligands, a mutant of LRPIV was recently developed, exhibiting higher binding affinity to Aβ (Sagare et al.,). This mutant, LRPIV-D3674 effectively replaced oxidized sLRP1, is 25–27% more effective than WT-LRPIV in clearing brain endogenous Aβ, and within 3 months of treatment, significantly reduced Aβ levels in hippocampus and cortex of APPsw/0 mice (Sagare et al.,). LRPIV-D3674 is thus capable of regulating Aβ levels in the periphery, and forms the rationale for an efficient Aβ clearance therapy. Restoring reduced or oxidized sLRP1, that contributes to ~70% of bound Aβ (Sagare et al.,), can restore the natural peripheral “sink” and salvage the irregular Aβ homeostasis in AD.
+
+In developing these LRP1-targeted efforts, it is, however, important to exert caution in Aβ specificity and the safety of the therapies as LRP1 has a multi-functional role as an endocytotic and a cell signaling receptor in several other systemic mechanisms.
+
+Conclusion
+
+AD is a growing epidemic. There are currently 5.2 million Americans suffering from this disease and the number of individuals affected is projected to triple by the year 2050 (Sano et al.,). Failure in Aβ clearance is highly recognized in relation to AD pathogenesis in sporadic or late-onset AD, the most common form of AD occurring in over 95% of patients (Tanzi,). Here, we have briefly reviewed the transvascular Aβ clearance from the brain mediated by LRP1.
+
+Because the cerebrovasculature highly influences Aβ homeostasis it would be beneficial to develop therapeutic strategies in AD including both, the neuronal and vascular components of the CNS. In addition to the advantage that the vascular system is easily accessible from the periphery for pharmacological and genetic manipulations, vascular damage patterns typically precede neuronal injury, providing an opportunistic window for treatment—a concept proposed in the vascular two-hit hypothesis (Zlokovic,). According to the vascular two-hit hypothesis, an initial vascular insult to the brain (hit 1) elicited by hypoxia, hypoperfusion or a disrupted BBB precedes observed amyloid pathology in AD. Accumulated Aβ (hit 2), predominantly an effect of faulty Aβ clearance in late-onset AD, now triggers a pathological cascade of neuronal injury, cognitive decline and AD-dementia.
+
+LRP1 plays a regulatory role in both, the hit 1 (before Aβ accumulation) as well as the hit 2 (amyloid pathology) phases of the AD disease progression, making it an invaluable target in AD clearance therapy (Zlokovic et al.,). Currently, there are no drugs that can prevent or reverse AD. Targeted LRP1-based therapies in restoration/enhancement of surface LRP1 at the BBB or on hepatocytes, or the peripheral application of LRPIV Aβ-binding clusters are currently being explored, and show potential in serving as Aβ clearance therapies (Sagare et al.,). Due to the numerous factors like oxidative stress, receptor shedding, and the influence of other genes, among others, that regulate LRP1 expression and function, thereby affecting Aβ clearance, there is a compelling need to adapt a multifaceted approach in addressing therapeutic interventions. Pharmacological interventions may be used in conjunction with gene therapy; for example, administration of withanolides and withanosides reverse AD pathology in APP/PS1 mice by enhancing LRP1 in the brain microvessels and liver (Sehgal et al.,), olive-oil-derived oleocanthal enhances cerebral Aβ clearance by upregulating LRP1 at the BBB (Abuznait et al.,). Moreover, changes in lifestyle can have a meaningful impact as preventive measures in AD. An antioxidant-rich diet, such as the recently investigated Mediterranean-DASH (Dietary Approaches to Stop Hypertension) Intervention for Neurodegenerative Delay (MIND) diet has shown potential in reducing AD risk (Morris et al.,), presumably by rousing the body’s natural anti-oxidant defense mechanism. Incorporating physical activity into one’s lifestyle serves as a pro-angiogenic factor having beneficial effects on cognition. Additionally, another promising compound performing as a vasculoprotectant, antioxidant and an anti-inflammatory agent is the activated protein C (APC; Griffin et al.,).
+
+AD-associated genes regulating LRP1 function, like APOE, SLC2A1 and PICALM, too extend potential as targets for AD therapy in alleviating AD pathology and/or amend Aβ imbalance. Future studies focused on genetically engineered mice possessing variants in these AD risk genes can generate more knowledge on the role of LRP1-mediate transvacular clearance of Aβ.
+
+Conflict of Interest Statement
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+References
+
+Structure and function of the blood-brain barrier
+
+Olive-oil-derived oleocanthal enhances β-amyloid clearance as a potential neuroprotective mechanism against Alzheimer’s disease: in vitro and in vivo studies
+
+Tissue-type plasminogen activator and the low-density lipoprotein receptor-related protein induce Akt phosphorylation in the ischemic brain
+
+Apolipoprotein E isoform-specific effects on lipoprotein receptor processing
+
+Distribution and expression of picalm in Alzheimer disease
+
+v-Src induces Shc binding to tyrosine 63 in the cytoplasmic domain of the LDL receptor-related protein 1
+
+Human amyloid-beta synthesis and clearance rates as measured in cerebrospinal fluid in vivo
+
+Oxidative damage as an early marker of Alzheimer’s disease and mild cognitive impairment
+
+SRF and myocardin regulate LRP-mediated amyloid-beta clearance in brain vascular cells
+
+Transport pathways for clearance of human Alzheimer’s amyloid beta-peptide and apolipoproteins E and J in the mouse central nervous system
+
+Apolipoprotein E controls cerebrovascular integrity via cyclophilin A
+
+Proteomic identification of proteins specifically oxidized in Caenorhabditis elegans expressing human Abeta(1–42): implications for Alzheimer’s disease
+
+Amyloid-beta dynamics correlate with neurological status in the injured human brain
+
+Nerve growth factor induces rapid increases in functional cell surface low density lipoprotein receptor-related protein
+
+Replication of CLU, CR1 and PICALM associations with alzheimer disease
+
+Late-onset Alzheimer’s risk variants in memory decline, incident mild cognitive impairment and Alzheimer’s disease
+
+Apolipoprotein E inhibits cerebrovascular pericyte mobility through a RhoA-mediated pathway
+
+Human apoE isoforms differentially regulate brain amyloid-β peptide clearance
+
+Overview of brain Microdialysis
+
+Molecular signatures of disease brain endothelia provide new sites for CNS-directed enzyme therapy
+
+Polymorphisms of CR1, CLU and PICALM confer susceptibility of Alzheimer’s disease in a southern Chinese population
+
+Oxidative stress in Alzheimer’s disease
+
+Serum response factor and myocardin mediate arterial hypercontractility and cerebral blood flow dysregulation in Alzheimer’s phenotype
+
+In vivo assessment of brain interstitial fluid with microdialysis reveals plaque-associated changes in amyloid-β metabolism and half-life
+
+Alzheimer’s amyloid beta-peptide (1–42) induces cell death in human neuroblastoma via bax/bcl-2 ratio increase: an intriguing role for methionine 35
+
+Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer’s disease in late onset families
+
+Recombinant adeno-associated virus type 2, 4 and 5 vectors: transduction of variant cell types and regions in the mammalian central nervous system
+
+RAGE mediates amyloid-beta peptide transport across the blood-brain barrier and accumulation in brain
+
+apoE isoform-specific disruption of amyloid beta peptide clearance from mouse brain
+
+A multimodal RAGE-specific inhibitor reduces amyloid β-mediated brain disorder in a mouse model of Alzheimer disease
+
+LRP/amyloid beta-peptide interaction mediates differential brain efflux of Abeta isoforms
+
+Physiological role of amyloid beta in neural cells: the cellular trophic activity
+
+ApoE and clusterin cooperatively suppress Abeta levels and deposition: evidence that ApoE regulates extracellular Abeta metabolism in vivo
+
+RAGE, LRP-1 and amyloid-beta protein in Alzheimer’s disease
+
+Oxidative stress precedes fibrillar deposition of Alzheimer’s disease amyloid beta-peptide (1–42) in a transgenic Caenorhabditis elegans model
+
+The t(10;11)(p13;q14) in the U937 cell line results in the fusion of the AF10 gene and CALM, encoding a new member of the AP-3 clathrin assembly protein family
+
+Regulation of LRP-1 expression: make the point
+
+Insulin-degrading enzyme regulates the levels of insulin, amyloid beta-protein and the beta-amyloid precursor protein intracellular domain in vivo
+
+Loss of neprilysin function promotes amyloid plaque formation and causes cerebral amyloid angiopathy
+
+Activated protein C: potential therapy for severe sepsis, thrombosis, and stroke
+
+Activated protein C: biased for translation
+
+Accelerated pericyte degeneration and blood-brain barrier breakdown in apolipoprotein E4 carriers with Alzheimer’s disease
+
+Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer’s disease
+
+Disruption of arterial perivascular drainage of amyloid-β from the brains of mice expressing the human APOE ε4 allele
+
+Cerebral glucose metabolism in preclinical and prodromal Alzheimer’s disease
+
+Sequential Abeta degradation by the matrix metalloproteases MMP-2 and MMP-9
+
+Surface location and high affinity for calcium of a 500-kd liver membrane protein closely related to the LDL-receptor suggest a physiological role as lipoprotein receptor
+
+Apolipoprotein E isoform-dependent amyloid deposition and neuritic degeneration in a mouse model of Alzheimer’s disease
+
+Immunolabelling of hippocampal microvessel glucose transporter protein is reduced in Alzheimer’s disease
+
+Apolipoprotein E: structure and function in lipid metabolism, neurobiology and Alzheimer’s diseases
+
+Gene transfer of human Apoe Isoforms results in differential modulation of amyloid deposition and neurotoxicity in mouse brain
+
+Reduced cerebral glucose metabolism in patients at risk for Alzheimer’s disease
+
+A paravascular pathway facilitates CSF flow through the brain parenchyma and the clearance of interstitial solutes, including amyloid β
+
+Functional characterization of the brain-to-blood efflux clearance of human amyloid-beta peptide (1–40) across the rat blood-brain barrier
+
+ApoE promotes the proteolytic degradation of Abeta
+
+Reduced glucose transporter at the blood-brain barrier and in cerebral cortex in Alzheimer disease
+
+The low-density lipoprotein receptor-related protein 1 and amyloid-β clearance in Alzheimer’s disease
+
+Human neprilysin is capable of degrading amyloid beta peptide not only in the monomeric form but also the pathological oligomeric form
+
+Modulation of amyloid beta-protein clearance and Alzheimer’s disease susceptibility by the LDL receptor-related protein pathway
+
+Structures and functions of multiligand lipoprotein receptors: macrophage scavenger receptors and LDL Receptor-Related Protein (LRP)
+
+Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer’s disease
+
+Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer’s disease
+
+Differential functions of members of the low density lipoprotein receptor family suggested by their distinct endocytosis rates
+
+Identification of a major cyclic AMP-dependent protein kinase A phosphorylation site within the cytoplasmic tail of the low-density lipoprotein receptor-related protein: implication for receptor-mediated endocytosis
+
+LDL receptor-related protein 1: unique tissue-specific functions revealed by selective gene knockout studies
+
+PICALM gene rs3851179 polymorphism contributes to Alzheimer’s disease in an Asian population
+
+LRP1 shedding in human brain: roles of ADAM10 and ADAM17
+
+Sterol regulatory element-binding protein-2 negatively regulates low density lipoprotein receptor-related protein transcription
+
+Sterol regulatory element binding proteins downregulate LDL receptor-related protein (LRP1) expression and LRP1-mediated aggregated LDL uptake by human macrophages
+
+Circulating amyloid-β peptide crosses the blood-brain barrier in aged monkeys and contributes to Alzheimer’s disease lesions
+
+Apolipoprotein E: cholesterol transport protein with expanding role in cell biology
+
+Evidence for a lactate transport system in the sarcolemmal membrane of the perfused rabbit heart: kinetics of unidirectional influx, carrier specificity and effects of glucagon
+
+Isoform-specific effects of apolipoproteins E2, E3 and E4 on cerebral capillary sequestration and blood-brain barrier transport of circulating Alzheimer’s amyloid beta
+
+Decreased clearance of CNS beta-amyloid in Alzheimer’s disease
+
+Therapeutic in vivo gene transfer for genetic disease using AAV: progress and challenges
+
+GLUT-1 expression in the cerebra of patients with Alzheimer’s disease
+
+Antioxidants as treatment for neurodegenerative disorders
+
+Genetic interaction of PICALM and APOE is associated with brain atrophy and cognitive impairment in Alzheimer’s disease
+
+MIND diet associated with reduced incidence of Alzheimer’s disease
+
+Three dimensions of the amyloid hypothesis: time, space and ‘wingmen’
+
+Genetics of PICALM expression and Alzheimer’s disease
+
+Tissue-type plasminogen activator-mediated shedding of astrocytic low-density lipoprotein receptor-related protein increases the permeability of the neurovascular unit
+
+The function and structure of the cerebrospinal fluid outflow system
+
+Elevation of LDL receptor-related protein levels via ligand interactions in Alzheimer disease and in vitro
+
+Soluble low density lipoprotein receptor-related protein (LRP) circulates in human plasma
+
+Alzheimer disease susceptibility loci: evidence for a protein network under natural selection
+
+Serine and threonine phosphorylation of the low density lipoprotein receptor-related protein by protein kinase Calpha regulates endocytosis and association with adaptor molecules
+
+Inactivation of the proximal NPXY motif impairs early steps in LRP1 biosynthesis
+
+Amyloid-β efflux from the central nervous system into the plasma
+
+The low density lipoprotein receptor-related protein LRP is regulated by membrane type-1 matrix metalloproteinase (MT1-MMP) proteolysis in malignant cells
+
+A lipoprotein receptor cluster IV mutant preferentially binds amyloid-β and regulates its clearance from the mouse brain
+
+Pericyte loss influences Alzheimer-like neurodegeneration in mice
+
+Clearance of amyloid-beta by circulating lipoprotein receptors
+
+Impaired lipoprotein receptor-mediated peripheral binding of plasma amyloid-β is an early biomarker for mild cognitive impairment preceding Alzheimer’s disease
+
+From the liver to the blood-brain barrier: an interconnected system regulating brain amyloid-β levels
+
+Low-density lipoprotein receptor-related protein 1: a physiological Aβ homeostatic mechanism with multiple therapeutic opportunities
+
+The economics of caring for individuals with Alzheimer’s disease
+
+Association of apolipoprotein E allele epsilon 4 with late-onset familial and sporadic Alzheimer’s disease
+
+Withania somnifera reverses Alzheimer’s disease pathology by enhancing low-density lipoprotein receptor-related protein in liver
+
+Alzheimer’s disease: genes, proteins and therapy
+
+Cell cholesterol modulates metalloproteinase-dependent shedding of low-density lipoprotein receptor-related protein-1 (LRP-1) and clearance function
+
+Clearance of Alzheimer’s amyloid-ss(1–40) peptide from brain by LDL receptor-related protein-1 at the blood-brain barrier
+
+Brain insulin impairs amyloid-beta(1–40) clearance from the brain
+
+Amyloid deposition and influx transporter expression at the blood-brain barrier increase in normal aging
+
+Decreased concentrations of GLUT1 and GLUT3 glucose transporters in the brains of patients with Alzheimer’s disease
+
+Endocytosis and signalling: intertwining molecular networks
+
+Peripheral reduction of β-amyloid is sufficient to reduce brain β-amyloid: implications for Alzheimer’s disease
+
+Soluble apoE/Aβ complex: mechanism and therapeutic target for APOE4-induced AD risk
+
+Major involvement of low-density lipoprotein receptor-related protein 1 in the clearance of plasma free amyloid beta-peptide by the liver
+
+The genetics of Alzheimer disease
+
+Clearance systems in the brain and Alzheimer disease
+
+Clathrin assembly lymphoid myeloid leukemia (CALM) protein: localization in endocytic-coated pits, interactions with clathrin and the impact of overexpression on clathrin-mediated traffic
+
+Peripheral oxidative stress biomarkers in mild cognitive impairment and Alzheimer’s disease
+
+Functional links between Aβ toxicity, endocytic trafficking and Alzheimer’s disease risk factors in yeast
+
+Transporters in the brain endothelial barrier
+
+Blood-brain barrier permeability precedes senile plaque formation in an Alzheimer disease model
+
+Phosphorylation of LRP1: regulation of transport and signal transduction
+
+Novel random peptide libraries displayed on AAV serotype 9 for selection of endothelial cell-directed gene transfer vectors
+
+The low density lipoprotein receptor-related protein (LRP) is a novel beta-secretase (BACE1) substrate
+
+AAV8-mediated hepatic gene transfer in infant rhesus monkeys (Macaca mulatta)
+
+Perivascular drainage of amyloid-beta peptides from the brain and its failure in cerebral amyloid angiopathy and Alzheimer’s disease
+
+GLUT1 reductions exacerbate Alzheimer’s disease vasculo-neuronal dysfunction and degeneration
+
+Apolipoprotein E: a pathological chaperone protein in patients with cerebral and systemic amyloid
+
+Role of the MEOX2 homeobox gene in neurovascular dysfunction in Alzheimer disease
+
+RAGE and amyloid-beta peptide neurotoxicity in Alzheimer’s disease
+
+Central role for PICALM in amyloid-β blood-brain barrier transcytosis and clearance
+
+Cerebrovascular permeability to peptides: manipulations of transport systems at the blood-brain barrier
+
+The blood-brain barrier in health and chronic neurodegenerative disorders
+
+Neurodegeneration and the neurovascular unit
+
+Neurovascular pathways to neurodegeneration in Alzheimer’s disease and other disorders
+
+Cerebrovascular effects of apolipoprotein E: implications for Alzheimer disease
+
+Blood-brain barrier permeability to leucine-enkephalin,d-Alanine2-d-leucine5-enkephalin and their N-terminal amino acid (tyrosine)
+
+Low-density lipoprotein receptor-related protein-1: a serial clearance homeostatic mechanism controlling Alzheimer’s amyloid β-peptide elimination from the brain
+
+Transport-clearance hypothesis for Alzheimer’s disease and potential therapeutic implications
+
+Transport of leucine-Enkephalin across the blood-brain barrier in the perfused guinea pig brain

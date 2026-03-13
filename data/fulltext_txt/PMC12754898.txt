@@ -1,0 +1,495 @@
+MFSD2A: a molecular nexus linking blood–brain barrier, lipid metabolism, and ischemia–reperfusion injury
+
+Major facilitator superfamily domain-containing protein 2A (MFSD2A) is a central molecular player in maintaining the blood–brain barrier (BBB). It exerts dual protective effects in ischemia–reperfusion injury (IRI): MFSD2A regulates the lipid composition of brain endothelial cell membranes through its sodium-dependent transport of docosahexaenoic acid-conjugated lysophosphatidylcholine (LPC-DHA); this lipid remodeling thereby maintains the characteristic low permeability of the BBB by suppressing caveolae-mediated transcytosis. This review systematically analyzes the tissue distribution patterns of MFSD2A, the protein structural features, and its biological functions both in physiological and pathological conditions. We further reveal its cell type-specific regulatory networks. Notably, acute-phase of IRI induces downregulation of MFSD2A and subsequent BBB leakage. MFSD2A not only serves as a molecular switch to enhance brain-targeted drug delivery (e.g., temporarily inhibiting its activity to improve nanoparticle transport across the BBB) but may also become a therapeutic target for maintaining BBB integrity (e.g., agonist development). This review provides a novel framework for understanding MFSD2A’s multidimensional mechanisms in neurological diseases and its potential for clinical translation.
+
+Introduction
+
+The blood–brain barrier (BBB) is a critical interface between the central nervous system (CNS) and peripheral circulation, playing an indispensable role in maintaining cerebral homeostasis and normal neurological function. The BBB’s structure consists of brain microvascular endothelial cells, which are surrounded by pericytes, astrocytes, microglia, neurons, and extracellular matrix. The endothelial cells establish a highly selective barrier through the transcellular pathway. It plays a protective role in maintaining an exceptionally low level of transcytosis, thereby preventing the entry of harmful substances into the brain parenchyma. In addition, tight junctions and adhesion junctions effectively prevent the paracellular diffusion of water-soluble molecules from the bloodstream into the brain parenchyma. Cerebrovascular endothelial cells exhibit specific expression profiles of different transport proteins for essential molecules (including glucose, ions, nucleic acids, amino acids, and lipids), membrane receptors mediating receptor-dependent endocytosis, efflux pumps (such as MDRs and BCRP), and metabolic enzymes (MAO and GGT). Collectively, these factors facilitate selective nutrient uptake and metabolic waste clearance while maintaining CNS homeostasis. However, BBB is frequently compromised in various neurological disorders, including ischemia–reperfusion injury (IRI), traumatic brain injury (TBI), neurodegenerative diseases, and brain tumors. Under these pathological conditions, the BBB undergoes significant structural and functional alterations, characterized by the enhancement of transcytosis, degradation of tight junction proteins, cytoskeletal reorganization, and excessive release of inflammatory mediators. These changes facilitate the abnormal extravasation of plasma proteins and immune cells into the brain parenchyma, triggering neuroinflammatory responses and neurodegeneration. Specifically, BBB disruption initiates a vicious cycle that exacerbates neuronal damage and accelerates disease progression. Therefore, elucidating the intricate regulatory mechanisms governing BBB function is critical for developing novel therapeutic strategies for CNS disorders.
+
+Major facilitator superfamily domain-containing protein 2 A (MFSD2A) is a transmembrane transporter that is predominantly and specifically expressed in BBB endothelial cells. Over the past decade, accumulating evidence has demonstrated its pivotal role in maintaining BBB stability and physiological function. MFSD2A establishes a unique lipid microenvironment by transporting specific lipids (e.g., docosahexaenoic acid-conjugated lysophosphatidylcholine), thereby suppressing endothelial transcytosis and maintaining BBB integrity. Notably, MFSD2A expression is significantly downregulated during acute phase of ischemic stroke, demonstrating a strong correlation with BBB disruption.This review examines MFSD2A’s roles in BBB maintenance and ischemia–reperfusion injury, with particular emphasis on its cell-type-specific regulatory networks. We will critically evaluate the therapeutic potential of MFSD2A modulation for CNS disorders. By elucidating the multifaceted functions and sophisticated regulatory mechanisms of MFSD2A, this review aims to refine novel therapeutic strategies and identify promising molecular targets that may improve clinical outcomes in ischemic stroke and other neurological diseases.
+
+MFSD2A distribution and structural characteristics
+
+Tissue-specific distribution and functional diversity of MFSD2A
+
+The distribution and function of MFSD2A in different tissues
+
+Tissue	Distribution characteristics	Functional roles	Reference	 	Brain	Highly expressed in brain microvascular endothelial cells; higher expression in cortex and hippocampus than in cerebellum and brainstem; expressed in oligodendrocyte precursor cells (OPCs); expression declines with aging	In endothelial cells, it mediates docosahexaenoic acid-conjugated lysophosphatidylcholine (LPC-DHA) uptake, maintains membrane composition, suppresses caveolae-mediated transcytosis, and preserves BBB integrity. In OPCs: promotes/maintains normal myelination		 	BAT	Exhibits circadian oscillation; MFSD2A mRNA peaks at CT12 (end of light cycle), then rapidly declines	Plays essential roles in adaptive thermogenesis		 	Liver	Shows circadian rhythmicity; significantly downregulated in hepatocellular carcinoma compared with adjacent tissue	Correlates with tumor differentiation and prognosis; potential cancer prognostic marker		 	Lung	Markedly reduced in lung adenocarcinoma cell lines versus normal tissue	May regulate cell cycle genes; potential prognostic marker for tumor progression		 	Stomach	Lower expression in gastric cancer versus normal adjacent tissue	May inhibit tumor progression via anti-angiogenic effects; potential prognostic marker for tumor progression		 	Colon	Secreted by intestinal microvascular endothelial cells; upregulated during inflammation resolution	Maintains balance between proinflammatory and proresolving DHA metabolites in intestinal microvasculature		 	Eye	Primarily expressed in retinal pigment epithelium; minimal expression in vascular endothelium	Major pathway for LPC-DHA uptake; essential for photoreceptor disc membrane development		 	Placenta	Significantly reduced in severe preeclampsia	Mediates cytotrophoblast fusion; potential biomarker for pre-eclampsia and fetal growth restriction
+
+The major facilitator superfamily domain-containing protein 2 A (MFSD2A) has emerged as a multifunctional transporter with distinct expression patterns and physiological roles across organ systems. This section systematically examines its tissue distribution and functional significance in both physiological and pathological contexts (Table 1).
+
+MFSD2A demonstrates compartmentalized expression patterns that define its physiological roles across organ systems. Within the central nervous system, MFSD2A shows predominant enrichment in blood–brain barrier (BBB)-forming endothelial cells; studies in mice show that its transcriptional levels at embryonic day 13.5 (E13.5) were 78.8-fold higher in BBB endothelium than in nonbarrier lung endothelium. Immunohistochemical analyses confirm its almost exclusive microvascular localization, while revealing notable regional heterogeneity: Cortical and hippocampal microvasculature express significantly higher levels than cerebellar and brainstem regions, potentially reflecting differential lipid metabolic demands or regional variations in BBB permeability. During development, MFSD2A expression remains quiescent in early embryogenesis but undergoes progressive upregulation concomitant with BBB maturation, peaking at postnatal weeks 2–3 before stabilizing in adulthood. Conversely, aging drives progressive MFSD2A suppression, with protein levels declining by 19% at 12 months and 26% at 24 months relative to young adults. This age-dependent downregulation correlates with diminished docosahexaenoic acid (DHA) uptake and shows regional vulnerability, with the olfactory bulb, hippocampus, thalamus, and hypothalamus exhibiting more pronounced reductions than cortical areas, suggesting potential links to cognitive decline. Moreover, MFSD2A also presents in oligodendrocyte precursor cells (OPCs). MFSD2A is a lineage-specific regulator in OPCs, where its expression is critical for oligodendroglial development. Single-cell sequencing of the oligodendrocyte lineage in OPC-specific Mfsd2a-knockout mice revealed precocious differentiation into immature oligodendrocytes and arrested maturation of myelinating oligodendrocytes, culminating in postnatal hypomyelination.
+
+Beyond the CNS, MFSD2A displays complex tissue-specific regulation. Notably, hepatic MFSD2A demonstrates fasting-inducible expression, contrast to its constitutive expression in the brain microvasculature. Mouse hepatic and brown adipose tissues (BAT) demonstrate nutritional sensitivity and expresses distinct 59-kDa (nonglycosylated) and 70-kDa (glycosylated) isoforms, contrasting with the brain’s exclusive 65-kDa variant. In specialized physiological contexts, MFSD2A exhibits dynamic regulatory behaviors. Intestinal microvascular endothelial cells show biphasic inflammatory responses and early TNFα-induced upregulation during inflammation initiation, followed by late-phase amplification via epoxy docosapentaenoic acid (EpDPE)-mediated positive feedback during resolution. This regulatory circuit becomes disrupted in ulcerative colitis, suggesting pathogenic implications. Placental MFSD2A functions as the syncytin-2 receptor essential for trophoblast fusion, with significantly reduced expression (60%) in severe preeclampsia and correlations with fetal growth parameters. Within the retina, MFSD2A enables photoreceptor morphogenesis through sodium-dependent lysophosphatidylcholine transport. While knockout models show 60% reduction in ocular DHA, compensatory mechanisms, including Fads1/2 upregulation and sterol regulatory element-binding protein (SREBP) 1c-mediated biosynthesis partially mitigate structural defects in photoreceptor outer segments and retinal pigment epithelium.
+
+Pathologically, hepatocellular carcinoma exhibits marked MFSD2A downregulation that correlates with poor tumor differentiation. Similar tumor-suppressive patterns emerge in gastric cancer, where MFSD2A expression shows stage-dependent suppression (3.2-fold reduction in tumors) with progressive decline during disease advancement. Mechanistically, MFSD2A reprograms tumor microenvironments by suppressing COX2-mediated prostaglandin synthesis and reducing transforming growth factor beta 1 (TGFβ1) secretion from cancer cells, thereby enhancing CD8+ T cell activation. Parallel findings in lung adenocarcinoma reveal approximately fivefold reduced expression, reversible by methyltransferase inhibition, indicating epigenetic regulation, while functional studies demonstrate its capacity to induce G1 phase arrest and suppress tumorigenicity.
+
+Collectively, these findings position MFSD2A as a multifunctional regulator with tissue-adapted roles spanning lipid transport, tumor suppression, inflammatory resolution, and developmental processes. Its compartmentalized expression patterns and regulatory mechanisms offer insights for targeted therapeutic strategies across neurological, oncological, and inflammatory disorders.
+
+Structural characteristics of MFSD2A
+
+The Mfsd2a gene spans 14.3 kb and comprises 14 exons. Its encoded 528-amino-acid human protein contains two N-linked glycosylation sites (Asn-218 and Asn-227) and exhibits remarkable phylogenetic conservation from teleosts to mammals, underscoring fundamental biological importance. MFSD2A adopts a canonical major facilitator superfamily (MFS) architecture featuring 12 transmembrane helices organized into two pseudosymmetric domains: an N-terminal bundle (TM1-6) and C-terminal bundle (TM7-12) connected by a cytoplasmic loop. Key extracellular features include an elongated ordered loop (EL3) between TM5 and TM6 and a critical extracellular loop (EL6) between TM11 and TM12. A conserved disulfide bond bridging C216 (EL3) and C464 (EL6) stabilizes the extracellular domain, with mutagenesis studies confirming that C216A/C464A mutations abolish transport activity. The intracellular architecture reveals an extended TM6–TM7 linker that both connects the domains and stabilizes the outward-open conformation. Following TM12, a C-terminal helical segment interfaces with the cytoplasmic surface, likely facilitating inward-closed state stabilization. Within this scaffold lies a substantial amphipathic cavity, which harbors three interesting structural elements: a charged central region, a proposed Na+-binding site, and a lysolipid-bound hydrophobic pocket. As a sodium-coupled transporter, MFSD2A harnesses Na+ electrochemical gradients to power substrate translocation.
+
+Structural analyses identify conserved Na+-coordinating residues (Asp-87, Asp-91, Glu-309, and Lys-433 in chicken; equivalent to Asp-92, Asp-96, Glu-310, and Lys-434 in humans) positioned within a cavity formed by TM2/TM11 kinks. Molecular dynamics simulations confirm that Asp-92, Asp-96, Thr-95, and Thr-163 form a precisely arranged coordination sphere in murine MFSD2A. Functional validation demonstrates that D96A mutation not only impairs lipid transport but also increases blood–brain barrier permeability, establishing the Na+ site’s dual role in catalysis and structural integrity. While Na+-lysophosphatidylcholine (LPC) coordination remains incompletely resolved, colocalization studies suggest direct interaction between Na+ and LPC’s phosphate group during transport.
+
+The LPC-binding site resides within an outward-facing cleft between TM5 and TM8, where substrate binding triggers a conformational shift to an outward-closed state that encapsulates both LPC’s phosphocholine headgroup and acyl chain. Key polar residues (Arg-90/Lys-436 and Asp-93/Glu-155) stabilize the headgroup through charge complementarity, while Phe-65 forms a hydrophobic clamp near the glycerol moiety, with the aliphatic chain inserting into the C-terminal domain’s lateral cavity. Domain rotation then drives transition to an inward-facing state, reorienting transport pathways toward the cytoplasm. During this isomerization, the headgroup disengages from the central polar cluster (Asn-335/TM8 and Thr-102/TM5) and swings toward the cytoplasm while the acyl chain maintains contact with the hydrophobic constriction. Mutagenesis studies confirm the functional necessity of Asn-335/Thr-102, as their substitution disrupts TM5–TM8 geometry and impedes transport, while Lys-436 proves particularly critical by forming a salt bridge with LPC’s phosphate group to facilitate binding and initiate the characteristic “flip” mechanism during translocation.
+
+Cryogenic electron microscopy (Cryo-EM) structural analyses delineate LPC’s vectorial transport path, revealing sequential acyl chain anchoring into three hydrophobic chambers (Chamber1 → Chamber2 → Chamber3) concurrent with stepwise headgroup reorientation through specialized charge zones: the extracellular-docking ZA zone (Asp-87/Arg-84/Lys-433) stabilizes initial binding; ZB (Arg-180/Glu-421) mediates a 70° rotation coupled with 16.9 Å inward displacement; and ZC (Asp-174/Gln-345) weakens binding affinity for cytoplasmic release. Throughout this trajectory, hydrophobic gating residues (Phe-396/Trp-400) undergo conformational rearrangements that prevent retrograde movement. This mechanistic model gains functional validation from liposome-reconstituted assays where purified MFSD2A exhibits Na+-dependent scramblase activity, directly confirming the substrate-flipping mechanism.
+
+Physiological functions of MFSD2A
+
+Physiological functions of MFSD2A in lipid transport
+
+Schematic illustration of MFSD2A-mediated DHA transport across the blood–brain barrier. Under physiological conditions, brain endothelial cells specifically uptake LPC-DHA through high expression of MFSD2A, relying on its “LPC flippase activity” to achieve polarized transmembrane transport, thereby maintaining cerebral DHA homeostasis and neuronal function. Under pathological conditions such as ischemic stroke, significant downregulation of MFSD2A expression leads to impaired trans-barrier DHA transport, accompanied by abnormal remodeling of endothelial cell membrane lipid composition (characterized by cholesterol enrichment and expansion of membrane raft domains) and formation of Caveolin-1-dependent membrane microdomains. These changes shift the transport modality from specific carrier-mediated mechanisms to nonselective caveolae-dependent endocytic pathways, ultimately exacerbating blood–brain barrier leakage and neurological dysfunction (created with BioGDP.com)
+
+Although the physiological roles of MFSD2A have been investigated in multiple organs, the most extensive research has focused on its functions in the brain. As the first identified phospholipid transporter within the major facilitator superfamily (MFS), MFSD2A plays indispensable roles in lipid homeostasis and barrier maintenance (Fig. 1). It mediates sodium-dependent uptake of DHA conjugated to lysophosphatidylcholine (LPC-DHA) at blood–brain barriers (BBB) and blood–retinal barriers (BRB). DHA constitutes ~20% of CNS membrane fatty acids yet cannot be synthesized de novo by the brain. Beyond structural functions, DHA and its metabolites (resolvins, neuroprotectins, and maresins) exhibit systemic anti-inflammatory and tumor-suppressive properties. MFSD2A additionally transports other plasma LPCs bearing long-chain fatty acids (e.g., LPC-oleate, LPC-palmitate), excluding those with acyl chains < 14 carbons owing to geometric constraints where hydrocarbon chains must project into the bilayer’s hydrophobic core. During translocation, hydrophobic interactions between the fatty acyl tail and membrane lipids provide driving force for LPC release into the inner leaflet.
+
+Functional validation comes from Msd2a-knockout mice showing 80–90% reductions in brain uptake of LPC-oleate and LPC-DHA; dietary DHA supplementation fails to elevate brain DHA levels in these knockout mice. These transport deficiencies correlate with severe neurological abnormalities: decreased brain DHA content, neuronal loss, microcephaly, and cognitive impairment. Plasma LPC concentrations are elevated in knockout mice relative to wild-type controls. Parallel findings in humans reveal 80% higher plasma LPC concentrations in patients with MFSD2A mutations. MFSD2A mutations can lead to impaired LPC transport. The Ser339Leu mutation maintains normal expression level and proper membrane localization but disrupts lysophosphatidylcholine acyltransferase (LPCAT)-mediated esterification of exogenous LPCs to phosphatidylcholine. The mutation reduces transport efficiency for LPC-DHA, LPC-palmitate, and LPC-oleate probably due to steric hindrance in the substrate-binding pocket. Beyond the CNS, MFSD2A facilitates basolateral LPC transport into renal epithelial cells of renal proximal tubules (S3 segment), indicating its broader involvement in lipid metabolism and homeostasis maintenance across multiple tissues.
+
+MFSD2A’s crucial role in maintaining blood–brain barrier (BBB) integrity
+
+MFSD2A critically stabilizes BBB integrity primarily by suppressing caveolae-mediated transcytosis. In Mfsd2a-knockout mice, BBB permeability increases dramatically as evidenced by extravasation of 10–70 kDa dextrans, NHS-biotin, and horseradish peroxidase. Electron microscopy reveals markedly enhanced vesicular transcytosis without apparent tight junction defects, consistent with unchanged expression of junctional proteins (ZO-1, claudin-5, occludin, VE-cadherin). The underlying mechanism involves MFSD2A-mediated establishment of a unique lipid microenvironment. MFSD2A transports phospholipids (including DHA-containing species) from the outer to the inner leaflet of the plasma membrane. The increased DHA levels within the inner leaflet displace cholesterol and caveolin-1 (Cav-1), while DHA enrichment in the plasma membrane leads to increased membrane fluidity and reduced curvilinearity. This model is reinforced by lipidomic analyses showing preferential DHA enrichment in brain capillaries versus pulmonary capillaries and in vitro evidence that DHA treatment depletes membrane cholesterol and displaces caveolae-resident proteins in endothelial cells. On the contrary, MFSD2A ablation triggers SREBP-mediated de novo fatty acid biosynthesis and upregulates transcytosis-associated proteins (SRGAP2, STX7, and SEC22B).
+
+MFSD2A downregulation in neurological disorders involves post-translational modifications, particularly ubiquitination (Fig. 1). Zika virus infection enhances MFSD2A polyubiquitination, promoting proteasomal degradation in human brain microvascular endothelial cells. Similarly, AKT signaling activation increases phosphorylated NEDD4-2 (p-NEDD4-2), which ubiquitinates MFSD2A for degradation. However, PTEN/AKT signaling may also regulate MFSD2A expression at the transcriptional level, as evidenced by decreased MFSD2A transcripts in Pten mutant mice. In summary, MFSD2A maintains BBB integrity primarily by establishing a DHA-rich, caveolae-suppressive lipid membrane through its transport activity, a crucial regulatory mechanism that is frequently compromised via ubiquitin-mediated degradation or transcriptional downregulation in neurological disorders.
+
+Extracerebral functions of MFSD2A
+
+Beyond its well-characterized function in central nervous system, MFSD2A exhibits distinctive regulatory patterns in peripheral metabolic and immunological systems. MFSD2A expression displays robust circadian oscillations synchronized with metabolic cycles in the liver and brown adipose tissue (BAT). Transcript levels peak sharply at circadian time CT12 (light-cycle termination) before rapid decline, suggesting regulation by core clock machinery. Notably, retinoid-related orphan receptors (RORs) function as direct transcriptional repressors of MFSD2A, potentially linking its expression to nuclear receptor signaling networks.
+
+During adaptive thermogenesis, BAT demonstrates marked MFSD2A upregulation, a response pattern mirroring the thermogenic induction of glucose transporter GLUT1 (SLC2A1). Both transporters are coordinately induced via β-adrenergic receptor activation in vitro and in vivo, suggesting integrated regulation of nutrient partitioning during cold adaptation. While GLUT1 facilitates enhanced glucose uptake during thermogenic demand, whether MFSD2A directly contributes to this metabolic reprogramming through lipid substrate provision remains to be elucidated.
+
+In the immune system, MFSD2A is upregulated in activated CD8+ T cells and is essential for the maintenance of memory T cells. Studies demonstrate that MFSD2A-deficiency-activated CD8+ T cells exhibit impaired uptake of LPC conjugated to long-chain fatty acids. This metabolic defect renders these cells less competitive, ultimately compromising both the formation and maintenance of memory T cell populations. Consequently, the host’s ability to produce effective secondary immune responses is diminished.
+
+Cell-specific regulation of MFSD2A in physiological conditions and ischemia–reperfusion injury
+
+Ischemia–reperfusion injury and its pathogenic mechanisms
+
+Stroke represents the second leading cause of global mortality, with rising incidence driven by aging populations and increasing prevalence among younger individuals. Ischemic stroke (∼80% of cases) typically arises from cerebral atherosclerosis or thrombosis, causing vascular stenosis/occlusion and subsequent focal brain ischemia. Current revascularization strategies, pharmacological thrombolysis (e.g., recombinant tissue plasminogen activator [rt-PA]) and mechanical thrombectomy, paradoxically induce secondary damage termed cerebral ischemia–reperfusion injury (CIRI). CIRI initiates a deleterious cascade featuring blood–brain barrier (BBB) disruption, amplified neuronal death, hemorrhagic transformation, and elevated mortality, posing a major therapeutic challenge in stroke management. Thus, elucidating CIRI mechanisms and developing targeted interventions are critical for improving clinical outcomes.
+
+Pathogenically, IRI involves interconnected pathways: oxidative stress, neuroinflammation, and regulated cell death. Post ischemia, intravascular inflammation rapidly activates engaging multicellular and multimolecular networks. Upon reperfusion, microglia polarize toward a proinflammatory (M1) phenotype, releasing TNF-α, IL-1β, and IL-6, which induce endothelial necroptosis and barrier dysfunction. Chemokines (e.g., CCL2, CCL3, and CXCL12) drive BBB leakage and leukocyte infiltration, while astrocytes exacerbate inflammation via COX-2-mediated PGE2 synthesis. Matrix metalloproteinase (MMP) activation further disrupts the BBB, promoting hemorrhagic transformation. Notably, gut-derived TREM1+ macrophages migrate to ischemic brain regions via the gut–brain axis, releasing reactive oxygen species (ROS) that intensify BBB damage and neuronal injury.
+
+Mitochondrial dysfunction amplifies CIRI. Drp1-mediated fission imbalance causes ROS accumulation, creating a self-perpetuating cycle of mitochondrial damage. Impaired clearance of damaged mitochondria via mitophagy (e.g., dysfunctional Pink1/Parkin pathways) exacerbates injury, though enhanced mitophagy may confer neuroprotection. ROS also activates TLRs on microglia, fueling an “oxidative stress-inflammation” feedback loop, and disrupts iron homeostasis, triggering ferroptosis.
+
+Critically, IRI activates necroptosis and ferroptosis, both contributing to BBB failure. Hemoglobin and heme degradation at lesion sites mediate focal iron accumulation. Iron overload drives Fenton reactions, generating lipid peroxides that induce membrane damage and ferroptosis. Concurrently, inflammation dysregulates glial iron metabolism and suppresses antioxidant defenses, synergistically promoting ferroptosis. Both pathways are activated early in IRI: necroptosis markers (p-RIPK1/RIPK3/MLKL) increase, while ferroptosis regulators (ACSL4, SLC7a11, GPX4) show biphasic dysregulation (downregulation at 6 h, upregulation at 24 h post reperfusion). Pharmacologically, ferroptosis inhibition is neuroprotective, and coadministration of necroptosis (Nec-1) and ferroptosis (Lip-1) inhibitors reduces infarct volume and improves neurological outcomes. Intriguingly, Nec-1 also suppresses ferroptosis, suggesting crosstalk between these death mechanisms.
+
+Role of MFSD2A in ischemia–reperfusion injury
+
+Cerebral IRI induces biphasic BBB hyperpermeability, directly causing vasogenic edema, hemorrhage, and increased mortality. During early reperfusion, microvascular MFSD2A expression is markedly reduced, while tight junction (TJ) integrity remains largely intact until significant remodeling occurs after 24 h. This delayed TJ alteration may coincide with initiation of CNS angiogenesis. Notably, endothelial caveolae density and transcytosis rates surge as early as 6 h post transient middle cerebral artery occlusion (t-MCAO), preceding both TJ structural disruption and paracellular leakage. These findings suggest that MFSD2A downregulation likely contributes to early BBB dysfunction in IRI.
+
+S1P signaling is critically relevant in the context of IRI, where a profound dysregulation of sphingolipid metabolism occurs. In vivo and in vitro studies have consistently shown increased S1P production under ischemic conditions. Mfsd2a interacts with spinster homolog 2 (SPNS2) to facilitate sphingosine-1-phosphate (S1P) efflux from the endothelial cell to the extracellular matrix, a process essential for maintaining low intracellular S1P concentration and BBB development and maintenance. Emerging evidence suggests that MFSD2A upregulation mitigates ischemic BBB damage. For example, Storax, a traditional Chinese medicine with antioxidative/anti-inflammatory properties, elevates MFSD2A expression post stroke, inhibiting caveolae-mediated transcytosis and attenuating BBB injury. Nevertheless, MFSD2A-targeted therapies for stroke remain nascent, warranting exploration of novel pharmacological agents.
+
+The transport of DHA by MFSD2A serves as a critical mechanism for sustaining an anti-inflammatory microenvironment in the brain. DHA is metabolized by COX/LOX enzymes into specialized proresolving mediators (SPMs), including anti-inflammatory prostaglandins and leukotrienes. These SPMs potently inhibit NF-κB activation, reducing proinflammatory cytokine release (e.g., TNF-α) and dampening neuroinflammation. Animal studies confirm exogenous DHA suppresses post-ischemic microglial activation, reduces infarct volume, and upregulates anti-apoptotic Bcl-2. Consequently, MFSD2A downregulation impairs cerebral DHA uptake, compromising these anti-inflammatory mechanisms and potentially exacerbating post-IRI neuroinflammation and neuronal ferroptosis.
+
+Cell-type-specific regulation of MFSD2A
+
+Cell-type-specific regulation of MFSD2A in the neurovascular unit. Endothelial Mfsd2a transcription is directly activated by the Wnt/β-catenin pathway through β-catenin binding to its promoter. The NEDD4L activated by AKT binds to MFSD2A and targets it for degradation by the proteasome. Pericytes sustain MFSD2A expression and plasma membrane localization through PDGF-BB/PDGFRβ signaling. Additionally, astrocyte-derived TGF-β1 activates endothelial TGFBR2, which synergizes with fibroblast growth factor (FGF) signaling to upregulate MFSD2A transcription. The concerted action of this intercellular network ensures precise control of MFSD2A to maintain blood–brain barrier integrity (created with BioGDP.com)
+
+The central nervous system (CNS) vasculature constitutes a highly dynamic multicellular interface capable of integrating and responding to systemic and neural signals. Neurovascular unit (NVU) is a tightly coordinated network featuring intimate intercellular connections and crosstalk among constituent cells. The NVU comprises endothelial cells and pericytes at the capillary level, vascular smooth muscle cells (VSMCs) along arterioles, and associated glial cells (including astrocytes and microglia). How is MFSD2A regulated within this complex cellular milieu? Emerging evidence reveals that its expression in endothelial cells is fine-tuned by distinct molecular signals derived from specific NVU cell types (Fig. 2).
+
+Endothelial cells
+
+MFSD2A expression demonstrates remarkable vascular segment specificity. It is indispensable in capillaries yet strikingly absent in arteriolar endothelial cells, as demonstrated by low mRNA and undetectable protein levels. This absence is functionally consequential: Arteriolar endothelial cells are rich in caveolae, organelles essential for neurovascular coupling. These caveolae establish a constitutively high transcytosis rate, rendering the arterial blood–brain barrier inherently more permeable. The functional significance of this distribution is highlighted by experiments wherein ectopic expression of MFSD2A in arterioles reduces caveolae density but at the expense of impaired functional hyperemia, underscoring a critical physiological trade-off.
+
+Cerebral endothelial cells autonomously regulate MFSD2A expression through intrinsic signaling pathways to maintain blood–brain barrier homeostasis. The Wnt/β-catenin pathway directly governs MFSD2A transcription via β-catenin binding to its promoter, thereby sustaining barrier integrity under physiological conditions. Retinal lipidomic analyses in Wnt-deficient models reveal reduced omega-3 fatty acid composition and an approximately 50% decrease in DHA levels, confirming MFSD2A’s critical role in lipid transport. Furthermore, endothelial-specific β-catenin knockout in adult mice increases caveolae-mediated transcytosis, mediated through MFSD2A downregulation and concurrent upregulation of caveolin-1. The PTEN/AKT cascade can exert both transcriptional and post-translational control over MFSD2A. A critical post-translational mechanism involves the E3 ubiquitin ligase NEDD4L, which, upon activation by kinases such as AKT, binds to and ubiquitinates MFSD2A, targeting it for proteasomal degradation. This cell-autonomous regulation allows the endothelium to dynamically modulate transcytosis rates in response to metabolic and inflammatory cues.
+
+Pericytes
+
+Pericytes are positioned along capillary walls and envelop brain microvascular endothelial cells in the central nervous system. They orchestrate cerebrovascular integrity through dynamic bidirectional signaling with endothelial cells, critically modulating MFSD2A expression. This regulatory relationship acquires pathological significance in ischemia–reperfusion injury, where pericyte coverage is substantially diminished. Pericyte-deficient mice exhibit enhanced vesicular transcytosis without significant tight junction disruption. Immunostaining in Pdgfb-knockout models shows markedly reduced MFSD2A protein levels specifically in endothelial cells lacking pericyte contact, indicating that pericytes sustain endothelial MFSD2A expression under physiological conditions. These findings establish that increased vesicular transport in pericyte deficiency stems, at least partially, from MFSD2A dysregulation, and that endothelial–pericyte interactions are essential for MFSD2A expression and blood–brain barrier integrity.
+
+Recent research using noncontact coculture models suggests that PDGF-BB/PDGFRβ signaling between endothelial cells and pericytes mediates both MFSD2A protein expression and its plasma membrane localization in endothelial cells. Consistent with this, MFSD2A upregulation enhances DHA uptake in a manner dependent on pericyte abundance. However, the precise mechanisms by which pericyte-derived soluble factors regulate MFSD2A expression and membrane localization in brain microvascular endothelial cells (BMECs) require further elucidation.
+
+Astrocytes
+
+Astrocytes promote MFSD2A expression through supportive signaling pathways. They supply DHA to neurons, maintaining neuronal membrane integrity and function. Evidence indicates that TGF-β1, induced by astrocyte–endothelial cell contact, contributes to blood-neural barrier maintenance. A recent study demonstrated that astrocyte-derived TGF-β1 induces MFSD2A expression in cultured brain endothelial cells. This regulatory relationship is clinically supported by patient-derived xenograft models of brain metastasis, where reduced perivascular glial fibrillary acidic protein (GFAP)-positive astrocyte density and diminished TGF-β1 levels correlate with downregulated MFSD2A expression and increased blood–brain barrier leakage. Interestingly, ablation of Tgfbr2 results in significant loss of Mfsd2a gene expression in brain endothelium. Mechanistically, TGF-β1 serves as an upstream regulator of fibroblast growth factor receptor expression, with both pathways synergistically promoting MFSD2A transcription. Although acute inhibition of endothelial FGF signaling shows efficacy as an antiangiogenic strategy in murine cancer models, such intervention may inadvertently suppress MFSD2A expression, potentially compromising blood–brain barrier integrity and lipid metabolism. Therefore, targeted activation of FGF pathways might hold therapeutic potential for BBB restoration in conditions involving barrier leakage.
+
+Cell-type specific regulation of MFSD2A
+
+Cell type	Mechanism of action	Related signaling pathways	Reference	 	Endothelial cells	The binding of β-catenin to the promoter of MFSD2A promotes its transcription; AKT mediates its degradation	Wnt/β-catenin, PTEN/AKT		 	Pericytes	Regulate MFSD2A expression to influence BBB integrity; pericyte deficiency increases vesicular transport and affects MFSD2A levels	PDGF-BB/PDGFRβ		 	Astrocytes	Promote the expression of MFSD2A through the synergistic action of TGFβ1 and FGF	TGFβ1, FGF
+
+Within the central nervous system, MFSD2A is predominantly expressed in endothelial cells, while other neurovascular unit components (pericytes, astrocytes) also contribute to its regulation, directly or indirectly (Table 2). The concerted actions of these diverse cell types orchestrate a sophisticated regulatory system for MFSD2A. A deeper understanding of how these multicellular networks coordinately regulate MFSD2A will not only clarify its role in IRI pathogenesis but also provide a rational basis for therapeutic interventions.
+
+Clinical translation of MFSD2A
+
+Suppressing MFSD2A expression for enhanced CNS drug delivery
+
+While the blood–brain barrier (BBB) protects the brain from neurotoxic substances, it simultaneously impedes > 98% of small-molecule compounds and 100% of large-molecule therapeutics from reaching their cerebral targets, a major constraint in treating neurological disorders. Transient MFSD2A inhibition offers a novel strategy to overcome this limitation by temporarily enhancing BBB permeability. The inhibitor tunicamycin (TM) disrupts BBB integrity, elevating brain drug accumulation by 4.3-fold compared with conventional methods. However, TM induces neurotoxicity by inhibiting N-linked glycosylation, triggering endoplasmic reticulum (ER) stress and subsequent unfolded protein response activation. Persistent and unmitigated ER stress activates the proapoptotic transcription factor DNA damage-inducible transcript 3, culminating in cell death. Intriguingly, MFSD2A deficiency confers TM resistance, while its overexpression increases TM sensitivity, suggesting MFSD2A functions as a primary TM transporter. As such, MFSD2A is regarded as a prime candidate for the TM transporter on the plasma membrane.
+
+Structural analyses reveal TM’s evolutionarily conserved residues Asp97 and Lys436 mediate both TM hypersensitivity and LPC-DHA transport. This dual functionality implies that TM may compromise MFSD2A’s transcytosis suppression by interfering with lipid translocation.
+
+Although MFSD2A-deficient mouse embryonic fibroblasts exhibit marked TM resistance, their survival remains dose-dependently affected by TM, suggesting that alternative cellular entry pathways exist beyond MFSD2A. The reversibility of TM-mediated MFSD2A inhibition remains an unresolved issue requiring further investigation. While some studies suggest that TM may dissociate from MFSD2A after entering the CNS, several critical questions remain to be addressed through more in-depth research. These include whether MFSD2A can fully regain its normal function following such dissociation, and whether the dissociated TM retains its neurotoxic properties. As a pharmacological modulator of MFSD2A, TM demands comprehensive evaluation of its therapeutic potential and safety profile. Resolving these mechanistic and toxicological questions is imperative for clinical translation.
+
+Complementary studies in murine glioma models demonstrate that Wnt pathway inhibitor LGK974 indirectly downregulates MFSD2A expression, enhancing caveolin-1-mediated transcytosis in tumor endothelial cells to improve temozolomide delivery. Such inhibitors allow precise dose-dependent modulation of the therapeutic window for optimized outcomes. Recent work identifies SYNC2CO-SU as a potent soluble MFSD2A transport inhibitor with nanomolar-range half maximal inhibitory concentration (IC50) values, offering promising potential for transiently augmenting endothelial transcytosis to facilitate BBB penetration of therapeutic macromolecules and nanomaterials.
+
+Harnessing MFSD2A transport function for drug delivery
+
+For CNS disorders with compromised BBB, such as ischemia–reperfusion injury, intracerebral hemorrhage, and traumatic brain injury, further inhibition of MFSD2A may exacerbate pathological progression. As the first identified DHA transporter, MFSD2A deficiency in murine models leads to a dramatic 90% reduction in DHA uptake. Crucially, MFSD2A exclusively transports LPC-DHA while excluding unesterified forms. Beyond DHA, it facilitates translocation of other LPC-bound lipids (e.g., LPC-oleate, LPC-palmitate). These substrate specificities suggest that rationally designed LPC-conjugated compounds could enable targeted brain delivery, though this emerging paradigm requires deeper mechanistic exploration.
+
+MFSD2A mediates sphingosine-1-phosphate (S1P) efflux from brain endothelial cells. S1P, a bioactive lipid mediator, critically regulates diverse physiological processes, including cell migration, adhesion, survival, and proliferation. S1P signaling occurs through interactions with intracellular targets or autocrine/paracrine transporters, activating cell surface receptors (S1P receptors [S1PR1–S1PR5]). Genetic ablation of S1PR1 impairs vascular maturation, causing severe hemorrhage and embryonic lethality. Following TBI, reduced MFSD2A expression decreases S1P concentration in the extracellular matrix. CYM-5442, a selective S1PR1 agonist, demonstrates BBB-protective effects in TBI mouse models by suppressing transcytosis in brain endothelial cells to maintain barrier integrity. However, whether S1PR1 agonism can upregulate MFSD2A expression remains unverified. Glial growth factor 2 (GGF2), a recombinant version of neuregulin-1β with established neuroprotective properties, effectively reverses ischemia–reperfusion (I–R)-induced MFSD2A downregulation and Cav-1 upregulation, supporting its therapeutic potential for IRI.
+
+Successful MFSD2A-targeted delivery strategies, whether designing intrinsically transport-compatible molecules or conjugating therapeutics to LPC scaffolds, must satisfy stringent structural prerequisites.
+
+Candidate compounds require a zwitterionic headgroup (though not strictly limited to phosphocholine) and a hydrophobic moiety exceeding a minimal threshold. Given that MFSD2A’s binding pocket substantially exceeds LPC dimensions, small-molecule drugs, which could theoretically be linked to LPC or LPC-mimetic, are promising approaches to achieve efficient BBB traversal.
+
+Summary and perspectives
+
+MFSD2A plays a critical role in maintaining BBB integrity and CNS homeostasis through selective transport of essential lipids and the suppression of transcytosis. Its dynamic regulation during cerebral ischemia–reperfusion injury and its involvement in various neurological disorders highlight its potential as a therapeutic target.
+
+However, several challenges impede the translation advancement of MFSD2A. Most studies rely on animal models, with limited human clinical trials to validate preclinical findings. Furthermore, cell-type-specific regulatory mechanisms remain incompletely characterized, hindering precise dissection of disease pathogenesis. While transient MFSD2A inhibition could enhance CNS drug delivery by modulating BBB permeability, optimal timing and safety profiles must be rigorously established to avoid exacerbating neurological injury. Future research should focus on (1) elucidating context-dependent molecular mechanisms governing MFSD2A in physiological and pathological states; (2) defining cell-type-specific functions within neurovascular unit compartments to reveal novel disease pathways; and (3) exploiting MFSD2A’s substrate specificity for engineered therapeutic delivery. Addressing these knowledge gaps will not only advance understanding of neurological disorders but also catalyze innovative therapeutic strategies targeting this multifaceted regulator.
+
+Abbreviations
+
+BAT
+
+Brown adipose tissues
+
+BBB
+
+Blood–brain barrier
+
+Cav-1
+
+Caveolin-1
+
+CIRI
+
+Cerebral ischemia–reperfusion injury
+
+CNS
+
+Central nervous system
+
+DHA
+
+Docosahexaenoic acid
+
+ECs
+
+Endothelial cells
+
+EpDPE
+
+Epoxy docosapentaenoic acid
+
+FGF
+
+Fibroblast growth factor
+
+GFAP
+
+Glial fibrillary acidic protein
+
+I–R
+
+Ischemia–reperfusion
+
+IRI
+
+Ischemia–reperfusion injury
+
+LPC
+
+Lysophosphatidylcholine
+
+LPC-DHA
+
+Docosahexaenoic acid-conjugated lysophosphatidylcholine
+
+LPCAT
+
+Lysophosphatidylcholine acyltransferase
+
+MFS
+
+Major facilitator superfamily
+
+MFSD2A
+
+Major facilitator superfamily domain-containing protein 2A
+
+MMP
+
+Matrix metalloproteinase
+
+NVU
+
+Neurovascular unit
+
+RORs
+
+Retinoid-related orphan receptors
+
+ROS
+
+Reactive oxygen species
+
+S1P
+
+Sphingosine-1-phosphate
+
+SPNS2
+
+Spinster homolog 2
+
+SREBP
+
+Sterol regulatory element-binding protein
+
+TBI
+
+Traumatic brain injury
+
+TGFβ1
+
+Transforming growth factor beta 1
+
+TJ
+
+Tight junction
+
+TM
+
+Tunicamycin
+
+VSMCs
+
+Vascular smooth muscle cells
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author contributions
+
+Cheng Fang and Chunyan Li proposed the idea for the article. Chunyan Li drafted this work and contributed to the original writing. Muhammad Mustapha Ibrahim revised the summary and perspectives of the manuscript. Cheng Fang revised the manuscript. All the authors have read and agreed to the published version of the manuscript.
+
+Funding
+
+This work was supported by the National Natural Science Foundation of China (31900704 to C.F.), Guangdong Basic and Applied Basic Research Grant (2023A1515010467 to C.F.), and Science Technology and Innovation Commission of Shenzhen Municipality (JCYJ20230807140721043 to C.F.).
+
+Data availability
+
+No datasets were generated or analyzed during the current study.
+
+Declarations
+
+Ethics approval and consent to participate
+
+Not applicable.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no potential conflicts of interest.
+
+References
+
+Neuroinflammation, stroke, blood-brain barrier dysfunction, and imaging modalities
+
+Neuronal and vascular interactions
+
+Blood-brain barrier permeability is regulated by lipid transport-dependent suppression of caveolae-mediated transcytosis
+
+Pericytes are required for blood-brain barrier integrity during embryogenesis
+
+Mfsd2a is critical for the formation and function of the blood-brain barrier
+
+Junctions between intimately apposed cell membranes in the vertebrate brain
+
+Multidrug-resistance gene (P-glycoprotein) is expressed by endothelial cells at blood-brain barrier sites
+
+Quantitative targeted absolute proteomic analysis of transporters, receptors and junction proteins for validation of human cerebral microvascular endothelial cell line hCMEC/D3 as a human blood-brain barrier model
+
+MDR1 P-glycoprotein is a lipid translocase of broad specificity, while MDR3 P-glycoprotein specifically translocates phosphatidylcholine
+
+Establishment and dysfunction of the blood-brain barrier
+
+The blood-brain barrier
+
+Rhein attenuates cerebral ischemia-reperfusion injury via inhibition of ferroptosis through NRF2/SLC7A11/GPX4 pathway.
+
+TREM2 activation alleviates neural damage via Akt/CREB/BDNF signalling after traumatic brain injury in mice
+
+Glycocalyx dysregulation impairs blood-brain barrier in ageing and disease
+
+Medulloblastoma genotype dictates blood brain barrier phenotype
+
+TNF-α receptor inhibitor alleviates metabolic and inflammatory changes in a rat model of ischemic stroke
+
+Mfsd2a regulates the blood-labyrinth-barrier formation and function through tight junctions and transcytosis.
+
+Activated Drp1 regulates p62-mediated autophagic flux and aggravates inflammation in cerebral ischemia-reperfusion via the ROS-RIP1/RIP3-exosome axis
+
+Neuroinflammatory mechanisms of blood-brain barrier damage in ischemic stroke
+
+Storax inhibits caveolae-mediated transcytosis at blood-brain barrier after ischemic stroke in rats
+
+Single-cell dissection of the human brain vasculature
+
+Mfsd2a attenuates blood-brain barrier disruption after sub-arachnoid hemorrhage by inhibiting caveolae-mediated transcellular transport in rats
+
+Aging decreases docosahexaenoic acid transport across the blood-brain barrier in C57BL/6J mice
+
+MFSD2A promotes endothelial generation of inflammation-resolving lipid mediators and reduces colitis in mice
+
+Deficiency in the omega-3 lysolipid transporter Mfsd2a leads to aberrant oligodendrocyte lineage development and hypomyelination
+
+Mfsd2a encodes a novel major facilitator superfamily domain-containing protein highly induced in brown adipose tissue during fasting and adaptive thermogenesis
+
+Major facilitator superfamily domain-containing protein 2a (MFSD2A) has roles in body growth, motor function, and lipid metabolism
+
+MFSD2a, the syncytin-2 receptor, is important for trophoblast fusion
+
+Cloning, expression, and fatty acid regulation of the human delta-5 desaturase
+
+Cloning, expression, and nutritional regulation of the mammalian delta-6 desaturase
+
+The prognostic value of major facilitator superfamily domain-containing protein 2A in patients with hepatocellular carcinoma
+
+MFSD2A potentiates gastric cancer response to anti-PD-1 immunotherapy by reprogramming the tumor microenvironment to activate T cell response
+
+MFSD2A expression predicts better prognosis in gastric cancer
+
+MFSD2A is a novel lung tumor suppressor gene modulating cell cycle and matrix attachment
+
+Mfsd2a is a transporter for the essential omega-3 fatty acid docosahexaenoic acid
+
+Cloning and analysis of tree shrew Mfsd2a gene and detection of its expression in different tissues
+
+Mfsd2a is a transporter for the essential ω-3 fatty acid docosahexaenoic acid (DHA) in eye and is important for photoreceptor cell development
+
+Structural basis of omega-3 fatty acid transport across the blood-brain barrier
+
+Structural insights into the transport mechanism of the human sodium-dependent lysophosphatidylcholine transporter MFSD2A
+
+Structure and mechanism of blood-brain-barrier lipid transporter MFSD2A
+
+Structural insights into the lysophospholipid brain uptake mechanism and its inhibition by syncytin-2
+
+Lipid flipping in the omega-3 fatty-acid transporter
+
+Mfsd2a utilizes a flippase mechanism to mediate omega-3 fatty acid lysolipid transport
+
+Structural biology of the major facilitator superfamily transporters
+
+Disrupted blood-retina lysophosphatidylcholine transport impairs photoreceptor health but not visual signal transduction
+
+Omega-3 DHA and EPA for cognition, behavior, and mood: clinical findings and structural-functional synergies with cell membrane phospholipids
+
+Differential effects of omega-3 and omega-6 fatty acids on gene expression in breast cancer cells
+
+Inactivating mutations in MFSD2A, required for omega-3 fatty acid transport in brain, cause a lethal microcephaly syndrome
+
+A partially inactivating mutation in the sodium-dependent lysophosphatidylcholine transporter MFSD2A causes a non-lethal microcephaly syndrome
+
+Unveiling the role of Mfsd2a and LPC-DHA in kidney repair
+
+Inhibition of cytokine signaling in human retinal endothelial cells through modification of caveolae/lipid rafts by docosahexaenoic acid
+
+Docosahexaenoic acid affects endothelial nitric oxide synthase in caveolae
+
+The lysolipid transporter Mfsd2a regulates lipogenesis in the developing brain
+
+Mfsd2a (major facilitator superfamily domain containing 2a) attenuates intracerebral hemorrhage-induced blood-brain barrier disruption by inhibiting vesicular transcytosis
+
+Zika virus degrades the ω-3 fatty acid transporter Mfsd2a in brain microvascular endothelial cells and impairs lipid homeostasis
+
+Brain endothelial PTEN/AKT/NEDD4-2/MFSD2A axis regulates blood-brain barrier permeability
+
+Brain endothelial cells maintain lactate homeostasis and control adult hippocampal neurogenesis
+
+Generic Diagramming Platform (GDP): a comprehensive database of high-quality biomedical graphics
+
+Gene expression profiling reveals a regulatory role for ROR alpha and ROR gamma in phase I and phase II metabolism
+
+Beta3-adrenergic receptors stimulate glucose uptake in brown adipocytes by two mechanisms independently of glucose transporter 4 translocation
+
+COX-2/PGE2 pathway inhibits the ferroptosis induced by cerebral ischemia reperfusion
+
+Heart disease and stroke statistics-2018 update: a report from the American Heart Association
+
+Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association
+
+Global, regional, and national burden of stroke and its risk factors, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019. The Lancet Neurology. 2021;20(10):795–820.
+
+Systemic infusions of anti-interleukin-1β neutralizing antibodies reduce short-term brain injury after cerebral ischemia in the ovine fetus
+
+Microglia-associated neuroinflammation is a potential therapeutic target for ischemic stroke
+
+Role of the PGE2 receptor in ischemia-reperfusion injury of the rat retina
+
+Asparagine endopeptidase inhibition attenuates tissue plasminogen activator-induced brain hemorrhagic transformation after ischemic stroke
+
+Gut-derived macrophages link intestinal damage to brain injury after cardiac arrest through TREM1 signaling
+
+Electroacupuncture ameliorates neuronal injury by Pink1/Parkin-mediated mitophagy clearance in cerebral ischemia-reperfusion
+
+Residual myocardial iron following intramyocardial hemorrhage during the convalescent phase of reperfused ST-segment-elevation myocardial infarction and adverse left ventricular remodeling
+
+The interplay between ferroptosis and inflammation: therapeutic implications for cerebral ischemia-reperfusion
+
+Iron promotes both ferroptosis and necroptosis in the early stage of reperfusion in ischemic stroke
+
+Glial growth factor 2 treatment alleviates ischemia and reperfusion-damaged integrity of the blood-brain barrier through decreasing Mfsd2a/caveolin-1-mediated transcellular and Pdlim5/YAP/TAZ-mediated paracellular permeability
+
+Stepwise recruitment of transcellular and paracellular pathways underlies blood-brain barrier breakdown in stroke
+
+Blood-brain barrier breakdown after embolic stroke in rats occurs without ultrastructural evidence for disrupting tight junctions
+
+Role of the S1P pathway and inhibition by fingolimod in preventing hemorrhagic transformation after stroke
+
+Multiple sphingolipid abnormalities following cerebral microendothelial hypoxia
+
+Mfsd2a and Spns2 are essential for sphingosine-1-phosphate transport in the formation and maintenance of the blood-brain barrier
+
+Lee TH, Hoover RL, Williams JD, Sperling RI, Ravalese J 3rd, Spur BW, et al. Effect of dietary enrichment with eicosapentaenoic and docosahexaenoic acids on in vitro neutrophil and monocyte leukotriene generation and neutrophil function. N Engl J Med. 1985;312(19):1217–24.
+
+Differential impact of 5-lipoxygenase-activating protein antagonists on the biosynthesis of leukotrienes and of specialized pro-resolving mediators
+
+Infection, inflammation, and immunity in sepsis
+
+Lycium barbarum glycopeptide alleviates neuroinflammation in spinal cord injury via modulating docosahexaenoic acid to inhibiting MAPKs/NF-kB and pyroptosis pathways
+
+Blood-brain barrier: a dual life of MFSD2A?
+
+A molecular atlas of cell types and zonation in the brain vasculature
+
+Caveolae in CNS arterioles mediate neurovascular coupling
+
+Unique features of the arterial blood-brain barrier
+
+Wnt signaling activates MFSD2A to suppress vascular endothelial transcytosis and maintain blood-retinal barrier
+
+Endothelial β-catenin deficiency causes blood-brain barrier breakdown via enhancing the paracellular and transcellular permeability
+
+Mural cell-derived laminin-α5 plays a detrimental role in ischemic stroke
+
+Brain pericytes enhance MFSD2A expression and plasma membrane localization in brain endothelial cells through the PDGF-BB/PDGFRβ signaling pathway
+
+CNS synaptogenesis promoted by glia-derived cholesterol
+
+Metastatic brain tumors disrupt the blood-brain barrier and alter lipid metabolism by inhibiting expression of the endothelial cell fatty acid transporter Mfsd2a
+
+Fibroblast growth factors are required for efficient tumor angiogenesis
+
+Chemotherapeutic drugs released from polymers: distribution of 1,3-bis(2-chloroethyl)-1-nitrosourea in the rat brain
+
+The blood-brain barrier: bottleneck in brain drug development
+
+Overcoming Mfsd2a-mediated low transcytosis to boost nanoparticle delivery to brain for chemotherapy of brain metastases
+
+A haploid genetic screen identifies the major facilitator domain containing 2A (MFSD2A) transporter as a key mediator in the response to tunicamycin
+
+A mouse model reveals that Mfsd2a is critical for unfolded protein response upon exposure to tunicamycin
+
+Mfsd2a-based pharmacological strategies for drug delivery across the blood-brain barrier
+
+Wnt signaling regulates MFSD2A-dependent drug delivery through endothelial transcytosis in glioma
+
+S1P promotes migration, differentiation and immune regulatory activity in amniotic-fluid-derived stem cells
+
+SIRT1 mediates Sphk1/S1P-induced proliferation and migration of endothelial cells
+
+Sphingosine-1-phosphate: signaling inside and out

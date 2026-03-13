@@ -1,0 +1,203 @@
+Penetration of the Blood-Brain-Barrier by Peripheral Neuropeptides: New Approaches to Enhancing Transport and Endogenous Expression
+
+The blood brain barrier (BBB) is a structural and functional barrier between the interstitial fluid of the brain and the blood; the barrier maintains the precisely controlled biochemical environment that is necessary for neural function. This constellation of endothelial cells, macrophages, pericytes and astrocytes forms the neurovascular unit which is the structural and functional unit of the blood brain barrier. Peptides enter and exit the CNS by transport systems expressed by the capillary endothelial cells of the neurovascular unit. Limiting the transport of peptides and proteins into the brain are efflux transporters like P-gp are transmembrane proteins present on the luminal side of the cerebral capillary endothelium and their function is to promote transit and excretion of drugs from the brain to the blood. Nanocarrier systems have been developed to exploit transport systems for enhanced BBB transport. Recent approaches for enhancing endogenous peptide expression are discussed.
+
+Morphology of the BBB
+
+The blood brain barrier (BBB) is a structural and functional barrier between the interstitial fluid of the brain and the blood; the barrier maintains the precisely controlled biochemical environment that is necessary for neural function. The BBB is formed by the endothelial cells of blood capillaries in the central nervous system (CNS). In contrast to capillaries outside the CNS, they are not fenestrated and contain tight junctions. These are a complex of transmembrane (junctional adhesion molecule-1, occluding and claudins) as well as cytoplasmic (zonula occludens-1 and −2, cingulin, AF-6 and 7H6) proteins linked to the actin cytoskeleton that prevent diffusion of water soluble substances via the paracellular pathway. The endothelial cells of the blood capillaries form a continuous lipid bilayer with one membrane facing the brain (albuminal) and on the other side, the blood (luminal). These endothelial cells are surrounded by pericytes and astroglial foot processes. In the Virchow-Robin space between endothelial cells and the interstitial fluid of the brain, perivascular macrophages play a role in CNS immune function. In addition, endothelial cells have a metabolic function, as they contain membrane and cytosolic enzymes.
+
+Specific Regional Barriers:
+
+The blood-CSF barrier is located in the choroid plexus in the cerebral ventricles and is formed by the epithelial cells that line the ventricles. The ventricle is lined with epithelial cells which secrete CSF into the cerebral ventricles. These epithelial cells have tight junctions on their apical side facing the CSF. At the circumventricular organs (median eminence, pineal gland, area postrema, subfornical organ, neurohypophysis), fenestrated blood vessels allow for passage of peptides into the brain locally, however, the epithelial barrier with tight junctions, lining the ventricles prevents peptides from entering the CSF or penetrating beyond the immediate brain region which itself is walled off by astroglial cells connected by tight junctions. The meningeal barrier is formed by the arachnoid barrier cells which have tight junctions between adjacent cells separating the cerebrospinal fluid (CSF) in the subarachnoid space from the dura mater. Notwithstanding these region specific barriers, the BBB is the predominant system for peptide transport given the extensive surface area of the cerebral capillary bed which is on the order of 12 m2. Accordingly, this review will chiefly focus on the BBB penetration of peptides.
+
+Interaction of Peptides with the BBB
+
+The endothelial cells of the BBB are permeable to gases (e.g., oxygen and carbon dioxide). Small, lipid soluble molecules or those with a molecular weight of < 400 Da or those containing < 8 hydrogen bonds cross the BBB by transmembrane diffusion, down their concentration gradient. By contrast, polar molecules such as glucose, amino acids and peptides/ proteins enter and exit the CNS by transport systems expressed by the capillary endothelial cells of the neurovascular unit. Notably, transporter mediated uptake is roughly 10 fold faster than transmembrane diffusion. Endothelial cells express a large number of transport proteins which enable larger and or polar molecules to enter the CNS.
+
+Small peptides may enter the CNS via carrier mediated transport (CMT), which involves influx and efflux of molecules via membrane solute carrier (SLC) proteins which are a superfamily of proteins that participate in transporting organic solutes, neurotransmitters and drugs across the BBB. Kastin and Banks identified initially, an SLC membrane protein, Peptide transport system-1, which transported small peptides with an N-terminal tyrosine. Ligands for this protein were Tyr-MIF-1, Met-Enk, and oxytocin. Five other members of this transporter system were later found. Another SLC, the organic anion-transporting polypeptides (OATP’s) are involved in transporting drugs and endogenous substrates across the BBB, including neuropeptides. Common features of these transporters are that each transporter has ligands of a similar structure, ligand activity is altered by disease states, environmental conditions or other substances and can be uni- or bidirectional. Through these membrane transporters, peptides can interact with endothelial cells and alter the transporter, thus altering the permeability of the BBB; peptides can also interact with each other to alter BBB permeability. Permeability glycoprotein 1 (P-gp) is a transmembrane protein belonging to the ATP-binding cassette family of proteins is present on the luminal side of the cerebral capillary endothelium. One of its functions at this site is to promote transit of drugs from the brain to the blood. Methods to minimize the effect of P-gp’s are currently under study. For example, Biricodar and R-verapamil directly block ATP-binding cassette (ABC) transporter proteins. Thus, administering them with a drug of interest inhibits P-glycoprotein function thereby reducing the efflux of the drug from the brain.
+
+Larger peptides and proteins including regulatory proteins such as cytokines, transferrin, low density lipoproteins, ghrelin, leptin, IgG, insulin and insulin-like growth factor use receptor mediated transport systems to cross the BBB via receptor mediated transcytosis (RMT). In this process a ligand binds to its receptor on the luminal plasma membrane of the endothelial cell. The ligand-receptor complex is then internalized by endocytosis and an internal vesicle forms in the cytosol that contains the receptor-ligand complex. The vesicle can be recycled to the luminal surface, routed to lysosomes for degradation or shuttled to the albuminal membrane where exocytosis occurs and the contents of the vesicle are released into the brain parenchyma. These transport mechanisms have significance, given the low CNS penetrance of systemically administered peptides to the CNS.
+
+Importantly, these methods described above have been exploited to improve peptide transport to the CNS which is known to be limited. Using RMT for peptide delivery to the CNS, a peptide that normally does not cross the BBB is incorporated with a transportable peptide and the chimeric complex goes through transcytosis across the BBB. An example of this is the coupling of protein β-endorphin to a transportable protein-cationized albumin by the formation of a disulfide bridge and the subsequent transcytosis of the complex through the BBB. The chimeric peptide disulfide link is further cleaved by a thiol reductase, delivering the peptide itself to the CNS.
+
+Strategies for enhanced neuropeptide delivery
+
+Peptide drugs are commonly administered intravenously due to poor oral bioavailability, such as enzymatic degradation and limited absorption by the gastrointestinal system. Various surface modification processes have been explored to improve the peptide bioavailability (i.e. structural modification for better stability or antibody tagging for better targeting). The peptide also can be stabilized by including enzyme inhibitors in the formulation to prevent degradation in the gastrointestinal tract. In addition, the short half-life of peptides limits their utility as therapeutic agents so peptide fusion with albumin, PEGylation or acetylation strategies have been developed to increase peptide half-life.
+
+Once in the systemic circulation the peptide must then cross the BBB and there are strategies to improve the efficiency of this process such as the transient enhancement of BBB permeability with the delivery of hypertonic solutions or with focused ultrasound. Alternatively, the structure of the peptide can be modified. The lipophilic profile of the peptide can be increased resulting in enhanced passive transport across the BBB. Methods for improving the lipophilic profile are blocking the hydrogen bond-forming functional groups on the peptide surface or covalently binding the lipid moieties (fatty acid chains) via esterification, methylation or alkylation of the N-terminal amino acid. Another, mechanism is converting a highly lipophilic peptide molecule into a less lipid soluble molecule by metabolic enzymatic degradation once in the CNS so that the peptide is “locked-in” in to CNS compartment.
+
+Liposomes, polymeric nanoparticles or solid lipid nanoparticles can be used to encapsulate the neuropeptide and carry it to across the BBB for transport into the CNS. Combination of the nanoparticle (poly-butylcyanoacrylate) with a nonionic surfactant such as polysorbate 80 resulted in the transport of the dalargin (hexapeptide, an anti-nociceptive peptide analogous to encephalin) across the BBB with the demonstration of an anti-nociceptive effect. The mechanism of this effect was likely endocytosis of the nanoparticle facilitated by polysorbate 80 which allowed for greater adsorption of Apolipoprotein E (apoE) along with other plasma molecules that resulted in more effective bonding with LDL receptors found on brain endothelial cells of the BBB; this process led to more extensive endocytosis of the peptide. Furthermore, polysorbates inhibit the efflux pump proteins, thereby increasing CNS retention of peptides.
+
+Nanoparticles consisting of lipophilic polymers such as Poly (lactic-co-glycolic) acid (PLGA) or Bovine serum albumin (BSA) are also used to enhance peptide CNS delivery. Recently, the polymeric nanoparticle of PLGA and Bovine serum albumin (BSA) were used to develop nanoparticle formulations to deliver the neuropeptide oxytocin to the CNS. To improve the BBB transport, nanoformulation was conjugated with either Tf (transferrin) or Rabies Virus Glycoprotein (RVG). These target-tagging moieties (transferrin-Tf receptor and RVG-Nicotinic cholinergic receptor) target the receptors on the luminal membrane of the capillary endothelium of BBB. The nanoparticle complex containing OT was transported into the brain via RMT.
+
+In addition, metal nanoparticles (MNPs) have been investigated to deliver peptides to the CNS for treatment of neurological and psychiatric disorders. Metals such as iron in the fully oxidized state are stable and cross the BBB on external stimulation. Nair and colleagues have used magnetic properties of MNPs to delivery antiHIV peptide drugs across BBB using a static magnetic field. The surface charge of MNPs facilitates loading larger quantities of peptide onto the nanoparticles and application of the external magnetic field results in greater accumulation of the nanoformulation at the brain capillary endothelial cells and its transport across BBB. Similarly, Vinzant and colleagues have explored MNPs to deliver the antisauvagine-30 peptide (ASV-30, a selective CRF2 receptor antagonist) to CRF neurons in rodent brains. Administration of iron oxide nanoparticles with ASV-30 resulted in localization to neurons that express CRF2 receptors and reduction in amphetamine withdrawal-induced anxiety behaviors without affecting locomotion. To improve the systemic bioavailability of the peptide and to prevent its intracellular aggregation, the MNPs were coated with aminosilane. This conjugation (introduction of amino acid group) helped in decrease the aggregation, cytotoxicity and enhanced the BBB transport of the peptide by RMT that led to increased endocytosis across brain parenchyma. Table 1 summarizes the nanoparticle-based peptide delivery approaches for transport across the BBB.
+
+Enhancement of endogenous CNS peptide signaling
+
+In addition to improving peptide delivery to the brain, an alternative approach is to augment central endogenous neuropeptide levels. We will discuss this using the example of a developing technology whose aim is to enhance endogenous brain oxytocin.
+
+Systemically administered oxytocin reaches the CSF but with poor BBB penetrance, i.e., on the order of 0.001% CSF recovery of the delivered dose. Therefore, this is a limitation in the interpretation of results of studies that attempt to augment central oxytocin signalling by exogenous administration of oxytocin either by the intranasal or intravenous route. In addition to developing non-peptide oxytocin agonists, strategies for modulating endogenous brain oxytocin through genetic editing, for example, may produce local changes in brain oxytocin expression. This, in turn, allows for exploring the mechanisms of the endogenous CNS oxytocin system by effecting anatomically targeted changes in oxytocn expression. This can be applied to animal models of neuropsychiatric disorders that are associated with altered central oxytocin signalling such as addiction, autism, mood disorders and schizophrenia.
+
+The development of the CRISPR-Cas9 technology provides new possibilities for translational research and gene therapy. Sequence specific CRISPR/Cas9 facilitates activation of endogenous genome editing. Viral vectors, (adenoviruses, adeno-associated viruses (AAV), herpes simplex viruses and retroviruses such as lentivirus) have been used to transfer CRISPR/Cas9-gRNA plasmids or genes into the CNS. For example, Keir and colleagues have used AAV-based overexpression of oxytocin in rat hypothalamic explant cultures consisting of oxytocin-expressing neurons. This study reported that increasing the virus titer 10 fold resulted in an increase of oxytocin-expressing cells (from 37% to 89%) after seven days of AAV infection. These and other studies suggested that genetic manipulations of the hypothalamic magnocellular neurons can be achieved and may result in cell-specific gene expression of oxytocin.
+
+Non-viral gene delivery is an alternative approach that avoids the limitations and risks associated with delivering DNA to a cell using viral vectors. Delivery systems are composed of cationic lipids (lipoplexes) and/or cationic polymers (polyplexes) that are bound to a plasmid or RNA to form complexes that are taken up into the cell by receptor mediated endocytosis into endosomes. The polyplexes escape from the endosomes into the cytoplasm and the genetic material crosses the nuclear envelope to accumulate in the nucleus. One of these polymers, the polyethylenimine (PEI) has been used extensively as a nonviral vector given its easy preparation, high transfection efficacy, high cell uptake and high endo-lysosomal escape.. To overcome the issues of PEI cytotoxicity, a non-toxic derivative of PEI i.e. arginine-rich oligopeptide-grafted branched PEI modified with polyethylene glycol i.e. P(SiDAAr)5P3 has been developed; the P(SiDAAr)5P3 polyplex showed significant lower toxicity and higher transfection efficiency compared to jetPEI polyplex.
+
+Accordingly, an oxytocin-expressing CRISPR/Cas9-gRNA plasmid has been developed for delivery with P(SiDAAr)5P3 polyplex. The guide RNA (gRNA) sequences direct the Cas-9 protein to the target host oxytocin promoter DNA. Oxytocin-CRISPR CAS-9 plasmid delivery with an orange fluorescent protein (OFP) as an expression vector enables identification of the sites of increased oxytocin expression. The CRIPSR activation plasmid utilizes the synergistic activation mediated transcription system that binds to specific regions upstream of the transcription start site in the oxytocin gene promoter and recruits transcriptional factors that lead to activation of endogenous oxytocin gene transcription.
+
+Additionally, translating this technology to clinical applications, intranasallly applied plasmid DNA may reach the brain through a direct route via the olfactory bulb. Indeed, delivery of genetic material by intranasal administration of plasmids has been shown to result in greater brain penetrance compared to the intravenous route of administration. A recent study in mice reported naked plasmid delivery by the intranasal route resulted in significantly elevated levels of plasmid in the olfactory nerves and hypothalamus compared to all other brain regions whose concentrations did not differ from the control region, the cerebellum. A recently developed radioligand for the oxytocin receptor, when administered intranasally, resulted in enhanced binding in the olfactory bulbs suggesting a direct nose to brain transport via the intranasal route. It remains to be determined though, whether the intranasal route leads to improved penetrance of brain parenchyma overall. Also, the location and extent of transfection and modulation of oxytocin gene expression with intranasal administration remains to be determined.
+
+As this gene-editing technique is in the very early stages of development, it remains an experimental tool to probe the endogenous central oxytocin system. Oxytocin is produced by hypothalamic magnocellular and parvocellular neurons and these two populations of neurons have distinct projection fields (Grinevich 2017). Development of cell-specific delivery methods for CRISPR-Cas-9 gRNA such as receptor mediated delivery (Rout, 2018, Endonuclease) will allow for modulation of pathway-specific oxytocin expression, providing for examination in vivo of the role of these pathways in animal models of neuropsychiatric disease.
+
+Conflict of Interest: The authors declare no conflict of interest.
+
+References:
+
+Development and brain delivery of chitosan− PEG nanoparticles functionalized with the monoclonal antibody OX26.
+
+Diversity of oxytocin neurons: beyond magno- and parvocellular cell types?
+
+Intranasal gene delivery for treating Parkinson’s disease: overcoming the blood–brain barrier.
+
+Physicochemical and formulation developability assessment for therapeutic peptide delivery—a primer.
+
+Carrier‐mediated transport of vasorpressin across the blood‐brain barrier of the mouse.
+
+Peptides and the blood-brain barrier.
+
+A brain-to-blood carrier-mediated transport system for small, N-tyrosinated peptides.
+
+Passage of pituitary adenylate cyclase activating polypeptide1–27 and pituitary adenylate cyclase activating polypeptide1–38 across the blood-brain barrier.
+
+Permeability of the murine blood-brain barrier to some octapeptide analogs of somatostatin.
+
+D-[Ala1]-peptide T-amide is transported from blood to brain by a saturable system.
+
+Bidirectional saturable transport of LHRH across the blood-brain barrier.
+
+High-yielding (18)F radiosynthesis of a novel oxytocin receptor tracer, a probe for nose-to-brain oxytocin uptake in vivo.
+
+Site-specific, sustained release of drugs to the brain.
+
+Basics and recent advances in peptide and protein drug delivery.
+
+Microbial Reconstitution Reverses Maternal Diet-Induced Social and Synaptic Deficits in Offspring.
+
+Focused ultrasound-mediated drug delivery through the blood–brain barrier.
+
+Characterization of endocytosis of transferrin-coated PLGA nanoparticles by the blood–brain barrier.
+
+Melanocortin-1 receptor-targeting ultrasmall silica nanoparticles for dual-modality human melanoma imaging.
+
+Peptide-derivatized biodegradable nanoparticles able to cross the blood–brain barrier.
+
+Intranasal delivery to the central nervous system: Mechanisms and experimental considerations.
+
+Beyond editing: repurposing CRISPR–Cas9 for precision genome regulation and interrogation.
+
+Strategies for enhanced drug delivery to the central nervous system.
+
+Boosting recovery rather than buffering reactivity: Higher stress-induced oxytocin secretion is associated with increased cortisol reactivity and faster vagal recovery after acute psychosocial stress.
+
+Structural and Functional Variations in Capillary Systems within the Braina.
+
+Organic anion-transporting polypeptides mediate transport of opioid peptides across blood-brain barrier.
+
+Brain delivery of vasoactive intestinal peptide enhanced with the nanoparticles conjugated with wheat germ agglutinin following intranasal administration.
+
+Enhanced brain targeting efficiency of intranasally administered plasmid DNA: an alternative route for brain gene therapy.
+
+The Blood-Brain Barrier/Neurovascular Unit in Health and Disease.
+
+Sustained-release nanoART formulation for the treatment of neuroAIDS.
+
+Intranasal Nanodelivery of Oxytocin to Treat Drug Addiction in HIV Patients using CRISPR Gene Editing.
+
+Blood–brain barrier transport of therapeutics via receptor-mediation.
+
+Concepts for biologically active peptides.
+
+Gene transfer into hypothalamic organotypic cultures using an adeno-associated virus vector.
+
+Tight junctions of the blood–brain barrier.
+
+Nanoparticulate systems for brain delivery of drugs.
+
+Passage of peptides through the blood-brain barrier with colloidal polymer particles (nanoparticles).
+
+Delivery of peptides to the blood and brain after oral uptake of quaternary ammonium palmitoyl glycol chitosan nanoparticles.
+
+Oxytocin by intranasal and intravenous routes reaches the cerebrospinal fluid in rhesus macaques: determination using a novel oxytocin assay.
+
+Oxytocin receptor mRNA expression in dorsolateral prefrontal cortex in major psychiatric disorders: A human postmortem study.
+
+Oxytocin for the treatment of drug and alcohol use disorders.
+
+Virus treatment questioned after gene therapy death.
+
+Enhanced brain delivery of the opioid peptide DAMGO in glutathione pegylated liposomes: a microdialysis study.
+
+Molecular basis of the inflammatory response to adenovirus vectors.
+
+Lactoferrin-modified PEG- co-PCL nanoparticles for enhanced brain delivery of NAP peptide following intranasal administration.
+
+Nanoparticle Technology for Drug Delivery Across the Blood-Brain Barrier.
+
+Polyethylenimine-based non-viral gene delivery systems.
+
+Vasopressin and oxytocin content in cerebrospinal fluid and in various brain areas after administration of histamine and pentylenetetrazol.
+
+Penetration of neurohypophyseal hormones from plasma into cerebrospinal fluid (CSF): half-times of disappearance of these neuropeptides from CSF.
+
+PREPARATION AND PHYSIOCHEMICAL CHARACTERIZATION OF CHITOSAN NANOPARTICLES FOR CONTROLLED DELIVERY OF OXYTOCIN.
+
+Getting into the brain: potential of nanotechnology in the management of NeuroAIDS.
+
+Getting into the brain: Potential of nanotechnology in the management of NeuroAIDS.
+
+Brain uptake of radiolabeled amino acids, amines, and hexoses after arterial injection.
+
+Intranasal Administration of a Naked Plasmid Reached Brain Cells and Expressed Green Fluorescent Protein, a Candidate for Future Gene Therapy Studies.
+
+Preparation and brain delivery property of biodegradable polymersomes conjugated with OX26.
+
+Blood–brain barrier delivery.
+
+Delivery of analgesic peptides to the brain by nano-sized bolaamphiphilic vesicles made of monolayer membranes.
+
+Increased number of vasopressin- and oxytocin-expressing neurons in the paraventricular nucleus of the hypothalamus in depression.
+
+Genome engineering using the CRISPR-Cas9 system.
+
+Novel delivery systems for drug targeting to the brain.
+
+Approaches for enhancing oral bioavailability of peptides and proteins.
+
+Receptor and behavioral pharmacology of WAY-267464, a non-peptide oxytocin receptor agonist.
+
+Targeting a G-protein-coupled receptor overexpressed in endocrine tumors by magnetic nanoparticles to induce cell death.
+
+Physiology of blood–brain interfaces in relation to brain disposition of small compounds and macromolecules.
+
+Delivery of oxytocin to the brain for the treatment of autism spectrum disorder by nasal application.
+
+Reduced oxytocin receptor gene expression and binding sites in different brain regions in schizophrenia: A post-mortem study.
+
+Iron Oxide Nanoparticle Delivery of Peptides to the Brain: Reversal of Anxiety during Drug Withdrawal.
+
+Iron Oxide Nanoparticle Delivery of Peptides to the Brain: Reversal of Anxiety during Drug Withdrawal.
+
+Improvement of cationic albumin conjugated pegylated nanoparticles holding NC-1900, a vasopressin fragment analog, in memory deficits induced by scopolamine in mice.
+
+Nanoparticle formulations that allow for sustained delivery and brain targeting of the neuropeptide oxytocin.
+
+STRUCTURAL BIOLOGY AND FUNCTION OF SOLUTE TRANSPORTERS: IMPLICATIONS FOR IDENTIFYING AND DESIGNING SUBSTRATES.
+
+Cationic lipid-mediated delivery of proteins enables efficient protein-based genome editing in vitro and in vivo.
+
+Mechanisms of drug transport across blood-brain-barrier (BBB) [NC-Nanocarriers]
+
+This constellation of endothelial cells, macrophages, pericytes and astrocytes forms the neurovascular unit which is the structural and functional unit of the BBB and is depicted in Fig. 1.
+
+Nanoparticle based peptide delivery
+
+Nanocarriers	Type of Peptide	Refs	 	Poly-lactic-co-glycolic acid (PLGA) nanoparticle	Opioid peptide		 	Poly-butyl cyanoacrylate (PBCA) + Polysorbate 80	Dalargin (an enkephalin analog)		 	PEGylated Liposome	Opioid peptide DAMGO (H-Tyr-d-Ala-Gly-MePhe-Gly-ol)		 	PEG-Poly-ε-caprolactone (PCL) OX26 conjugated polymersomes	NC1900 (a vasopressin fragment		 	PEGylated Chitosan nanoparticles	Z-DEVD-FMK (Caspase inhibitor)		 	Bolaamphiphile vesicles	Leucine5-enkephalin		 	Quaternary ammonium palmitoyl glycol chitosan nanoparticles	Leucine5-enkephalin		 	Lactoferrin-modified PEG-co-PCL nanoparticles	NAPVSIPQ (NAP)		 	PLGA /Bovine serum albumin (BCA) nanoparticles	Oxytocin		 	Chitosan nanoparticle	Oxytocin		 	Iron-oxide magnetic nanoparticles	Oxytocin		 	PEG-Polylactic acid (PLA) nanoparticles	Vasoactive intestinal peptide		 	αMSH-PEG-Cy5-silica nanoparticles	Melanocortin		 	Cationic bovine serum albumin conjugated PEGylated nanoparticles (CBSA-NPs)	NC-1900 (Active fragment analogue of arginine vasopressin)		 	Iron oxide nanocrystal (MG- IONP-DY647)	Cholecystokinin

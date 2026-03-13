@@ -1,0 +1,477 @@
+The crosstalk between blood-brain barrier and neural cells: bidirectional regulation of brain function and pathology
+
+The blood-brain barrier (BBB) serves as a crucial interface between the circulatory system and the central nervous system (CNS), playing a fundamental role in preserving normal brain function and homeostasis.The BBB closely interacts with various neural cells. However, the bidirectional communication between the BBB and neural cells remains incompletely understood. This review investigates the interactions between BBB and neural cells— pericytes neurons, astrocytes, microglia, oligodendrocytes and oligodendrocytes—specifically examining their functions in maintaining BBB structural integrity and barrier function. We further summarize the molecular mechanisms underlying BBB dysfunction in neurological diseases and highlight the role of BBB–neural cell crosstalk in these conditions. Moreover, we emphasize the importance of further studies to clarify how neural cells precisely regulate BBB integrity, tailor individualized treatment strategies, and improve outcomes for neurological disorders. Such advancements would provide valuable insights for both ongoing research and clinical practice.
+
+Highlights
+
+Bidirectional BBB-neural cell interactions in health and disease.
+
+Neurovascular unit interactions representative of neurological diseases.
+
+Therapeutic strategies targeting neuron-glia-BBB interactions.
+
+Introduction
+
+The blood-brain barrier (BBB) stands as a remarkably selective gateway separating the circulatory system from the central nervous system (CNS), establishing a unique microenvironment essential for proper brain function and homeostasis. By meticulously regulating the passage of specific substances, the BBB acts as a sophisticated gatekeeper that protects neural tissue from harmful agents while supporting essential metabolic exchanges. This selective filtration system is vital for preserving the brain's delicate chemical ba9lance and overall neurological health. The protective mechanisms of the BBB, including the expression of tight junction (TJ) proteins (e.g., claudin and occludin) and the support provided by pericytes, are critical for maintaining its integrity.Research indicates that disruptions in the BBB's structure and function naturally occur with age and are strongly linked to several neurodegenerative diseases, such as Alzheimer's disease (AD) and Parkinson's disease (PD). These results underscore the essential function of the BBB in maintaining healthy aging and in the development of neurological diseases. Dysfunction of the BBB can initiate a cascade of downstream consequences, such as neuroinflammation, oxidative stress, and metabolic disturbances, which may, in turn, expedite the progression of neurodegenerative disorders. In recent years, research on the BBB has shifted from a purely structural focus to exploring its multilevel functional regulation. Exploring how the BBB influences neurocognitive function could yield critical insights into the origins of neurodegenerative diseases and lay the groundwork for groundbreaking treatment modalities. This dual potential—both illuminating disease mechanisms and guiding innovative therapies—makes this line of research a crucial frontier in neuroscience.
+
+NVU interact ions regulating BBB integrity. The NVU is composed of neurons, astrocytes, microglia, cerebral microvascular endothelial cells (ECs), pericytes, and the basement membrane (BM),astrocytes and microglia regulate neuronal function and vascular homeostasis through the release of inflammatory mediators and growth factors, including interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), transforming growth factor-β (TGF-β), and vascular endothelial growth factor (VEGF). Neurotransmitters such as glutamate mediate bidirectional signaling between neurons and glial cells. Astrocyte-derived TGF-β1 enhances the integrity of BBB tight junctions via activation of the TGFβRII-Smad2/3 signaling pathway, whereas neuron-induced intracellular Ca2+ overload in pericytes leads to pericyte injury, thereby disrupting NVU stability and impairing BBB function.
+
+Fig. 1
+
+The mammalian brain is an intricate structure composed of diverse neural components, including neurons and various types of glial cells such as astrocytes, microglia, and oligodendrocytes (OLs). Neurons are electrically excitable and functionally diverse cells that form the brain's intricate neural networks. Neurons have the ability to convey information through electrochemical signals, which facilitate sensory processing, motor coordination, and higher-order cognitive functions. Neurons do not exist in isolation; rather, they interact closely with glial cells to maintain normal brain function. Glial cells constitute roughly 50% of the cellular population in the mammalian CNS and include astrocytes, microglia, and oligodendrocytes that are widely distributed throughout the CNS. In the past, glial cells were regarded merely as ‘support cells’; however, recent studies have revealed that they play crucial roles in neuronal metabolic support, neurotransmitter regulation, and immune responses. As a key element of the neurovascular unit (NVU), the BBB not only forms an anatomical barrier within the brain microenvironment but also interacts with neurons, microglia, astrocytes and perivascular macrophages through brain endothelial cells (ECs). The NVU framework underscores the intricate cellular and molecular interactions between BBB components and neural cells (Fig. 1).
+
+In this review, We emphasize recent findings and outline the interplay between the BBB and neural cells, including pericytes neurons, astrocytes, and microglia. We further explore the cellular and molecular mechanisms underlying these interactions to elucidate how neural cells contribute to maintaining BBB structural integrity and physiological function. Moreover, we discuss how dysregulation of BBB–neural cell interactions can lead to various neurological disorders.
+
+Pericytes and blood-brain barrier (BBB)
+
+Pericytes in the CNS reside within a multicellular structure known as the NVU, where they play a pivotal role in the formation, maintenance, and stabilization of the BBB. Reviews of pericyte involvement in CNS pathologies—including Alzheimer's disease, stroke, multiple sclerosis, diabetic retinopathy, and HIV-1 infection—have revealed their critical functions in BBB regulation. Understanding how pericytes modulate BBB integrity is essential for restoring barrier function during neuroinflammation. Elucidating these mechanisms may provide novel therapeutic targets for the treatment of CNS disorders.
+
+PDGF-BB/PDGFRβ pathway
+
+Endothelial cells release platelet-derived growth factor-BB (PDGF-BB), a ligand that binds to its cognate receptor PDGFRβ on pericyte surfaces. This interaction induces noncovalent dimerization and autophosphorylation of multiple amino acid residues on PDGFRβ, thereby activating the receptor and recruiting a variety of SH2 domain-containing downstream adaptor proteins (such as PI3K, Src, and Grb2). Consequently, the PI3K/Akt and MAPK/ERK signaling pathways are activated, promoting pericyte survival, proliferation, migration, and recruitment to the vascular wall.Early studies demonstrated that genetic ablation of PDGF-BB or PDGFRβ in mice results in a complete loss of pericytes during embryogenesis, accompanied by microvascular hemorrhage and the failure to form an intact blood–brain barrier (BBB). These mice later exhibit increased microvascular permeability and global BBB breakdown. Recent single-cell analyses of endothelial cells in Alzheimer's disease (AD) brains have revealed that the reduction of PDGFB expression may be driven by decreased endothelial cell abundance in AD. Moreover, PDGF-BB alters the expression of inflammatory mediators—including CCL2, CXCL8, IL6, and CX3CL1—in pericytes through the PI3K–NF-κB pathway.Chronic exposure to inflammatory cytokines such as interferon-γ (IFNγ) can attenuate PDGF-BB signaling by downregulating PDGFRβ expression, thereby diminishing pericyte responsiveness. In aged and high-fat diet (HFD)-fed mice, circulating PDGF-BB levels are abnormally elevated, accompanied by hippocampal capillary rarefaction, pericyte loss, and increased BBB permeability. Elevated PDGF-BB upregulates matrix metalloproteinase 14 (MMP14), which promotes shedding of the extracellular domain of PDGFRβ from the pericyte surface. Treatment with MMP inhibitors alleviates hippocampal pericyte loss and capillary reduction in conditional Pdgfb transgenic mice, and mitigates BBB leakage in aged mice.Collectively, the PDGF-BB/PDGFRβ signaling pathway represents a canonical axis driving endothelial cell–pericyte communication. It is essential for BBB development and maintenance, and may serve as a critical therapeutic target for a range of central nervous system disorders.
+
+TGF-β/TGFβR2 pathway
+
+Transforming growth factor-β (TGF-β) is synthesized by multiple cell types within the neurovascular unit, including pericytes, endothelial cells, neurons, and glial cells. Its functional activation at the BBB is dependent on interactions between pericytes and endothelial cells. Upon activation, TGF-β engages TGF-β receptor 2 (TGFβR2) on both pericytes and endothelial cells to initiate signaling. Under homeostatic conditions, endothelial cells receive signals such as TGF-β, Notch ligands, and angiopoietin-1 (Ang-1) from “attached” pericytes to maintain barrier integrity. Endothelial TGF-β/SMAD4 signaling induces N-cadherin expression, thereby promoting endothelial cell–pericyte interactions and BBB formation in cooperation with Notch signaling. Deletion of Smad4 in brain endothelial cells leads to reduced N-cadherin expression and pericyte detachment, resulting in perinatal intraventricular hemorrhage and BBB rupture.Pathogenic mutations in components of the TGF-β signaling pathway—such as ENG and ALK1—are associated with type I and II hereditary hemorrhagic telangiectasia (HHT) and with cerebrovascular manifestations of Loeys–Dietz syndrome. Within the tumor microenvironment or under inflammatory remodeling, TGF-β drives a metabolic shift from oxidative phosphorylation to glycolysis by suppressing the tricarboxylic acid (TCA) cycle, leading to pericyte phenotypic alterations. In concert with other factors, this metabolic reprogramming compromises BBB integrity, highlighting the context-dependent, dual-edged nature of TGF-β signaling in BBB regulation.
+
+Neurons and blood-brain barrier (BBB)
+
+How neural activity dynamically modulates BBB properties to influence neural circuit operation remains to be fully elucidated. Neuronal activity can influence brain endothelial function, as brain microvessels are located within approximately 15 μm of each neuron. Upon neuronal stimulation, various neuroactive substances—including glutamate acid , γ-aminobutyric acid (GABA), dopamine and serotonin,brain-derived neurotrophic factor (BDNF), and cytokines—are secreted, thereby altering the architecture and role of the BBB.Brain ECs of the BBB express neurotransmitter receptors that detect signals released by activated neurons. These receptors modulate BBB permeability by engaging in signaling crosstalk with other cell types within the NVU.
+
+Glutamic acid
+
+Excessive calcium influx induces neuronal injury, promoting hyperexcitability and subsequent glutamate release. Glutamate serves as the principal stimulatory neurotransmitter in the brain, fundamental to processes such as long-term potentiation and synaptic plasticity . Glutamate homeostasis is maintained through active transport mechanisms involving the BBB . The BBB functions as a gatekeeper, maintaining glutamate balance within both cerebrospinal and extracellular compartments. Through its specialized structure and transport mechanisms, the BBB effectively clears excess glutamate from neural tissues by shuttling it into the bloodstream, preventing potentially harmful accumulation in healthy brains. In pathological conditions such as epilepsy, chronic BBB degradation reduces glutamate clearance capacity amid seizure-induced overrelease.
+
+Glutamate enhances calcium influx and nitric oxide levels within or near microvascular structures, leading to increased vascular permeability through activation of N-methyl-d-aspartate (NMDA) receptors (NMDA-R). Activation of NMDA-R induces changes in occludin expression and its phosphorylation status, thereby impairing the barrier integrity of cultured brain microvascular endothelial cells (BMECs). In rat cortical studies, exogenous glutamate has also been shown to increase BBB permeability to sodium fluorescein in a dose-dependent manner. When the BBB is disrupted, these mechanisms fail to efficiently clear glutamate from the cerebrospinal and extracellular fluids into the bloodstream, resulting in a disturbed equilibrium between brain and plasma glutamate levels. Further studies have demonstrated that excessive endothelial NMDAR activation induced by NMDA may trigger tight junction (TJ) and cytoskeletal damage, whereas the ROCK inhibitor hydroxyfasudil (HF) alleviates NMDA-induced BBB injury in human BMECs by suppressing the Rho/ROCK signaling pathway.
+
+BBB integrity significantly influences glutamate levels in both intact and injured brains, especially subsequent to TBI. Glutamate levels in the cerebrospinal fluid(CSF) and extracellular fluid(ECF) are critical following TBI; excessive accumulation triggers neurodegeneration and subsequent neuropsychiatric conditions. Glutamate-scavenging agents and enzymes, such as glutamate oxaloacetate transaminase (GOT), may mitigate glutamate-induced excitotoxicity in stroke patients. The potency of GOT in reducing blood glutamate concentrations may hinge on the degree and intensity of BBB compromise. Research indicates that elevated GOT levels correlate with reduced glutamate concentrations at the three-month mark, as well as improved clinical prognosis—higher GOT activity is linked to a decreased likelihood of unfavorable neurological outcomes.Thus, therapies targeting glutamate metabolism may be particularly beneficial for patients with compromised BBB integrity.
+
+Collectively, these results indicate that neuron-derived glutamate significantly influences BBB activity. The stability of the BBB is crucial for preserving glutamate balance in the cerebrospinal and extracellular fluids following brain trauma, particularly after TBI. However, therapies focused solely on BBB restoration remain unproven for the therapy of neurodegenerative diseases, suggesting that such approaches alone may not be sufficient to address the complex manifestations of BBB dysfunction. Given the BBB's pivotal role in regulating glutamate concentrations, we propose two potential strategies to mitigate excessive glutamate accumulation in the brain. One strategy aims to restore BBB integrity, while the other focuses on lowering plasma glutamate levels to reduce its concentration within cerebrospinal and extracellular compartments. Further investigation is required to elucidate whether neural activity directly modulates BBB function in both physiological and pathological contexts.
+
+γ-aminobutyric acid(GABA)
+
+GABA (γ-aminobutyric acid) is the principal inhibitory neurotransmitter in the CNS. This crucial chemical messenger is widely distributed throughout the brain and spinal cord, playing a fundamental role since nearly every neuron either produces GABA or expresses GABA-responsive receptors. Studies have shown that GABA and its receptors, particularly the GABA_A receptor, are expressed in the ECs of the BBB. GABA can activate ionotropic GABA_A receptors on cerebral vascular endothelial cells, leading to an increase in intracellular Ca2+ levels through inositol 1,4,5-trisphosphate (IP3)- and nicotinic acid adenine dinucleotide phosphate (NAADP)-dependent Ca2+ release from neutral and acidic stores. In vitro BBB models have demonstrated that cellular uptake of GABA is significantly inhibited by betaine, β-alanine, nitroacetate, taurine, and quinidine. These inhibitory patterns are consistent with the involvement of GAT2/BGT-1 transporters, suggesting that GAT2/BGT-1 is expressed at the BBB and contributes to GABA transport across the barrier.
+
+Focused ultrasound (FUS) combined with an ultrasound contrast agent can transiently disrupt the BBB, enabling GABA to enter the brain in nonhuman primates and modulate visual cortex activity. When ultrasound was applied without the contrast agent, the resulting effects were markedly weaker—approximately 8.7-fold less potent than those observed with GABA delivery. When FUS is employed to breach the BBB and GABA is administered in tandem, it produces a greater reduction in the peak amplitude and spatial extent of the blood oxygen level dependent (BOLD) signal post-stimulation. This evidence suggests FUS-facilitated BBB permeation enables noninvasive administration of neuroactive compounds to modulate cerebral functions precisely. The primary challenge lies in determining the optimal dosage, given the uncertainty regarding the extent of BBB permeability induced by FUS required for therapeutic efficacy.
+
+Oral GABA supplementation has been reported to influence mood and CNS activity in both humans and animals, suggesting that certain levels of GABA has potential to pass through the BBB and exert biological effects. For instance, a double-blind, randomized, placebo-controlled study demonstrated that 75 mg of oral GABA improved sleep quality in patients with insomnia. Despite ongoing debate regarding the direct impact of oral GABA on brain function, its effects may vary among individuals, particularly those experiencing conditions such as insomnia, stress, or hypertension. Similarly, pharmacological agents such as colistin have been shown to preserve BBB integrity while altering amino acid neurotransmitter levels and receptor expression in murine brain tissue. Reports have demonstrated the presence of GABA transporters within the BBB]suggesting that GABA can undergo bidirectional transport across the barrier.In a study with mice, it was revealed that the rate at which GABA exits the brain is a staggering 17 times faster than its rate of entering it [. This makes it challenging to gauge brain GABA levels, potentially resulting in a miscalculation of GABA's BBB permeability. Endogenous GABA release increases gradually following stroke, typically peaking around 3 days post-injury and resulting in minimal functional recovery. Therefore, exogenous GABA administration may represent a more practical therapeutic strategy. For example, GABA conjugated to a cytoplasmic transit peptide via chemical synthesis can cross the BBB and elevate plasma GABA levels, inducing calmness and reduced locomotor activity in both rats and mice. Studies have demonstrated that smaller nanoparticles traverse the brain endothelium more efficiently than larger ones, allowing enhanced penetration through the BBB.
+
+Serotonin (5-HT) and dopamine (DA)
+
+Serotonin (5-HT) is a neurotransmitter that regulates neuronal activity and a wide range of neuropsychological processes.5-HT may induce various platelet-dependent signaling changes, including alterations in systemic vascular (membrane) permeability and in the BBB. Studies have shown that pretreatment of juvenile animals with p-CPA, an inhibitor of 5-HT synthesis, prevents the forced swimming (FS)-induced increase in both BBB permeability and 5-HT levels. Destruction of serotonergic neurons with 5,7-dihydroxytryptamine (5,7-DHT) reduces BBB disruption and attenuates brain 5-HT levels without affecting plasma 5-HT. Administration of cyproheptadine and ketanserin (5-HT2 receptor antagonists) or vinblastine (a vesicular transport inhibitor) individually prevents the increase in BBB permeability. Similarly, the prostaglandin synthesis inhibitor indomethacin exerts comparable effects. Binding of 5-HT to its receptors in cerebral vessels stimulates prostaglandin production, which directly or indirectly via cyclic adenosine monophosphate (cAMP) enhances vesicular transport in endothelial cells, thereby increasing BBB permeability. However, this leakage can be pharmacologically ameliorated. These findings suggest that 5-HT plays a critical role in BBB breakdown, an effect primarily mediated through 5-HT2 receptors.In contrast, dopamine (DA), another common neurotransmitter, possesses high polarity and thus poorly penetrates the BBB. However, dopamine sulfates (DA-3-S and DA-4-S) can cross the BBB to a limited extent. In a rat brain microvascular endothelial cell model of oxidative stress, hydrogen peroxide (H2O2) treatment induces increased monolayer permeability and disruption of tight and adherens junctions. Treatment with DA or the D1 receptor agonist A68930 markedly attenuates H2O2-induced hyperpermeability, preserving the integrity of tight junctions and the organization of the actin cytoskeleton. One major mechanism by which DA protects against barrier dysfunction and hyperpermeability may involve inhibition of the NLRP3 inflammasome pathway.Collectively, different neurotransmitters modulate BBB function through multiple signaling pathways; however, the receptor subtype-specific mechanisms remain insufficiently characterized and warrant further investigation at the molecular and cellular levels.
+
+Wnt/β-catenin signaling pathway
+
+The Uncoordinated-5B (Unc5B) receptor and its ligand, Netrin-1, preserve BBB homeostasis. Researchers found that selectively disabling the Unc5B gene in adult mouse endothelial cells disrupted Wnt/β-catenin signaling pathways, resulting in a compromised BBB that permits the leakage of molecules up to 40 kDa in size. The study reveals a critical genetic interplay between Unc5B and β-catenin within ECs that's essential for maintaining the BBB's structural integrity. Overexpression of activated β-catenin can rescue BBB defects induced by Unc5B loss. Administering a monoclonal antibody intravenously to inhibit the interaction between Netrin-1 and Unc5B can temporarily disrupt the BBB, allowing therapeutic compounds to pass through. The ability to achieve targeted CNS drug delivery, facilitated by this breakthrough, represents a pivotal advance toward devising more effective therapeutic strategies for a range of neurological conditions. However, uncertainties remain regarding the therapeutic modulation of Wnt/β-catenin signaling to selectively strengthen or repair the BBB following injury.While BBB components collaborate, each maintains distinct roles, leaving neurons' exact function within the barrier unclear.
+
+Astrocytes and blood-brain barrier (BBB)
+
+Astrocytes are one of the major classes of macroglia in the CNS. Together with BMECs, pericytes, and extracellular matrix components, astrocytes contribute to the formation of the BBB and play a crucial role in maintaining its structural integrity. Astrocytes perform essential functions within the CNS, including supporting vascular development, modulating neuronal metabolism, regulating cerebral blood flow, and facilitating neural repair following infection or injury. Astrocytes secrete various cytokines, neurotrophic factors, and signaling molecules—including transforming growth factor β (TGF-β) and vascular endothelial growth factor (VEGF)—which maintain endothelial cell TJs by regulating BBB TJ proteins such as claudin, occludin, and zonula occludens (ZO), thereby preserving barrier integrity. Loss of astrocytic support compromises BBB function following stroke, leading to increased accumulation of neurotoxic substances that damage neural cells. Astrocytes additionally release glutamate and propagate this signaling via glutamate receptor activation in ECs.Specialized wnt7a, wnt7b, and norrin signaling molecules secreted by glial cells interact with intricate receptor clusters on brain endothelial cells. These receptor complexes feature key components like Frizzled4 and the LRP6 co-receptor, forming the molecular machinery that mediates crucial neurovascular communication. Previous studies have established this sophisticated signaling mechanism as fundamental to central nervous system function. Receptor activation stabilizes β-catenin, promoting its nuclear translocation and subsequent activation of the transcription factors T-cell factor (TCF) and lymphoid enhancer-binding factor 1 (LEF1).These transcription factors can induce TJs, solute transporters and efflux transporters. These regulatory transcription factors further control the expression of BBB-specific genes by inhibiting plasma membrane vesicle-associated protein (PLVAP), a key endothelial membrane protein that governs vascular permeability through fenestrations and transcellular pathways.
+
+Vascular endothelial growth factor (VEGF)
+
+VEGF, first described as Vascular Permeability Factor (VPF), is a heparin-binding signaling protein that selectively targets vascular endothelial cells. Predominantly produced by astrocytes within the CNS, this potent angiogenic factor stimulates new blood vessel formation under physiological conditions. In CNS injury, radiation-triggered overproduction of VEGF disrupts normal angiogenesis and destabilizes the angiopoietin balance, thereby compromising BBB integrity. Reactive astrocytes upregulate the expression of matrix metalloproteinases (MMPs), VEGF, and several chemokines after stroke, exacerbating BBB impairment through heightened inflammatory responses and aberrant vascular growth stimulation.The variable roles of astrocytes after stroke can be partly explained by their phenotypic diversity, as stroke induces a shift from the neuroprotective A2 phenotype toward the neurotoxic A1 phenotype. This process compromises the BBB's integrity through multiple mechanisms: it boosts the production of MMP-3 and MMP-9, elevates chemokine levels, reduces the production of ZO-1 and claudin-5 proteins, and disrupts the proper localization of occludin, ZO-1, and claudin-5 within the barrier's structure. In contrast, the induction of A1 astrocytes depends on microglia-derived cytokines, including TNF-α, IL-1α, and C1q. Thus, astrocytic effects on the BBB after stroke are highly context-dependent and can either attenuate or exacerbate BBB dysfunction. VEGF critically regulates vascular development and BBB integrity. Hitomi Matsuno and colleagues reported that administration of the monoclonal antibody DC101 attenuated the stress-induced increase in BBB permeability by inhibiting VEGFR2 signaling. Taken together, these findings suggest that the VEGF/VEGFR2 pathway contributes to the development of depression by enhancing BBB permeability. VEGFR2 suppression could represent a promising therapeutic avenue for Major Depressive Disorder variants linked to blood-brain barrier impairment. Radiation-induced brain injury (RBI) activates the PI3K/AKT signaling pathway in astrocytes, suppressing autophagy while upregulating VEGF production. This increase in VEGF, in turn, forms a positive feedback loop that further enhances PI3K/AKT pathway activity. While blocking this pathway shows promise for treating radiation-related BBB damage—without disrupting healthy VEGF levels—the precise relationship between impaired autophagy and VEGF regulation remains unclear and warrants deeper exploration.
+
+Megalencephalic leukoencephalopathy with subcortical cysts (MLC1)
+
+In the brain, the MLC1 protein is predominantly localized to the perivascular and periventricular regions of astrocytes, where it resides within lipid rafts and associates with the dystrophin–glycoprotein complex (DGC). MLC1+ astrocytes are essential for BBB stability, demonstrated by vascular impairments in MLC1-deficient mice and human MLC1 mutation cases. The absence of astrocyte proliferation following the ablation of perivascular astrocytes (PAs) suggests that MLC1+ cells are primarily responsible for initiating reactive gliosis. Diphtheria toxin (DT)-induced elimination of these cells effectively attenuates the gliotic response. This finding is consistent with studies showing that cortical trauma–induced astrogliosis involves astrocytes associated with subcortical cyst formation. The microglial activation observed in PA-ablated mice could stem from blood-brain barrier dysfunction. The terminal processes of MLC1+ astrocytes fail to fully envelop blood vessels within both the brain and retinal tissues. Although other perivascular cells, such as recently identified perivascular fibroblasts, may not express MLC1, they could still contribute to vascular coverage. In vivo ablation studies indicate MLC1+ cells are essential for maintaining brain endothelial barrier stability. MLC1 is exclusively present in astrocytes linked to vessels, absent in those that lack vascular connectivity. To investigate the vascular role of MLC1+ astrocytes, Morales et al. selectively ablated these cells using a conditional genetic approach. They bred MLC1-T2A-CreERT2 rodents, whose tamoxifen triggers the activation of Cre recombinase in MLC1+ cellular populations. These mice were crossed with R26-DTR lines, enabling diphtheria toxin receptor (DTR) expression upon Cre activation. Consequently, endothelial junction proteins like claudin-5 were disrupted, causing a marked rise in vascular permeability.
+
+Signaling pathways involved in the interaction between A1/A2 and blood-brain barrier (BBB)
+
+Reactive microglia induce A1-type reactive astrocytes by releasing interleukin-1α (IL-1α), tumor necrosis factor-α (TNF-α), and complement component C1q. These A1 astrocytes lose many of their normal physiological functions and markedly upregulate a series of inflammatory genes, including those related to the complement cascade. In contrast, A2 astrocytes appear to upregulate neurotrophic and anti-inflammatory genes that promote neuronal survival and growth and support tissue repair, suggesting a neuroprotective role. The dynamic balance between A1 and A2 phenotypes is considered critical for maintaining neural microenvironmental homeostasis and BBB integrity. C3d is one of the most highly upregulated genes in A1 astrocytes, whereas S100A10 is characteristically expressed in A2 reactive astrocytes. In ischemic stroke models, compared with control treatment (A0-CM), C3d+/GFAP+ A1 astrocytes reduced the expression of the tight junction proteins ZO-1 and claudin-5 in endothelial cells. Treatment with semaglutide, a glucagon-like peptide-1 receptor (GLP-1R) agonist, increased ZO-1 expression and effectively blocked the conversion of C3d+ A1 astrocytes, thereby mitigating ischemia-induced BBB disruption. A1 astrocytes may also promote BBB degradation through the upregulation of MMP-9 and MMP-3, both of which are elevated in A1 astrocytes. Moreover, TNF, IL-17, and NF-κB signaling pathways are enriched in A1 astrocytes, facilitating inflammatory cytokine release and peripheral immune cell infiltration, leading to a vicious cycle of neuroinflammation.
+
+In contrast, A2 astrocytes exhibit increased expression of A2-specific genes accompanied by a surge in neurotrophic factor production, including nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF), and glial cell line-derived neurotrophic factor (GDNF). In primary astrocytes, blockade of the α7 nicotinic acetylcholine receptor (α7nAChR) promotes the activation of numerous A2-specific genes—such as S100a10, Slc10a6, and Tm4sf1—which encode proteins associated with BBB development and function. These findings indicate that the α7nAChR/JAK2/STAT3 signaling pathway mediates the protective effects of A2 astrocytes by elevating neurotrophic factor levels and limiting pro-inflammatory cytokine expression, thereby improving BBB function.
+
+Recent studies have increasingly focused on the detrimental effects of A1 astrocytes on BBB integrity; however, the influence of A2 astrocytes on BBB function remains insufficiently explored. A deeper understanding of the key signaling pathways that induce A2 astrocyte polarization and the mechanisms by which the A1/A2 balance regulates BBB integrity will be essential for elucidating the pathogenesis and progression of central nervous system diseases.
+
+Microglia and blood-brain barrier (BBB)
+
+Microglia exert a dual role in the disruption of the BBB. Subsequent to an ischemic event, microglia become activated within the neurovascular unit and extend enlarged processes toward blood vessels, thereby facilitating the infiltration of circulating macrophages. Meanwhile, ECs, which contributes to impaired vascular function and the breakdown of the BBB. Microglia, the resident immune cells of the central nervous system (CNS), can polarize into two functional phenotypes: the pro-inflammatory M1 type and the anti-inflammatory M2 type. In the early phase of acute ischemic stroke (AIS), microglia contribute to blood–brain barrier (BBB) disruption, whereas in the later phase, they shift toward a neuroprotective phenotype.M1 microglia disrupt the BBB by releasing proinflammatory mediators (such as IL-1α, IL-6, TNF-α, IFN-γ, and CCL2), as well as MMP-9, VEGF, and reactive oxygen species (ROS). M2 microglia protect the BBB from inflammatory damage by suppressing immune responses through the secretion of IL-4, IL-10, and TGF-β, as well as through enhanced phagocytic activity.
+
+M1 proinflammatory phenotype and blood-brain barrier (BBB) damage
+
+In response to pathological insults such as brain injury, infection, or ischemia, microglia rapidly polarize toward the M1 phenotype, characterized by the robust production of pro-inflammatory mediators—including interleukin (IL)-1β, tumor necrosis factor-α (TNF-α), and IL-6—as well as enhanced expression of inducible nitric oxide synthase (iNOS) and surface markers CD86, CD16/32, and CD40, ultimately aggravating neuronal injury and brain tissue damage. Consequently, the excessive release of inflammatory cytokines, chemokines, and reactive oxygen species (ROS) activates cerebral endothelial cells, leading to the disruption of BBB integrity. Some researchers have shown that agmatine mainly combines with TNF-α and IL-1β to reverse the decrease of tight junction proteins such as ZO-1, Occludin and Claudin-5, thereby improving the BBB leakage induced by morphine. In addition, the exosome is also one of the pathways of BBB destruction by M1 microglia. M1 microglia-derived episomes accelerate the progression of stroke. In a cellular study, exosomes released from M1-polarized BV2 microglia were shown to compromise the integrity of an in vitro BBB model through the transfer of specific differentially expressed microRNAs (DE-miRNAs), including miR-125a-5p, miR-125b-5p, miR-143-3p, and miR-140-3p. Enrichment analysis further indicated that the predicted targets of these DE-miRNAs are predominantly associated with neural development, synaptic connectivity, and key regulatory pathways such as MAPK and cAMP signaling. At the same time, research revealed that LPS-primed C9orf72 mutant microglia exhibited a sustained upregulation of MMP9 expression. Using an MMP9 transgenic mouse model, it was confirmed that MMP9 is a key mediator of BBB disruption within the perivascular space. Beyond its role in degrading the BBB and vascular basement membrane, MMP9 also promotes capillary remodeling to facilitate microvascular network formation. From a signaling perspective, Toll-like receptor 4 (TLR4) and its downstream cascades—such as the TLR4/NF-κB, MAPK/CREB, MAPK/AP-1, and PI3K/Akt pathways—play crucial roles in promoting M1 microglial polarization, which in turn contributes to the disruption of blood–brain barrier (BBB) integrity. Notably, excessive expression of programmed cell death protein 1 (PD-1) facilitates the transition of microglia from the M1 to the M2 phenotype and attenuates blood–brain barrier (BBB) permeability through modulation of the ERK and p38 MAPK signaling cascades. Collectively, these findings imply that therapeutic interventions aimed at modulating the polarization of M1 microglia or inhibiting their pro-inflammatory secretions may offer a promising approach for preserving blood–brain barrier (BBB) integrity and mitigating neuroinflammatory damage in the central nervous system.
+
+M2 anti-inflammatory phenotype and blood-brain barrier (BBB) protection
+
+M2 microglia, driven by interleukin-4 (IL-4) or interleukin-13 (IL-13), contribute to neuroprotection through the phagocytic clearance of cellular debris and the secretion of anti-inflammatory mediators, including transforming growth factor-β (TGF-β) and interleukin-10 (IL-10). The VEGFR2 signaling pathway may also participate in the polarization of microglia and exert a protective effect. Esposito et al. demonstrated that, under ischemic preconditioning, increased production of VEGF leads to elevated expression of VEGFR2 in microglia, polarization of IBA-1-positive microglia into a ramified morphology, and increased expression of M2 markers. When the cerebral level of IL-10 rises, the synergistic activation of IL-10R1 and IL-10R2 can initiate the JAK1 signaling pathway, thereby inducing the nuclear translocation of STAT3 in microglia. This mechanism downregulates proinflammatory cytokine release while promoting M2 microglial polarization.The antioxidant resveratrol (3,5,4ʹ-trihydroxy-trans-stilbene) can prevent the loss of tight junction proteins (including claudin-5, occludin, and ZO-1) induced by experimental autoimmune encephalomyelitis (EAE), reduce Evans blue–albumin extravasation, and thus preserve the functional integrity of the BBB. In addition, in vitro studies have confirmed that M2-derived exosomes (M2-EXOs) may carry miR-124-3p, which targets ROCK1 and ROCK2 in neurons, modulates the ROCK/PTEN/AKT/mTOR signaling pathway, reduces Glu-induced neuronal apoptosis, alleviates oxidative stress and mitochondrial damage, thereby protecting the neurovascular unit.Furthermore, Poliumoside has been shown to alleviate microglia-mediated inflammation and blood–brain barrier disruption after ischemic stroke in mice by modulating the balance between M1 and M2 polarization of microglia. Overall, promoting M2 polarization may represent a potential therapeutic strategy for restoring BBB function and mitigating neuroinflammatory damage.
+
+Oligodendrocytes (OLs) and blood-brain barrier (BBB)
+
+OLs and oligodendrocyte precursor cells (OPCs), part of the oligodendrocyte lineage, are in proximity to BMECs. Previous studies have shown that the BBB for the most part consists of ECs, glial cells, and pericytes. However, recent studies have identified OPCs as a novel cellular component of the BBB. Perivascular OPCs are in contact with cerebrovascular ECs across the basement membrane. Thus, OPCs are regarded as supplementary BBB cellular elements. Mice lacking TGF-β specifically in OPCs show compromised BBB integrity and cerebral bleeding, pointing to a potential role for OPCs in supporting BBB function via TGF-β secretion. In contrast, VEGF-A secreted by ECs regulates OPC migration, which is critical for OPC localization and function. Conversely, OPCs secrete regulatory molecules that influence perivascular cell growth and endothelial cell protein expression. Under physiological conditions, most OPCs are distributed within the intrinsic tissue regions of the adult brain. However, when BBB integrity is impaired, parenchymal OPCs migrate toward the vasculature and transform into perivascular OPCs. This transition not only increases the number of perivascular OPCs but also enhances vascular regeneration. The results confirm OPCs are essential for vascular cell communication and BBB maintenance through targeted cellular movement. In addition to OPCs, OLs decrease BBB penetration by releasing soluble mediators through BMECs. Despite this, no conclusive proof connects the modified BMEC-OL interaction to BBB impairment. Therefore, additional studies are required to clarify OLs’ involvement in BBB dysfunction.
+
+Soluble factors
+
+To examine whether OPCs or OLs regulate the integrity of the BBB, Kimura et al. co-cultured brain RBECs with OPCs or OLs for three days. They found that OPCs and OLs both markedly enhanced the barrier function of RBECs, as evidenced by reduced sodium fluorescein (Na–F) permeability. This effect was directly proportional to cell density. Interestingly, the maximal barrier-enhancing effect was observed when cells were plated at a density of 1.6 × 105 cells per well, with both cell types showing comparable efficacy, indicating that soluble molecules isolated from OPCs or OLs support the integrity of the brain endothelial barrier.However, three days of co-culture with RBECs did not alter the expression of platelet-derived growth factor receptor α (PDGFRα) or myelin basic protein (MBP) in OPCs or OLs. OLs release soluble mediators, such as BDNF, to modulate vascular endothelial integrity. These findings, combined with previous evidence that brain endothelial cells regulate OPC proliferation and migration through the secretion of fibroblast growth factor (FGF), VEGF, and TGF-β]suggest the existence of reciprocal signaling between ECs and oligodendrocyte lineage cells. Furthermore, recent research has indicated that extracellular vesicles in the brain may have a favorable impact on OPCs through the secretion of bioactive molecules, such as PDGF-BB, thus enhancing and preserving BBB functionality. Thus, depletion of OLs could lead to BBB dysfunction in demyelinating disorders such as multiple sclerosis. Within the oligodendrocyte microenvironment, neural stem cells could contribute to the development of oligodendrocytes through the secretion of bioactive molecules, facilitating the progression from OPCs to mature OLs [. Restoring extracellular factors from brain-derived ECM secretions, such as PDGF-BB, could represent a promising therapeutic focus for leukodystrophies linked to BBB impairment. Additional research should investigate oligodendrocyte lineage factors that enhance blood-brain barrier functionality.
+
+Regulation of CNS angiogenesis
+
+Oligodendrocytes may act as key regulators of angiogenesis and the maintenance of normal vascular function, and increased regional OL populations often precede BBB disruption in demyelinating conditions.Zhang et al. employed genetic models to demonstrate that oligodendrocyte-derived hypoxia-inducible factor α (HIFα) is required and adequate to the postnatal development of the CNS vascular network. Stabilization of HIFα in OLs did not disrupt the Wnt/β-catenin signaling pathway but significantly upregulated VEGF expression. Genetic blockade of OL-derived VEGF, rather than Wnt signaling, attenuated HIFα-dependent CNS angiogenesis in low-density glial regions. These findings highlight a pivotal role of OLs in regulating angiogenesis, suggesting that OL dysfunction could profoundly affect both vascular remodeling and BBB integrity. Therefore, OLs-facilitated neovascularization could serve as a compensatory mechanism to preserve BBB structural integrity.
+
+Taken together, OLs contribute to the maintenance of BBB function primarily via secretion of trophic factors. Dysfunction of OLs can lead to angiogenic impairment in the CNS and dysregulation of the BBB, underscoring the importance of BBB regulatory mechanisms.
+
+Cellular coordination in the blood-brain barrier(BBB)
+
+The molecular and mechanistic pathways through which pericytes, neurons, astrocytes, microglia, and oligodendrocytes regulate the blood-brain barrier.
+
+Table 1
+
+Cell types	Molecule	Signaling pathways	References	 	Pericytes	PDGF-BB	PDGF-BB/PDGFRβ signaling、PI3K/Akt and MAPK/ERKpathway、PI3K–NF-κB pathway		 	Pericytes	TGF-β	TGF-β/TGFβR2 pathway、TGF-β/SMAD4 signaling 、TGF-β/Notch ligands/Ang-1 pathway		 	Neurons	Glutamic acid	activation of N-methyl-d-aspartate (NMDA) receptors (NMDA-R)、Rho/ROCK signaling pathway		 	Neurons	GABA	GAT2/BGT-1 transport pathway 、activate ionotropic GABA_A receptors on cerebral vascular endothelial cells		 	Neurons	5-HT	Stimulation of prostaglandins through cyclic adenosine monophosphate results in increased vesicular trafficking of endothelial cells		 	Neurons	DA	NLRP3 inflammasome pathway		 	Neurons	Unc5B	Wnt/β-catenin signaling pathway	]	 	Astrocytes	VEGF	VEGF/VEGFR2 pathwayPI3K/AKT signaling		 	Astrocytes	C3d	NF-κB signaling pathways 、 glucagon-like peptide-1 receptor (GLP-1R)		 	Microglia	IL-1β、TNF-α,、 IL-6	TLR4/NF-κB、MAPK/CREB、MAPK/AP-1、PI3K/Akt		 	Microglia	interleukin-10 (IL-10)	JAK1/STAT3 signaling pathway,
+
+The regulation of the BBB is a highly integrated process that relies on the dynamic interactions among multiple neural cell types, including astrocytes, microglia, neurons, pericytes, and oligodendrocytes. These cells can modulate BBB function by secreting a variety of molecules within the BBB microenvironment (Table 1).These cells do not function independently; rather, their coordinated interplay collectively determines BBB homeostasis and its pathological outcomes.
+
+Astrocyte-derived cytokines such as IL-6, TGF-β, and VEGF can regulate the activation and polarization of microglia, thereby influencing the balance between pro-inflammatory (M1-like) and anti-inflammatory (M2-like) microglial phenotypes. This modulation consequently affects endothelial cell function and the integrity of tight junctions. Conversely, activated microglia release inflammatory mediators such as TNF-α and IL-1β, which induce the formation of A1 astrocytes and thereby amplify the cascade of neuroinflammation. In contrast, activated M2-like microglia produce the anti-inflammatory cytokine IL-10, which interacts with IL-10 receptors (IL-10R) predominantly expressed on A2 astrocytes. This interaction promotes astrocytic secretion of TGF-β, leading to reduced microglial activation. Such bidirectional communication establishes a feedback loop that determines whether the response to neural injury favors blood–brain barrier disruption or repair. Recent studies further suggest that this astrocyte–microglia crosstalk evolves with aging and disease states.
+
+Neuronal activity–induced potassium efflux is cleared by astrocytes, thereby regulating local vascular tone and ionic homeostasis, which in turn indirectly influences the integrity and perfusion status of the BBB. In vivo studies employing magnetic resonance spectroscopy, C-glucose mass spectrometry, electroencephalography, and molecular analyses have demonstrated that the loss of astrocytic AMP-activated protein kinase (AMPK) leads to marked instability of thioredoxin-interacting protein (TXNIP), dysregulation of the glucose transporter GLUT1, impaired glucose metabolism, and subsequent neuronal loss. These alterations disrupt the astrocyte–neuron lactate shuttle (ANLS), thereby compromising energy supply. This metabolic coupling further modulates vasomotor responses and BBB permeability through regulation of calcium signaling pathways within astrocytes.Microglia can generate nitric oxide (NO) in response to neuronal glutamate release via N-methyl-d-aspartate receptor (NMDAR) activation. Excessive glutamate accumulation promotes NO-mediated enhancement of glutamate release from astrocytes, providing substrates for additional vesicular glutamate release. The homeostasis of glutamate is jointly maintained by neurons, microglia, astrocytes, and the BBB. Through this multilayered coupling, the dynamic regulation of BBB function is achieved—a synergistic mechanism that plays a pivotal role in maintaining neuroenergetic homeostasis and vascular function.
+
+Activation of Signal Transducer and Activator of Transcription 3 (STAT3) in microglia enhances the expression of TNF-α. This process downregulates AKT/p70S6 kinase signaling, thereby inducing pericyte apoptosis. Furthermore, it can stimulate inducible nitric oxide synthase (iNOS)/NF-κB signaling to promote neuroinflammation and oxidative stress, leading to pericyte-mediated disruption of the cerebral microcirculation.Pericytes modulate microglial motility by secreting CCL2, thereby triggering microglial activation during infection. Additionally, pericytes release other cytokines, such as TNF-α, IFN-γ, IL-1β, and IL-6, which can induce a pro-inflammatory state in microglia and contribute to neuronal apoptosis.
+
+Under hypoxic conditions, pericytes exhibit high expression of NT-3, which upregulates astrocyte-derived NGF through activation of the TrkC-Erk1/2 axis. This signaling pathway plays a neuroprotective role during ischemic changes. Pericytes tightly regulate the expression of aquaporin-4 (AQP4) on astrocytic endfeet membranes, modulating astrocyte motility and polarization. Additionally, astrocyte-derived laminin interacts with the integrin α2 receptor on mouse brain pericytes to regulate pericyte differentiation and support BBB integrity. Pericytes can also modulate astrocyte morphology and function via the Ephrin type-A receptor 4 (EphA4)/EphrinB2 signaling pathway in mouse pericyte–astrocyte co-culture systems. Both pericytes and astrocytes secrete growth factors that mediate the expression of various tight junction proteins (occludin, claudins, and zonula occludens-1). Moreover, astrocyte-derived TGFβ1 promotes the expression of occludin-1 in brain endothelial cells through the TGFβ1–TGFBRII–Smad2/3–Gli2 signaling pathway. Thus, the maintenance of pericyte–astrocyte interactions is essential for preserving the integrity of the BBB.
+
+The crosstalk of nerve cells and blood-brain barrier (BBB) in central nervous system (CNS) diseases
+
+BBB dysfunction serves as a key pathological substrate underlying a wide spectrum of neurological disorders and injuries. Disruption of the barrier can act as both an initiator and an amplifier of CNS pathology. For example, in AD, early pathological changes include BBB leakage and pericyte loss, which impair Aβ clearance and accelerate its accumulation within the brain. Furthermore, plasma protein leakage activates microglia, thereby driving neuroinflammatory responses.Conversely, the intact BBB poses a major obstacle to the therapeutic approach to neurodegenerative diseases by severely restricting the entry of both large-molecular-weight therapeutics and many small-molecule drugs into the CNS. Critically, the BBB is far from a static barrier—its dynamic integrity profoundly influences the onset, progression, and treatment outcomes of CNS disorders. Consequently, in-depth investigation of the molecular mechanisms that regulate BBB function under different pathological conditions is crucial for developing innovative diagnostic tools and effective, targeted neurotherapeutic strategies.
+
+Alzheimer's Disease(AD)
+
+In AD, the BBB appears connected to neural deterioration (particularly protein buildup), vascular injury, and inflammatory responses. Activation of microglia and astrocytes evokes the release of pro-inflammatory cytokines, such as TGF-β, IL-1β, and IL-6, whose expression is upregulated following BBB injury. Neuroinflammation and glial cell activation further contribute to AD pathology. By analyzing previous studies, Carolin et al. found that although the glial barrier formed by astrocytic endfeet in AD patients remains morphologically intact, astrocytic coverage of capillaries is significantly reduced. Moreover, astrocytes modulate ECs responses to Aβ by reducing Aβ-induced expression of leukocyte adhesion molecules, a process closely linked to BBB dysfunction. Furthermore, Aβ exerts dose-dependent toxic effects on ECs and astrocytes by caspase-mediated apoptosis and induces both dose- and time-dependent growth inhibition in ECs. Astrocyte activation and reduced pericapillary microglial count characterize BBB damage in AD. In addition, the activity of MMPs and other proteases secreted by glial cells may impair TJs in AD. These enzymes regulate BBB permeability by targeting TJ proteins. MMP-2 and MMP-9 proteolytically degrade occludin, claudin, and ZO proteins, triggering TJ disintegration and increasing blood-brain barrier permeability.
+
+In AD, astrocyte deterioration compromises BBB integrity.In tamoxifen-induced astrocyte-depleted mice, the brain exhibits increased permeability to macromolecules such as fibrinogen and to exogenous tracers such as fluorescently labeled cadherin. Cadherin is an externally tagged compound, linked to reduced TJ protein levels and diminished glucose transporter 1 (GLUT1) expression. Aquaporin-4 (AQP4) is a bidirectional water channel predominantly expressed in astrocytic endfeet and plays a crucial role in maintaining BBB water homeostasis. In AD, reduced expression and mislocalization of AQP4 impair glymphatic clearance of Aβ, leading to its accumulation within the brain. Therefore, restoring astrocyte function and reestablishing the homeostatic interactions between the BBB and neural cells represent promising therapeutic strategies for AD.
+
+Septic encephalopathy (SAE)
+
+Sepsis progressively compromises BBB integrity. Microglia relocate to cerebral blood vessels during systemic inflammation, representing an initial alteration evident in SAE. During sepsis, pro-inflammatory cytokines circulating infiltrate brain tissue via various pathways—including passive diffusion across cell membranes, lysosomal transport mechanisms, and receptor-mediated processes. This triggers microglial activation, prompting an upregulation in the production of multiple inflammatory signaling molecules. The resulting neurotoxic milieu exacerbates oxidative stress by stimulating the secrete of ROS, nitric oxide, and glutamate, perpetuating a destructive feedback loop. Persistent microglial activation triggers a chronic inflammatory cascade, in which excessive production of inflammatory mediators and reactive oxygen species fuels a self-sustaining loop. This destructive cycle disrupts normal neural activity and ultimately causes cellular degeneration, driving the advancement of SAE. Recent studies highlight the pivotal role microglia play in regulating blood-brain barrier integrity during systemic inflammation triggered by lipopolysaccharide exposure (1 mg/kg daily for up to one week). Scientists have shown that within the first 72 h of LPS-induced inflammation, circulating microglia are recruited to cerebral blood vessels in response to chemokine CCL5 signaling from endothelial cells lining the brain's microvasculature. This leads to the infiltration of microglia into the NVU, where they come into close contact with BMECs, which express the junction protein claudin-5. These findings suggest that microglial-endothelial cell interactions strengthen BBB stability during initial systemic inflammation. In contrast, sustained LPS exposure (1.0 mg/kg, i.p., for 7 days) promotes chronic inflammation, driving microglia toward a phagocytic phenotype characterized by morphological changes, engulfment of astrocytic debris, and increased BBB permeability.
+
+The relationship between BBB disruption and glial cells following SAE. Activation of microglial cells and astrocytes after infection induces an increase in inflammatory factors, reactive oxygen species, nitric oxide, neurotransmitters, and CCL5 in ischemic brain tissue. These inflammatory mediators lead to increased BBB permeability, resulting in neuroinflammation and ultimately causing neuronal damage.
+
+Fig. 2
+
+Given that prolonged microglial activation severely impairs BBB function, researchers have been investigating whether attenuating this activity could prevent excessive BBB permeability and mitigate the severity of SAE. Nevertheless, the exact molecular pathways that drive this process are still not well elucidated. Research has identified the CD40 ligand (CD40L) interaction in microglia as playing a pivotal role in the cecal ligation and puncture (CLP) sepsis model. Within 48 h of inducing CLP, hippocampal expression of both CD40 and CD40L proteins showed marked increases. However, this upregulation was significantly suppressed when animals received minocycline treatment, which specifically inhibits microglial activity. Subsequent research demonstrated that administering anti-CD40 to animals successfully blocked the CLP-triggered surge in hippocampal concentrations of TNF-α, IL-β, and IL-6, while also curbing LPS-induced elevations of these same inflammatory markers in cultured primary glial cells. Moreover, rats receiving anti-CD40 treatment displayed notably diminished blood-brain barrier permeability within the hippocampus and were spared from enduring cognitive impairment following CLP-induced sepsis-associated encephalopathy. These results highlight the significant role of glial activation in exacerbating SAE-related pathology and compromising BBB integrity(Fig. 2).
+
+Traumatic brain injury (TBI)
+
+TBI causes EC activation and neuroinflammatory responses in neuronal cells within minutes to hours after injury through the recruitment and upregulation of other inflammation-promoting molecules such as cytokines and chemokines. Microglia, the brain's resident immune cells, are rapidly activated when albumin crosses the BBB through transcytosis. This triggers the release of inflammatory mediators like IL-1β, TNF, and MCP-1, which in turn disrupt the integrity of the BBB by altering TJ distribution. Essentially, these cellular sentinels respond to protein infiltration by launching an inflammatory cascade that compromises the brain's protective shield. Albumin leakage triggers astrocyte-derived MMP secretion, breaking down the basement membrane and disrupting the BBB, exacerbating vasogenic edema post-TBI. Glial cells secrete cytokines that initiate a series of interconnected, including the activation of pathways such as Rho/ROCK, PKC, and MAPK. These pathways influence the phosphorylation status of TJ proteins, ultimately leading to an increase in the permeability of the BBB at the paracellular level. Meanwhile, ROS originating from damaged mitochondria in astrocytes, microglia and neurons triggers additional cytokine and chemokine release from glial cells. ROS activates downstream signaling pathways, reducing TJ protein expression while enhancing MMP activity, thereby promoting paracellular permeability through lipid peroxidation. Microglia play a key role in neuroinflammation by secreting cytokines like IL-1 and IL-6. These molecules stimulate the expression of adhesion proteins—including ICAM-1, P-selectin, and E-selectin—on brain endothelial cells. As a result, leukocytes bind more readily and cross the BBB, amplifying the inflammatory cascade by recruiting additional immune responses from the periphery. The communication between ECs and astrocytes, termed vascular–astrocyte coupling, plays a vital role in maintaining BBB homeostasis. Astrocytes predominantly uptake glutamate through EAAT1 and EAAT2 transporters. Diminished transporter expression occurs in human TBI and potentially causes neurotoxicity. Overabundant glutamate activates NMDA receptors, disrupting the BBB and increasing vascular permeability and seizures in rats; conversely, NMDA antagonists reduce BBB permeability. Collectively, research indicates that glial-secreted substances are instrumental in maintaining BBB homeostasis and contribute to its impairment following traumatic brain injury. Furthermore, astrocytes modulate endothelial function through the secretion of various soluble mediators. Notably, MMPs, VEGF, endothelin-1 (ET-1), and glutamate—when released by astrocytes—have been associated with the breakdown of the BBB. Elevated levels of MMP-9, a protease that breaks down the ECM, contribute to BBB disruption by targeting and degrading TJ proteins—specifically occludin and claudin-5—following traumatic brain injury. This enzymatic activity compromises the structural integrity of the BBB, leading to increased permeability. Astrocytes also modulate brain endothelial function via VEGF pathways. In murine neuroinflammation, VEGF-A elevation compromised BBB integrity by suppressing claudin-5 and occludin expression. VEGF blockade attenuated postischemic edema and tissue injury. ET-1, a potent vasoconstrictor that binds to endothelium-specific ETB receptors, is associated with poorer outcomes after TBI. Overexpression of ET-1 in astrocytes increases vascular edema, vasospasm, and reactive gliosis in response to TBI. Blocking ET-1 receptors appears to enhance BBB integrity and reduce swelling following traumatic brain injury. This therapeutic effect correlates with decreased levels of MMP-9 and VEGF-A, indicating these compounds may influence BBB function through upstream regulatory pathways. Our knowledge of how vascular and astrocyte interactions contribute to BBB breakdown following traumatic brain injury remains remains incomplete, yet these results underscore the pressing necessity to delve into the underlying processes governing this cellular communication and evaluate its consequences for barrier integrity post-injury.
+
+Conclusions and perspectives
+
+The BBB not only serves as an important physical barrier but also regulates brain homeostasis and neuronal function through complex interactions among neurons, glial cells, and ECs. Neurons, astrocytes, microglia, and oligodendrocytes are actively involved in the formation, maintenance, and restoration of the BBB through the secretion of numerous soluble factors and signaling molecules. Interactions among these cells not only preserve BBB integrity but also contribute to the brain's reaction to trauma and disease by regulating its permeability and stability. Despite extensive research into the interactions between these cells and the BBB, several key research gaps and unresolved questions remain.
+
+Current studies have focused on how neurons and glial cells regulate BBB function through the release of soluble factors, but the specific molecular mechanisms and the details of interactions among different cell types remain poorly understood. For instance, the role of oligodendrocytes in maintaining BBB function has not been fully elucidated, and further experimental evidence is needed to clarify the association between oligodendrocyte dysfunction and BBB disruption. In addition, effectively regulating the dynamic permeability of the BBB and leveraging neuronal activity or glial cytokines to enhance BBB functionality remain major challenges in current research. Addressing these gaps will be requisite for a more exhaustive understanding of BBB regulation.In conclusion, researchers should further investigate the intricate network of neuron–glial interactions at both the cellular and molecular levels to elucidate how these cell types cooperate to maintain BBB functionality. This offers a theoretical and practical framework for advancing new treatments for neurodegenerative disorders, brain trauma, and cerebrovascular conditions.
+
+Building upon current findings, future research should focus on developing personalized therapeutic regimens for BBB dysfunction across different neurological disorders. For instance, integrating analyses of neuron–glia–BBB interaction patterns in specific neurological conditions with advanced targeted drug-delivery technologies could enhance therapeutic efficacy while minimizing adverse effects. Future studies will further elucidate the underlying molecular pathways, thereby offering novel therapeutic avenues for neurological disorders.
+
+Availability of data and material
+
+All data generated during this review are included in this article.
+
+Funding
+
+This work was supported by Grants from the  (No. ) and  Affiliated to ,  (No. ) from Mi Tian.
+
+CRediT authorship contribution statement
+
+Manling Ju: Writing – original draft. Haozhou Shen: Methodology, Project administration, Software. Xiaobao Zhang: Data curation, Resources. Mi Tian: Funding acquisition, Writing – review & editing. Li Zhang: Conceptualization, Validation.
+
+Declaration of competing interest
+
+The authors declare no potential conflicts of interest.
+
+References
+
+Neuroinflammation, stroke, blood-brain barrier dysfunction, and imaging modalities
+
+Cellular and molecular mechanisms of the blood-brain barrier dysfunction in neurodegenerative diseases
+
+Blood-brain barrier permeability is associated with cognitive functioning in normal aging and neurodegenerative diseases
+
+Blood-brain barrier disruption: a culprit of cognitive decline?
+
+Pericyte loss impairs the blood-brain barrier and cognitive function in aged mice after anesthesia/surgery
+
+Interactions of glial cells with neuronal synapses, from astrocytes to microglia and oligodendrocyte lineage cells
+
+Evolution of cortical neurons supporting human cognition
+
+The search for true numbers of neurons and glial cells in the human brain: a review of 150 years of cell counting
+
+The blood-retina barrier in health and disease
+
+Connexins signatures of the neurovascular unit and their physio-pathological functions
+
+The neurovascular unit coming of age: a journey through neurovascular coupling in health and disease
+
+Characterisation of PDGF-BB:PDGFRβ signalling pathways in human brain pericytes: evidence of disruption in Alzheimer's disease
+
+Emerging roles of pericytes in the regulation of the neurovascular unit in health and disease
+
+Additive effects of PDGF receptor beta signaling pathways in vascular smooth muscle cell development
+
+Pericytes of the neurovascular unit: key functions and signaling pathways
+
+Pericyte loss and microaneurysm formation in PDGF-B-deficient mice
+
+Interferon-γ blocks signalling through PDGFRβ in human brain pericytes
+
+Elevated PDGF-BB from bone Impairs hippocampal vasculature by inducing PDGFRβ shedding from pericytes
+
+Inhibition of endothelial cell movement by pericytes and smooth muscle cells: activation of a latent transforming growth factor-beta 1-like molecule by plasmin during co-culture
+
+Central nervous system pericytes in health and disease
+
+Pericytes: the forgotten controllers of a functional blood-brain barrier
+
+The roles of TGF-β signaling in cerebrovascular diseases
+
+Novel pathogenic TGFBR1 and SMAD3 variants identified after cerebrovascular events in adult patients with Loeys-dietz syndrome
+
+TGF-Beta modulates the integrity of the blood brain barrier in vitro, and is associated with metabolic alterations in pericytes
+
+The blood-brain barrier in health and disease: important unanswered questions
+
+Correlations of neuronal and microvascular densities in murine cortex revealed by direct counting and colocalization of nuclei and vessels
+
+Astrocytes drive cortical vasodilatory signaling by activating endothelial NMDA receptors
+
+Preclinical models of traumatic brain injury: emerging role of glutamate in the pathophysiology of depression
+
+The role of glutamate and blood-brain barrier disruption as a mechanistic link between epilepsy and depression
+
+Glutamate neurotoxicity and destruction of the blood-brain barrier: key pathways for the development of neuropsychiatric consequences of TBI and their potential treatment strategies
+
+Glutamate-Mediated blood-brain barrier opening: implications for neuroprotection and drug delivery
+
+The NMDA and AMPA/KA receptors are involved in glutamate-induced alterations of occludin expression and phosphorylation in brain endothelial cells
+
+NMDA mediates disruption of blood-brain barrier permeability via Rho/ROCK signaling pathway
+
+Precision medicine for blood glutamate grabbing in ischemic stroke
+
+Minocycline at 2 different dosages vs placebo for patients with mild alzheimer disease: a randomized clinical trial
+
+History and progress of hypotheses and clinical trials for Alzheimer's disease
+
+GABA-enriched teas as neuro-nutraceuticals
+
+GABA(A) and GABA(B) receptors mediate GABA-Induced intracellular Ca(2+) signals in human brain Microvascular endothelial cells
+
+GAT2/BGT-1 as a system responsible for the transport of gamma-aminobutyric acid at the mouse blood-brain barrier
+
+Non-invasive ultrasonic modulation of visual evoked response by GABA delivery through the blood brain barrier
+
+Modulation of brain function by targeted delivery of GABA through the disrupted blood-brain barrier
+
+A computational investigation of feedforward and feedback processing in metacontrast backward masking
+
+Efficacy and safety of low-dose gamma-aminobutyric acid from unpolished rice germ as a health functional food for promoting sleep: a randomized, Double-Blind, placebo-controlled trial
+
+Effects of colistin on amino acid neurotransmitters and blood-brain barrier in the mouse brain
+
+Efflux of a suppressive neurotransmitter, GABA, across the blood-brain barrier
+
+Neurotransmitters as food supplements: the effects of GABA on brain and behavior
+
+BBB: permeable conjugate of exogenic GABA
+
+The expanded biology of serotonin
+
+Gut serotonin as a general membrane permeability regulator
+
+Probable involvement of serotonin in the increased permeability of the blood-brain barrier by forced swimming. An experimental study using Evans blue and 131I-sodium tracers in the rat
+
+5-Hydroxytryptophan: a precursor of serotonin influences regional blood-brain barrier breakdown, cerebral blood flow, brain edema formation, and neuropathology
+
+Changes in blood-brain barrier and cerebral blood flow following elevation of circulating serotonin level in anesthetized rats
+
+Permeation of dopamine sulfate through the blood-brain barrier
+
+Dopamine regulates blood‐brain barrier endothelial cell hyperpermeability
+
+Endothelial Unc5B controls blood-brain barrier integrity
+
+Interplay of the Norrin and Wnt7a/Wnt7b signaling systems in blood-brain barrier and blood-retina barrier development and maintenance
+
+Targeting pyroptosis as a preventive and therapeutic approach for stroke
+
+Astrocytes in the regulation of cerebrovascular functions
+
+Astrocytic YAP protects the optic nerve and retina in an experimental autoimmune encephalomyelitis model through TGF-β signaling
+
+Autocrine S100B in astrocytes promotes VEGF-dependent inflammation and oxidative stress and causes impaired neuroprotection
+
+VEGF in signaling and disease: beyond discovery and development
+
+Astrocytes-derived VEGF exacerbates the microvascular damage of late delayed RBI
+
+Blood-brain barrier dysfunction and recovery after ischemic stroke
+
+Blocking C3d(+)/GFAP(+) A1 Astrocyte conversion with semaglutide attenuates blood-brain barrier disruption in mice after ischemic stroke
+
+Neurotoxic reactive astrocytes are induced by activated microglia
+
+Association between vascular endothelial growth factor-mediated blood-brain barrier dysfunction and stress-induced depression
+
+Enhanced VEGF secretion and blood-brain barrier disruption: Radiation-mediated inhibition of astrocyte autophagy via PI3K-AKT pathway activation
+
+MLC1 trafficking and membrane expression in astrocytes: role of caveolin-1 and phosphorylation
+
+Transmembrane topology and oligomeric nature of an astrocytic membrane protein, MLC1
+
+Megalencephalic leukoencephalopathy with subcortical cysts is a developmental disorder of the gliovascular unit
+
+Seizures and disturbed brain potassium dynamics in the leukodystrophy megalencephalic leukoencephalopathy with subcortical cysts
+
+Selective expression of eGFP in mouse perivascular astrocytes by modification of the Mlc1 gene using T2A-based ribosome skipping
+
+Mlc1-Expressing perivascular astrocytes promote blood-brain barrier integrity
+
+A1/A2 astrocytes in central nervous system injuries and diseases: angels or devils?
+
+NFκB-activated astroglial release of complement C3 compromises neuronal morphology and function associated with Alzheimer's disease
+
+A2 astrocytes counteract the blood-brain barrier dysfunction via α7nAChR/JAK2/STAT3 signaling in HIV-Associated neurocognitive disorders
+
+Immune Cells in the BBB Disruption After Acute Ischemic Stroke: Targets for Immune Therapy?
+
+Perivascular microglia promote blood vessel disintegration in the ischemic penumbra
+
+In vivo over-expression of interleukin-10 increases resistance to focal brain ischemia in mice
+
+Intranasal delivery of RGD-Containing osteopontin heptamer peptide confers neuroprotection in the ischemic brain and augments Microglia M2 polarization
+
+Interleukin-4 promotes microglial polarization toward a neuroprotective phenotype after retinal ischemia/reperfusion injury
+
+Agmatine ameliorates morphine-induced behavioral sensitization through blood-brain barrier protection and anti-neuroinflammatory effects in the nucleus accumbens
+
+Microglial exosomal miR-466i-5p induces brain injury via promoting hippocampal neuron apoptosis in heatstroke
+
+M1-type microglia-derived exosomes contribute to blood-brain barrier damage
+
+MMP9 clears the way for metastatic cell penetration across the blood-brain barrier
+
+Jiedu Xiaozheng Yin inhibits the progression of Colitis associated colorectal cancer by stimulating macrophage polarization towards an M1 phenotype via the TLR4 pathway
+
+PD-1 mediates microglia polarization via the MAPK signaling pathway to protect blood-brain barrier function during cerebral ischemia/reperfusion
+
+The immunology of Parkinson's disease
+
+Macrophage stimulating protein preserves blood brain barrier integrity after intracerebral hemorrhage through recepteur d'origine nantais dependent GAB1/Src/β-catenin pathway activation in a mouse model
+
+Regulation of blood-brain barrier integrity by microglia in health and disease: a therapeutic opportunity
+
+Resveratrol defends blood-brain barrier integrity in experimental autoimmune encephalomyelitis mice
+
+M2 microglia-derived exosomes protect against glutamate-induced HT22 cell injury via exosomal miR-124-3p
+
+Poliumoside alleviates microglia-mediated inflammation and blood-brain barrier disruption via modulating the polarization of microglia after ischemic stroke in mice
+
+Blood-Brain barrier dysfunction amplifies the development of neuroinflammation: understanding of cellular events in brain microvascular endothelial cells for prevention and treatment of BBB dysfunction
+
+Oligodendrocyte progenitor cells in Alzheimer's disease: from physiology to pathology
+
+Role of perivascular oligodendrocyte precursor cells in angiogenesis after brain ischemia
+
+Oligodendrocyte precursor cells support blood-brain barrier integrity via TGF-β signaling
+
+Cerebral endothelial derived vascular endothelial growth factor promotes the migration but not the proliferation of oligodendrocyte precursor cells in vitro
+
+Potential interactions between pericytes and oligodendrocyte precursor cells in perivascular regions of cerebral white matter
+
+Oligodendrocytes upregulate blood-brain barrier function through mechanisms other than the PDGF-BB/PDGFRα pathway in the barrier-tightening effect of oligodendrocyte progenitor cells
+
+Brain-derived neurotrophic factor prevents the endothelial barrier dysfunction induced by interleukin-1β and tumor necrosis factor-α
+
+An oligovascular niche: cerebral endothelial cells promote the survival and proliferation of oligodendrocyte precursor cells
+
+Crosstalk between cerebral endothelium and oligodendrocyte
+
+Regional oligodendrocytopathy and astrocytopathy precede myelin loss and blood-brain barrier disruption in a murine model of osmotic demyelination syndrome
+
+Glial type specific regulation of CNS angiogenesis by HIFα-activated different signaling pathways
+
+Microfluidic models of the neurovascular unit: a translational view
+
+Interaction of Microglia and astrocytes in the neurovascular unit
+
+TGFβ produced by IL-10 redirected astrocytes attenuates microglial activation
+
+Age-associated changes in microglia and astrocytes ameliorate blood-brain barrier dysfunction
+
+Astrocytic modulation of neuronal excitability through K(+) spatial buffering
+
+AMPK-Regulated astrocytic lactate shuttle plays a non-cell-autonomous role in neuronal survival
+
+Glutamate induces blood-brain barrier permeability through activation of N-Methyl-D-Aspartate receptors
+
+STAT3 activation in microglia increases pericyte apoptosis in diabetic retinas through TNF-ɑ/AKT/p70S6 kinase signaling
+
+The multiple roles of pericytes in vascular Formation and microglial functions in the brain
+
+Systemic inflammation regulates microglial responses to tissue damage in vivo
+
+Brain microvascular pericytes are immunoactive in culture: cytokine, chemokine, nitric oxide, and LRP-1 expression in response to lipopolysaccharide
+
+Neurotrophin production in brain pericytes during hypoxia: a role of pericytes for neuroprotection
+
+EphA4/EphrinB2 signaling mediates pericyte-induced transient glia limitans formation as a secondary protective barrier after subarachnoid hemorrhage in mice
+
+Astrocyte-Derived TGFβ1 facilitates blood-brain barrier function via non-canonical hedgehog signaling in brain Microvascular endothelial cells
+
+Modulation of Amyloid-β1-40 transport by ApoA1 and ApoJ across an in vitro model of the blood-brain barrier
+
+Addressing blood-brain barrier impairment in Alzheimer's Disease
+
+Distinct changes in all major components of the neurovascular unit across different neuropathological stages of Alzheimer's disease
+
+Toxicity of various amyloid beta peptide species in cultured human blood-brain barrier endothelial cells: increased toxicity of dutch-type mutant
+
+Somatostatin maintains permeability and integrity of blood-brain barrier in β-Amyloid induced toxicity
+
+MicroRNA-107 prevents amyloid-beta induced blood-brain barrier disruption and endothelial cell dysfunction by targeting Endophilin-1
+
+Dysfunction of the blood-brain barrier in Alzheimer's disease: evidence from human studies
+
+The roles of matrix metalloproteinases and their inhibitors in human diseases
+
+Matrix metalloproteinases in the brain and blood-brain barrier: versatile breakers and makers
+
+Astrocytes are necessary for blood-brain barrier maintenance in the adult mouse brain
+
+The blood-brain barrier in systemic infection and inflammation
+
+Glymphatic system, AQP4, and their implications in Alzheimer's disease
+
+Dual microglia effects on blood brain barrier permeability induced by systemic inflammation
+
+Understanding brain dysfunction in sepsis
+
+Sepsis-Associated encephalopathy and blood-brain barrier dysfunction
+
+CD40-CD40 ligand pathway is a major component of acute neuroinflammation and contributes to long-term cognitive dysfunction after sepsis
+
+Neurogenic inflammation after traumatic brain injury and its potentiation of classical inflammation
+
+Expression from the human occludin promoter is affected by tumor necrosis factor alpha and interferon gamma
+
+Albumin induces upregulation of matrix metalloproteinase-9 in astrocytes via MAPK and reactive oxygen species-dependent pathways
+
+Interactions of oxidative stress and neurovascular inflammation in the pathogenesis of traumatic brain injury
+
+Role of microvascular disruption in brain damage from traumatic brain injury
+
+Mechanisms of blood-brain barrier dysfunction in traumatic brain injury
+
+Knockout of glutamate transporters reveals a major role for astroglial transport in excitotoxicity and clearance of glutamate
+
+Astrocytic endfeet re-cover blood vessels after removal by laser ablation
+
+MMP-mediated disruption of claudin-5 in the blood-brain barrier of rat brain after cerebral ischemia
+
+Endothelin-1 is upregulated after traumatic brain injury: a cross-species, cross-model analysis
+
+Targeted over-expression of endothelin-1 in astrocytes leads to more severe brain damage and vasospasm after subarachnoid hemorrhage
+
+Delayed administration of BQ788, an ET(B) antagonist, after experimental traumatic Brain Injury promotes recovery of Blood-Brain barrier function and a reduction of cerebral edema in mice
+
+Data availability
+
+Data will be made available on request.

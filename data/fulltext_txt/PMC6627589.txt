@@ -1,0 +1,767 @@
+Approaches to CNS Drug Delivery with a Focus on Transporter-Mediated Transcytosis
+
+Drug delivery to the central nervous system (CNS) conferred by brain barriers is a major obstacle in the development of effective neurotherapeutics. In this review, a classification of current approaches of clinical or investigational importance for the delivery of therapeutics to the CNS is presented. This classification includes the use of formulations administered systemically that can elicit transcytosis-mediated transport by interacting with transporters expressed by transvascular endothelial cells. Neurotherapeutics can also be delivered to the CNS by means of surgical intervention using specialized catheters or implantable reservoirs. Strategies for delivering drugs to the CNS have evolved tremendously during the last two decades, yet, some factors can affect the quality of data generated in preclinical investigation, which can hamper the extension of the applications of these strategies into clinically useful tools. Here, we disclose some of these factors and propose some solutions that may prove valuable at bridging the gap between preclinical findings and clinical trials.
+
+1. Introduction
+
+Decades of dedicated efforts have led to scientific advances in understanding the physiology of many diseases and development of a wide array of therapeutic materials. To fulfil their intended purpose, therapeutic materials must have adequate pharmacokinetics and pharmacodynamics that can allow them to accumulate in the diseased site in their therapeutically effective concentration. Advances in the treatment of infections or malignancies residing in peripheral tissues are growing at a faster pace compared to their CNS-associated equivalents. In large part, this phenomenon is due to the inability of the therapeutic material to cross brain barriers from the systemic circulation into brain parenchymal tissues. In this review, we describe the anatomical structure of brain barriers with a focus on the major contributor to the brain’s strict permeability. We review excerpts of CNS drug delivery approaches available for clinical use or still undergoing clinical or preclinical trials. We also highlight the principles underlying their mechanism of action and bring out some of their advantages and limitations. Finally, we attempt to follow their progress as they weave their way from preclinical investigation to clinical use.
+
+Targeted drug delivery has found applications in the diagnosis and treatment of many diseases, such as cancer, diabetes and neurodegenerative diseases. As yet, neurodegenerative diseases remain an area where targeted drug delivery is most needed, since surgical treatments are not always an option and a treatment at a molecular level is needed. Additionally, intravenously injected neurotherapeutic materials not only have to evade en route biological barriers, such as solubility in the blood stream, stability against enzymatic degradation and phagocytosis, but also barriers interposed between the systemic circulation and brain tissues. Barriers of the central nervous system (CNS) are made of specialized cells that lie at the interface between blood and nervous tissues, forming the blood-brain barrier (BBB), and between blood and cerebrospinal fluid, forming the blood-cerebrospinal fluid barrier (BCSFB) Figure 1. These specialized cells express transmembrane proteins with which they can seal off the intercellular space protecting brain tissues from micro-organisms, toxic compounds and fluctuations in the blood stream that can disrupt synaptic transmission allowing the brain to efficiently perform its vital functions. The BBB is considered as the primary contributor to the brain’s strict permeability due to its larger surface area and its faster blood flow rate in comparison to BCSFB. BBB cells are the endothelial cells that line brain vasculature, while BCSFB cells are the choroid plexus epithelium cells that line the cerebral ventricles and the arachnoid epithelium that line the brain vasculature in the subarachnoid space.
+
+2. Structural Components of the BBB
+
+The major contributor to the BBB occlusion and strict permeability are the tight junctions (TJs) that seal off the intercellular space between the endothelial cells (ECs) lining the cerebral microvessels. TJs (e.g., claudins, occludins and junctional adhesion molecules) are transmembrane proteins that bind extracellularly to identical transmembrane proteins in adjacent ECs and intracellularly to the actin component of the filamentous cytoskeleton. The occlusion and strict permeability of the BBB is maintained and regulated by mural and glial cells in response to neuronal activity and needs. Mural cells, pericytes and smooth muscle cells, embedded in an extracellular perivascular matrix termed basement membrane, control the diameter of capillaries, thus regulating blood flow and immune cell infiltration. Astrocytes, a component of glial cells, ensheath the ECs, mural cells and the extracellular matrix, supporting blood vessels’ architecture and maintaining BBB integrity. Astrocytes secrete chemical reagents that modulate BBB permeability in response to neuronal signals, providing the cellular linkage between neuronal circuitry and blood vessels. Together, the TJs, pericytes and astrocytes form the physical components of the BBB.
+
+Due to the absence of vascular fenestrae, molecules (e.g., nutrients, electrolytes, metabolic waste and potentially therapeutic material) are translocated across the BBB’s vascular endothelium via specialized transporters (Figure 2). Nutrients, such as glucose, amino acids, peptides and proteins, are actively transported down their concentration gradient from the vascular lumen to the brain parenchyma via carriers or receptors expressed at the luminal and abluminal plasma membranes of the BBB’s ECs. Influx of electrolytes, e.g., Na+ and K+, is regulated by ion pumps residing on the abluminal surface of EC membranes. Potentially toxic substances, such as amyloid-beta, a peptide implicated in the pathology of Alzheimer’s disease, are cleared from the brain parenchyma by receptors expressed at the abluminal membrane. Small molecules, e.g., CO2, O2 and lipophilic molecules, with molecular weights <400 Da, are able to passively diffuse through the lipid bilayer membranes of ECs.
+
+The passive diffusion of small lipophilic molecules through the lipid bilayer across the BBB, in most scenarios, is counteracted by enzymatic metabolism or active efflux from vascular endothelium into the blood. Active efflux is accomplished by ATP-binding cassette transporters (ABC), such as P-glycoprotein (P-gp), breast cancer resistance proteins (BCRPs) and multidrug resistance-associated proteins (MRPs). ABC transporters are transmembrane proteins that use the hydrolysis of adenosine triphosphate (ATP) as the driving force for the translocation of their substrate against the substrates’ concentration gradient. Albeit essential to protecting brain homeostasis and vitality against foreign molecules, efflux transporters pose additional hurdles in the delivery of neurotherapeutics across the BBB due to their broad substrate scope.
+
+2.1. Strategies for Delivery of Therapeutics Across the BBB
+
+Technical strategies for the delivery of therapeutics across the BBB, as we shall see, are broadly divided into two main categories—delivery beyond and through the BBB. Delivery beyond the BBB bypasses the BBB altogether by injecting the therapeutic material directly into the brain tissues. Delivery through the BBB can be achieved either by enhancing the physicochemical properties of the therapeutic material, inhibition of efflux pumps, transient disruption of the BBB or by exploiting endogenous transport mechanisms employed by ECs for the translocation of nutrients. In this section we will present examples of both approaches and highlight the underlying principles and some of the advantages and disadvantages.
+
+2.1.1. Drug Delivery Beyond the BBB
+
+Intraparenchymal Drug Delivery
+
+Intraparenchymal drug delivery is the direct injection of therapeutic material in the brain interstitium (Figure 3). Brain interstitium is the region lying within the extracellular and extravascular space in brain parenchyma. The space is occupied with interstitial fluid, which consists of water, salts, sugars, fatty acids, amino acids, hormones, neurotransmitters and other nutrients. Injecting the therapeutic material directly in the brain interstitium allows it to reach different regions in the brain by traversing the interstitial space. Due to its interspersion with cells and capillaries, the interstitium is an inhomogeneous and anisotropic environment and can often be altered by a disease’s pathological state. In practical terms, this means that injection is associated with inevitable, and sometimes permanent, damage to nearby tissues. Additionally, the procedure is fraught with technical complications, such as inadequate infusate diffusion, and in some cases, backflow.
+
+Intraventricular and Intrathecal Drug Delivery
+
+The therapeutic material is directly administered in one of the ventricles (intraventricular) or the spinal canal (intrathecal) as time-separated boluses via an internally implanted reservoir or a programmed pump (Figure 4). The therapeutic material reaches the brain and spinal cord tissues through the CSF. Replenishment of the therapeutic material can be achieved by topping up the reservoir or replacing the pump. The installation of the catheter and the reservoir or the pump is performed surgically, thus, as with all surgical manipulations, there is a risk of tissue damage, accompanied with a loss of function, and tissue infection with the added recovery time of the patient. The extent of such risks can be reduced by careful planning of the operation, use of orthogonal technologies that can help visualize the route of implantation, and antibiotic prescription, if necessary. In some cases, intraventricular or intrathecal drug administration is the most cost-effective approach for the treatment of chronic pain secondary to brain or spinal cord injury by sustaining a prolonged and stable state of analgesia without developing addiction or severe side effects, thereby improving patients’ quality of life.
+
+Intranasal Drug Delivery
+
+Therapeutic material administered intranasally can reach the CNS via three transport routes; the olfactory pathway, the trigeminal pathway and the systemic circulation pathway. The olfactory and trigeminal pathways bypass the BBB by delivering the therapeutic material from the nasal cavity to the brain tissue via passive or active transport mechanisms along the olfactory nerves or trigeminal nerve branches that innervate the nasal cavity (Figure 5). As for the systemic circulation pathway, the therapeutic material must diffuse through the mucus, cross the nasal epithelium by passive or active transport, enter the venous blood flow to reach the CNS, then overcome the BBB. The olfactory and trigeminal pathways are the direct nose-to-brain transport routes in this scenario and are much less invasive than the intraparenchymal and intraventricular routes. However, these pathways are limited by the small amount of therapeutic material that can successfully reach the brain tissue, relative to the amount administered.
+
+2.1.2. Drug Delivery Through the BBB
+
+Optimizing the Physicochemical Properties of Therapeutic Materials
+
+To fulfil its intended purpose, a drug must exhibit high potency and selectivity towards the biological target, as well as reach a concentration above an experimentally determined threshold within brain tissue. Drug concentration in the brain, Cbr, is influenced by the concentration of the drug in its free form in the blood stream, as described by Equation (1), where Kin is the unidirectional influx constant.
+
+The concentration of the therapeutic material in its free form in the blood pool, expressed as the area under the plasma concentration-time curve (AUC0T), is affected by its pharmacokinetic properties. Pharmacokinetic refers to how the host’s body acts on the therapeutic material once it’s administered by absorption, distribution, metabolism and excretion processes (Figure 6). Therefore, optimizing the physiochemical properties of drug candidates to evade these processes has become an integral part of the drug discovery paradigm. In this context, the most detrimental physiochemical properties are lipophilicity, hydrogen bonding, molecular flexibility and molecular volume. Drawn from literature precedents in this area, lipophilicity, hydrogen bonding and molecular flexibility follow a parabolic curve that exists between these properties and the drug’s distribution in the brain. Increasing the lipophilicity improves the solubility of drug candidates in ECs’ lipid membranes but it can negatively affect the drug’s absorption, and consequently its AUC0T, due to insufficient solubility in the blood stream. Increasing the number of heteroatoms capable at forming hydrogen bonds may resolve drug absorption limitations as a result of increased hydrophilicity. Nonetheless, it can introduce other issues, such an increase in free energy of desolvation due to the enthalpy penalty associated with the polar groups desolvation, which is a process the drug must undergo as it approaches the ECs’ lipid membranes and attempts to initiate a dipole interaction with its components. Additionally, increased polarity and/or lipophilicity may enhance drug binding to serum proteins via H-bonding and lipophilic interactions, respectively, which, in turn, reduces its AUC0T, and therefore, Cbr. Molecular flexibility, induced by rotatable bonds, allows the drug molecule to wiggle through the long chains of the membrane lipids. However, excessive molecular flexibility may have the opposite effect if the drug molecule can adopt an array of conformations among which are bulky geometries. As for molecular volume which is a function of molecular weight and structure including all accessible conformations the drug molecule can adopt under the physiological conditions, the more compact it is the greater is the likelihood of the drug traversing the BBB by passive diffusion through its ECs’ LBL membranes. Retrospective analysis of CNS and non-CNS active drugs that had entered at least phase II of clinical trials determined the general physicochemical properties required for BBB penetration and has guided the synthesis of novel analogues. The growth of computing power allowed the development of computational algorithms that can predict the physicochemical and pharmacokinetic properties of drug candidates and their capacity to bypass the BBB.
+
+Inhibition of Efflux Proteins
+
+Inhibition of efflux pumps allows systemically administered drugs that can passively cross the BBB to accumulate in the brain and reach their therapeutically effective concentration. The inhibitor, typically co-administered with the drug, can attenuate the activity of efflux pumps by competitively or allosterically blocking the drug binding site or by interfering with ATP hydrolysis that drives the efflux of substrates against their concentration gradient (Figure 7). In pre-clinical studies, co-administration of elacridar, a P-gp allosteric modulator, with paclitaxel, a chemotherapeutic agent, was shown to increase the latter’s brain uptake in mouse models relative to matched controls. Efflux transporters are ubiquitously expressed in several human tissues, such as kidneys and liver, therefore the pharmacokinetic fate of therapeutic material co-administered with efflux inhibitor is often unpredictable. Whereas down-regulation of efflux transporters’ activity can enhance brain uptake of the therapeutic material, it can also increase brain uptake of potentially toxic materials. Therefore, the risks associated with long-term therapy utilizing this approach must be carefully weighed.
+
+Transient Disruption of the Blood–Brain Barrier
+
+Hyperosmotic Disruption of the BBB
+
+Intracarotid injection of a hyperosmotic solution such as arabinose or mannitol prior to intraarterial administration of chemotherapeutic agents was shown to substantially raise the latter’s concentration in the brain parenchyma. The hyperosmotic solution causes water to be withdrawn out of the ECs into the vascular lumen, resulting in shrinkage of the ECs (Figure 8). Shrinkage of the ECs causes their cytoskeleton to horizontally contract, whose effect propagates through the cytoskeleton’s actin component, TJs’ adapter proteins, and finally reaches the TJs proteins. The downstream effect is an increased bulk fluid flow across the tight junctions into brain parenchyma. The transient disruption induced by this hyperosmotic method lasts for a short period of time—15 min to 4 h—the length of which can be modulated by varying hyperosmotic solution concentration and infusion time. The hyperosmotic disruption technique is non-specific with respect to the cerebral and brain tissue it can affect. The hyperosmotic solution can circulate in the blood stream and induce its affect in several brain and, potentially, body regions. Despite its low morbidity rates, hyperosmotic disruption of the BBB is associated with transient cerebral edema due to increased bulk fluid influx. This can severely aggravate neurological defects, especially if such treatment regimen is to be prescribed repeatedly.
+
+Microbubble-Assisted Focused Ultrasound Irradiation (MB-FUS)
+
+Image-guided focused ultrasound (FUS) emerged as an alternative approach for the induction of transient BBB disruption after it had for been tested for a long time as a non-invasive thermal ablation technique for the treatment of brain tumors. Early investigations of FUS-induced BBB disruption and its bioeffects on brain tissue reported the occurrence of tissue damage that manifested itself as lesions or necrosis due to exposure to high frequencies of FUS. Intravenous injection of preformed microbubbles prior to FUS exposure prevented tissue damage by attenuating the effective FUS power levels. The microbubbles, which are typically commercially accessible lipid or albumin shells encapsulating gaseous material, such as Optison, harness the acoustic power and concentrate it to the blood vessel walls maximizing its efficiency, and thus, lowering the threshold of effective power levels (Figure 9). Circulating micro-bubbles move in the direction of the FUS wave propagation and are brought in close contact with the vessel’s ECs. Depending on their size and the acoustic power level, microbubbles can oscillate, micro-streaming the medium surrounding them, expand, or collapse, exerting mechanical stress on ECs, modifying their membranes and the tight junctions between them. The transient disruption induced by microbubble-assisted FUS lasts for a short period of time, from 4 to 6 h, the length of which can be modulated by tuning pulse duration, pulse frequency, exposure time and microbubbles’ diameter. The success of trans-BBB delivery following a microbubble-assisted FUS BBB-disruption event was demonstrated for a broad spectrum of therapeutic materials, including liposome-encapsulated and antibody-based anticancer agents. Orthogonal techniques, such as magnetic resonance imaging (MRI), have been used to visualize and monitor the process in real-time to ensure adequate optimization of the BBB disruption parameters and deep tissue targeting with efficient spatial resolution. Minimizing aberrations in the phase and amplitude of FUS waves caused by the skull acoustic impedance remains the major challenge of this approach. Correction for FUS beam aberrations introduced by the skull, whose thickness varies amongst species, requires determination of the acoustic properties of the test subjects’ skull. This can be achieved by CT scanning, and integrating the resulting data in aberration correction algorithms. Correction of abrasions, together with the multiple MRI acquisitions and analysis, makes this approach time consuming, and considering the amounts of both ultrasound and MRI contrast agents, may not always be cost-effective.
+
+The mechanism by which TJs protein impairment is evoked, including how hyperosmotic or mechanical stress contribute to this impairment, remains unknown. In independent studies, immunoelectron microscopic examination after hyperosmotic and FUS-induced disruption showed both redistribution and loss of immunosignals of TJ proteins in affected brain regions. Loss of immunosignals can be attributed to disintegration, denaturation or conformational change in TJs’ protein structure. The major concern in transient BBB disruption technologies is that during the therapeutic window, the CNS remains unprotected against blood-borne toxins, such as bacteria and viruses, and blood components that are considered neurotoxic. Therefore, the technique requires careful planning, monitoring and optimization of the therapeutic window to ensure optimal therapeutic efficacy and reduced side effects.
+
+2.1.3. Drug Delivery Using Novel Formulations
+
+Designing drug candidates with balanced physicochemical properties that can simultaneously sustain an adequate pharmacokinetic profile of the drug and conquer the BBB remains a very challenging aspect. Such challenge can be offset, as discussed below, by designing sophisticated formulations that can exploit the innate transcytosis capacity of transporters expressed by ECs of the BBB. This can be achieved by ligation of the therapeutic material to a vector whose binding to an EC transporter can elicit a transcytosis event. EC transporters targeted to fulfill this purpose fall into three major categories: solute carriers, protein and hormone receptors, and negatively charged membrane entities. Although some of these transporters are bidirectional, the flux direction is generally set by the concentration gradient from high intravascular to low intracerebral. Exemplary EC transporters that participate in such delivery modality are briefly reviewed in this section, along with prototypical examples of formulations designed to target them.
+
+Solute Carrier-Mediated Transcytosis (CMT)
+
+The detailed mechanism of elicited solute carrier-mediated transcytosis (CMT) is believed to proceed via carrier–vector recognition at the luminal side followed by a conformational change of the carrier from outward to inward-facing states, resulting in the transport of the substrate down its concentration gradient across luminal and abluminal membranes of the ECs (Figure 10). Solute carrier transporters (SLC) are bidirectional and are expressed at both the luminal and abluminal membranes to ensure the translocation of their substrates into the ECs through the luminal membrane and out through the abluminal membrane, without sequestration within the capillary endothelium.
+
+Glucose Transporters (GLUTs)
+
+Transport of glucose across the BBB is facilitated by several glucose transporters, of which the most prevalent is the sodium-independent bi-directional transporters family (GLUTs). Due to their abundance, glucose transporters gained significant attention as a potential drug delivery route across the BBB. In pre-clinical studies, glycosyl conjugates, d-glucos-6-yl ester, in particular, of the BBB-impermeable antidepressant 7-chlorokynurenic acid were shown to be more potent as neuroprotective agents against seizures induced by N-methyl-d-aspartate (NMDA) in mouse models (Figure 11).
+
+Similarly, glycosylation of l-DOPA, an FDA approved dopamine metabolic precursor used for the management of Parkinson’s disease symptoms, was shown to significantly reverse the reserpine-induced hypolocomotion (Figure 11). In contrast, attempts to deliver glycosylated chemotherapeutic reagents across the BBB failed by comparison. Not only were glycosyl conjugates of structurally larger molecules—such as chlorambucil, a chemotherapy medication used to treat chronic lymphocytic leukemia—not transported by GLUTs, but they also inhibited the uptake of 14C-labelled glucose (Figure 11). Albeit reversible, the inhibitory activity of glycosyl conjugates of chlorambucil deemed this approach limited by its high selectivity toward a specific molecular size.
+
+Large Neutral Amino Acid Transporters (LATs)
+
+The large neutral amino acid transporters (LATs) are transporters associated with the translocation of neutral amino acids that contain relatively large and lipophilic substituents on the α-carbon, such as l-tyrosine and triiodothyronine, across biological membranes. Pharmacologically significant LATs substrates include the prodrug l-DOPA, used as dopamine replacement in Parkinson’s disease therapy, melphalan, used as a chemotherapeutic agent, and gabapentin, prescribed as anticonvulsant medication (Figure 12). By analogy with GLUTs, LATs are highly selective toward the substrate’s size, conformational rigidity and regiochemistry of its substituents, which can limit this drug delivery approach to a small group of therapeutic materials. Additionally, LATs were found to competitively bind to some of its substrates, which can inhibit their ability to transport other essential amino acid nutrients.
+
+Organic Anion Transporting Polypeptide (OATPs)
+
+Organic anion transporting polypeptide (OTAPs) are protein transporters that mediate the transport of a wide variety of endogenous amphipathic organic substrates, including steroid conjugates, thyroid hormones, bile salts, and oligopeptides. A growing body of pre-clinical studies demonstrated OTAPs’ capacity to transport oligopeptides, such as DPDPE and deltorphin, which bind to opioid receptors expressed throughout brain, spinal cord and peripheral nerves, inducing an analgesic effect against pain secondary to inflammatory pathological conditions (Figure 13).
+
+Receptor-Mediated Transcytosis (RMT)
+
+In receptor-mediated transcytosis (RMT), a receptor–vector recognition event occurs at the luminal side (Figure 14). This first point of entry is followed by endosome formation, which pinches the luminal membrane and transports the cargo across the endothelial cell to the opposite end. Transcytosis ends with exocytosis of the cargo at the abluminal side and recycling of the receptor back to the luminal surface of the membrane, free to engage in another RMT cycle. The limiting step in achieving an effective delivery of neurotherapeutics across ECs is the prevention of lysosomal sorting, leading to degradation of the neurotherapeutic cargo.
+
+Insulin Receptor (IR)
+
+The insulin receptor (IR) facilitates the transport of insulin, produced nearly exclusively by the pancreas, across the BBB so it can contribute in an array of vital signaling pathways. Engineered monoclonal antibodies with a binding affinity towards the IR can be used to ferry therapeutic materials across the BBB via IR-mediated transcytosis. Erythropoietin (EPO), a neurotrophic factor that supports the growth, survival, and differentiation of neurons, is a protein whose development as a potential therapeutic material for treatment of neurological disorders is restricted by its inability to traverse the BBB. Re-engineering of EPO by its genetic fusion to a peptidomimetic monoclonal antibody with an affinity to human insulin receptor (HIRMAb) was shown to markedly increase its brain uptake after intravenous injection into adult rhesus monkeys relative to the native EPO control (Figure 15).
+
+Transferrin Receptor (TfR)
+
+The transferrin receptor (TfR) is a transmembrane glycoprotein, whose function is to mediate the cellular uptake of Fe-bound Tf. Tf is a member of Fe-binding glycoproteins family and a protein of vital importance for the proliferation, growth, and differentiation of cells. In preclinical studies, anti-TfR monoclonal antibody drug conjugates, such as anti-TfR antibody-methotrexate, a chemotherapeutic agent, were shown to exhibit an enhanced uptake into the brain parenchyma relative to their antibody-free analogues (Figure 16). The versatility of this approach encompasses not only the delivery of small molecules but also offers a potential delivery route for peptides and neurotrophic factors. Owing to its enhanced transport across the BBB, an anti-TfR monoclonal antibody-EPO conjugate intravenously injected into mouse stroke models dramatically reduced the hemispheric stroke volume compared to its antibody-free counterpart.
+
+Low-Density Lipoprotein Receptor (LDLR) and Low-Density Lipoprotein Receptor-Related Protein (LPR)
+
+The low-density lipoprotein receptors (LDLRs) and LDLR-related proteins (LRPs) are multifunctional members of the LDLR superfamily, which is engaged in a wide range of physiological processes, including the regulation of cholesterol homeostasis by receptor-mediated uptake of cholesterol-transporting low-density lipoproteins. Ligands that can stimulate LDLs and LRPs-mediated transcytosis across the BBB, such as angiopep, were derived from LDLRs and LRPs substrates, such as amyloid precursor protein (APP) and aprotinin, in particular their Kunitz protease inhibitor domain. An angiopep-paclitaxel conjugate (ANG1005) was shown to be significantly more effective at bypassing the BBB and accumulating in brain parenchyma, compared to the free paclitaxel, after its intravenous injection into brain-metastasized breast cancer mouse models (Figure 17).
+
+Neurotropic Virulence Factor Receptors (VFRs)
+
+Virulence factors are molecules produced by a pathogen to allow it to enter, replicate, and persist in a host organism’s body. A prominent example is the neurotropic rabies virus (RV), which recruits its external glycoprotein (RVG) to bind to the nicotinic acetylcholine receptor, membrane fusion and host-cell entry. The well-characterized mechanism of RV cellular entry inspired the development of a CNS-drug delivery motif, which utilizes RVG-derived peptides as the delivery vector. In preclinical gene silencing studies, GFP transgenic mouse models were intravenously injected with GFP-specific small interfering RNA (siRNA) non-covalently conjugated to a chimeric RVG fragment peptide (Figure 18). Conjugation to RVG fragment peptide enabled the translocation of GFP specific siRNA across the BBB and GFP gene expression was significantly suppressed in the brains of test subjects relative to their other major organs.
+
+Adsorptive-Mediated Transcytosis (AMT)
+
+Similarly to RMT, adsorptive-mediated transcytosis (AMT) proceeds with an invagination of the AMT-substrate followed by endosomal formation and transport from the luminal to the abluminal side, ending with exocytosis of the endocytosed cargo. Unlike RMT, AMT is triggered by an electrostatic interaction between the AMT-vector and anionic proteoglycans, such as syndecan-4 (Figure 19A). AMT-vectors can be derived from naturally occurring proteins or peptides and are typically short, not exceeding 30 amino acid residues, and feature hydrophobic residues and residues that are positively charged under physiological conditions. Vectorization by ligation to cell-penetrating peptides, such as SynB1, a peptide derived from an antimicrobial peptide isolated from porcine leucocytes, was shown to markedly enhance brain uptake of poor BBB-penetrating drugs, such as cysteamide-modified dalargin, doxorubicin, and benzylpenicillin (Figure 19B). The most attractive attribute of drug delivery facilitated by AMT is that it does not interfere with endogenous cellular functions the way CMT or RMT-mediated drug delivery do. To date, there are no records, to our knowledge, that can demonstrate an interference of AMT with cellular signaling pathways. Additionally, binding sites are saturated at higher concentrations in AMT than they are in CMT and RMT.
+
+Nanoscopic Formulations for the Delivery of Therapeutics to the Brain
+
+Nano-formulations have emerged as platforms that allow the modification of the pharmacokinetic or pharmacodynamic properties of therapeutic materials without dramatically modifying their chemical structure (Figure 20). Because clearance of therapeutic material by excretion is dependent on its molecular weight, nano-formulations are designed to increase the apparent therapeutic material’s hydrodynamic volume, reducing its rate of excretion. Nano-formulations are also designed to mask the therapeutic material’s functional groups detectable by the host’s immune system, serum proteins and enzymes, prolonging its circulation half-life.
+
+Some nano-formulations are engineered with an intrinsic capacity to deliver therapeutics across brain barriers, such as SGT-53, while others are engineered to deliver therapeutics with the aid of recently developed techniques that transiently disrupt the BBB, such as Doxil® (Figure 21). Nano-formulations of several therapeutics have been approved by the Food and Drug Administration (FDA) and are commercially available, such as Doxil® and Onivyde®, and some are currently under preclinical and clinical trials, such as NU-0129 and OnzealdTM.
+
+Developing drug delivery strategies that can overcome the BBB and selectively target the mitochondria is of great interest, since mitochondrial dysfunction has been implicated in the pathology of several neurodegenerative diseases, such as Alzheimer’s disease, Parkinson’s disease, and cancer. Mitochondrial targeting ligands exploit the mitochondrial inner negative potential to stimulate mitochondrial uptake. Mitochondrial-targeting ligands share similar structural features with AMT ligands. They are small, hydrophobic and positively charged molecules. One of the important questions we look forward to answering is if the positive charge of mitochondrial-targeting ligands delocalized over their hydrophobic phenyl rings can elicit an AMT-like transport of mitochondrial-targeting conjugates or whether mitochondrial-targeting conjugates require the use of orthogonal techniques that can transiently disrupt the BBB, such as MB-FUS. We set out to test these hypotheses by designing nanoscopic polymeric brush-like architectures (NPBAs) conjugated with mitochondrial-targeting ligands (Scheme 1). Our group prepared a fluorescent mitochondrial-targeting NPBA prototype via Ring Opening Metathesis Polymerization technique (ROMP).
+
+ROMP initiated by Grubbs third generation ruthenium-benzylidene catalyst has been regarded as a powerful tool for the synthesis of graft-through nanoscopic brush architectures with a predictable number average molecular weight, Mn, and a narrow molecular weight distribution, Ð (Scheme 1; Box 1). Triphenylphosphonium ligands have emerged as economically and synthetically accessible mitochondrial-targeting systems that can be accessed from alkyl-halides via a substitution reaction using PPh3 as the nucleophile in a pre-polymerization step.
+
+A range of commercially available hydrophilic polymers, such as chitosan, polyethylene glycol and poly(N-(2-hydroxypropyl)methacrylamide), can be used for the hydrophilic skeleton design, but because polyethylene glycol has only two terminal functional groups, its functionalization is practically more precise to accomplish and monitor. Additionally, the ethylene glycol oligomers can be prepared in-house in good yields and with high oligomeric purity via oligomerization of tetraethylene glycol. The diethylamino coumarin derivative proved useful as a fluorescent tag due to its two-photon fluorescence, which can be induced via illumination with a stream of a pulsed near-infrared laser beam with a pulse duration and repetition rate of 100 fs and 80 MHz, respectively. The optical consequence of two-photon fluorescence is the confinement of the fluorescent region to a smaller volume than that of conventional one-photon fluorescence. In practical terms, this leads to suppression of out-of-focus fluorescence, which enhances the resolution of the image and minimizes photobleaching of fluorophore molecules and photochemically-induced cytotoxicity of the live specimen. Nonetheless, the optical probe is a bright UV-Vis, excitable fluorescent dye that can generate good images with a conventional confocal microscope. Preliminary mitochondrial-uptake assessment of NPBA-I conducted employing a monolayer of SH-SY5Y cells showed promise but more effort is still needed to bring this idea to its full potential.
+
+Advantages of ROMP in the Context of drug-delivery formulation design.
+
+The beauty of ROMP is its ability to integrate the mitochondrial targeting ligand or the fluorescent tag, or any other desirable functional groups, orthogonally to the polymerization process. If ROMP was conducted under living polymerization conditions, the desirable functional groups are controllably and homogenously incorporated into polymer molecules in a bottom-up approach. Use of nanoscopic formulations with homogenous distribution of the desired functional group(s) in biological experiments generates reproducible data, creating more opportunity for new insights.
+
+2.2. Challenges in Translation from Pre-clinical Evaluation to Clinical Use
+
+After toxicity and efficacy of drug delivery formulations are assessed in animal models, human trials are initiated, the outcome of which can be communicated to request an FDA approval for marketing purposes. Clinical trials are broken into three main stages that build on one another: a dosing, toxicity and excretion in healthy subjects stage (phase I); a safety and efficacy in a larger group of patients with the target illness stage (phase II); and a multi-center, randomized and placebo-controlled stage (phase III). We surveyed the clinical trial database available at the  repository in April 2019, bearing in mind that the status of trials changes over time, using search terms centered around the BBB. We cross-checked the outcome with recently published reviews in the area of drug delivery formulations to assess the progress in the field of drug delivery to the CNS. We listed a glimpse of the survey findings, which we believe is of relevance to the scope of this review (Table 1). A number of drug delivery formulations that were designed to deliver therapeutics to the CNS by exploiting the innate transcytosis capacity of ECs have been granted approval to undertake clinical trials. The transition of CNS-targeting formulations, such as ANG1005 and SGT-53, from preclinical investigations to the clinical trials pipeline is indicative of the feasibility of transporter-mediated transcytosis approach. Nonetheless, the scarce number of successful clinical trial transitions of transporter-mediated transcytosis formulations suggests that the extrapolation of data generated from animal studies to humans is encountering significant challenges. Thus, what are the key challenges in CNS-targeted drug delivery development that can delay the translation of preclinical findings to clinical use?
+
+2.2.1. Safety Liabilities due to Nonspecific Body Distribution
+
+In freshly isolated human erythrocytic cells, glycosyl conjugates of chlorambucil 8 and 9 were shown to inhibit the uptake of d-[14C]glucose in a concentration-dependent manner. The interaction of glycosylated chlorambucil esters 8 and 9 with the GLUTs was concluded to be in the form of a non-transported inhibitor. In an independent study, mice treated with TfR-MAb suffered from a marked decrease in immature reticulocyte count relative to mice treated with non-immune IgG control. Reticulocytes develop into red blood cells through erythropoiesis; a process that requires maintaining iron homeostasis. The indiscriminate uptake of transporter-mediated transcytosis formulations was reported in several pre-clinical studies to extend beyond constituents of the circulatory system to encompass major body organs such as spleen and liver which is conceivable due to ubiquitous expression of protein transporters in several body regions. These phenomena raise efficacy and safety concerns associated with the peripheral uptake of these formulations and their competition with natural substrates for the binding to carrier or receptor proteins. It is clear thus far that transporter-mediated transcytosis approach can improve brain uptake of the therapeutic payload. However, consequent to their indiscriminate uptake profile among major body organs, can transporter-mediated transcytosis formulations, under the currently employed experimental conditions, allow the therapeutic payload to consistently and robustly attain a therapeutically effective concentration in the brain? If so, would the aforementioned transient nutritional deprivation be a tolerable compromise? Alternatively, how can the chemical structure of the transporter-mediated formulation be tailored to find a good balance between efficacy and safety?
+
+2.2.2. Inadequate Endothelial-Parenchymal Transport
+
+Brain permeability under saturable uptake processes such as transporter-mediated transcytosis is often described by Equation (2) where PS is the brain permeability surface, CPf is the concentration of test solute in the perfusate, Vmax is the maximal rate of the saturable component of transport, Km is the perfusate concentration at which half maximal transport occurs, and Kd is the non-saturable diffusion uptake clearance. Based on this conception, drug-conjugates had been formulated to possess high affinity, therefore low Km values, towards the target protein transporter. However, recent findings emerged to contradict with this conception revealing that high affinity towards the protein transporter, such as TfR, that is not easily reversed may obstruct the release of the drug-conjugate from the abluminal membrane which is the final stage of the transcytosis pathway. In parallel preclinical studies employing in vitro models, strong binding to TfR was shown to trigger lysosomal sorting which may contribute to the obstructed transcellular trafficking observed in vivo. These findings invalidate previous communications and invite researchers in this field to; (1) Study structure-function relationship of drug-conjugates in more detail in the context of transport across the BBB to brain parenchyma, and (2) Critically analyze their brain uptake assessment protocols in an attempt to account for such discrepancies.
+
+2.2.3. How We Measure Drug Transport across the BBB
+
+Brain uptake of a test substrate via a specific transport mechanism can be estimated in animal models through behavioral assays or radiolabeling experiments. Behavioral assays are used to measure brain permeability as a function of the potency of an intravenously or intraperitoneally injected test substrate at reducing the severity of, delaying the onset to or reverting symptoms induced by exposure to noxious stimuli. Radiolabeling experiments, which is the more conventional method, directly measure brain uptake of a radiolabeled test substrate relative to a differentially-radiolabeled reference using a liquid scintillation counter. The differentially-radiolabeled reference can be BBB-impermeable, the use of which corrects for artifactual BBB permeability induced under experimental conditions or during brain tissue sampling and processing. To assess the nature of the transport mechanism of the test substrate, whether it’s competitive or non-competitive, a differentially-radiolabeled and BBB-permeable agent transported via the same mechanism as the test substrate is used as a second reference. Radiolabeling experiments employ complementary techniques, such as capillary depletion, to distinguish the fraction of the test substrate that has successfully bypassed the BBB from the fraction that has been sequestered by ECs. The concentration of the test substrate accumulated in brain tissue, Cbr, can be calculated using Equation (3), where Cp(T) designates blood or plasma concentration at the sampling time T, by fitting the experimentally determined distribution volume of the test substance, VD, and reference, V0.
+
+However, data generated from radiolabeling experiments should be interpreted with caution as multiple factors involved in the experimental design can lead to erroneous interpretation of results. Such factors range from poor recovery of the radioactive material from tissue samples to errors in sample analysis due to quenching of radiolabeled substance during radioactivity measurements. The factor that remains the most detrimental is the degradation of the radiolabeled tracer into radiolabeled metabolites that can traverse brain barriers via alternate transvascular transport mechanisms. This phenomenon leads to overestimation of brain uptake of the parent radiolabeled substance via the scrutinized mechanism which results in discrepancies amongst preclinical findings. Perhaps investigation may be accurately conducted if a metabolic profile of the circulating test substrate and its metabolites is obtained by plasma sample collection at multiple time intervals. Alternatively, the use of chromatographic techniques such as capillary electrophoresis may comprehensively and simultaneously assess brain uptake of the test substrates and its metabolites. The cerebrovascular transport of the scrutinized substrate can be studies in its intact for using in situ brain perfusion technique (Box 2).
+
+Approaches to Reducing Metabolic Liability of Test Substrates.
+
+In situ brain perfusion technique was developed to minimize the mixing of the infused test substrate with endogenous plasma, reducing its metabolic degradation. In this technique, blood circulation to the brain in a fully anesthetized animal model is taken over by an infusion of oxygenated physiological buffer. This can be accomplished by ligation of external and internal carotid artery branches, direct catheterization of the carotid artery, and right before starting the infusion, the heart ventricles are severed to stop endogenous blood from mixing with the infusate. Brain is perfused for a brief period, typically 60–120 s, with the physiological buffer containing the test and reference substrates, then washed for 30 s to remove unbound material from brain vasculature. Animals are sacrificed, decapitated, and their brains are removed and prepared to assess their content of radioactive substrates. Albeit suitable for studying the kinetics of the unidirectional uptake of intact substrate, this technique does not fully describe what the injected therapeutic material undergoes in a biological environment.
+
+2.2.4. Species Differ in Parameters that control the BBB permeability
+
+Studies employing quantitative-targeted absolute proteomics (QTAP) coupled with Liquid chromatography–tandem mass spectrometry (LC–MS/MS) revealed that the expression level of functional proteins such as efflux pump, SLC and receptor proteins generally varies amongst different species such as rats, mice, monkeys and humans (Box 3). The differential expression of BBB proteins is paralleled with a varied brain uptake of substrates across different species. Higher brain distribution of radiolabeled P-gp substrates such as 11C-verapamil and 18F-altanserin was detected in the brains of healthy humans and monkeys compared to rodents. Not only the species must be carefully selected before designing an experiment, but also the route of administration. The basis of this selection must be elaborated in the study as the administration route constitutes an important variable that may significantly influence the results (Box 4).
+
+2.2.5. BBB Protein Expression is Altered under Different Pathological Conditions
+
+BBB breakdown has been identified in many patients with various neurological disorders through functional imaging and postmortem analysis. Neuroimaging studies that employ dynamic contrast enhanced-magnetic resonance imaging (DCE-MRI) showed an increase in brain uptake of gadolinium, an MRI tracer, amongst individuals diagnosed with different neurological diseases which is an indicative of capillary leakage (Box 3). Independent studies using positron emission tomography (PET) reported the detection of a diminished glucose uptake and impaired P-gp function in the brains of AD and PD patients. Neuroimaging using arterial spin labeling- magnetic resonance imaging (ASL-MRI) revealed that patients diagnosed with neurological diseases suffer from abnormal brain perfusion and reduced cerebral blood flow which can further aggravate BBB damage. Postmortem analysis of brain samples that belonged to patients diagnosed with different neurological diseases and showed no symptoms of mixed dementia demonstrated perivascular deposits of blood-derived proteins deemed toxic to neuronal function. This observation was often accompanied with degeneration of BBB structural components such as ECs, TJs, pericytes and basement membrane along with dissociation of astrocytic end-feet from capillaries.
+
+Outstanding Questions.
+
+How does microvessel composition of carrier proteins, receptors and acidic and neutral lipids in the brain compare to microvessel composition in other major body organs, such as kidneys, liver, spleen and lungs, and how does this vary among different species?
+
+What is the significance of pathological BBB breakdown in the context of targeted drug delivery? Can BBB breakdown act as a gateway for therapeutic access?
+
+Is the downregulation of transporters activity a phenotypic hallmark of a dysfunctional BBB?
+
+How does the alteration of transporters’ activity progress with the aggravation of disease state and how does it vary under different pathological conditions?
+
+How would advances in the knowledge surrounding pathological BBB breakdown shape the future of research being conducted to exploit the CMT and RMT capacity of ECs in the context of drug delivery through the BBB?
+
+Influence of Drug Administration Route.
+
+There is a sequence of events that any consumed drug must follow before it elicits its therapeutic effect. Events include administration, release from its physical form, absorption from the site of administration into the body, and finally accumulation at the site of action. The route of administration is the first point of access and the first stage at which the drug bioavailability, a measure of systemic availability of a drug, is dictated. The route of administration and how it contributes to the success of drug delivery to the CNS is not within the scope of this review, crucial though it is, only because we believe that it requires a dedicated review to grant this factor the attention it deserves. We can still emphasize the complexity of coordinating the physicochemical properties necessary for optimal drug pharmacokinetics and pharmacodynamics, which can be further complicated when the route of administration is factored in the drug development process. Drugs administered orally, intravenously, subcutaneously, transdermally, intracarotidly or nasally will encounter different en route factors that can influence their dissolution, their release from their physical form, their stability and their absorption. For instance, in oral administration, which is the most popular route of drug dosing, factors such as digestive enzymes, gastric acid, stomach-emptying rate and intestinal motility regulate the rate of drug absorption, metabolism and disposition via the gastrointestinal tract. Consequently, the ideal analysis of the structure-function relationship must accommodate the various administration route-associated factors, not only the nature of the drug and the formulation design.
+
+3. Conclusions
+
+The blood-brain barrier, the meningeal or subarachnoid barrier and the choroid plexus barrier work in consortium to maintain cerebral homeostasis and vital brain functions. Due to its large surface area and its faster blood flow rate, the BBB is considered as the primary contributor to the brain’s strict permeability. The BBB is a continuous layer of endothelial cells fused together by virtue of their tight junction proteins. The BBB is a dynamic assembly whose integrity is modulated in response to neuronal needs. Due to the growing population of patients affected with neurodegenerative diseases, an urgent need for drug delivery strategies that can bypass the BBB has emerged. The progress achieved thus far is divided into surgical approaches that can deliver the therapeutic material beyond the BBB using specialized catheters or implantable pumps, and pharmacological approaches that exploit endogenous transport mechanisms to deliver the therapeutic material through the BBB (Table 2). Surgical approaches are invasive and often fraught with technical complications accompanied with inevitable, and sometimes permanent, damage to nearby tissues, as well as tissue infection. Pharmacological approaches tackle drug delivery through the BBB by either altering the therapeutic material’s physicochemical properties to facilitate its passive diffusion through the LBL, attenuating the efflux power by co-administration of efflux-pump inhibitors, increasing BBB permeability by its transient disruption, or the ligation of the therapeutic material to a vector whose interaction with EC transporters can trigger a transcytosis event.
+
+Altering the physicochemical properties of therapeutic materials is often guided by computational methods derived from the retrospective analysis of CNS and non-CNS active drugs that are commercially available or still undergoing clinical trials. Albeit effective, these methods are still limited by the number of predictive descriptors (lipophilicity, H-bonding, rotatable bonds, etc.), which narrows down the window of drug discovery to encompass a small set of molecules and preclude any serious attempts to explore molecules beyond its limits. The long-term effect of downregulation of efflux-pumps activity, especially in treatment regimens that requires constant and repeated exposure to the inhibitors, is yet to be determined. Similarly, how the inhibition of efflux-pumps ubiquitously expressed in cerebral and peripheral human tissues can alter the pharmacokinetics of the therapeutic material is yet to be unveiled. By the same analogy, the long-term effect of transient BBB disruption, induced by hyperosmosis or microbubble-assisted focused ultrasound, and the resilience of the BBB after repeated and consecutive disruption events remain to be investigated.
+
+Formulations that can elicit a transcytosis event by interacting with EC transporters are designed to target solute carriers, receptors or negatively charged transmembrane proteins. The choice of the target transporter depends on many variables, such as the size and the chirality of the drug-conjugate and whether the ability to mimic the transporter’s natural substrate is essential, or not, to stimulate the binding of the formulation to the target transporter. Sophisticated formulations developed to effectively ferry neurotherapeutics across brain barriers have had promising preclinical success, however, they are still struggling to push their way forth towards clinical use. This brings up an important question—what can we do to facilitate the extrapolation of data generated from animal studies to humans to realize the full potential of this approach?
+
+First of all, information surrounding microvessels composition of carrier proteins, receptors and acidic lipids in major body organs and how it varies under different pathological conditions is sorely lacking. Additionally, preliminary proteomic analysis conducted across multiple species have emphasized species differences in protein expression and suggest that the behavior of test substrates in a human setting may be better predicted in apes than in rodents. The knowledge of microvessel composition and how it varies amongst different species and under different pathological conditions will ultimately guide the optimization of drug-formulation properties to reduce off-site distribution and minimize safety liabilities.
+
+Moreover, development of a range of transporter-specific radioactive tracers that are metabolically stable during the experimental timeframe may further advance the use of neuroimaging technologies, providing more insight into how transporters activity can be altered with age and under different pathological conditions. The library of transporter-specific radioactive tracers needs to be expanded to encompass substrates of various protein transporters—not only GLUTs and P-gp—that can be used to monitor and detect changes in the activity of various transporters.
+
+Furthermore, brain uptake quantification methods need to be thoroughly and critically assessed prior to embarking on a preclinical in vivo experiment. The injected test substrate can undergo numerous elimination pathways, some of which may generate several metabolites. If autoradiography or liquid scintillation counting or any other radio-labeling based techniques is the method of choice, then researchers need to verify the isotopic purity of the radiolabeled tracer prior to its administration, make sure that the radiolabeled isotope does not reside at a metabolically labile position, and scrutinize and establish the metabolic profile of the radiolabeled tracer under the employed experimental conditions using orthogonal techniques, perhaps chromatographic, to account for the presence of any radiolabeled metabolites. Standardizing experimental parameters is imperative to avoid any discrepancies resulting from overestimation of brain uptake of the radiolabeled tracer.
+
+Transvascular transport to brain lesions across the BBB is a unique process compared to drug transport to lesions in peripheral tissues. It requires the drug-conjugate to successfully bypass the luminal membrane, traverse the intracellular space evading lysosomal sorting and subsequent degradation, and finally bypass the abluminal membrane, whilst maintaining the viability of the transporting cells. In depth analysis of the structure-function relationship in the context of transvascular transport and what it entails of transporter protein binding and dissociation kinetics is a prerequisite for a successful drug-conjugate design, and pre-clinical studies that investigate this relationship are scarce.
+
+The transcytosis-mediated transport approach may be regarded by some as an unfulfilled fantasy, yet the idea, and the attempts generously dedicated to realizing it, have advanced our knowledge of transvascular drug delivery and drug-formulation engineering and how the structure of delivery vectors can be tailored to evade lysosomal sorting, achieving a complete and successful transcytosis event. Therefore, because of the success achieved thus far and the potential room for improvement in the way we plan and execute our in vivo experiments, it is premature to deem this approach infeasible.
+
+Funding
+
+This research received no external funding.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.
+
+Abbreviations
+
+ATP	Adenosine Triphosphate	 	AMT	Adsorptive-mediated Transcytosis	 	AD	Alzheimer’s Disease	 	HIR-MAb	Anti-human Insulin Receptor Monoclonal Antibody	 	TfR-MAb	Anti-transferrin Receptor Monoclonal Antibody	 	AUC0T	Area under the Plasma Drug Concentration-time Curve	 	ASL-MRI	Arterial Spin labelling Coupled Magnetic Resonance Imaging	 	ABC	ATP-binding Cassette Transporters	 	BBB	Blood Brain Barrier	 	BCSFB	Blood Cerebrospinal Fluid Barrier	 	Cbr	Brain Concentration	 	BCRP	Breast Cancer Resistance Protein	 	CMT	Carrier-mediated Transcytosis	 	CNS	Central Nervous System	 	CSF	Cerebrospinal Fluid	 	Ð	Dispersity Index	 	DCE-MRI	Dynamic Contrast Enhanced Magnetic Resonance Imaging	 	EC	Endothelial Cell	 	EPO	Erythropoietin	 	GLUT	Glucose Transporter	 	GFP	Green Fluorescent Protein	 	IR	Insulin Receptor	 	ISF	Interstitial Fluid	 	l-DOPA	l-3,4-dihydroxyphenylalanine	 	LAT	Large Neutral Amino Acid Transporter	 	LBL	Lipid Bilayer	 	LRP	Lipoprotein Receptor-related Protein	 	LC-MS/MS	Liquid Chromatography Coupled Mass Spectrometry	 	LDLR	Low-density Lipoprotein Receptor	 	MB-FUS	Microbubble-assisted Focused Ultrasound	 	MCT	Monocarboxylate Transporter	 	MRP	Multidrug Resistance-associated Protein	 	NPBA	Nanoscopic Polymeric Brush Architectures 	 	NMDA	N-methyl-D-aspartate	 	Mn	Number Average Molecular Weight	 	OTAP	Organic-anion-transporting Polypeptide	 	PD	Parkinson Disease	 	P-gp	P-glycoprotein	 	PET	Positron-emission Tomography	 	QTAP	Quantitative-targeted Absolute Proteomics	 	RV	Rabies Virus	 	RVG	Rabies Virus Glycoprotein	 	RMT	Receptor-mediated Transcytosis	 	ROMP	Ring Opening Metathesis Polymerization	 	siRNA	Small Interfering Ribonucleic Acid	 	SLC	Solute Carrier Transporter Proteins	 	TJ	Tight Junction	 	TfR	Transferrin Receptor	 	FDA	U S Food and Drug Administration	 	VFR	Virulence Factor Receptor
+
+References
+
+Molecularly targeted co-delivery of a histone deacetylase inhibitor and paclitaxel by lipid-protein hybrid nanoparticles for synergistic combinational chemotherapy
+
+Drug permeability and mucoadhesion properties of thiolated trimethyl chitosan nanoparticles in oral insulin delivery
+
+Targeted nanoparticles for drug delivery through the blood–brain barrier for Alzheimer’s disease
+
+Drug elimination and clearance
+
+Astrocyte-endothelial interactions at the blood-brain barrier
+
+Barriers in the brain: A renaissance?
+
+A new angle on blood-CNS interfaces: A role for connexins?
+
+CSF, blood-brain barrier, and brain drug delivery
+
+The blood brain barrier and neuropsychiatric lupus: New perspectives in light of advances in understanding the neuroimmune interface
+
+The blood–brain barrier
+
+Structure and function of the blood–brain barrier
+
+Tight junctions of the blood–brain barrier: Development, composition and regulation
+
+The blood-brain barrier/neurovascular unit in health and disease
+
+Brain endothelial cells and the glio-vascular complex
+
+Tight junction in blood-brain barrier: An overview of structure, regulation, and regulator substances
+
+Blood–brain barrier breakdown in Alzheimer’s disease and other neurodegenerative disorders
+
+Peripheral nerve pericytes originating from the blood-nerve barrier expresses tight junctional molecules and transporters as barrier-forming cells
+
+A new blood-brain barrier model using primary rat brain endothelial cells, pericytes and astrocytes
+
+Pericytes: Developmental, physiological, and pathological perspectives, problems, and promises
+
+Astrocyte-endothelial interactions and blood-brain barrier permeability
+
+Selective drug delivery approaches to lesioned brain through blood brain barrier disruption
+
+General Introduction to Barrier Mechanisms in the Central Nervous System
+
+Pathways for small molecule delivery to the central nervous system across the blood-brain barrier
+
+Ion transporters in brain endothelial cells that contribute to formation of brain interstitial fluid
+
+Medicinal chemical properties of successful central nervous system drugs
+
+Revisiting the role of ABC transporters in multidrug-resistant cancer
+
+Multidrug resistance associated proteins in multidrug resistance
+
+P-glycoprotein inhibitors and their screening: A perspective from bioavailability enhancement
+
+Intraparenchymal Delivery and Its Discontents
+
+Mechanisms of fluid movement into, through and out of the brain: Evaluation of the evidence
+
+The brain interstitial system: Anatomy, modeling, in vivo measurement, and applications
+
+Intrathecal drug delivery by implanted pumps
+
+Ayub Khan Ommaya (1930–2008): Legacy and contributions to neurosurgery
+
+Intracerebroventricular administration of drugs
+
+Direct intraventricular delivery of drugs to the rodent central nervous system
+
+Emerging insights for translational pharmacokinetic and Pharmacokinetic-pharmacodynamic studies: Towards prediction of nose-to-brain transport in humans
+
+Nasal drug delivery—Recent developments and future prospects
+
+Prediction of blood–brain barrier penetration by drugs
+
+How to measure drug transport across the blood-brain barrier
+
+Oral druggable space beyond the rule of 5: Insights from drugs and clinical candidates
+
+Analysis of the applicability and use of lipinski’s rule for central nervous system drugs
+
+From blood–brain barrier to blood– brain interface: New opportunities for CNS drug delivery
+
+Concepts, technologies, and practices for drug delivery past the blood-brain barrier to the central nervous system
+
+Do enthalpy and entropy distinguish first in class from best in class?
+
+The binding thermodynamics of drug candidates
+
+Rationalizing steroid interactions with lipid membranes: Conformations, partitioning, and kinetics
+
+Modern methods for delivery of drugs across the blood-brain barrier
+
+P-glycoprotein inhibition for optimal drug delivery
+
+Improving drug delivery to primary and metastatic brain tumors: Strategies to overcome the blood-brain barrier
+
+Increased penetration of paclitaxel into the brain by inhibition of P-Glycoprotein
+
+Overview of P-glycoprotein inhibitors: A rational outlook
+
+P-glycoprotein, a gatekeeper in the blood-brain barrier
+
+Cellular localization of the multidrug-resistance gene product P-glycoprotein in normal human tissues
+
+Osmotic opening of the blood–brain barrier: Principles, mechanism, and therapeutic applications
+
+Evolving drug delivery strategies to overcome the blood brain barrier
+
+Transcranial MRI-guided focused ultrasound surgery of brain tumors: Initial findings in three patients
+
+Focused ultrasound surgery of the brain
+
+Preliminary experience with a transcranial magnetic resonance-guided focused ultrasound surgery system integrated with a 1.5-T MRI unit in a series of patients with essential tremor and Parkinson’s disease
+
+Ultrasound and the blood-brain barrier
+
+Histologic effects of high intensity pulsed ultrasound exposure with subharmonic emission in rabbit brain in vivo
+
+High-intensity focused ultrasound selectively disrupts the blood-brain barrier in vivo
+
+MRI investigation of the threshold for thermally induced blood-brain barrier disruption and brain tissue damage in the rabbit brain
+
+Ultrasound-mediated blood-brain barrier disruption for targeted drug delivery in the central nervous system
+
+Disruption of blood–brain barrier by focused ultrasound for targeted drug delivery to the brain
+
+Targeted and reversible blood-retinal barrier disruption via focused ultrasound and microbubbles
+
+Quantification of transient increase of the blood–brain barrier permeability to macromolecules by optimized focused ultrasound combined with microbubbles
+
+Effect of focused ultrasound applied with an ultrasound contrast agent on the tight junctional integrity of the brain microvascular endothelium
+
+Noninvasive localized delivery of Herceptin to the mouse brain by MRI-guided focused ultrasound-induced blood-brain barrier disruption
+
+Targeted delivery of doxorubicin to the rat brain at therapeutic levels using MRI-guided focused ultrasound
+
+Experimental demonstration of noninvasive transskull adaptive focusing based on prior computed tomography scans
+
+Immunogold localization of tight junctional proteins in normal and osmotically-affected rat blood-brain barrier
+
+Membrane transporters and drug response
+
+Structural biology of solute carrier (SLC) membrane transport proteins
+
+Glucose transporters at the blood-brain barrier: Function, regulation and gateways for drug delivery
+
+Confounding parameters in preclinical assessment of blood-brain barrier permeation: An overview with emphasis on species differences and effect of disease states
+
+Quantitative atlas of membrane transporter proteins: Development and application of a highly sensitive simultaneous LC/MS/MS method combined with novel in-silico peptide selection criteria
+
+Systematically administered D-glucose conjugates of 7-chlorokynurenic acid are centrally available and exert anticonvulsant activity in rodents
+
+Synthesis, pharmacokinetics and anticonvulsant activity of 7-chlorokynurenic acid prodrugs
+
+Glycosyl derivatives of dopamine and L-dopa as antiparkinson prodrugs: Synthesis, pharmacological activity and in vitro stability studies
+
+Molecular mechanism involved in the transport of a prodrug dopamine glycosyl conjugate
+
+Synthesis of glucose-chlorambucil derivatives and their recognition by the human GLUT1 glucose transporter
+
+Structure-based ligand discovery for the large-neutral amino acid transporter 1, LAT-1
+
+Regiospecific and conformationally restrained analogs of melphalan and DL-2-NAM-7 and their affinities for the large neutral amino acid transporter (system LAT1) of the blood–brain barrier
+
+Melphalan penetration of the blood-brain barrier via the neutral amino acid transporter in tumor-bearing brain
+
+Organic anion-transporting polypeptides at the blood-brain and blood-cerebrospinal fluid barriers
+
+Organic anion-transporting polypeptides mediate transport of opioid peptides across blood-brain barrier
+
+Inflammatory pain signals an increase in functional expression of organic anion transporting polypeptide 1a4 at the blood-brain barrier
+
+Transcytosis: Crossing Cellular Barriers
+
+Insulin transport into the brain and cerebrospinal fluid
+
+Erythropoietin
+
+Drug targeting of erythropoietin across the primate blood-brain barrier with an IgG molecular Trojan horse
+
+Humanization of anti-human insulin receptor antibody for drug targeting across the human blood-brain barrier
+
+Transferrin and transferrin receptor function in brain barrier systems
+
+Anti-transferrin receptor antibody and antibody-drug conjugates cross the blood-brain barrier
+
+Neuroprotection in stroke in the mouse with intravenous erythropoietin-Trojan horse fusion protein
+
+The LDL receptor-related protein (LRP) family: An old family of proteins with new physiological functions
+
+Identification and design of peptides as a new drug delivery system for the brain
+
+Involvement of the low-density lipoprotein receptor-related protein in the transcytosis of the brain delivery vector angiopep-2
+
+Uptake of ANG1005, a novel paclitaxel derivative, through the blood-brain barrier into brain and experimental brain metastases of breast cancer
+
+What is a virulence factor?
+
+Targeting the central nervous system (CNS): A review of rabies virus-targeting strategies
+
+Concepts in the pathogenesis of rabies
+
+Transvascular delivery of small interfering RNA to the central nervous system
+
+The cell biology of rabies virus: Using stealth to reach the brain
+
+The potential use of rabies virus glycoprotein-derived peptides to facilitate drug delivery into the central nervous system: A mini review
+
+Transporters at CNS barrier sites: Obstacles or opportunities for drug delivery?
+
+Targeted delivery of nano-therapeutics for major disorders of the central nervous system
+
+The blood-brain barrier in brain homeostasis and neurological diseases
+
+Xentry, a new class of cell-penetrating peptide uniquely equipped for delivery of drugs
+
+Cell-surface proteoglycans as molecular portals for cationic peptide and polymer entry into cells
+
+Cell-penetrating peptide-mediated therapeutic molecule delivery into the central nervous system
+
+CNS delivery via adsorptive transcytosis
+
+Protegrins: Leukocyte antimicrobial peptides that combine features of corticostatic defensins and tachyplesins
+
+In vivo protein transduction: Delivery of a biologically active protein into the mouse
+
+Transduction of full-length TAT fusion proteins into mammalian cells: TAT-p27Kip1 induces cell migration
+
+Autonomous functional domains of chemically synthesized human immunodeficiency virus tat trans-activator protein
+
+Improved brain uptake and pharmacological activity of dalargin using a peptide-vector-mediated strategy
+
+New advances in the transport of doxorubicin through the blood-brain barrier by a peptide vector-mediated strategy
+
+Improved brain delivery of benzylpenicillin with a peptide-vector-mediated strategy
+
+Blood-brain barrier and feeding: Regulatory roles of saturable transport systems for ingestive peptides
+
+Enhanced delivery of doxorubicin into the brain via a peptide-vector-mediated strategy: Saturation kinetics and specificity
+
+Immunogenicity of polyethylene glycol (PEG)
+
+Effect of covalent attachment of polyethylene glycol on immunogenicity and circulating life of bovine liver catalase
+
+Alteration of immunological properties of bovine serum albumin by covalent attachment of polyethylene glycol
+
+Safety and efficacy in advanced solid tumors of a targeted nanocomplex carrying the p53 gene used in combination with docetaxel: A phase 1b study
+
+(FDA) Doxil® (Doxorubicin Liposome Injection), for Intravenous Use
+
+(FDA) OnivydeTM (Irinotecan Liposome Injection), for Intravenous Use
+
+ABAD directly links A-beta to mitochondrial toxicity in Alzheimer’s disease
+
+Mitochondrial dysfunction in Alzheimer’s disease and the rationale for bioenergetics based therapies
+
+Mitochondrial dysfunction in Parkinson’s disease
+
+Mitochondrial dysfunction in cancer
+
+Combined defects in oxidative phosphorylation and fatty acid β-oxidation in mitochondrial disease
+
+Nanopreparations for mitochondria targeting drug delivery system: Current strategies and future prospective
+
+Organelle targeting: Third level of drug targeting
+
+Living ring-opening metathesis polymerization
+
+Synthesis of Homopolymers and Copolymers
+
+Fine-tuning the hydrophobicity of a mitochondria-targeted antioxidant
+
+The synthesis and functional evaluation of a mitochondria-targeted hydrogen sulfide donor, (10-oxo-10-(4-(3-thioxo-3H-1,2-dithiol-5-yl)phenoxy)decyl)triphenylphosphonium bromide (AP39)
+
+Chromatography-free synthesis of monodisperse oligo(ethylene glycol) mono-p-toluenesulfonates and quantitative analysis of oligomer purity
+
+Fluorescence of coumarins and xanthenes after two-photon absorption with a pulsed titanium–sapphire laser
+
+Two-photon excitation fluorescence microscopy
+
+Two-photon microscopy: Imaging in scattering samples and three-dimensionally resolved flash photolysis
+
+Practical multiphoton microscopy
+
+Cellular and subcellular perturbations during multiphoton microscopy
+
+Introduction to clinical trials
+
+Progress in nanomedicine: Approved and investigational nanodrugs
+
+Nanoparticle-based medicines: A review of FDA-approved materials and clinical trials to date
+
+Blood Brain Barrier Opening in Alzheimer’ Disease
+
+BrUOG 329 GBM Onyvide with TMZ (329)
+
+NU-0129 in Treating Patients with Recurrent Glioblastoma or Gliosarcoma Undergoing Surgery
+
+Brain Interstitium Temozolomide Concentration pre and Post Regadenoson Administration
+
+Using MRI-Guided Laser Heat Ablation to Induce Disruption of the Peritumoral Blood Brain Barrier to Enhance Delivery and Efficacy of Treatment of Pediatric Brain Tumors
+
+A pilot study of using MRI-guided laser heat ablation to induce disruption of the peritumoral blood brain barrier to enhance delivery and efficacy of treatment of pediatric brain tumors
+
+MK-3475 in Combination with MRI-Guided Laser Ablation in Recurrent Malignant Gliomas
+
+Early results of a multicenter phase I and open-label, randomized phase II study testing the toxicities and efficacy of MK-3475 (pembrolizumab) in combination with mri-guided laser interstitial thermal therapy (litt) in recurrent malignant gliomas
+
+Phase II Etirinotecan Pegol in Refractory Brain Metastases & Advanced Lung Cancer/Metastatic Breast Cancer
+
+A Phase II study of etirinotecan pegol (NKTR-102) in patients with refractory brain metastases and advanced lung cancer
+
+Effect of Deep TMS on the Permeability of the BBB in Patients with Glioblastoma Multiforme: A Pilot Study
+
+Glutamate-mediated blood–brain barrier opening: Implications for neuroprotection and drug delivery
+
+Phase II Study of Combined Temozolomide and SGT-53 for Treatment of Recurrent Glioblastoma
+
+MRI-Guided Laser Surgery and Doxorubicin Hydrochloride in Treating Patients with Recurrent Glioblastoma Multiforme
+
+Safinamide in Idiopathic Parkinson’s Disease (IPD) with Motor Fluctuations, as Add-On to Levodopa (SETTLE)
+
+Randomized trial of safinamide add-on to levodopa in Parkinson’s disease with motor fluctuations
+
+A Safety Study of Rituximab Plus MTX Injected into the Cerebrospinal Fluid in the Treatment of Brain Lymphoma
+
+Multicenter phase 1 trial of intraventricular immunochemotherapy in recurrent CNS lymphoma
+
+A Phase 1, Open-Label, Dose Escalation Study of ANG1005 in Patients with Malignant Glioma
+
+Phase I study of GRN1005 in recurrent malignant glioma
+
+ANG1005 in Breast Cancer Patients with Recurrent Brain Metastases
+
+Targeting metastatic breast cancer with ANG1005, a novel peptide-paclitaxel conjugate that crosses the blood-brain-barrier (BBB)
+
+A phase II study of ANG1005, a novel BBB/BCB penetratant taxane in patients with recurrent brain metastases and leptomeningeal carcinomatosis from breast cancer
+
+Carboplatin, Melphalan, Etoposide Phosphate, Mannitol, and Sodium Thiosulfate in Treating Patients with Previously Treated Brain Tumors
+
+Intra-arterial chemotherapy with osmotic blood-brain barrier disruption for aggressive oligodendroglial tumors: Results of a phase I study
+
+Delivery of chemotherapeutics across the blood-brain barrier: Challenges and advances
+
+Methotrexate, Mannitol, Rituximab, and Carboplatin in Treating Patients with Newly Diagnosed Primary Central Nervous System Lymphoma
+
+Pegylated Liposomal Doxorubicine and Prolonged Temozolomide in Addition to Radiotherapy in Newly Diagnosed Glioblastoma
+
+RNOP-09: pegylated liposomal doxorubicine and prolonged temozolomide in addition to radiotherapy in newly diagnosed glioblastoma--a phase II study
+
+Melphalan with BBBD in Treating Patients with Brain Malignancies
+
+Addressing safety liabilities of TfR bispecific antibodies that cross the blood-brain barrier
+
+The relationship between systemic iron homeostasis and erythropoiesis
+
+The ubiquitous glucose transporter GLUT-1 belongs to the glucose-regulated protein family of stress-inducible proteins
+
+Glucose transporters (GLUT and SGLT): Expanded families of sugar transport proteins
+
+Insulin degradation: Progress and potential
+
+Insulin receptor substrate-1 (IRS-1) distribution in the rat central nervous system
+
+Tissue-specific insulin resistance in mice with mutations in the insulin receptor, IRS-1, and IRS-2
+
+The distribution of tissue insulin receptors in the mouse by whole-body autoradiography
+
+Organic anion-transporting polypeptide (OATP) transporter family and drug disposition
+
+Expression cloning and characterization of a transporter for large neutral amino acids activated by the heavy chain of 4F2 antigen (CD98)
+
+The human SLC7A5 (LAT1): The intriguing histidine/large neutral amino acid transporter and its relevance to human health
+
+Transferrin receptors in human tissues: Their distribution and possible clinical relevance
+
+Comparison of the interactions of transferrin receptor and transferrin receptor 2 with transferrin and the hereditary hemochromatosis protein HFE
+
+Structural, functional, and tissue distribution analysis of human transferrin receptor-2 by murine monoclonal antibodies and a polyclonal antiserum
+
+The low density lipoprotein receptor-related protein 1: Unique tissue-specific functions revealed by selective gene knockout studies
+
+The low-density lipoprotein receptor-related protein 1 and amyloid-β clearance in Alzheimer’s disease
+
+Mammalian tissue distribution of a large heparan sulfate proteoglycan detected by monoclonal antibodies
+
+Restricted transport of anti-transferrin receptor antibody (OX26) through the blood-brain barrier in the rat
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+Transferrin receptor (TfR) trafficking determines brain uptake of TfR antibody affinity variants
+
+Limitations of tritium measurements by liquid scintillation counting of emulsions
+
+Tritium exchange from compounds in dilute aqueous solutions
+
+Development of a capillary zone electrophoresis assay to examine the disposition of [D-pen2,5]enkephalin in rats
+
+Radiolabeled absorption, distribution, metabolism, and excretion studies in drug development: Why, when, and how?
+
+The value of in vitro binding as predictor of in vivo results: A case for [18F]FDDNP PET
+
+Quantitative targeted absolute proteomics of human blood-brain barrier transporters and receptors
+
+Quantitative membrane protein expression at the blood-brain barrier of adult and younger cynomolgus monkeys
+
+Species differences in blood-brain barrier transport of three positron emission tomography radioligands with emphasis on P-glycoprotein transport
+
+Brain imaging of neurovascular dysfunction in Alzheimer’s disease
+
+Blood-brain barrier leakage in patients with early Alzheimer disease
+
+Neurovascular unit impairment in early Alzheimer’s disease measured with magnetic resonance imaging
+
+Subtle blood-brain barrier leakage rate and spatial extent: Considerations for dynamic contrast-enhanced MRI
+
+MRI Assessment of Neurovascular Changes in Idiopathic Parkinson’s Disease
+
+Cerebrovascular and blood-brain barrier impairments in Huntington’s disease: Potential implications for its pathophysiology
+
+Blood-brain barrier breakdown in the aging human hippocampus
+
+Quantitative measurement of blood-brain barrier permeability in human using dynamic contrast-enhanced MRI with fast T1 mapping
+
+Abnormal blood–brain barrier permeability in normal appearing white matter in multiple sclerosis investigated by MRI
+
+FDG-PET changes in brain glucose metabolism from normal cognition to pathologically verified Alzheimer’s disease
+
+Associations between cognitive, functional, and FDG-PET measures of decline in AD and MCI
+
+Posterior cingulate glucose metabolism, hippocampal glucose metabolism, and hippocampal volume in cognitively normal, late-middle-aged persons at 3 levels of genetic risk for Alzheimer disease
+
+Precuneus and cingulate cortex atrophy and hypometabolism in patients with Alzheimer’s disease and mild cognitive impairment: MRI and (18)F-FDG PET quantitative analysis using freesurfer
+
+Blood-brain barrier P-glycoprotein function in Alzheimer’s disease
+
+Activity of P-glycoprotein, a β-amyloid transporter at the blood-brain barrier, is compromised in patients with mild Alzheimer disease
+
+Focal hemosiderin deposits and β-amyloid load in the ADNI cohort
+
+Blood-brain barrier dysfunction in parkinsonian midbrain in vivo
+
+The role of brain vasculature in neurodegenerative disorders
+
+Arterial spin labeling imaging reveals widespread and Aβ-independent reductions in cerebral blood flow in elderly apolipoprotein epsilon-4 carriers
+
+Pattern of cerebral hypoperfusion in Alzheimer disease and mild cognitive impairment measured with arterial spin-labeling MR imaging: Initial experience
+
+Arterial spin labelling reveals an abnormal cerebral perfusion pattern in Parkinson’s disease
+
+Complex relationships between cerebral blood flow and brain atrophy in early Huntington’s disease
+
+Quantification of perfusion and permeability in multiple sclerosis: Dynamic contrast-enhanced MRI in 3D at 3T
+
+Cortical Perfusion Alteration in Normal-Appearing Gray Matter Is Most Sensitive to Disease Progression in Relapsing-Remitting Multiple Sclerosis
+
+Widespread cerebral haemodynamics disturbances occur early in amyotrophic lateral sclerosis
+
+Gray matter perfusion correlates with disease severity in ALS
+
+The APOE ɛ4/ɛ4 genotype potentiates vascular fibrin(ogen) deposition in amyloid-laden vessels in the brains of Alzheimer’s disease patients
+
+Microvascular injury and blood–brain barrier leakage in Alzheimer’s disease
+
+Chronic traumatic encephalopathy in a National Football League player
+
+Fibrinogen and β-amyloid association alters thrombosis and fibrinolysis: A possible contributing factor to Alzheimer’s disease
+
+New insight into Alzheimer disease: Demonstration of fibrin(ogen)-serum albumin insoluble deposits in brain tissue
+
+A leaky blood–brain barrier, fibrinogen infiltration and microglial reactivity in inflamed Alzheimer’s disease brain
+
+Pericapillary haem-rich deposits: Evidence for microhaemorrhages in aging human cerebral cortex
+
+Striatal blood-brain barrier permeability in Parkinson’s disease
+
+Deep-brain stimulation associates with improved microvascular integrity in the subthalamic nucleus in Parkinson’s disease
+
+Blood-spinal cord barrier breakdown and pericyte reductions in amyotrophic lateral sclerosis
+
+Impaired blood-brain/spinal cord barrier in ALS patients
+
+Tight junctional abnormality in multiple sclerosis white matter affects all calibres of vessel and is associated with blood-brain barrier leakage and active demyelination
+
+Decreased mRNA expression of tight junction proteins in lumbar spinal cords of patients with ALS
+
+Disruption of neurovascular unit prior to motor neuron degeneration in amyotrophic lateral sclerosis
+
+Tat 101-mediated enhancement of brain pericyte migration involves platelet-derived growth factor subunit B homodimer: Implications for human immunodeficiency virus-associated neurocognitive disorders
+
+Rho-mediated regulation of tight junctions during monocyte migration across the blood-brain barrier in HIV-1 encephalitis (HIVE)
+
+Phosphorylation of Claudin-5 and Occludin by Rho Kinase in Brain Endothelial Cells
+
+Deficiency in mural vascular cells coincides with blood-brain barrier disruption in Alzheimer’s disease
+
+Differing associations between Aβ accumulation, hypoperfusion, blood–brain barrier dysfunction and loss of PDGFRB pericyte marker in the precuneus and parietal white matter in Alzheimer’s disease
+
+Cerebral microvascular pathology in aging and Alzheimer’s disease
+
+The vascular factor in Alzheimer’s disease: A study in Golgi technique and electron microscopy
+
+Accelerated pericyte degeneration and blood–brain barrier breakdown in apolipoprotein E4 carriers with Alzheimer’s disease
+
+Effect of APOE genotype on microvascular basement membrane in Alzheimer’s disease
+
+Pharmacokinetics of oral absorption
+
+Figures, Scheme and Tables
+
+The three main barriers in the central nervous system (CNS), namely the meningeal or arachnoid barrier, the choroid plexus barrier and the blood brain barrier (BBB). The arachnoid and choroid plexus barriers separate the blood from the cerebrospinal fluid (CSF), and the BBB separates the blood from the interstitial fluid (ISF). At each site, the barrier is mainly formed by tight junctions that seal off the paracellular space. The blood brain barrier possesses an intricate architecture of basement membrane, mural and glial cells that work in synergy to maintain the barrier’s integrity and regulate its permeability in response to neuronal needs.
+
+Major transporter proteins expressed by the endothelial cells (ECs) of the blood-brain barrier. Depicted in green are the solute-carrier bi-directional transport proteins that translocate glucose (GLUTs), large neutral amino acids (LATs), monocarboxylates, such as lactate (MCTs), and organic anion polypeptide (OATPs). Protein and peptide transporters depicted in red are the transferrin receptor (TfR), insulin receptor (IR) and low-density lipoprotein receptor-related protein (LPR). Multidrug-resistance-associated proteins and P-glycoprotein, depicted in yellow and purple, respectively, are efflux pumps that transport xenobiotics against their concentration gradient. Electrolytes are regulated by ion exchangers such as Na+/K+-ATPase pump.
+
+Direct delivery of therapeutic material into the brain interstitial space using a specialized catheter. The interstitial space is occupied with interstitial fluid (ISF). Directly injected therapeutic material diffuses through the ISF and accesses different regions of brain parenchyma.
+
+Direct delivery of the therapeutic material to the central nervous system (CSF) in the subarachnoid space of the spinal canal (intrathecal delivery) or brain ventricles (ventricular delivery) as time-separated boluses via an implantable reservoir. The injected therapeutic material traverses the CSF, accessing different regions of the CNS. The reservoirs are toped up by pump replacement or direct injection.
+
+Direct nose-to-brain access via the olfactory pathway. The therapeutic material injected into the nasal cavity diffuses through the olfactory sensory nerves and olfactory glomeruli via passive or active transport mechanisms. It then reaches brain tissues via projection neurons, tufted or mitral cells.
+
+Biological barriers that the therapeutic material encounters upon intravenous injection that can reduce the blood-circulation lifetime of the therapeutic material. This can compromise the pharmacokinetic of the therapeutic material and ultimately its effectiveness. Biological barriers include water-solubility in the blood stream, drug absorption, inadequate biodistribution, biotransformation by enzymatic degradation, and clearance by immune system and excretion by glomerular filtration.
+
+Regulating drug efflux by co-administration of efflux-inhibitors with the therapeutic material. Efflux inhibitors may compete for efflux pump-mediated extrusion, which favors intraparenchymal accumulation of substrates (A), and may bind to a site distinct from the primary substrate binding site causing the protein to undergo a conformational change that blocks the substrate binding site (B) or may interact with the ATPase binding site in the efflux pump, obstructing production of energy required to transport substances against their concentration gradient.
+
+Transient BBB disruption by treatment with a hyperosmotic agent. The hyperosmotic solution, typically co-injected with the therapeutic material, causes water to be withdrawn out of the ECs, resulting in their shrinkage, contraction of their cytoskeleton and disruption of their TJs, allowing the paracellular diffusion of the co-administered therapeutic material.
+
+Principle of BBB disruption using MRI-guided microbubble-assisted focused-ultrasound technique (MB-FUS). (A) The patient’s head is rested in a semi-spherical ultrasound transducer integrated into an MRI scanner. The transducer is attached to a mechanical positioning system. The focused ultrasound and the magnetic resonance parameters are remotely controlled by electronic interfaces. The patient’s head is immobilized by a stereotactic frame. Overheating of the scalp, skull and brain tissue is minimized by the use of a water interface, which also acts as an acoustic coupler. (B) Pretreatment of the patient with microbubbles harnesses the acoustic power and concentrates it to the blood vessel, which attenuates acoustic power levels. Microbubbles move in the direction of the FUS wave propagation and under the influence of the FUS waves they oscillate, micro-streaming the medium surrounding them, inducing mechanical stress that disrupts the TJs between ECs. Figure 9 (A) adapted from Martin et al..
+
+Postulated mechanism of carrier-mediated transcytosis (CMT). Solute carrier transporter proteins (SLC) undergo conformational change from outward to inward-facing orientation, translocating their substrates across luminal and abluminal membranes from high intravascular to low intracerebral.
+
+Structure of sugar-conjugates designed to highlight the structural requirements of GLUT-mediated transport of therapeutic material. Compounds 1–3 are glucose and galactose conjugates of the BBB-impermeable antidepressant 7-chlorokynurenic acid. Compounds 4–7 are glucose and galactose conjugates of l-DOPA, a dopamine precursor used for the management of Parkinson’s disease symptoms. Compounds 8 and 9 are glucose conjugates of chlorambucil, a BBB-impermeable chemotherapeutic reagent. The three studies revealed the sensitivity of this approach to the conjugate’s size and the ligation regiochemistry of its cargo.
+
+Structure of large amino acid substrates of large neutral amino acid transporters (LATs). l-DOPA, a dopamine precursor, gabapentin, an anticonvulsant, and melphalan, a chemotherapeutic reagent, are the pharmacologically relevant LAT substrates. Compounds 13–15, derivatives of melphalan, were designed to highlight the structural requirements of LAT-mediated transport of therapeutic material. The study revealed the sensitivity of this approach to the conformational rigidity and regiochemistry of substituents of LATs substrates.
+
+Structure of oligopeptides transported by organic anion transporting polypeptide carriers (OTAPs). Identification of DPDPE and deltorphin as OTAPs substrates can inspire the design of neurotherapeutic material or OTAPs-targeting ligands that mimic their structure.
+
+Postulated mechanism of receptor-mediated transcytosis (RMT). The mechanism proceeds with a receptor–vector recognition event at the luminal membrane, followed by endosome formation and transport to the opposite abluminal membrane from which the cargo is exocytosed. Endosomal escape is the limiting step, the obstruction of which requires further understanding of receptor binding dynamics that can control intracellular transport mechanisms.
+
+Structure of anti-human insulin receptor monoclonal antibody (HIRMAb) engineered to deliver erythropoietin (EPO) to the brain by exploiting insulin receptor-mediated transcytosis. In this example, the HIRMAb-EPO fusion protein was engineered by fusing the EPO-encoding gene to a HIRMAb expression plasmid. The HIRMAb tandem expression vector encodes the EPO protein linked to the CH3 region of the HIRMAb through its amino terminus.
+
+Structure of anti-rat transferrin receptor monoclonal antibody (TfRMAb) engineered to deliver methotrexate (MTX) to the brain by exploiting transferrin receptor-mediated transcytosis. The TfRMAb-MTX conjugate in this example was prepared by oxidation of the carbohydrate groups located on the Fc portion of the TfRMAb to form an aldehyde derivative, which was treated with a hydrazide-functionalized MTX forming a hydrazone-linker between MTX and TfRMAb.
+
+Structure of the paclitaxel-Angiopep-2 conjugate (ANG1005) engineered to deliver paclitaxel to the brain by exploiting low-density lipoprotein receptor-related protein (LRP)-mediated transcytosis. Angiopep-2 was discovered by sequence alignment of LRP substrate proteins, such as amyloid precursor protein (APP) and aprotinin. Paclitaxel is released upon hydrolysis of ester linkages by hydrolyzing enzymes.
+
+Schematic representation of the structure of rabies virus glycoprotein-derived peptide (RVG) in complex with GFP-siRNA. The conjugate was engineered to deliver GFP-siRNA to the brain by exploiting nicotinic acetylcholine receptor-mediated transcytosis. To enable the complexation of RVG to GFP-siRNA, RVG was coupled to a nona-d-arginine peptide (9dR) through a tri-l-glycine spacer.
+
+Delivery of therapeutics to the brain by exploiting adsorptive-mediated transcytosis (AMT) of the delivery vectors with anionic proteoglycans, such as syndecan-4. (A) Structure of syndecan-4. Syndecan-4 is a proteoglycan that is a heavily glycosylated transmembrane protein. The protein consists of an extracellular domain that carry one or more covalently attached glycosaminoglycan (GAG) chain(s). GAG chains are long, linear carbohydrate polymers that are negatively charged under physiological conditions due to the presence of sulfate and uronic acid groups. The GAG chain allows for the interaction with a large variety of ligands, such as growth factors and enzymes. GAG chains are attached to the extracellular domain through a tetra-saccharide bridge (GlcA-Gal-Gal-Xyl). (B) Structure of SynB1 drug conjugates of cysteamide-modified dalargin, an analgesic drug, doxorubicin, a chemotherapeutic agent, and benzylpenicillin, an antibiotic that exploits AMT to trigger brain uptake of its therapeutic cargo.
+
+The pharmacokinetics and pharmacodynamics aspects that determine the fate of the therapeutic material and ability to accumulate in the diseased site at its therapeutically effective concentration. Pharmacokinetics of a therapeutic material can be improved by altering the physicochemical properties to reduce the rate of drug disposition by excretion or metabolism. The pharmacodynamics can be improved by optimizing the mechanism of action or the cellular targeting capacity. Altering pharmacokinetics or pharmacodynamics without negatively effecting the other is a challenging aspect of drug and drug-formulation design. An optimal drug or drug-formulation is a design with balanced pharmacokinetics and dynamics.
+
+Nanoscopic formulations for the delivery of therapeutics to the brain. NU-0129 is a gold nanoparticle formulation whose surface is conjugated with of polyethylene glycol chains and small interfering RNAs (siRNAs) that target the Bcl-2-like protein. NU-0129 is currently under clinical trial for its antineoplastic activity and potential in the treatment of recurrent glioblastoma multiforme. SGT-53 is a cationic liposome in complex with its cargo, a genetic therapeutic material. The liposomal surface is conjugated with an anti-transferrin receptor single-chain antibody fragment that serves as the targeting vector. SGT-53 is currently under clinical trial for its potential to induce apoptosis in patients with recurrent glioblastoma. Onzeald ® (or etirinotecan pegol) is a pegylated irinotecan formulation with a long-acting effect. Onzeald TM is currently under clinical trial to evaluate its efficacy at the control of brain metastases. Onivyde® and Doxil® are liposomal formulations that encapsulate irinotecan and doxorubicin, respectively, in an aqueous space. The liposomal surface of Onivyde® and Doxil® is conjugated with chains of polyethylene glycol to improve their colloidal stability and non-immunogenicity. Because of their long-acting effect, Onivyde® and Doxil® are under clinical trials to evaluate their efficacy at treating patients with glioblastoma. Doxil® is also under pre-clinical investigation to assess its efficiency at the treatment glioblastoma after transient disruption of the BBB induced by microbubble-assisted focused ultrasound (MB-FUS).
+
+General design of co-polymers bearing dodeca-ethylene glycol as the hydrophilic segment, 7-(diethylamino)coumarin-3-carboxylic amide as the optical probe and triphenylphosphonium iodide as the mitochondrial targeting ligand. The block-co-polymers, poly(NorbEO12Coumarin-co-NorbEO12PPh3I), were synthesized from their corresponding monomers at a coumarin:PPh3I ratio of 4:6, 4:10 and 4:14, by ROMP mediated by Grubbs III catalyst. Mn is the number average molecular weight and measured in kDa and Ð is the ratio of the weight average molecular weight (Mw) to Mn. (a, b) Determined using GPC; samples were run in LiBr in DMF and Mn were assigned relative to a standard curve fitted using polyethylene glycol standards.
+
+Highlights of clinical trial survey showcasing the progress of CNS-drug delivery approaches.
+
+Study Purpose	Year a	Phase	Ref.	 	1.	Evaluation of delivery of anti-Aβ with the aid of MA-FUS in patients with AD	2017	Phase I/II		 	2.	Evaluating the safety and preliminary efficacy of Onivyde® (a nanoliposomal irinotecan) administered in combination with temozolomide in the treatment of patients with recurrent glioblastoma	2017	Phase I/II		 	3.	Evaluating the safety and efficacy of spherical nucleic acid-conjugated gold nanoparticles (NU-0129) at the treatment of patients with recurrent glioblastoma multiforme or gliosarcoma	2017	Early Phase I		 	4.	Evaluating brain uptake of temozolomide pre and post transient BBB disruption mediated by administration of regadenoson, a vasoactive peptide, in recurrent high-grade glioma patients	2015	Early Phase I		 	5.	Evaluating brain uptake of chemotherapeutics upon transient BBB disruption mediated by MRI-guided laser ablation in pediatric patients with brain tumors	2015	Phase I		 	6.	Evaluating brain uptake and efficacy of Pembrolizumab, an anticancer MAb, upon transient BBB disruption mediated by MRI-guided laser ablation in patients with recurrent malignant gliomas	2015	Phase I/II		 	7.	Evaluating the efficacy of etirinotecan pegol at CNS disease control in patients with refractory brain metastases and advanced lung cancer or metastatic breast cancer	2015	Phase II		 	8.	Evaluating the effect of deep transcranial magnetic stimulation on the permeability of the BBB in glioblastoma multiform patients	2014	Phase II		 	9.	Evaluating brain uptake and efficacy of SGT-53, a cationic liposome encapsulating a therapeutic genetic material and decorated with anti-HTfR-MAb fragment, at the induction of apoptosis in patients with recurrent glioblastoma when combined with temozolomide	2014	Phase II		 	10.	Evaluating brain uptake and efficacy of doxorubicin upon transient BBB disruption mediated by MRI-guided laser ablation in patients with recurrent malignant gliomas	2013	Phase I		 	11.	Evaluating the efficacy of Safinamide in the treatment of patients with PD	2009	Phase III		 	12.	Evaluation of efficacy of rituximab, an anticancer MAb, given together with methotrexate to treat patients with brain lymphoma after its intraventricular administration	2007	Phase I		 	13.	Evaluation of safety, tolerability, pharmacokinetic and BBB permeability of ANG1005 in patients with recurrent or progressive malignant glioma	2007	Phase I/II		 	14.	Dose optimization of melphalan given together with carboplatin and etoposide phosphate to treat patients with anaplastic oligodendroglioma or oligoastrocytoma after transient BBB disruption mediated by administration of mannitol	2005	Phase I/II		 	15.	Evaluation of side effects of methotrexate, rituximab, and carboplatin, given together to treat patients with primary CNS lymphoma after transient BBB disruption mediated by administration of mannitol	2005	Phase I/II		 	16.	Evaluating the effect of combination therapy of Doxil® and temozolomide in addition to radiotherapy in patients diagnosed with glioblastoma	2002	Phase I/II		 	17.	Side effect evaluation and dose optimization of melphalan administered to treat patients with brain malignancies after transient BBB disruption mediated by administration of mannitol	1998	Phase I
+
+a Clinical trial starting date was chosen considering that most of the trials listed are not yet completed.
+
+Summary of CNS drug delivery techniques.
+
+NS Drug Delivery Techniques	 	Drug Delivery Beyond The BBB	 	1. Intraparenchymal Delivery	 	Pros	•	Delivery of both small and large therapeutic molecules	 	Cons	•	Invasive	 		•	May be associated with infection or inevitable tissue damage	 		•	Fraught with technical complications	 		•	Requires inpatient care and overnight hospitalization	 		•	Not suitable for a treatment regimen that requires repeated and constant exposure to the therapeutic material	 	2. Intrathecal and Intraventricular Delivery	 	Pros	•	Delivery of both small and large therapeutic molecules	 		•	May require a single operation for surgical implantation of the catheter, which reduces the risk of brain tissue damage	 	Cons	•	Invasive 	 		•	May be associated with infection if the patient’s body rejects the implanted reservoir of catheter	 		•	Cost-effective for a small population of patients	 		•	May require inpatient care and overnight hospitalization, depending on the patient’s case	 	3. Intranasal Delivery	 	Pros	•	Non-invasive 	 		•	Suitable for a treatment regimen that requires repeated and constant exposure to the therapeutic material	 		•	No precedence of tissue damage associated with the technique	 		•	Ease of application thus greater patience comfort and compliance 	 		•	Practically an outpatient treatment protocol 	 		•	Cost effective	 	Cons	•	Limited by the small amount of drug that can diffuse through the nasal cavity and reach the transporting nerves (olfactory or trigeminal) compared to the administered amount	 	Drug Delivery Through the BBB	 	1. Modification of Physicochemical Properties	 	Pros	•	Exploits the passive diffusion through LBL of ECs, which is a non-invasive and non-saturable drug delivery modality	 	Cons	•	Limited by physicochemical properties that can be altered	 		•	Excludes molecules, which could be of tremendous therapeutic value, with physicochemical properties that do not agree with computationally derived models	 	2. Inhibition of Efflux Protein Pumps	 	Pros	•	None-invasive 	 		•	Can be co-administered with the drug to attenuate the activity of efflux proteins	 		•	Ease of administration, thus greater patience comfort and compliance	 	Cons	•	Down-regulation of efflux transporters’ activity may increase brain uptake of potentially toxic material	 	3. Transient Disruption of BBB	 	Pros	•	Reversible 	 		•	No-permanent damage reported to date 	 		•	Non-invasive (compared to direct injection methods)	 	Cons	•	The CNS remains unprotected against blood-borne toxins during the therapeutic timeframe	 		•	May require inpatient care and overnight hospitalization depending on the patient’s case	 	3.1. Hyperosmotic Disruption	 	Pros	•	Cost effective	 	Cons	•	Non-specific	 		•	Associated with transient cerebral edema	 	3.2. MRI-Guided MA-FUS Disruption	 	Pros	•	Less invasive	 		•	More specific	 	Cons	•	Time consuming and expensive due to FUS beam aberration corrections, multiple MRI acquisitions and ultrasound and MRI contrast agents’ injections	 	4. Transporter-Mediated Transcytosis	 	Pros	•	Non-invasive	 	Cons	•	A saturable process	 		•	Nonspecific body distribution due to ubiquitous expression of transporters in several body regions	 		•	May improve brain uptake but not to the therapeutically and clinically effective concentration of the cargo (subject to further investigation) 	 	4.1. Solute Carrier-Mediated Transcytosis	 	Pros	•	Solute carriers’ expression levels, glucose in particular, are significant relative to receptor proteins, which makes them an ideal target	 	Cons	•	Sensitive to the vector’s stereochemical conformation, rigidity and ligation regiochemistry of its cargo	 		•	Restricted by the cargo’s size which should mimic that of its natural substrates	 		•	Vector-drug ligation may result in loss of vectors affinity towards the protein carrier 	 		•	Vector-drug conjugates may compete with natural substrates for carrier binding, which may result in serious nutritional deprivation	 	4.2. Receptor-Mediated Transcytosis	 	Pros	•	Transport is not restricted by the vector’s or cargo’s stereochemical conformation or size; therefore, it is suitable for the transport of small molecules, as well as recombinant proteins	 		•	More diverse with respect to vectors design (e.g., a monoclonal antibody, a fragment of the antibody or a peptide derived from natural substrates)	 	Cons	•	Limited capacity due to the limited receptor expression levels compared to solute carriers	 		•	May be accompanied with acute clinical signs due to competition with natural substrates, which questions the safety of RMT-conjugates	 		•	Lysosomal sorting may occur preventing exocytosis of the cargo and potentially degrading the RMT vector and the conjugated therapeutic material 	 	4.3. Adsorptive-Mediated Transcytosis	 	Pros	•	Transport is not restricted by the vector’s or cargo’s stereochemical conformation or size, which makes it suitable for the transport of small molecules, as well as peptides 	 		•	Binding sites are saturated at higher concentrations in AMT than in CMT and RMT	 		•	No precedence of interference with cell signaling pathways	 	Cons	•	CPP may bind to serum proteins which can mask their positive charge and ultimately reduce their brain uptake

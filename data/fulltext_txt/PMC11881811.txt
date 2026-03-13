@@ -1,0 +1,463 @@
+New Trends in Brain Shuttle Peptides
+
+The pharmacological treatment of central nervous system diseases faces significant challenges due to the presence of the blood–brain barrier (BBB). This barrier naturally protects the brain and prevents therapeutics from reaching their targets efficiently. However, the BBB allows the passage of nutrients and other molecules that guarantee brain homeostasis through selective transport mechanisms present at the BBB. These mechanisms provide an opportunity for delivering therapeutic agents into the central nervous system using brain shuttles. Here we review the progress of brain shuttle peptide development from 2015 until 2025. We highlight the most utilized peptides and describe trends in strategies to develop new shuttles and enhance their transport efficiency. Additionally, we compared them with other types of brain shuttles and emphasize the progress of peptide shuttles toward clinical translation.
+
+Introduction
+
+The treatment of brain diseases, ranging from migraines and infective diseases to neurodegenerative disorders and brain cancers, represents a significant therapeutic challenge because of the presence of the blood–brain barrier (BBB). The BBB significantly hampers the passage of drugs from the bloodstream to the brain tissue, making therapeutic concentrations within brain tissue unattainable in most cases. Brain endothelial cells, which are the main component of the BBB, form tight junctions that restrict paracellular transport. These cells also express a variety of cytosolic and membrane-bound enzymes, have reduced vesicular transport activity, and employ efflux pumps to prevent xenobiotics from entering and accumulating in the central nervous system (CNS). Hence, the BBB acts as a physical, metabolic, and transport barrier to ensure optimal homeostasis for brain function.
+
+Despite the protective nature of the BBB, it offers an opportunity for CNS drug delivery since the BBB is the primary gateway for nutrients that sustain normal brain function. Capillaries are within 5 μm of any neural cell, and the tightly regulated transport occurs via several mechanisms, including paracellular diffusion, passive diffusion through cell membranes, transport-mediated uptake, and transcytosis. The latter, a process that facilitates vesicular transport across endothelial cells, is often mediated by adsorption (AMT) or by interaction with receptors (RMT). Vesicular transport, via AMT or RMT, is particularly suitable for delivering large therapeutic cargoes, such as proteins and even nanoparticles, into the brain parenchyma. In recent years, however, several membrane protein transporters that are not associated with the transcytosis of endogenous biomolecules have been reported to also mediate transport of large cargoes. These transporters include glutathione and glucose (GLUT1) transporters, CD98hc, and the nicotinic acetylcholine receptor (nAchR).
+
+Over the past few decades, significant efforts have been devoted to developing brain shuttles or BBB shuttles, which are molecules that exploit BBB transport mechanisms, ranging from passive diffusion to AMT and RMT, to deliver therapeutics to the brain. Shuttles based on antibodies and peptides are the most extensively used. Antibody and protein shuttles were the first to be developed in the 1980s and 1990s. However, peptide-based shuttles have emerged in the last two decades as an attractive alternative given that they are more affordable, easier to characterize, modify, and conjugate to cargoes. Here we will consider to be a peptide any alpha amino acid polymer composed of less than 40 amino acids, as defined by the FDA. Since we thoroughly reviewed the field in 2015, in the current perspective, we describe the key advances made between 2015 and 2025, discuss emerging trends in peptide shuttle development, highlight the advantages of peptides over other types of shuttles, and emphasize their potential to enhance brain-targeted drug delivery in translational settings. This article aims to offer a new perspective of the field complementary to recent systematic reviews.
+
+Brain Shuttle Peptide Origins
+
+The first synthetic peptide that was reported to cross the BBB was the TAT peptide, which was derived from HIV-1 protein in 1999. Initial efforts focused on cell-penetrating peptides such as TAT, octaarginine (R8), or penetratin. Nowadays, the use of these cell-penetrating peptides for CNS drug delivery is still of interest since AMT enables a high transport capacity. However, the development and application of brain shuttle peptides has leaned predominantly toward exploiting RMT because of the potential tissue specificity that can be achieved by targeting receptors highly expressed at the BBB. Receptor-targeting peptide shuttles have been developed mainly via identification of short amino acid sequences from protein ligands (endogenous or exogenous) of receptors mediating transcytosis, from phage display libraries and, to a lower extent, from natural sources such as venoms.
+
+The three most widely used sequences to date come from proteins with brain tropism and include: Angiopep-2, which was derived from the Kunitz domain of several proteins and targets low-density lipoprotein receptor-related protein 1 (LRP1); RVG29, which was identified in rabies virus glycoprotein and targets nicotinic acetylcholine receptor (nAchR); and ApoE peptide, which was extracted from the lipid carrier protein apolipoprotein E and targets the low density lipoprotein receptor (LDLR). To extend the search beyond natural proteins, phage display has been extensively used to identify new brain shuttle sequences. Initially, the phage display was deployed through in vitro panning against receptors. From all the sequences derived from phage display, two sequences binding the transferrin receptor 1 (TfR1) have been extensively adopted, T7 and THR. Given that the number of known receptors is limited and their transport capacity or BBB specificity may not be sufficient for some therapeutics, phage display has been also applied to identify peptides that utilize new receptors or other mechanisms through on-cell and in vivo panning. However, until now, the sequences derived from these efforts have been used in few studies, and the transport mechanisms are not fully unveiled. To become more widely utilized brain shuttles, these sequences require a more through validation. Moreover, the peptides obtained through phage display often have low metabolic resistance and require chemical modifications.
+
+To date, peptide shuttles have shown considerable achievements in terms of the diversity of therapeutic cargoes transported and the efficacy achieved in a variety of disease models (Table 1, Table 2, and Table S1). Many efforts have aimed at increasing the transport efficiency, which is currently within 1 order of magnitude enhancement with respect to the unmodified payload.− Therefore, there is still room for improvement. Furthermore, one important point to consider in peptide shuttles is that, when conjugated to cargoes, the transport capacity of peptides and their transport mechanism can be greatly altered given that 1) new interactions are often established between peptides and the cargo surface and 2) the physicochemical properties of large cargoes such as proteins or nanocarriers dominate over the ones from the peptide given the difference in size.
+
+Commonly Used Brain Shuttle Peptides
+(2015–2025)a
+
+Name	Sequence	Transport	Cargoes	Indications	ref	 	Angiopep-2	TFFYGGSRGKRNNFKTEEY	LRP1	NP-drug, NP-RNA, drugs	GBM, brain met, pain, depression	(−)	 	ApoE(133–150)	rllrkrlkrlhsalrvrl	LDLR	PMO	Muscular atrophy		 	T7	HAIYPRH	TfR1	NP-drug	GBM	(−)	 	THR	THRPPMWSPVWP	TfR1	NP-drug	GBM		 	B6	GHKAKGPRK	TfR1	NP-drug	Meningitis		 	CRT	C(&)RTIGPSVC(&)	Tf/TfR1	NP-drug	GBM		 	GSH	γ-Glutamyl-CG	glutathione transporter	NP-drug	GBM		 	RVG29	YTIWMPENPRPGTPCDIFTNSRGKRASNG	nAchR	NP-drug, NP-RNA	Alzheimer’s, Parkinson’s,	 	meningitis, GBM	(−)	 	iRGD	C(&)RGDKGPDC(&)	Integrin R	NP-drug, NP-RNA	GBM		 	RGD	R(&)GD(&)	Integrin R	NP-drug	GBM		 	TAT(47–57)	YGRKKRRQRRR	AMT	NP-drug	HIV		 	R8	RRRRRRRR	AMT	NP-drug	GBM		 	SynB3	4-pentynyl-RRLSYSRRRF	AMT	drug	Encephalitis		 	PepH3	AGILKRW	AMT	radionucleotides	Brain met
+
+Lowercase sequences denote the use
+of amino acids with d-configuration. The nomenclature for
+cyclic peptides (&) is adapted to the 3-letter amino acid code
+from the one described by Spengler et al. (&′) Indicates linkage to a trimethylbenzyl scaffold.
+Abbreviations: AMT, adsorptive-mediated transcytosis; GBM, glioblastoma;
+LDLR, low-density lipoprotein receptor; LRP1, low-density lipoprotein
+receptor-related protein 1; nAchR, nicotinic acetylcholine receptor;
+NP, nanoparticle; PMO, phosphorodiamidate morpholino oligomer; R,
+receptor; Tf, transferrin; TfR, transferrin receptor. See Table S1 for a more comprehensive list of peptides
+that have been used in the last decade and more details of their application,
+including efficacy highlights.
+
+Selected Brain Shuttle Peptides with
+Improved Propertiesa
+
+Name	Improvement	Sequence	Transport	Cargoes	Indication	ref	 	MiniAp4	Minimization, toxicity	[Dap](&)KAPETALD(&)	RMT*	Antibody	Brain met		 	DAng2	Stability	yeetkfnnrkgrsggyfft	LRP1	NP-drug	GBM		 	DT7	Stability	haiyprh	TfR1	NP-drug	GBM		 	NX210c	Stability	WSGWSSC(&)SRSC(&)G	AMT	NP-protein	Brain	 	met		 	BB4	Affinity, stability	C(&′)VHWDC(&′)RQWC(&′)	TfR1	protein	Brain tumor		 	THRre	Multivalency,	 	stability	pwvpswmpprht	TfR	Protein	Brain tumor		 	ApoE(133–150)	Multivalency	rllrkrlkrlhsalrvrl	LDLR	Protein	Muscular	 	atrophy		 	THR + TAT	Shuttle combination	THRPPMWSPVWP- GRKKRRQRRRPQ	TfR1 + AMT	NP-drug	GBM		 	M1-RGD	Shuttle combination	TFYGGRPKRNNFLRGIRS-RGD	LRP1	drug	GBM		 	RGD-Glucose	Shuttle combination	RGD-glucose	Integrin R, GLUT1	NP-drug	Brain tumor		 	Pep-9	Diffusion	C(&)LWRPAADC(&)	Unknown	Small molecule	–
+
+The nomenclature for cyclic peptides
+(&) is adapted to the 3-letter amino acid code from the one described
+by Spengler et al. (&′) Indicates
+linkage to a trimethylbenzyl scaffold. *Unknown receptor. Abbreviations:
+AMT, adsorptive-mediated transcytosis; Dap, diaminopropionic acid;
+GBM, glioblastoma; LDLR, low-density lipoprotein receptor; LRP1, low-density
+lipoprotein receptor-related protein 1; nAchR, nicotinic acetylcholine
+receptor; met, metastasis; NP, nanoparticle; R, receptor; TfR, transferrin
+receptor. See Table S1 for more details
+on promising shuttles published between 2015 and 2025. Lowercase sequences
+denote the use of amino acids with d-configuration.
+
+In the past decade, the usage of peptide shuttles has grown given the progress in the tools to improve the properties of peptide shuttles (Figure 1) and the expanded set of sequences available. However, to boost the success of these delivery systems in the clinics, significant challenges remain, and the current toolbox shall benefit from new additions in the future. Here we will present the main trends in the field during the past decade, present the current progress in the clinics, discuss the advantages and limitations over other shuttles, and provide a brief outlook.
+
+Brain
+shuttle peptide chemical enhancement strategies. Strategies
+to improve brain shuttle peptides range from sequence minimization
+to facilitate developability to combining peptides targeting different
+transport mechanisms to enhance BBB permeability, and include multimerization
+to increase receptor affinity, cyclization or addition of noncanonical
+amino acids to enhance protease resistance, or sequence selection
+to improve tissue diffusion.
+
+Finding New Brain Shuttle Peptides
+
+New Phage Display Strategies
+
+Although many sequences have been obtained via phage display, none has yet reached the success of protein-derived sequences such as Angiopep-2, RVG, or ApoE. Traditionally, most efforts in phage display have focused on targeting the TfR1, with the T7 peptide being the most used shuttle derived from this technique. However, this sequence has appeared in panning against different receptors, which indicates a substantial degree of nonselective binding or adsorption. As an alternative to the T7 peptide, other anti-TfR1 shuttles and shuttles targeting different receptors to mediate RMT have been developed recently. For instance, the VH4128 peptide targeting LDLR or the KS-487 peptide targeting LRP1.
+
+With the aim of advancing traditional receptor panning, several efforts have focused on improving the selection stages both in vitro and in vivo to obtain more selective and efficient sequences. For instance, we pioneered in panning phage peptide libraries against human in vitro BBB models. In a recent study, Park, Kwon, and collaborators compared phage display panning in Transwell permeability system and a microfluidics model using next generation sequencing for comprehensive analysis of library panning. In their study, they obtained peptide sequences with superior functionality in vivo when using the microfluidics model since it better mimics the in vivo BBB phenotype.
+
+Moving on from the Traditional Association between Brain Shuttles and Cell-Penetrating Peptides
+
+At first glance, cell penetrating peptides (CPPs) might be associated with AMT peptide shuttles because both families involve interactions with cell membranes. However, highly cationic CPPs can cause cytotoxicity and may escape from vesicles to the cytosol during the transcytosis process due to the electrostatic interaction of the peptide sequence with the negatively charged membrane where they are trapped in, which may facilitate trapping of the peptide in the brain endothelium. This trapping may, in turn, reduce the BBB transport efficacy of the shuttle.− A recent study by Neves and collaborators confirms little overlap between CPPs and brain shuttle peptides in terms of physicochemical properties and brain delivery efficiency. This study, combining metanalysis and experimental approaches, also unravels some determinants of the few CPPs that can also efficiently mediate BBB transport; the key parameters for efficient brain transport appear to be related to the small size, few aromatic residues, low positive charge, and certain degree of hydrophobicity. Overall, this study provides directions for the design, optimization, and development of efficient brain shuttle peptides based on AMT and other mechanisms relying on the shuttle physicochemical properties.
+
+Piggybacking on Natural Proteins
+
+It is worth mentioning that peptides have also been utilized to recruit endogenous proteins with brain tropism that act as shuttles, especially apolipoproteins. One recent example is the DSP peptide, an 11-amino-acid peptide derived from the amyloid-β peptide Aβ1–42, which is a natural ligand of apolipoproteins, or the PB5–3, a 12-amino acid peptide that enhances AAV9 transport.
+
+Improving Brain Shuttle Peptides
+
+Sequence Minimization to Enhance Synthetic Accessibility and Remove Undesired Activity
+
+Peptides are more accessible to manufacture and characterize than protein therapeutics. In general, the smaller and simpler the peptide, the more affordable and scalable is its synthesis. Although a few shuttle peptides have been directly identified from nature, most proteins with brain tropism are longer than what is considered to be easily accessible by chemical synthesis. This is why minimization or shortening of the protein sequence is a strategy that has often been implemented to generate new peptide shuttles. Several peptide sequences have been derived from natural proteins with brain tropism in the past decade such as receptor-associated protein RAP12, melanotransferrin, and ApoB29, which expand the list of well-known aprotinin, RVG, and ApoE. More recently, minimal active sequences have been identified and stabilized to further increase synthetic accessibility and scalability, for instance RVG15 from RVG29.
+
+Additionally, identifying the sequence involved in transport may enable dissecting the natural activity of the protein from their transport capacity. This is particularly important if this activity is harmful, such as in toxins. An example of this is the generation of the brain shuttle peptide MiniAp-4, which displayed undetectable acute toxicity and immunogenicity when compared to the parental peptide apamin, a neurotoxic potassium channel blocker.
+
+Increasing Protease Resistance
+
+Although some sequences of l-amino acids may naturally have some degree of protease resistance, few peptide shuttles fall within this category. Additionally, when brain shuttles are conjugated to large cargoes, some of these cargoes may provide a certain degree of protection against protease activity via steric hindrance. However, many protease-resistant shuttle peptides have shown significantly enhanced transport efficiency when compared to the parental versions conjugated to the same cargo as we have recently reviewed.
+
+In 2015, we and others proved that protease resistance was relevant to generate more efficient brain shuttle peptides, both derived from natural proteins and phage display. Although several strategies to increase protease resistance have been utilized, most brain shuttle studies follow up on our seminal work with d-amino acids and conformationally constrained designs. Since then, over a dozen retroenantiomeric− and cyclic− new brain shuttle peptides have been developed. Other strategies to enhance resistance to proteases, ranging from end-capping groups to stapling or selective N-alkylation of the peptide backbone, have not been extensively applied in the field of brain shuttles to date for different reasons. For instance, selective peptide backbone N-methylation has proven useful to increase the shuttle metabolic stability. However, this modification enhances interaction with cell membranes and is most useful to enhance passive diffusion, which limits the type of cargo that the shuttle will be able to transport.
+
+Modifying peptides to increase resistance to proteolysis often comes at the price of a decreasing affinity. Although the enhanced metabolic stability generally compensates for the loss in binding, this needs to be carefully fine-tuned to ensure that selectivity is not perturbed in peptides targeting receptors. A good example of this equilibrium is BrainBike-4, a bicyclic brain shuttle peptide we have recently reported.
+
+Multivalency for Improved Affinity
+
+Peptides often display lower affinity than the larger proteins they were derived from or than antibodies. However, the display of multiple peptides in a multivalent format increases avidity and has been shown to improve endocytosis. This is a well-described phenomenon for nanoparticulate systems. Finding the “Goldilocks” number of peptides on the nanoparticle surface has been shown to be key to maximize transport across brain endothelium. Additionally, the use of multivalent shuttles, such as THRre or ApoE, has also enabled enhancing the transport of proteins across the brain.
+
+Combining RMT and AMT Brain Shuttle Peptides to Enhance BBB Transport
+
+Aiming to achieve maximal transport efficiency and selectivity, several authors have combined two different shuttle peptides. Most studies utilized a receptor-targeting shuttle and an AMT shuttle. A recent example includes the combination of LRP1-targeting Angiopep-2 and the archetypical cell-penetrating peptide TAT, which enabled doubling the capacity to penetrate brain tumor cells. The exposure and position of the brain shuttle may be important as shown in constructs combining the TfR1-targeting T7 peptide with DP7, a cell-penetrating and immune modulatory peptide. In this study, utilizing T7 anchored to a lipid nanoparticle followed by a linker and DP7 had undetectable brain targeting capacity, while anchoring DP7 and exposing T7 clearly enabled nanoparticle accumulation in the brain as shown by ex vivo imaging. Peptide shuttles have also been combined with proteins with brain tropism; one example is a recent study that utilizes the granulocyte-colony stimulation factor (G-CSF) together with the THR peptide, which targets TfR1 not only enhances brain transport but also helps in cell internalization by over 4-fold.
+
+Combining Brain Shuttle with Other Peptide Sequences to Enhance Selectivity
+
+It is important to consider the therapeutic target of the brain shuttle peptide–cargo complex after it crosses the BBB. As many peptide shuttles have been developed using model cargoes, these usually show a diffuse distribution in the brain tissue without a predictable accumulation site. Incorporating secondary targeting ligands or homing peptides can help direct cargoes to specific cell populations or facilitate accumulation in targeted brain regions. Another interesting approach is the use of cleavable peptide linkers between the shuttle peptide and the cargo to enable selective delivery of the therapeutic and minimize off-target effects. One recent example in that direction couples the AMT peptide SynB3 to paclitaxel through MMP-2 cleavable peptide sequence to take advantage of the presence of proteolytic enzymes in brain tumors.
+
+Improving Brain Diffusion
+
+After crossing the BBB, the cargo still needs to diffuse across the basal lamina and a few micrometers of brain tissue. This is particularly challenging for large cargos, such as nanoparticles or protein therapeutics. Ghosh and co-workers recently identified several sequences from a phage display library that could accumulate in the brain and diffuse in the tissue much more efficiently than reference peptides such as Angiopep-2.
+
+Trends in Therapeutic Cargoes and Applications
+
+The primary application of brain shuttle peptides has been focused on the treatment of glioblastoma (GBM). Although this trend has persisted in publications over the last 10 years, usage has also expanded to other diseases, including brain metastatic tumors, Alzheimer’s, Parkinson’s, muscular atrophy, pain, depression, meningitis, and encephalitis, among others (see Table S1 for references and details). Regarding the types of therapeutic cargo, the vast majority of shuttle peptides in the past decade have been utilized to target nanoformulations loaded with cytotoxic molecules, although several instances with other cargoes ranging from small molecules to peptides, oligonucleotides, and proteins have also been reported. Here we highlight some recent examples.
+
+Small Molecules, Minimizing the Modification
+
+Permeability of small molecules across the BBB can often be enhanced by subtle chemical modifications of the drug to fine-tune its physicochemical properties rather than conjugation to a brain shuttle peptide. However, for those small molecules for which BBB permeability cannot be increased with this strategy, conjugation to brain shuttle peptides can be an excellent resource. Following from the paradigmatic example of Angiopep-2, which reached Phase II clinical trials as a conjugate with three molecules of paclitaxel, some examples of the transport of small molecules have been reported. To simplify the progress of such conjugates to the clinic, cleavable linkers have been utilized to enable the separation of the active compound from the shuttle upon reaching the target site. For instance, a recent study conjugated a drug to the peptide shuttle TFY through a scissile ester bond, which enables the release of the small molecule in the brain for the treatment of glioblastoma and brain metastases.
+
+Peptides and Oligonucleotide Cargoes, an Easy Combination with Peptide Shuttles
+
+As could be expected, peptides predominate over other brain shuttles in the transport of therapeutic peptides or oligo nucleic acid derivatives. This trend can be rationalized with two main arguments: 1. Conjugation of a peptide or oligonucleotide to a peptide shuttle is less likely to modify their therapeutic activity than conjugation to a large protein shuttle such as an antibody; and 2. Active peptides and oligonucleotides or mimetics are chemically accessible, generally by means of solid-phase peptide synthesis; therefore, the preparation of the conjugates does not require the combination of chemical and recombinant approaches, which facilitates manufacturability.
+
+Protein–Brain Shuttle Peptides, Conjugation or Fusion
+
+Usage of shuttle peptides for the transport of larger proteins is more restricted, since many peptide shuttles have modifications that prevent recombinant expression. However, peptides may be a good choice in cases where a minimal modification of proteins is required. Moreover, brain shuttle peptides have been shown to be effective for the delivery of large protein therapeutics. Recently, we have reported two examples of peptides with high serum stability, MiniAp-4 and BrainBike-4, that enable an improvement of 2- and 5-fold in protein transport, respectively, in a human cell-based model of the blood brain barrier. Additionally, MiniAp-4 has been shown to increase the transport of full-length immunoglobulins by over 60% in vivo.
+
+Peptides Dominate the Nanomedicine Targeting Arena
+
+Within the last two decades, peptides have become the gold standard brain shuttles to enhance the transport of nanotherapeutics across the BBB. Nanocarriers enable multivalency, which greatly enhances peptide avidity and increases accumulation of particles on the cell membrane facilitating internalization. Moreover, conjugation to large cargos enhances the half-life of the peptide, especially by dramatically decreasing peptide renal clearance and, in some instances, offering some steric hindrance and decreasing peptide lability to proteases. Micelles and liposomes are the most widely used nanocarriers, with doxorubicin and paclitaxel as the most common payloads. Interestingly, Guo et al. delivered statins using Angiopep-2-targeted PLGA nanoparticles, which are used not only as a drug against brain metastases but also to upregulate LRP1, increasing the transcytosis of this vehicle. Oftentimes, peptide conjugates generate nanoassemblies, for instances ApoE with anti-Abeta peptides or CGY assemblies. Numerous nanocarriers for gene delivery have been developed based on polyplexes, polymersomes, silica nanoparticles, and lipid-nanoparticles. Recently, the natural capacity to cross the BBB of some exosome formulations has been boosted with the conjugation of BBB peptide shuttles.
+
+Progress toward Clinical Application
+
+Given the great challenge posed by brain delivery, the development of new drugs based on brain shuttles has been slow. After almost 4 decades of development of antibody brain shuttles and despite antibody technologies and market being well-established, only recently have they reached clinical trials. Given that research on peptide shuttles started almost 2 decades later, it is reasonable to observe that fewer peptides have reached the clinical stage. Currently, there are several companies operating in this area that aim to bring new products into the clinical pipeline for the treatment of brain disorders. From accessible information, these companies focus their efforts on the transport of small molecules and nanocarriers for the delivery of drugs or genetic material.
+
+The first peptide shuttle to reach Phase II clinical trials was ANG1005 from Angiochem for the treatment of glioblastoma multiforme. ANG10005 is a conjugate of Angiopep-2 with three paclitaxel units. Although Angiopep-2 has been extensively validated in preclinical settings and is still the most widely used brain shuttle in preclinical settings, it was discontinued in clinical trials due to insufficient efficacy enhancement compared with paclitaxel alone. Although this setback initially discouraged the application of brain shuttles for the transport of small molecules, recent progress from other companies has rekindled interest in brain shuttle peptides.
+
+An example of a brain shuttle peptide that is currently in Phase II clinical trials is ARG-007, an oligoarginine peptide for the treatment of acute ischemic stroke developed by Argenica. Interestingly, their studies have shown that oligoarginine has, at the same time, BBB transport capacity and a neuroprotective effect by regulating oxidative stress in damaged tissue. Another instance of a peptide shuttling technology that has reached clinical trials is the G-technology nanotechnology platform by 2bbb. G-technology utilizes the tripeptide glutathione as a shuttle for the delivery of drugs encapsulated in PEG-liposome formulations into the central nervous system. The company has two lead programs in its pipeline: 2B3-101 (now 2X-111 at Oncology Venture A/S) for recurrent malignant glioma has completed a Phase I/IIa clinical trial for brain metastases, and 2B3-201 (now ENX-201 at EnhanX Biopharm Inc.), which has completed a Phase I clinical trial in healthy volunteers for acute relapses of multiple sclerosis. Along the same lines, Vect-Horus has disclosed promising results with brain shuttle peptides targeting RMT. Their platform VECTrans enables targeting of different receptors of the BBB, especially the LDL receptor. Vect-Horus has recently signed major licensing agreements with Novo Nordisk and Ionis Pharma. These collaboration agreements are a breakthrough positive sign in the field of brain shuttle peptides, suggesting that several projects based on peptide shuttles rapidly progressing into clinical pipelines are expected in the near future. Aiming to also enter clinical trials soon, Gate2Brain has a patented peptide-based technology platform based on the use of transferrin receptor targeting peptides and apamin-derivative peptides. Its flagship asset G2B-002 is at the pre-IND stage for the treatment of pediatric brain tumors with intact BBB such as diffuse intrinsic pontine glioma. These and other companies have several products in the preclinical stages, showing the high potential of this thriving field.
+
+Are Peptides Competitive Compared to Other Brain Shuttles?
+
+Endogenous ligands of receptors and transporters, such as transferrin or glucose, have been used as brain shuttles. However, these molecules need to compete with their blood-borne counterparts. This is why synthetic or exogenous ligands, such as peptide and antibody shuttles, have been the most widely adopted types of brain shuttles. Therefore, here we will focus on comparing advantages and limitations of peptide shuttles in comparison to antibodies (Table 3).
+
+Differential Properties of Brain Peptide
+and Antibody Shuttles
+
+Properties	Peptides	Antibodies	 	Production affordability	Medium	Low	 	Ease of characterization	High	Low	 	Ease	 	of modification and	 	conjugation	High	Medium	 	Preservation of cargo properties	High	Low	 	Diversity of cargoes transported	 	by the ensemble shuttles	High	Medium	 	Ability of the	 	same peptide/antibody	 	to transport different cargoes	Low	Medium	 	Different receptors/carriers	 	targeted by the ensemble of shuttles	Medium	Low	 	Capacity to mediate AMT	High	Low	 	Selectivity	 	for target receptor	Medium	High	 	Ease of affinity	 	modulation	 	for release	High	High	 	Circulation time with small	 	cargoes	Low	High	 	Tissue diffusion with small	 	cargoes	Medium	Low	 	Number of possible administration	 	routes	Medium	Low
+
+Antibodies have reached more advanced clinical stages because they were first used in this field, and the antibody market is very well developed. However, peptides are easier to manufacture, characterize, and conjugate to cargoes and may offer higher versatility.
+
+Brain shuttle peptides have shown applicability in the transport of a wide variety of active molecules, ranging from small molecules and active peptides to proteins and nanoparticles. Controlled conjugation to synthetic entities such as small molecules, peptides, oligonucleotides, and nanoparticles is more straightforward with peptides, which are also synthetic, than with antibodies. Moreover, large hydrophilic macromolecules such as antibodies can more easily diffuse away from the surface of lipids or polymeric nanoparticles. For small cargoes, an additional advantage of peptides with respect to antibodies is that they can be administrated through different routes (e.g., subcutaneous, oral, inhalatory pathway), which is especially relevant for chronic conditions.
+
+While antibody brain shuttles are mostly restricted to TfR1, peptide sequences for brain delivery have been directed against a wide variety of receptors, ranging from TfR1 to LRP1, LRP2, LDLRs, integrin receptors, nAchR, or a glutathione transporter. Although transport with peptide shuttles may involve more mechanisms than that of RMT, the rich repertoire of peptide shuttles provides many opportunities to explore distinct transport systems. While antibodies generally display higher affinities for their receptors, excessive affinity has been shown to be detrimental to the release in the brain parenchyma after transcytosis. Conversely, the multimerization of lower-affinity peptides enables control over receptor avidity. Despite the expected advantage of targeting RMT receptors, brain selectivity has seldom been reported for peptide or antibody brain shuttles. RMT receptors identified until now are expressed in high levels in the BBB but are also present in many other tissues. Efforts directed toward finding new receptors that enable higher selectivity and transport capacity have had limited success thus far. The lack of new receptors is reflected in a greater emphasis on optimizing available sequences rather than discovering new ones. Moreover, with RMT selectivity falling short of expectations, there is renewed interest in AMT shuttles in peptides, a mechanism for which antibody shuttles have not been used since they may not provide any advantage.
+
+Once in the brain parenchyma, peptides diffuse in tissues and reach their targets more rapidly and are also usually cleared from tissues and blood at a higher rate. Therefore, if conjugated to small cargoes, peptide shuttles have a clear advantage in diseases that require a rapid onset and a short effect. In the case of peptides, the same sequence can have both brain transport capacity and pharmaceutical activity, as it is the case of R8 by Argenica or GLP1R agonists such as extendin-4.
+
+Despite peptides holding great promise in the brain delivery field, quantitative data are still limited. Antibodies can be easily quantified with ELISA or similar methods and imaged by immunofluorescence because they are generally combined with another antibody payload that engages a localized target in the brain; the most remarkable example of brain imaging with shuttles is with antibodies targeting amyloid-beta plaques. By contrast, the small molecules or nanoparticulate cargoes that are mainly combined with peptide shuttles do not display such a clear accumulation pattern. CNS/BBB pharmacokinetics can be determined for peptide shuttles alone or conjugated to small cargoes (e.g., small molecule drugs or peptides). However, they require labor-intensive and highly specialized techniques, such as in situ brain perfusion or microdialysis. Moreover, nanoparticles based on lipids or polymers cannot be directly quantified in tissue sample or homogenate, and they must be measured using indirect methods, commonly assessing the small molecule or the genetic material that is encapsulated in the particles. Despite the challenges in the quantification of peptide-cargo constructs, the key parameter for pharmacological relevance is efficacy in relevant disease models, and this has been shown both for antibody and peptide constructs.
+
+Outlook
+
+Given the efforts of many laboratories in the last two decades, the field of peptide shuttle is reaching maturity. A large body of preclinical data proves the potential of peptides for the transport of a variety of therapeutics through different transport mechanisms. In the past decade, we have observed significant progress in transport capacity, selectivity, affinity, stability in physiological fluids, and manufacturability. Peptides have high versatility and hold promise for the transport of many cargos, especially in the emerging field of nanotherapeutics. Moreover, several peptides in clinical settings are proving the potential of this class of brain shuttles. Expanding the toolbox of brain shuttle peptides, identifying new receptors and transport mechanisms, and applying more quantitative techniques will enable further exploiting of the full potential of peptide shuttles.
+
+Supporting Information Available
+
+Criteria for a literature search on brain peptide shuttles during the 2015–2025 period. Table S1 describes the brain peptide shuttles that meet the defined search criteria. Literature references for Table S1. (PDF)
+
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c01327.
+
+Supplementary Material
+
+Author Contributions
+
+B. O-S., R. P., and M. T. conceived the study. B. O-S. and R. P. drafted the manuscript. All authors contributed to critical review of the manuscript and approved the final version. Figure 1 and TOC image were created with BioRender.com.
+
+B. O-S. receives funding from the European Research Council (ERC) under the European Union’s Horizon Europe research and innovation program (grant agreement No. 101077370). This project is co-funded by the European Union in the framework of GA no 190196379 - G2B to M.T. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or EISMEA. Neither the European Union nor the granting authority can be held responsible for them. We acknowledge support from the grants CNS2023-144443 and PID2023-151988OB-I00 funded by MCIN/AEI/ 10.13039/501100011033 and the European Union NextGenerationEU/PRTR and FEDER, EU.
+
+The authors declare the following competing financial interest(s): M. T. is the founder and employee of Gate2Brain. R. P. is an employee of Accure Therapeutics S.L. B. O-S. declares no conflict of interest.
+
+Abbreviations
+
+AMT
+
+adsorptive-mediated transcytosis
+
+ApoE
+
+Apolipoprotein E
+
+BBB
+
+blood-brain barrier
+
+CNS
+
+central nervous system
+
+CPP
+
+cell penetrating peptide
+
+Dap
+
+diaminopropionic acid
+
+FDA
+
+U.S. Food and Drug Administration
+
+GBM
+
+glioblastoma
+
+HIV
+
+human immunodeficiency virus
+
+LRP1
+
+low-density lipoprotein receptor-related protein 1
+
+LDLR
+
+low-density lipoprotein receptor
+
+MMP-2
+
+matrix metalloproteinase type 2
+
+nAchR
+
+nicotinic acetylcholine receptor
+
+NP
+
+nanoparticles
+
+PMO
+
+phosphorodiamidate morpholino oligomer
+
+R
+
+receptor
+
+RMT
+
+receptor mediated transcytosis
+
+RVG
+
+rabies virus glycoprotein
+
+Tf
+
+transferrin
+
+TfR
+
+transferrin receptor
+
+References
+
+Strategies for Delivering Therapeutics across the Blood-Brain Barrier
+
+Blood-Brain Barrier Shuttle Peptides: An Emerging Paradigm for Brain Delivery
+
+Peptides as Pharmacological Carriers to the Brain: Promises, Shortcomings and Challenges
+
+Peptide-Decorated Nanocarriers Penetrating the Blood-Brain Barrier for Imaging and Therapy of Brain Diseases
+
+In Vivo Protein Transduction: Delivery of a Biologically Active Protein into the Mouse
+
+Transferrin Receptor on Endothelium of Brain Capillaries
+
+The Mouse Blood-Brain Barrier Transcriptome: A New Resource for Understanding the Development and Function of Brain Endothelial Cells
+
+Receptor Mediated Uptake of Peptides That Bind the Human Transferrin Receptor
+
+Cargo Delivery into the Brain by in Vivo Identified Transport Peptides
+
+Selection of Phage-Displayed Llama Single-Domain Antibodies That Transmigrate across Human Blood-Brain Barrier Endothelium
+
+On the Shuttling across the Blood-Brain Barrier via Tubule Formation: Mechanism and Cargo Avidity Bias
+
+Organ-on-a-Chip Approach for Accelerating Blood-Brain Barrier Nanoshuttle Discovery
+
+ANG4043, a Novel Brain-Penetrant Peptide-MAb Conjugate, Is Efficacious against HER2-Positive Intracranial Tumors in Mice
+
+BrainBike Peptidomimetic Enables Efficient Transport of Proteins across Brain Endothelium
+
+LRP1-Upregulated Nanoparticles for Efficiently Conquering the Blood-Brain Barrier and Targetedly Suppressing Multifocal and Infiltrative Brain Metastases
+
+Synchronous Disintegration of Ferroptosis Defense Axis via Engineered Exosome-Conjugated Magnetic Nanoparticles for Glioblastoma Therapy
+
+Engineering and Characterization of an Artificial Drug-Carrying Vesicles Nanoplatform for Enhanced Specifically Targeted Therapy of Glioblastoma
+
+ROS-Responsive Polymeric SiRNA Nanomedicine Stabilized by Triple Interactions for the Robust Glioblastoma Combinational RNAi Therapy
+
+Boosting RNAi Therapy for Orthotopic Glioblastoma with Nontoxic Brain-Targeting Chimaeric Polymersomes
+
+Use of a Noninvasive Brain-Penetrating Peptide-Drug Conjugate Strategy to Improve the Delivery of Opioid Pain Relief Medications to the Brain
+
+A Multifunctional Nanocarrier System for Highly Efficient and Targeted Delivery of Ketamine to NMDAR Sites for Improved Treatment of Depression
+
+Efficient Systemic CNS Delivery of a Therapeutic Antisense Oligonucleotide with a Blood-Brain Barrier-Penetrating ApoE-Derived Peptide
+
+D-T7 Peptide-Modified PEGylated Bilirubin Nanoparticles Loaded with Cediranib and Paclitaxel for Antiangiogenesis and Chemotherapy of Glioma
+
+Enhanced Blood–Brain Barrier Penetration and Glioma Therapy Mediated by T7 Peptide-Modified Low-Density Lipoprotein Particles
+
+T7 Peptide-Functionalized PEG-PLGA Micelles Loaded with Carmustine for Targeting Therapy of Glioma
+
+Treating Late-Onset Tay Sachs Disease: Brain Delivery with a Dual Trojan Horse Protein
+
+Efficacy of Dual-Targeting Combined Anti-Tuberculosis Drug Delivery System in the Treatment of Tuberculous Meningitis
+
+Enhancing Glioblastoma-Specific Penetration by Functionalization of Nanoparticles with an Iron-Mimic Peptide Targeting Transferrin/Transferrin Receptor Complex
+
+Targeted Brain Delivery of Methotrexate by Glutathione PEGylated Liposomes: How Can the Formulation Make a Difference?
+
+Poly(β-Amino Ester) Nanoparticles Modified with a Rabies-Virus-Derived Peptide for the Delivery of ASCL1 across a 3D In Vitro Model of the Blood-Brain Barrier
+
+Brain-Penetration and Neuron-Targeting DNA Nanoflowers Co-Delivering MiR-124 and Rutin for Synergistic Therapy of Alzheimer’s Disease
+
+RVG29 Peptide-Modified Exosomes Loaded with Mir-133b Mediate the RhoA-ROCK Pathway to Improve Motor and Neurological Symptoms in Parkinson’s Disease
+
+Brain-Targeted Delivery of PEGylated Nano-Bacitracin A against Penicillin-Sensitive and -Resistant Pneumococcal Meningitis: Formulated with RVG(29) and Pluronic(®) P85 Unimers
+
+RVG-Functionalized Reduction Sensitive Micelles for the Effective Accumulation of Doxorubicin in Brain
+
+Systemic Brain Tumor Delivery of Synthetic Protein Nanoparticles for Glioblastoma Therapy
+
+Stapled RGD Peptide Enables Glioma-Targeted Drug Delivery by Overcoming Multiple Barriers
+
+TAT-Conjugated Nanoparticles for the CNS Delivery of Anti-HIV Drugs
+
+Cell-Penetrating Peptide-Coated Liposomes for Drug Delivery Across the Blood-Brain Barrier
+
+Improved Antiglioblastoma Activity and BBB Permeability by Conjugation of Paclitaxel to a Cell-Penetrative MMP-2-Cleavable Peptide
+
+The Use of a Selective, Nontoxic Dual-Acting Peptide for Breast Cancer Patients with Brain Metastasis
+
+Abbreviated Nomenclature for Cyclic and Branched Homo- and Hetero-Detic Peptides
+
+A Target-Unrelated Peptide in an M13 Phage Display Library Traced to an Advantageous Mutation in the Gene II Ribosome-Binding Site
+
+Optimization and in Vivo Validation of Peptide Vectors Targeting the LDL Receptor
+
+Generation of KS-487 as a Novel LRP1-Binding Cyclic Peptide with Higher Affinity, Higher Stability and BBB Permeability
+
+Phage Display as a Tool to Discover Blood–Brain Barrier (BBB)-Shuttle Peptides: Panning against a Human BBB Cellular Model
+
+Effects of HIV-1 Tat and Methamphetamine on Blood-Brain Barrier Integrity and Function In Vitro
+
+Molecular Interplays Involved in the Cellular Uptake of Octaarginine on Cell Surfaces and the Importance of Syndecan-4 Cytoplasmic V Domain for the Activation of Protein Kinase Cα
+
+Cell-Penetrating Mechanism of Intracellular Targeting Albumin: Contribution of Macropinocytosis Induction and Endosomal Escape
+
+The Late Endosome and Its Lipid BMP Act as Gateways for Efficient Cytosolic Access of the Delivery Agent DfTAT and Its Macromolecular Cargos
+
+Molecular Determinants for Brain Targeting by Peptides: A Meta-Analysis Approach with Experimental Validation
+
+Enhancing Neuroprotection in Mouse Model of Parkinson’s Disease through Protein Nanosystem Conjugation with ApoE Peptide for MiR-124 Delivery
+
+Customized Blood-Brain Barrier Shuttle Peptide to Increase AAV9 Vector Crossing the BBB and Augment Transduction in the Brain
+
+A Novel Peptide Ligand RAP12 of LRP1 for Glioma Targeted Drug Delivery
+
+A Peptide Derived from Melanotransferrin Delivers a Protein-Based Interleukin 1 Receptor Antagonist across the BBB and Ameliorates Neuropathic Pain in a Preclinical Model
+
+Enhanced Proton Treatment with a LDLR-Ligand Peptide-Conjugated Gold Nanoparticles Targeting the Tumor Microenvironment in an Infiltrative Brain Tumor Model
+
+Efficient Anti-Glioma Therapy Through the Brain-Targeted RVG15-Modified Liposomes Loading Paclitaxel-Cholesterol Complex
+
+From Venoms to BBB Shuttles: Synthesis and Blood-Brain Barrier Transport Assessment of Apamin and a Nontoxic Analog
+
+MiniAp-4: A Venom-Inspired Peptidomimetic for Brain Delivery
+
+Estimating Peptide Half-Life in Serum from Tunable, Sequence-Related Physicochemical Properties
+
+Protease-resistant Peptides for Targeting and Intracellular Delivery of Therapeutics
+
+Applying the Retro-Enantio Approach to Obtain a Peptide Capable of Overcoming the Blood-Brain Barrier
+
+GRP78 Enabled Micelle-Based Glioma Targeted Drug Delivery
+
+Myristic Acid-Modified DA7R Peptide for Whole-Process Glioma-Targeted Drug Delivery
+
+HAI Peptide and Backbone Analogs—Validation and Enhancement of Biostability and Bioactivity of BBB Shuttles
+
+Non-Immunogenic, Low-Toxicity and Effective Glioma Targeting MTI-31 Liposomes
+
+Retro-Enantio Isomer of Angiopep-2 Assists Nanoprobes across the Blood-Brain Barrier for Targeted Magnetic Resonance/Fluorescence Imaging of Glioblastoma
+
+Enhanced Glioblastoma Targeting Ability of Carfilzomib Enabled by a D A7R-Modified Lipid Nanodisk
+
+Short Peptide-Mediated Brain-Targeted Drug Delivery with Enhanced Immunocompatibility
+
+A Stabilized Peptide Ligand for Multifunctional Glioma Targeted Drug Delivery
+
+Design of Y-Shaped Targeting Material for Liposome-Based Multifunctional Glioblastoma-Targeted Drug Delivery
+
+Branched BBB-Shuttle Peptides: Chemoselective Modification of Proteins to Enhance Blood-Brain Barrier Transport
+
+Targeting Ligands Deliver Model Drug Cargo into the Central Nervous System along Autonomic Neurons
+
+Novel Cyclic Peptides Facilitating Transcellular Blood-Brain Barrier Transport of Macromolecules in Vitro and in Vivo
+
+A Pt(IV)-Conjugated Brain Penetrant Macrocyclic Peptide Shows Pre-Clinical Efficacy in Glioblastoma
+
+Comparison of Polypeptides That Bind the Transferrin Receptor for Targeting Gold Nanocarriers
+
+The Challenge of Peptide Proteolytic Stability Studies: Scarce Data, Difficult Readability, and the Need for Harmonization
+
+A Quantitative View on Multivalent Nanomedicine Targeting
+
+Designing and Characterization of a Novel Delivery System for Improved Cellular Uptake by Brain Using Dendronised Apo-E-Derived Peptide
+
+Highly Efficacious and Specific Anti-Glioma Chemotherapy by Tandem Nanomicelles Co-Functionalized with Brain Tumor-Targeting and Cell-Penetrating Peptides
+
+A Blood–Brain Barrier- and Blood–Brain Tumor Barrier-Penetrating SiRNA Delivery System Targeting Gliomas for Brain Tumor Immunotherapy
+
+Targeting Specific Brain Districts for Advanced Nanotherapies: A Review from the Perspective of Precision Nanomedicine
+
+Brain-Penetrating Peptide Shuttles across the Blood-Brain Barrier and Extracellular-like Space
+
+Engineered Microparticles for Treatment of Murine Brain Metastasis by Reprograming Tumor Microenvironment and Inhibiting MAPK Pathway
+
+Amphiphilic Polymeric Nanoparticles Modified with a Protease-Resistant Peptide Shuttle for the Delivery of SN-38 in Diffuse Intrinsic Pontine Glioma
+
+Synergistic Combination of Doxorubicin and Paclitaxel Delivered by Blood Brain Barrier and Glioma Cells Dual Targeting Liposomes for Chemotherapy of Brain Glioma
+
+Blood-Brain Barrier- And Blood-Brain Tumor Barrier-Penetrating Peptide-Derived Targeted Therapeutics for Glioma and Malignant Tumor Brain Metastases
+
+Liposomes Actively Recognizing the Glucose Transporter GLUT 1 and Integrin α v β 3 for Dual-Targeting of Glioma
+
+Antitumour Activity of ANG1005, a Conjugate between Paclitaxel and the New Brain Delivery Vector Angiopep-2
+
+Dual System for the Central Nervous System Targeting and Blood-Brain Barrier Transport of a Selective Prolyl Oligopeptidase Inhibitor
+
+A Site-Specific MiniAp4-Trastuzumab Conjugate Prevents Brain Metastasis
+
+Apolipoprotein e Peptide-Directed Chimeric Polymersomes Mediate an Ultrahigh-Efficiency Targeted Protein Therapy for Glioblastoma
+
+Multifunctional Nanorods Based on Self-Assembly of Biomimetic Apolipoprotein E Peptide for the Treatment of Alzheimer’s Disease
+
+Crossing the Blood-Brain-Barrier with Nanoligand Drug Carriers Self-Assembled from a Phage Display Peptide
+
+Crossing the Blood-Brain Barrier: Glutathione-Conjugated Poly(Ethylene Imine) for Gene Delivery
+
+Overcoming the Blood–Brain Barrier for Gene Therapy via Systemic Administration of GSH-Responsive Silica Nanocapsules
+
+Poly-Arginine Peptides R18 and R18D Improve Functional Outcomes after Endothelin-1-Induced Stroke in the Sprague Dawley Rat
+
+Boosting Brain Uptake of a Therapeutic Antibody by Reducing Its Affinity for a Transcytosis Target
+
+Trends in Peptide Drug Discovery
+
+Increased Brain Penetration and Potency of a Therapeutic Antibody Using a Monovalent Molecular Shuttle
+
+On The Rate and Extent of Drug Delivery to the Brain

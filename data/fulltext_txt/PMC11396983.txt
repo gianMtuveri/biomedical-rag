@@ -1,0 +1,343 @@
+Impact of Peptide Transport and Memory Function in the Brain
+
+Recent studies have reported the benefits of food-derived peptides for memory dysfunction. Beyond the physiological effects of peptides, their bioavailability to the brain still remains unclear since the blood-brain barrier (BBB) strictly controls the transportation of compounds to the brain. Here, updated transportation studies on BBB transportable peptides are introduced and evaluated using in vitro BBB models, in situ perfusion, and in vivo mouse experiments. Additionally, the mechanisms of action of brain health peptides in relation to the pathogenesis of neurodegenerative diseases, particularly Alzheimer’s disease, are discussed. This discussion follows a summary of bioactive peptides with neuroprotective effects that can improve cognitive decline through various mechanisms, including anti-inflammatory, antioxidative, anti-amyloid β aggregation, and neurotransmitter regulation.
+
+1. Introduction
+
+As the global population ages, the prevalence of central nervous system (CNS) disorders such as Alzheimer’s disease (AD), Parkinson’s disease (PD), stroke, anxiety, depression, Huntington’s disease (HD), and amyotrophic lateral sclerosis (ALS) is increasing. These conditions contribute to 12% of worldwide annual fatalities, presenting significant challenges to healthcare infrastructure and causing substantial emotional and financial strain on affected individuals and their families. Compared to therapeutic strategies for drug treatment, the development of preventive foods against CNS disorders is among the most important intervention methods. Bioactive peptides are short fragments of proteins, typically containing 2–20 amino acids, known for their advantageous physiological effects against diseases, such as neuroprotection, memory improvement, and anti-hypertensive, anti-microbial, anti-thrombotic, antioxidant, anti-cancer, and osteoprotective effects. Currently, there have been in vivo human and animal studies on improving impaired memory and ameliorating neurodegeneration through daily intake of peptides. However, peptides are often unstable and can be rapidly degraded by the digestive system or bloodstream enzymes before reaching the target tissues, thereby reducing their effectiveness. Therefore, it is important to promote their transportation and absorption in the body, especially in the CNS, because the blood-brain barrier (BBB) system strictly regulates the transport of substances into the brain.
+
+The BBB is a selective permeability barrier that protects the brain from potentially harmful substances in the bloodstream while allowing essential nutrients to penetrate. It comprises tightly packed endothelial cells lining the blood vessels in the brain, along with astrocyte endfeet and pericytes, which together create a highly selective filter (Figure 1). In contrast to astrocytes and pericytes, microglia, which are the innate immune cells of the brain, are also reported to be involved in BBB functional integrity. Chronic microglia activation often leads to sustained inflammation that compromises BBB integrity, which is often associated with neuroinflammatory conditions such as AD. The presence of the BBB makes the development of drugs that target the CNS exceptionally difficult. It is estimated that >98% of small molecules and nearly all large molecules cannot cross the BBB. Early reports indicated that only lipophilic molecules with molecular weights of 400–500 Da can cross the BBB via passive diffusion. In 1975, Kastin et al. reported that melanocyte-stimulating hormone (MSH) could penetrate the BBB of mice using radioisotope-labeled techniques, providing the first evidence that peptides could be transported across the BBB. An increasing number of studies have reported that peptides can penetrate the BBB and exert various effects on the CNS. However, the mechanism of peptide transport across the BBB and the role of peptides in the target brain tissue remain unclear.
+
+Here, we discuss the transportation behavior of peptides that cross the BBB and comprehensively review the preventive mechanism(s) of peptides against memory and cognitive impairment.
+
+2. Transport of Peptides across the BBB to the Brain
+
+Despite the difficulties associated with substrates crossing the BBB, there are several ways to transport them to the brain. Transportation routes in the BBB involve passive diffusion, carrier-mediated transport, receptor-mediated transcytosis, and adsorption-mediated transcytosis (Figure 2).
+
+2.1. Passive Diffusion
+
+Passive diffusion is an energy-independent pathway that is driven by a penetrant concentration gradient between the luminal and abluminal sides. Transportation occurs between epithelial cells (paracellular diffusion) and epithelial cells (transcellular diffusion) (Figure 2). Tight junctions (TJs) are critical structures that control the movement of hydrophilic substances inside and outside paracellular diffusion pathways. Because of the severe restriction of TJs, BBB transport through passive diffusion is negligible. Contrastingly, lipophilic or hydrophobic substrates of <400 Da can diffuse across the BBB because of their affinity for lipid bilayers of the cell membrane via the transcellular diffusion pathway. Hydrophobic peptides, such as diketopiperazines (DKPs), N-methyl phenylalanine oligomers, and phenylproline tetrapeptides, which can cross the BBB via passive diffusion, have recently been considered as a novel family of brain delivery systems (BBB-shuttles) to transport drugs and other cargoes that cannot cross the BBB. For example, Teixidó et al. designed DKP-cargo constructs to transport dopamine and baicalin across the BBB via a non-competitive passive transport mechanism. Thus, the passive diffusion route for the uptake of interest into the brain is an appropriate approach that does not consider the affinity with receptors or transporters.
+
+2.2. Carrier-Mediated Transport
+
+The magnitude of carrier-mediated transport is determined by intermolecular interactions between substrates and transporter proteins expressed on the luminal and/or abluminal membranes of brain capillary endothelial cells. Additionally, the recognition of substrates by transporters determines their influx and/or efflux direction. In an energy-dependent or -independent manner, carrier-mediated transport is divided into active and facilitated diffusion transports (Figure 2). In facilitated diffusion, a solute binds to a transporter, triggering a conformational change that allows substances to be carried across the BBB without energy consumption, and the transportation of glucose, galactose, or mannose by glucose transporters 1, 3, or 14 (GLUT1,3,14), nucleotides by equilibrative nucleoside transporter 1 (ENT1), and thyroid hormones via monocarboxylate transporter 8 (MCT8) are mediated. Active transport is an energy-dependent process that moves substrates across a membrane. Active transporters expressed in brain capillary endothelial cells are categorized into two superfamilies: ATP-binding cassettes (ABC) and solute carriers (SLCs) families. Influx-directed transport of substrates is conducted mainly by the SLC family, whereas efflux transport often occurs via the ABC family, except for some SLC transporters such as novel organic cation transporters (OCTN) and excitatory amino acid transporters (EAAT), which are involved in bidirectional and efflux routes. Among the SLC family members, the large neutral amino acid transporter (LAT1, SLC7A5) is the most abundant amino acid carrier and is selectively expressed on the luminal and abluminal membranes of brain capillaries. LAT1 can mediate the transport of drugs such as L-dopa, melphalan, gabapentin, and baclofen to the brain and amino acids such as asparagine, histidine, isoleucine, tryptophan, and tyrosine. Cationic amino acid transporters (CATs), including CAT1/3 (SLC7A1/A3), which are primarily expressed on the luminal side of brain endothelial cells, mediate the transport of cationic amino acids, such as arginine, lysine, ornithine, and homoarginine. Proton-coupled oligopeptide transporters, including peptide transporters 1/2 (PepT1/2, SLC15A1/A2) and peptide/histidine transporters 1/2 (PHT1/2, SLC15A4/A3), are involved in the transport of di-and tri-peptides or peptidic drugs. For example, carnosine is transported by PepT2 and glycyl-sarcosine (Gly-Sar) through PHT1. Overall, 287 SLC genes have been identified in the brain, particularly in cells that comprise the barriers and parenchymal cells responsible for transporting various substrates. Thus, carrier-mediated transport primarily facilitates the transcellular transport of small-molecule substances across the BBB.
+
+2.3. Receptor-Mediated Transcytosis
+
+Receptor-mediated transport involves interactions between substrates (ligands) and receptors in brain microvascular endothelial cells (BMECs). This interaction promotes the formation of endocytic vesicles, which transport ligands across the BBB via exocytosis for release into the CNS (Figure 2). Receptor-mediated transport is a complex process characterized by its energy-dependent bidirectional nature, which involves the clustering of receptor-ligand complexes, endocytosis, transcytosis, and exocytosis of transported molecules. This pathway is the primary route for delivering peptide hormones such as insulin, epidermal growth factor, glucagon, vasopressin, atrial natriuretic polypeptide, and carrier proteins that transport nutritional and regulatory substances such as transferrin, low-density lipoprotein (LDL), transcobalamin, and other regulatory proteins. These transporters are mediated by receptors such as insulin (IR), transferrin (TfR), leptin, LDL (LDLR), and LDLR-related protein 1 (LRP1) receptors. These receptors are highly expressed on the luminal side of endothelial cells and demonstrate efficient and specific endocytosis or transport, thereby maintaining the physiological activity of the transmitter. Exogenous polypeptides, such as aprotinin, apolipoprotein E, lipoprotein lipase, factor XIa, and Angiopep-2, are appropriate ligands for LRP1.
+
+2.4. Adsorptive Transcytosis
+
+Adsorptive transcytosis, referred to as adsorption-mediated transcytosis, is a transcellular uptake process, which is a receptor-independent endocytosis process driven by electrostatic interactions between positively charged peptides and negatively charged surfaces of BMECs (Figure 2). Cationic proteins such as avidin, histone, protamine, and wheat germ agglutinin are transported via adsorption-mediated transcytosis. Furthermore, recent research has provided increasing evidence for advancements in adsorption-mediated transcytosis for drug delivery. The TAT peptide (YGRKKRRQRRR-NH) was the first cationic cell-penetrating peptide identified via adsorption-mediated transcytosis. Based on this finding, TAT-conjugated nanoparticle techniques have been applied for enhanced drug delivery of doxorubicin and paclitaxel. SynB with a cationic sequence has been used as a delivery enhancer for benzylpenicillin or morphine-6-glucuronide transport, without considering the degradation of BBB integrity. The conjugation technique using transportan 10 (TP10), a 21-residue amphipathic peptide, can enhance vancomycin delivery via adsorption-mediated transcytosis.
+
+Adsorption-mediated transcytosis combined with a peptide-conjugation technique with interest is a novel strategy for appropriate “drug” transport to the brain. Instead, carrier-mediated transport and receptor-mediated transcytosis should be targeted for specific “bioactive small peptide” transport to the brain.
+
+3. Evaluation of Peptide Transportability into the Brain
+
+Currently, there are several methods for evaluating target peptides across the BBB using in vitro BBB models, in situ brain perfusion experiments, in vivo animal experiments, and visualization experiments using positron emission tomography (PET), magnetic resonance imaging (MRI), and single-photon emission computed tomography (SPECT) techniques (Figure 3).
+
+3.1. In Vitro BBB Reconstituted Models for Peptide Transport
+
+In vitro reconstituted models of the BBB in mammals have been employed to evaluate the BBB transportability of target peptides. The design is based on the principle of mimicking the structural and functional characteristics of the BBB. Brain endothelial cells are mounted onto the porous membrane of a transwell insert to generate a BBB membrane barrier system, and astrocytes and pericytes were co-cultured to better mimic the in vivo BBB (Figure 3A). Using a BBB reconstituted model, LYLKPR, a fermented yak milk peptide, showed neuroprotective effect in H2O2 injured cells, and apamin (CNCKAPETALCARRQQH), a venom peptide that shows neuroprotective effects in animals, was found to transport this membrane. Cyclo (L-Phe-L-Phe), showing an anti-hypertensive effect, was confirmed to be a penetrant with a high permeability of Papp of 2.5 × 10−5 cm/s through the BBB membrane. A convenient in vitro BBB transport model was explored to investigate the transportability of other oligopeptides, such as PPL, αS1-casein peptide (PIGSENSEKTTMPLW), and food-derived hemorphins (H7, LVV-H4, VV-H4, VV-H7), as shown in Table 1. Notably, the model is not an appropriate in vivo BBB system comprising BBB TJ, pericytes, and astrocytes, and further studies using brain perfusion experiments, radioactive tracing, and PET measurements are needed to determine the precise BBB transportability of peptides.
+
+3.2. In Vivo BBB Transport Models for Peptide Transport
+
+Using a radioactive tracing technique, casomorphin-5 and casomorphin-7 derived from milk were successfully used to transport peptides across the BBB in the brains of mice, similar to the significant detection of radiolabeled GTWY, LH, WY, and MKP peptides in animal brains. However, using radioactivity can limit the strength of this conclusion, because the radioactivity detected in each organ can represent the target peptides and their fragmented (metabolized) forms.
+
+In in situ perfusion experiments using animals, the lipoprotein receptor-related protein 1 (LRP1)-binding peptide L57 and ziconotide from sea snails exhibited mouse brain uptake. Significant detection of aprotinin and Angiopep-2 (An2) in the mouse brain was observed after in situ perfusion, which was transported via LRP1 receptor-mediated transcytosis (Table 1). The advantage of in situ perfusion experiments was confirmed by the observed intact transport of soybean dipeptides, GP, and YP (Ki value: 3.49 and 3.53 µL/g·min, respectively) in the mouse brain parenchyma, and local accumulation of YP at the hippocampus, hypothalamus, striatum, cerebral cortex, and cerebellum, using an advanced visualization technique by phytic acid-aided matrix-assisted laser desorption ionization (MALDI)–mass spectrometry (MS) imaging analysis.
+
+Transport and functional studies of peptides in the brain aim to clarify whether they remain intact after oral intake. Unfortunately, there are only a few reports on the oral administration of dietary peptides, excluding YP and Pro-hydroxyPro. It has been reported that YP orally administered to mice at 10 mg/kg enters the blood circulation with an absorption ratio of 0.15%, following the intact detection of YP in the brain parenchyma with an accumulation ratio of 0.0037%. In vivo improvement of impaired cognitive deficits in working and long-term memory by daily intake of YP in amyloid β (Aβ)-injected acute AD model mice may support the intact absorption of YP from the mouth to the brain. At a high dose of 600 mg/kg collagen hydrolysate in rats, Pro-hydroxyPro was detected in the cerebrospinal fluid, although no pharmacokinetic parameters were available (Table 1).
+
+3.3. In Vivo Imaging Techniques for Peptide BBB Transport
+
+In addition to the detection methods mentioned in Section 3.1 and Section 3.2, in vivo imaging techniques such as MRI, PET, and SPECT are also important methods to monitor BBB permeability. MRI is a non-invasive imaging technique that uses powerful magnets, radio waves, and a computer to generate detailed images of the inside of the body, particularly soft tissues such as the brain, spinal cord, muscles, and organs in humans. By employing advanced MRI techniques such as Dynamic Contrast-Enhanced MRI (DCE-MRI), researchers can monitor the transport of contrast agents, which are often conjugated with peptides, across the BBB in real time. André et al. validated the BBB transportation of USPIO-PHO (ultra-small particles of iron oxide (USPIO) functionalized with a disulfide-constrained cyclic heptapeptide (PHO)) via MRI techniques. However, DCE-MRI is generally limited to conditions where the contrast agent easily accumulates in the extracellular space, such as brain tumors, stroke, or multiple sclerosis, and the poor sensitivity and specificity of MRI limits its use in the study of active transport mechanisms. PET and SPECT are molecular imaging techniques combined with specific radiopharmaceuticals that can offer insights into the extent of BBB dysfunction in various neurological disorders. These methods are considered the gold standard for in vivo imaging of transport mechanisms, such as P-glycoprotein (P-gp)-mediated efflux and GLUT1-mediated glucose uptake from the blood. For example, gallium tracers ([68Gallium]Diethylenetriamine pentaacetate) have been employed to evaluate paracellular BBB permeability, as these large molecular tracers typically do not cross the BBB under normal physiological conditions, whereas, in cases of epilepsy, insult-induced BBB leakage can be detected using these tracers. In addition, SPECT tracers for brain imaging are categorized into two types: diffusible and non-diffusible. Diffusible tracers, including 99mTc-hexamethyl propylene amine oxime (HMPAO), Xenon-133, and 99mTc-ethyl cysteinate dimer (ECD), could cross the BBB through passive transport and be retained in the brain for enough time, thus permitting image acquisition. Non-diffusible reagents such as 99mTcO4-, [99mTc]DTPA, and [99mTc]sestamibi are unable to cross the BBB; therefore, they are used as indicators of BBB integrity. The detection methods of these modalities depend on specific clinical or research needs, balancing factors such as spatial resolution, sensitivity, and the nature of the BBB changes being studied.
+
+4. The Effects of Peptides on Alzheimer’s Disease
+
+Neurodegenerative disorders are conditions in which nerve cells in the CNS progressively degenerate and lose their structural and functional integrity, leading to gradual neuronal loss and deterioration of brain and spinal cord function. Neurodegenerative disorders include some of the most significant brain diseases, such as AD, PD, HD, ALS, Friedreich ataxia, Lewy body disease, spinal muscular atrophy, and multiple sclerosis. In this section, we mainly focus on the role of peptides in the pathogenesis of AD.
+
+4.1. The Pathogenesis of the Alzheimer’s Disease
+
+There are several hypotheses to explain the pathogenesis of AD, including the amyloid cascade, tubulin-associated unit (Tau) hyperphosphorylation, neurotransmitter imbalances, oxidative stress, and neuroinflammation. The deposition of Aβ in the brain parenchyma and cerebral vasculature, along with the presence of intraneuronal neurofibrillary tangles and gradual loss of synapses, are key neuropathological hallmarks of AD. Aβ is generated through sequential proteolytic cleavage of amyloid precursor protein (APP) by two membrane-bound proteases, beta- and gamma-secretases. The generated Aβ peptides tend to aggregate into soluble oligomers that further develop into insoluble fibrils, forming Aβ plaques. An imbalance between continuous generation and clearance efficiency is a crucial factor in abnormal extracellular aggregation. Similar to Aβ plagues, the neurofibrillary tangles (NFTs), which are formed by the hyperphosphorylation of Tau protein, are another important neuropathological hallmark of AD. Tau protein is a microtube-associated protein that is abundantly expressed in neurons of the CNS and cerebral cortex. It was reported that the Aβ accelerates the phosphorylation of the Tau protein, and the toxicity of the Aβ is dependent on the Tau protein. The complexity between the Aβ and Tau protein makes it difficult to develop the AD treatment drugs, and related drug investigations are limited. Recently, two types of anti-amyloid antibody intravenous infusion therapies were approved by the U.S. Food and Drug Administration, including aducanumab and lecanemab, marking the end of nearly two decades without new AD drugs. Instead, commercially available drugs target neurotransmitter systems, such as cholinesterase inhibitors (donepezil, rivastigmine, and galantamine), to increase acetylcholine (ACh) or glutamate receptor antagonist (memantine) levels to reduce the excitotoxicity induced by glutamate in the brain.
+
+The occurrence of oxidative stress and neuroinflammation are also well studied to involve in the development of AD. Growing evidence indicates that extensive oxidative stress is a hallmark of AD brains, alongside the well-established presence of senile plaques and NFT. The resulting oxidative stress has been linked to Aβ- and Tau-induced neurotoxicity. Additionally, evidence suggests that oxidative stress may increase the production and aggregation of Aβ and facilitate the phosphorylation and polymerization of Tau, creating a vicious cycle that drives the initiation and progression of AD. By the 1990s, it was widely acknowledged that inflammation was only a result of some neurodegenerative diseases, and the CNS did not easily experience inflammation. In the 1990s, several studies found that long-term administration of anti-inflammatory drugs in individuals reduced AD risk by 50%. Along with research regarding neuroinflammation, it has also been demonstrated to have a strong link with oxidative stress, cellular damage, mitochondrial dysfunction, formation of plagues and NFTs.
+
+AD is a complicated disorder involving multiple pathological processes. These processes interact with each other, exacerbating the condition progressively over time, and finally causing cognitive impairment and even death. Unfortunately, the treatment options for AD are limited. Recent approaches in the treatment of AD involve investigating potential molecules from natural products or functional foods with neuroprotective effects and metabolites to modulate signaling pathways associated with the disease. In the present review, we will mainly discuss peptides with neuroprotective activity from functional foods.
+
+4.2. Alzheimer’s Disease Prevention by Food Peptides
+
+Plant and animal peptides are known to ameliorate memory impairments related to the AD hypothesis (Table 2). Li et al. reported that papain hydrolysates of soybeans, walnuts, and peanuts exhibited inhibitory activity against H2O2-induced injury in PC12 cells and improved the recurrent memory ability of normal mice and consolidated memory ability of anisodine-treated mice. Although soybean, walnut, and peanut protein hydrolysates have shown potential as food raw materials for ameliorating neurodegenerative disorders, the specific peptides responsible for their functional properties remain unclear. Further research on the purification and identification of peptides from soy and walnut proteins is required. In 2019, the tetrapeptide VHVV was identified from the flavoenzyme hydrolysate of soybean protein by Ju et al. with neuroprotective potential by upregulating long-term memory-related proteins in spontaneously hypertensive rats. Amakye et al. found that the protein hydrolysates of soybean (PHS), oyster (PHO), and sea cucumber (PHH) had a significant effect on reversing D-galactose-induced aging-related learning and memory impairments and oxidative stress in the following order: PHS, PHO, PHH. Further purification of PHS indicated that WPK and AYLH were active components that strongly alleviated H2O2-induced oxidative damage in PC12 cells. These results suggest that PHS and purified peptides, WPK and AYLH, have the potential to serve as effective antioxidant agents in functional foods or nutraceuticals aimed at mitigating aging-related learning and memory impairments, as well as oxidative stress. However, the exact mechanism should be further investigated in the future. As mentioned in Section 3.2, orally administered YP in mice can be transported across the BBB and attenuate Aβ-induced memory impairment. Further mechanistic studies of YP in NE-4C cells indicated that the dipeptide stimulated ACh production via AdipoR1-induced choline acetyltransferase (ChAT) activation, which was consistent with the results obtained in amyloid β-induced AD mice. Currently, most of the commercially used drugs are AChE inhibitors, like donepezil or rivastigmine. The mechanism of the beneficial effects of YP on the brain provideds a new direction for the development of AD-related drugs. The walnut derived peptides (GGW, VYY, LLPF, EVSGPGLSPN, PPKNW, LPF, GVYY, APTLW, YVLLPSPK, TWLPLPR, KVPPLLY, FY, SGFDAE, WEKPPVSH, WSREEQERE, and ADIYTEEAGR) significantly ameliorated cognitive impairments via multiple mechanisms, including alleviating oxidative stress, showing neuroprotective effects against H2O2-induced neurotoxicity, reducing Aβ plaques, exhibiting anti-inflammatory effects, and ameliorating cholinergic system damage. The neuroprotective effects of peptides derived from walnuts, reported through various mechanisms, are a noteworthy development. This multifaceted action suggests that walnut derived peptides could play a significant role in neuroprotection, potentially offering therapeutic benefits for neurodegenerative diseases and cognitive impairment. Further research is needed to elucidate the specific mechanisms involved and to establish the clinical efficacy of these peptides in neuroprotective applications. WYPGK, derived from pine nuts (Pinus koraiensis), improves scopolamine-induced memory dysfunction in mice by enhancing synaptic plasticity via sirtuin 3 activation. These studies suggest that peptides derived from plants like soybeans, walnuts, and peanuts have valuable potential to ameliorate memory impairment through various mechanisms, making them beneficial dietary components for daily consumption.
+
+Bioactive peptides derived from animal sources are an important research area. For example, the dipeptide LN identified from fish protein hydrolysate exhibited strong β-secretase inhibitory activity (IC50 = 8.82 µM) and significantly decreased the production of Aβ in SH-SY5Y cells, highlighting its potential for mitigating AD pathology. FYY and DW from Benthosema pterotum protein hydrolysate and sturgeon protein-derived oligopeptides (KIWHHTF, VHYAGTVDY, and HLDDALRGQE) were developed as functional peptides with anti-Aβ aggregation and/or neuron protection activity, suggesting their application as nutraceuticals for age-related neurodegenerative diseases. Sea cucumbers (NDEELNK, FETLMPLWGNK, HEPFYGNEGALR, and KMYPVPLN) have been reported to exhibit neuroprotective effects by improving the cholinergic system, increasing energy metabolism, upregulating the expression of phosphorylated protein kinase A (p-PKA), brain-derived neurotrophic factor (BNDF), and nerve growth factor (NGF) signaling proteins in PC12 cells (for NDEELNK), alleviating oxidative stress in neuroblastoma cells, and improving survival in C. elegans exposed to neurotoxic paraquat (for FETLMPLWGNK, HEPFYGNEGALR, and KMYPVPLN). The hexapeptide QMDDQ from shrimp and oligopeptides (PAYCS and CVGSY) from anchovy protein hydrolysate have been reported to increase ACh content by reducing acetylcholinesterase (AChE) activity in PC12 cells. Furthermore, QMDDQ showed neuroprotective ability via the activation of the anti-apoptosis and PKA/CREB/BNDF signaling pathways. Similarly, FPF isolated from Antarctic krill increased ACh content, CREB, SYN, and PSD-95 expression levels, and suppressed AChE activity in scopolamine-induced AD mice.
+
+In addition to plant- and animal-derived peptides, fermented products are natural sources of functional peptides. From fermented cheese (Camembert), Ano et al. identified a peptide KEMPFPKYPVEP that significantly improved memory impairment in mice and increased the content of dopamine and norepinephrine in the frontal cortex. LYLKPR ameliorated oxidative stress-mediated neuronal injury by inhibiting the NLRP3 inflammasome. Recently, bioinformatics research using Molecular Docking (MD), PeptideRanker, BIOPEP, PeptideCutter, and ToxinPred was employed to predict potential bioactive peptides based on the binding efficiency of a target-specific peptide. For example, MD simulations can provide detailed insights into the interactions between peptides and their target molecules at the atomic level, helping to predict their stability, binding affinity, and overall efficacy. However, the bioactive potential of peptides estimated by MD simulations should be confirmed in cell and animal models before applying them to clinical application. For example, Rafique et al. successfully identified three neuroprotective peptides (DFVADHPFLF, HGQNFPIL, and RDFPITWPW) in oat protein hydrolysates using in silico MD simulations and in vitro peptidomics techniques. The neuroprotective activity of these peptides was confirmed in H2O2-damaged PC12 cells and in a scopolamine-induced zebrafish model.
+
+Although numerous food-derived bioactive peptides have been shown to improve memory both in vivo and in vitro, significant limitations remain. Current studies in animal models, predominantly those using rodents and zebrafish with memory impairments and short-term modeling, cannot fully capture the complexities of human AD. The complexity of human AD, including its multifactorial etiology and long-term progression, cannot be adequately modeled by short-term and simplified animal studies. Moreover, the clinical application of bioactive peptides faces several critical challenges that need to be addressed before these compounds can be considered viable therapeutic options for neurodegenerative diseases like AD. One of the primary concerns is the stability of these peptides. Bioactive peptides are often susceptible to degradation by enzymes in the gastrointestinal tract, which can significantly reduce their effectiveness when administered orally. Even if they survive the digestive process, their bioavailability—i.e., the proportion of the peptide that enters the circulation and reaches the target tissue—can be low, further limiting their therapeutic potential.
+
+5. Conclusions and Perspectives
+
+With the increase in human life expectancy, the incidence of neurodegenerative diseases among older adults has also increased. Consequently, the prevention and treatment of these diseases are becoming increasingly critical. A promising strategy for addressing cognitive impairment involves using bioactive peptides. Currently, there is increasing interest in discovering neuroprotective peptides or protein hydrolysates and understanding the mechanisms underlying the beneficial effects of these peptides on brain health and function. Here, we summarize the pathogenesis of AD and discuss food-derived peptides with neuroprotective effects and their mechanisms of action (Table 2). Notably, bioactive peptides were identified based on the results obtained from cell and animal models. Clinical trials may further enhance our understanding of neuroprotective peptides.
+
+Additionally, bioactive peptides that exert their physiological effects in vivo must first survive the digestive processes in the gastrointestinal tract and be effectively absorbed to reach their target tissues. Specifically, crossing the BBB is crucial for treating neurodegenerative diseases; however, crossing the BBB restricts the entry of many substances, potentially limiting peptide efficacy (Figure 1). Several methods, including in vitro BBB models, in situ perfusion, and in vivo mouse models, have been used to evaluate peptide transport across the BBB (Figure 3). Each method has advantages and limitations; for instance, in vitro models are convenient but do not accurately replicate in vivo conditions. Using advanced MS techniques to confirm peptide delivery may be the best approach, as YP reaches the brains of mice.
+
+In general, it is essential to thoroughly consider the bioavailability and bioactivity of food-derived peptides. For food-derived peptides, it is critical to ascertain whether they remain intact after gastrointestinal digestion and whether they can be effectively transported to target organs to exert their biological effects. If these bioactive peptides maintain their efficacy, they can potentially be used for the prevention of neurodegenerative diseases. However, for future drug development, a thorough understanding of their mechanisms of action is crucial to evaluate their potential side effects and ensure safety. Overall, the key research areas for peptides focus on their stability during digestion, transport to target tissues, especially across the BBB, and understanding their mechanisms of action. Provided the therapeutic potential of peptides in disease management, advancing the development of bioactive peptides is crucial for improving human health.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+Writing—original draft preparation, L.C.; literature search, L.C., C.S. and X.L.; review, editing, and supervision, T.M. All authors have read and agreed to the published version of the manuscript.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+References
+
+CNS Ageing in Health and Neurodegenerative Disorders
+
+Global, Regional, and National Burden of Disorders Affecting the Nervous System, 1990–2021: A Systematic Analysis for the Global Burden of Disease Study 2021
+
+A Review on Bioactive Peptides: Physiological Functions, Bioavailability and Safety
+
+Bioactive Peptides from Foods: Production, Function, and Application
+
+Effects of Food-Derived Bioactive Peptides on Cognitive Deficits and Memory Decline in Neurodegenerative Diseases: A Review
+
+A Review of the Common Neurodegenerative Disorders: Current Therapeutic Approaches and the Potential Role of Bioactive Peptides
+
+Effect of Supplementation of a Whey Peptide Rich in Tryptophan-Tyrosine-Related Peptides on Cognitive Performance in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled Study
+
+Supplementation with Whey Peptide Rich in β-Lactolin Improves Cognitive Performance in Healthy Older Adults: A Randomized, Double-Blind, Placebo-Controlled Study
+
+The Bovine Protein α-Lactalbumin Increases the Plasma Ratio of Tryptophan to the Other Large Neutral Amino Acids, and in Vulnerable Subjects Raises Brain Serotonin Activity, Reduces Cortisol Concentration, and Improves Mood under Stress
+
+Protein Digestion and Absorption: The Influence of Food Processing
+
+A Blood-Brain Barrier Overview on Structure, Function, Impairment, and Biomarkers of Integrity
+
+Regulation of Blood-Brain Barrier Integrity by Microglia in Health and Disease: A Therapeutic Opportunity
+
+Why Is the Global CNS Pharmaceutical Market so Under-Penetrated?
+
+The Blood-Brain Barrier: Bottleneck in Brain Drug Development
+
+Characteristics of Compounds That Cross the Blood-Brain Barrier
+
+Distribution of 3H-α-MSH in Rat Brain
+
+A Trip of Peptides to the Brain
+
+Astrocyte-Endothelial Interactions at the Blood-Brain Barrier
+
+Tight Junctions of the Blood-Brain Barrier: Development, Composition and Regulation
+
+Biologically-Derived Nanomaterials for Targeted Therapeutic Delivery to the Brain
+
+Diketopiperazines as a Tool for the Study of Transport across the Blood−Brain Barrier (BBB) and Their Potential Use as BBB-Shuttles
+
+‘À La Carte’ Peptide Shuttles: Tools to Increase Their Passage across the Blood–Brain Barrier
+
+Lipid Bilayer Crossing—The Gate of Symmetry. Water-Soluble Phenylproline-Based Blood-Brain Barrier Shuttles
+
+From Blood-to-Brain: Regulating the Permeability of the Blood-Brain Barrier
+
+Role of the Blood–Brain Barrier in the Nutrition of the Central Nervous System
+
+SLC and ABC Transporters: Expression, Localization, and Species Differences at the Blood-Brain and the Blood-Cerebrospinal Fluid Barriers
+
+Drug Transporters in the Central Nervous System
+
+Transcriptomic and Quantitative Proteomic Analysis of Transporters and Drug Metabolizing Enzymes in Freshly Isolated Human Brain Microvessels
+
+Contribution of Carrier-Mediated Transport Systems to the Blood–Brain Barrier as a Supporting and Protecting Interface for the Brain; Importance for CNS Drug Discovery and Development
+
+L-Type Amino Acid Transporter 1 as a Target for Drug Delivery
+
+Structure and Function of the Blood-Brain Barrier (BBB)
+
+The Prognostic Biomarker L-Homoarginine Is a Substrate of the Cationic Amino Acid Transporters CAT1, CAT2A and CAT2B
+
+Proton-Coupled Oligopeptide Transporter Family SLC15: Physiological, Pharmacological and Pathological Implications
+
+Carnosine and Homocarnosine, the Forgotten, Enigmatic Peptides of the Brain
+
+Divergent Developmental Expression and Function of the Proton-Coupled Oligopeptide Transporters PepT2 and PhT1 in Regional Brain Slices of Mouse and Rat
+
+The Solute Carrier Transporters and the Brain: Physiological and Pharmacological Implications
+
+Blood-Brain Barrier Transport of Therapeutics via Receptor-Mediation
+
+Brain Delivery of Therapeutics via Transcytosis: Types and Mechanisms of Vesicle-Mediated Transport across the BBB
+
+Delivery of Peptides and Proteins through the Blood-Brain Barrier
+
+Chemically Synthesized Peptide Libraries as a New Source of BBB Shuttles. Use of Mass Spectrometry for Peptide Identification
+
+A Novel LRP1-Binding Peptide L57 That Crosses the Blood Brain Barrier
+
+CNS Delivery via Adsorptive Transcytosis
+
+Enhanced Cellular Uptake of Biotinylated Antisense Oligonucleotide or Peptide Mediated by Avidin, a Cationic Protein
+
+Transport of Histone through the Blood-Brain Barrier
+
+Protamine-Mediated Transport of Albumin into Brain and Other Organs of the Rat. Binding and Endocytosis of Protamine-Albumin Complex by Microvascular Endothelium
+
+Transcytosis of Protein through the Mammalian Cerebral Epithelium and Endothelium. II. Adsorptive Transcytosis of WGA-HRP and the Blood-Brain and Brain-Blood Barriers
+
+Transcellular Brain Drug Delivery: A Review on Recent Advancements
+
+Influence of Short-Chain Cell-Penetrating Peptides on Transport of Doxorubicin Encapsulating Receptor-Targeted Liposomes across Brain Endothelial Barrier
+
+Delivery of a Peptide-Drug Conjugate Targeting the Blood Brain Barrier Improved the Efficacy of Paclitaxel against Glioma
+
+The Improved Blood-Brain Barrier Permeability of Endomorphin-1 Using the Cell-Penetrating Peptide SynB3 with Three Different Linkages
+
+Improved Brain Uptake and Pharmacological Activity Profile of Morphine-6-Glucuronide Using a Peptide Vector-Mediated Strategy
+
+Transportan 10 Improves the Pharmacokinetics and Pharmacodynamics of Vancomycin
+
+Blood-Brain Barrier Models: Rationale for Selection
+
+A New Blood-Brain Barrier Model Using Primary Rat Brain Endothelial Cells, Pericytes and Astrocytes
+
+Neuroprotective Effects of Fermented Yak Milk-Derived Peptide LYLKPR on H2O2-Injured HT-22 Cells
+
+From Venoms to BBB Shuttles: Synthesis and Blood-Brain Barrier Transport Assessment of Apamin and a Nontoxic Analog
+
+A DKP Cyclo(L-Phe-L-Phe) Found in Chicken Essence Is a Dual Inhibitor of the Serotonin Transporter and Acetylcholinesterase
+
+Transport of a Prolyl Endopeptidase Inhibitory Peptide across the Blood-Brain Barrier Demonstrated Using the HCMEC/D3 Cell Line Transcytosis Assay
+
+Transport of a Peptide from Bovine As1-Casein across Models of the Intestinal and Blood-Brain Barriers
+
+Food-Derived Hemorphins Cross Intestinal and Blood–Brain Barriers in Vitro
+
+The Blood-Brain Barrier: Structure, Regulation, and Drug Delivery
+
+Relation of β-Casomorphin to Apnea in Sudden Infant Death Syndrome
+
+Novel Lactopeptides in Fermented Dairy Products Improve Memory Function and Cognitive Decline
+
+Leucine-Histidine Dipeptide Attenuates Microglial Activation and Emotional Disturbances Induced by Brain Inflammation and Repeated Social Defeat Stress
+
+Tryptophan-Related Dipeptides in Fermented Dairy Products Suppress Microglial Activation and Prevent Cognitive Decline
+
+Administration of Bovine Casein-Derived Peptide Prevents Cognitive Decline in Alzheimer Disease Model Mice
+
+Bioavailability of Ziconotide in Brain: Influx from Blood, Stability, and Diffusion
+
+Conjugation of a Brain-Penetrant Peptide with Neurotensin Provides Antinociceptive Properties
+
+Brain-Transportable Dipeptides across the Blood-Brain Barrier in Mice
+
+A Memory-Improving Dipeptide, Tyr-Pro, Can Reach the Mouse Brain after Oral Administration
+
+Prolyl-Hydroxyproline, a Collagen-Derived Dipeptide, Enhances Hippocampal Cell Proliferation, Which Leads to Antidepressant-like Effects in Mice
+
+Brain-Transportable Soy Dipeptide, Tyr-Pro, Attenuates Amyloid β Peptide25-35-Induced Memory Impairment in Mice
+
+In Vivo Methods for Imaging Blood-Brain Barrier Function and Dysfunction
+
+MRI Measurements of Blood-Brain Barrier Function in Dementia: A Review of Recent Studies
+
+Validation by Magnetic Resonance Imaging of the Diagnostic Potential of a Heptapeptide-Functionalized Imaging Probe Targeted to Amyloid-β and Able to Cross the Blood-Brain Barrier
+
+Imaging Blood-Brain Barrier Dysfunction: A State-of-the-Art Review from a Clinical Perspective
+
+Multimodality Imaging of Blood-Brain Barrier Impairment during Epileptogenesis
+
+PET and SPECT in Epilepsy: A Critical Review
+
+Determination of cerebral blood flow using non-diffusible tracers
+
+Hallmarks of Neurodegenerative Diseases
+
+Alzheimer’s Disease: Pathogenesis, Diagnostics, and Therapeutics
+
+Therapeutics of Neurotransmitters in Alzheimer’s Disease
+
+Alzheimer’s Disease
+
+The Amyloid-β Pathway in Alzheimer’s Disease
+
+Expression of Tau Pathology-Related Proteins in Different Brain Regions: A Molecular Basis of Tau Pathogenesis
+
+Interaction between Aβ and Tau in the Pathogenesis of Alzheimer’s Disease
+
+Clinical Trials of New Drugs for Alzheimer Disease: A 2020–2023 Update
+
+Conventional versus New Treatment: Comparing the Effects of Acetylcholinesterase Inhibitors and N-Methyl-D-Aspartate Receptor Antagonist with Aducanumab
+
+Oxidative Stress Hypothesis in Alzheimer’s Disease: A Reappraisal
+
+Oxidized Protein Aggregates: Formation and Biological Effects
+
+Inflammation as a Central Mechanism in Alzheimer’s Disease
+
+Mitochondrial Dysfunction, Oxidative Stress, and Neuroinflammation: Intertwined Roads to Neurodegeneration
+
+Comparison of Neuroprotective and Cognition-Enhancing Properties of Hydrolysates from Soybean, Walnut, and Peanut Protein
+
+Bioactive Peptide VHVV Upregulates the Long-Term Memory-Related Biomarkers in Adult Spontaneously Hypertensive Rats
+
+Bioactive Anti-Aging Agents and the Identification of New Anti-Oxidant Soybean Peptides
+
+Adiponectin-Receptor Agonistic Dipeptide Tyr-Pro Stimulates the Acetylcholine Nervous System in NE-4C Cells
+
+Walnut (Juglans regia) Peptides Reverse Sleep Deprivation-Induced Memory Impairment in Rat via Alleviating Oxidative Stress
+
+Potential Mechanisms Mediating the Protective Effects of a Peptide from Walnut (Juglans mandshurica Maxim.) against Hydrogen Peroxide Induced Neurotoxicity in PC12 Cells
+
+Walnut-Derived Peptide PW5 Ameliorates Cognitive Impairments and Alters Gut Microbiota in APP/PS1 Transgenic Mice
+
+Inhibitory Effects of Walnut (Juglans regia) Peptides on Neuroinflammation and Oxidative Stress in Lipopolysaccharide-Induced Cognitive Impairment Mice
+
+Neuroprotection by Walnut-Derived Peptides through Autophagy Promotion via Akt/MTOR Signaling Pathway against Oxidative Stress in PC12 Cells
+
+Characterization and Exploration of Potential Neuroprotective Peptides in Walnut (Juglans regia) Protein Hydrolysate against Cholinergic System Damage and Oxidative Stress in Scopolamine-Induced Cognitive and Memory Impairment Mice and Zebrafish
+
+Walnut Peptide WEKPPVSH in Alleviating Oxidative Stress and Inflammation in Lipopolysaccharide-Activated BV-2 Microglia via the Nrf2/HO-1 and NF-ΚB/P38 MAPK Pathways
+
+The Neuroprotective Effect of Walnut-Derived Peptides against Glutamate-Induced Damage in PC12 Cells: Mechanism and Bioavailability
+
+Pine Nut Antioxidant Peptides Ameliorate the Memory Impairment in a Scopolamine-Induced Mouse Model via SIRT3-Induced Synaptic Plasticity
+
+Neuroprotective Effect of β-Secretase Inhibitory Peptide from Pacific Hake (Merluccius productus) Fish Protein Hydrolysate
+
+Peptides from Hydrolysate of Lantern Fish (Benthosema pterotum) Proved Neuroprotective in Vitro and in Vivo
+
+Sturgeon Protein-Derived Peptides Exert Anti-Inflammatory Effects in LPS-Stimulated RAW264.7 Macrophages via the MAPK Pathway
+
+Neuroprotective Effects of NDEELNK from Sea Cucumber Ovum against Scopolamine-Induced PC12 Cell Damage through Enhancing Energy Metabolism and Upregulation of the PKA/BDNF/NGF Signaling Pathway
+
+Sea Cucumber-Derived Peptides Alleviate Oxidative Stress in Neuroblastoma Cells and Improve Survival in C. elegans Exposed to Neurotoxic Paraquat
+
+Neuroprotective Function of a Novel Hexapeptide QMDDQ from Shrimp via Activation of the PKA/CREB/BNDF Signaling Pathway and Its Structure-Activity Relationship
+
+Neuroprotective Effects of Acetylcholinesterase Inhibitory Peptides from Anchovy (Coilia mystus) against Glutamate-Induced Toxicity in PC12 Cells
+
+Digestive and Absorptive Properties of the Antarctic Krill Tripeptide Phe-pro-Phe (FPF) and Its Auxiliary Memory-Enhancing Effect
+
+Identification of a Novel Peptide from β-Casein That Enhances Spatial and Object Recognition Memory in Mice
+
+Characterization and Exploration of the Neuroprotective Potential of Oat-Protein-Derived Peptides in PC12 Cells and Scopolamine-Treated Zebrafish
+
+Review and Perspective on Bioactive Peptides: A Roadmap for Research, Development, and Future Opportunities
+
+Schematic structure of the BBB. The walls of all brain capillaries consist of a thin monolayer of specialized brain microvascular endothelial cells connected by tight junctions (TJs). These endothelial cells are surrounded by a vascular basement membrane (BM), pericytes, parenchymal BM, and astrocyte endfeet, all of which directly or indirectly contribute to the barrier function of the BBB.
+
+Transport routes across the BBB. The transportation routes include paracellular diffusion, transcellular diffusion, carrier-mediated transport, receptor-mediated transcytosis, and adsorptive transcytosis. Paracellular diffusion is an energy-independent pathway that occurs between epithelial cells, and transcellular diffusion occurs through epithelial cells. Carrier-mediated transport pathway is mediated by the transporter proteins expressed on the luminal and/or abluminal side of the brain capillary endothelial cells. Receptor-mediated transcytosis is an energy-dependent pathway involving the binding of the ligand and the receptor, endocytosis, transcytosis, and exocytosis of transported molecules. Adsorptive transcytosis is a receptor-independent endocytosis process driven by electrostatic interactions between positively charged peptides and the negatively charged surfaces of BMECs.
+
+Transportability of peptides across the BBB. (A) Schematic representation of the in vitro reconstituted BBB model. Endothelial cells are seeded on the upper side of the filter, astrocytes are seeded at the bottom of the plates, and pericytes at the filter membranes of inverted cell culture inserts. (B) Representative in situ brain perfusion experiments. After the mice were anesthetized, the descending thoracic aorta was ligated, and at the start of the perfusion, the left jugular was sectioned. After perfusion, the whole brain was removed from the mice and used for detection. (C) Schematic representation of in vivo animal experiments. The mouse or rat is administrated with target peptides, then the brain was collected and finally detected by the radioactive tracing technique or mass spectroscopy techniques.
+
+BBB transportable peptides reported in the literature.
+
+Peptide	Source	Experiment Model	Transportability	Refs	 	fermented yak milk peptide		in vitro BBB model	6.90 ± 0.73 × 10−7 cm/s		 	(LYLKPR)	 	apamin	venom	in vitro BBB model	1.7 ± 0.1 × 10−6 cm/s		 	(CNCKAPETALCARRQQH)	 	Cyclo (FF)	chicken essence	in vitro BBB model	~25 × 10−6 cm/s		 	PPL	fish skin	in vitro BBB model	na		 	αS1-casein peptide	milk	in vitro BBB model	1.09 ± 0.14 × 10−6 cm /s		 	(PIGSENSEKTTMPLW)	 	H7	hemoglobin	in vitro BBB model	<1 × 10−6 cm /s		 	(YPWTQRF)	 	LVV-H4	hemoglobin	in vitro BBB model	<1 × 10−6 cm /s		 	(LVVYPWT)	 	VV-H4	hemoglobin	in vitro BBB model	<1 × 10−6 cm /s		 	(VVYPWT)	 	VV-H7	hemoglobin	in vitro BBB model	<1 × 10−6 cm /s		 	(VVYPWTQRF)	 	casomorphin-5	milk	mouse	0.266 nmol/g·min		 	(YPFPG)	 	casomorphin-7	milk	mouse	na		 	(YPFPGPI)	 	GTWY	whey protein	rat oral administration (radioactivity)	tissue/plasma ratio: 0.32 (hippocampus) and 0.39 (cerebral cortex)		 	LH	-	rat oral administration (radioactivity)	tissue/plasma ratio: 0.2		 	WY	fermented dairy products	rat oral administration (radioactivity)	tissue/plasma ratio: 0.23 (hippocampus) and 0.24 (cerebral cortex)		 	MKP	milk	rat oral administration	autoradiographic image		 	L57	-	in situ mouse brain perfusion	radioactivity		 	(TWPKHFDKHTFYSILKLGKH-OH)	 	ziconotide	sea snails	rat intravenous injection	0.005%/g brain tissue		 	(CKGKGAKCSRLMYDCCTGSCRSGKC)	 	Angiopep-2	-	in vitro BBB model and in situ brain perfusion	radioactivity		 	(TFFYGGCRGKRNNFKTEEY-COOH)	 	Gly-Sar	soybean	in situ mouse brain perfusion	7.60 ± 1.29 μL/g·min		 	GP	soybean	in situ mouse brain perfusion	3.49 ± 0.66 μL/g·min		 	YP	soybean	in situ mouse brain perfusion	3.53 ± 0.74 μL/g·min		 	YP	soybean	mouse oral administration	AUC0–120 min: 0.34 ± 0.11 pmol·min/mg-dry brain, at 10 mg/kg		 	PO	collagen	rat oral administration	~0.5 nmol/mL in cerebrospinal fluid		 	(Pro-Hyp)
+
+na: not available.
+
+Alzheimer’s disease prevention peptides reported in the literature.
+
+Peptide	Source	Experiment Model	Action	Refs	 	VHVV	soybean	rat	activation of CREB-mediated downstream proteins		 	WPK	soybean	PC12 cell	attenuated H2O2 induced oxidative stress		 	AYLH	soybean	PC12 cell		 	YP	soybean	mouse and NE-4C cell	stimulation of ChAT expression and ACh production		 	GGW	walnut	PC12 cell	protection against glutamate-induced apoptosis		 	VYY	walnut	PC12 cell		 	LLPF	walnut	PC12 cell		 	EVSGPGLSPN	walnut	PC12 cell	protection against H2O2-induced neurotoxicity		 	PPKNW	walnut	APP/PS1 mouse	inhibition of Aβ42 aggregation		 	LPF	walnut	mouse	decrease in TNF-α and IL-1β production		 	GVYY	walnut	mouse		 	APTLW	walnut	mouse		 	YVLLPSPK	walnut	PC12 cell	Akt/mTOR-mediated autophagy promotion against oxidative stress		 	TWLPLPR	walnut	PC12 cell		 	KVPPLLY	walnut	PC12 cell		 	FY	walnut	zebrafish	AChE and Keap1 inhibitors		 	SGFDAE	walnut	zebrafish		 	WEKPPVSH	walnut	BV-2 microglia cell	decreased NO and ROS generation, mitigated secretion of IL-6, TNF-α and IL-1β		 	WSREEQERE	walnut	PC12 cell	neuroprotective effect against glutamate-induced apoptosis		 	ADIYTEEAGR	walnut	PC12 cell		 	WYPGK	pine nuts	PC12 cell and mouse	SIRT3-induced synaptic plasticity enhancement		 	LN	pacific hake fish	SH-SY5Y cell	inhibition of Aβ production		 	FYY	lantern fish	SH-SY5Y cell and mouse	reduced H2O2 induced ROS and apoptotic cell death		 	DW	lantern fish		 	KIWHHTF	sturgeon	RAW264.7	anti-inflammatory effect by inhibiting the MAPK pathway		 	VHYAGTVDY	sturgeon		 	HLDDALRGQE	sturgeon		 	NDEELNK	sea cucumber	PC12 cell	cholinergic system-involved alleviation of cell damage		 	FETLMPLWGNK	sea cucumber	human neuroblastoma cell and Caenorhabditis elegans	antioxidant activity at both cellular and organism levels		 	HEPFYGNEGALR	sea cucumber		 	KMYPVPLN	sea cucumber		 	QMDDQ	shrimp	PC12 cell	neuroprotective effect by increasing ACh content and inhibiting AChE activity		 	PAYCS	anchovy	PC12 cell	AChE inhibition, ROS and Ca2+ influx-mediated cell protection		 	CVGSY	anchovy		 	FPF	Antarctic krill	mouse	elevation of ACh content, AChE inhibition		 	KEMPFPKYPVEP	Camembert cheese	mouse	elevation of ACh content, AChE inhibition		 	LYLKPR	fermented yak milk	HT-22 cell	amelioration of neuronal injury by inhibiting the NLRP3 inflammasome		 	DFVADHPFLF	oat protein hydrolysate	PC12 cell and zebrafish	neuroprotective activity mediated by upregulation of BDNF, Nrf2, and Erg1		 	HGQNFPIL		 	RDFPITWPW

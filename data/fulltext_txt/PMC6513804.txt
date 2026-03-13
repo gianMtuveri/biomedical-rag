@@ -1,0 +1,305 @@
+Intracellular transport and regulation of transcytosis across the blood–brain barrier
+
+The blood–brain barrier is a dynamic multicellular interface that regulates the transport of molecules between the blood circulation and the brain parenchyma. Proteins and peptides required for brain homeostasis cross the blood–brain barrier via transcellular transport, but the mechanisms that control this pathway are not well characterized. Here, we highlight recent studies on intracellular transport and transcytosis across the blood–brain barrier. Endothelial cells at the blood–brain barrier possess an intricate endosomal network that allows sorting to diverse cellular destinations. Internalization from the plasma membrane, endosomal sorting, and exocytosis all contribute to the regulation of transcytosis. Transmembrane receptors and blood-borne proteins utilize different pathways and mechanisms for transport across brain endothelial cells. Alterations to intracellular transport in brain endothelial cells during diseases of the central nervous system contribute to blood–brain barrier disruption and disease progression. Harnessing the intracellular sorting mechanisms at the blood–brain barrier can help improve delivery of biotherapeutics to the brain.
+
+Introduction to the cellular architecture of the blood–brain barrier
+
+The blood–brain barrier (BBB) is a highly selective interface between the systemic circulation and the brain parenchyma which is required for brain homeostasis and protection of the sensible neuronal environment. Electron microscopy studies in the 1960s localized the BBB to the brain vasculature and concluded that a barrier between blood and brain parenchyma is maintained by intercellular tight junctions and reduced vesicular trafficking, which limit paracellular and transcellular transport, respectively. A crucial requirement for the functionality of the BBB is the intensive cross-talk between brain endothelial cells (BECs), pericytes and astrocytes, which together with the extracellular matrix form the neuro-vascular unit (NVU). Pericytes cover 60–70% of the abluminal endothelial surface, whereas astrocyte endfeet reach almost 100%, overlaying pericytes.
+
+Pericytes surround the endothelial walls of capillaries and post-capillary venules and regulate the BBB by promoting the formation of tight junctions and reducing vesicle trafficking in endothelial cells. It was proposed that pericytes can also contribute to the regulation of cerebral blood flow, but the mechanisms through which pericytes can achieve this function are still unclear. Strikingly, a recent study showed that acute laser ablation of single pericytes in mice affected capillary dilation but not BBB permeability. The endothelial–pericyte interaction is maintained by the basal lamina and regulated at the cellular level by a machinery of junction proteins arranged in a characteristic “peg-and-socket” myoendothelial junction. The anatomical relationship and close interactions between pericytes and endothelial cells are important for reciprocal regulation of cell adhesion, proliferation, and differentiation via paracrine and juxtacrine signaling through the PDGF-B/PDGFRβ, angiopoetin/Tie2, and TGFβ/TGFβR pathways. Pericyte depletion in mice by genetic mutation of the PDGF-B pathway leads to substantial extravasation of high-molecular substances, including IgG and albumin, due to increased transcellular transport. Interestingly, the increased permeability of the BBB triggered by pericyte loss is heterogeneous throughout the brain, with the cortex and the hippocampus significantly more affected than midbrain regions. These observations suggest that pericyte-independent signals may regulate BBB permeability.
+
+Astrocytes are star-shaped cells attached to penetrating arterial blood vessels and to the outer layer of mature capillaries, where they fulfil supportive functions by maintaining neuronal excitability and homeostasis. Specifically, astrocyte end-feet ensheath the central nervous system (CNS) microvasculature and neuronal synapses and enable the modulation of neuronal activity, BBB formation, and cerebral blood flow. Astrocytes express specialized molecules and release growth factors such as vascular endothelial growth factor (VEGF), glial cell line-derived neurotrophic factor (GDNF), basic fibroblast growth factor (bFGF), and angiopoetin-1 (ANG-1) that are essential for the induction of BBB properties. The specific effects of astrocytes on BBB function have been thoroughly reviewed elsewhere.
+
+It is now accepted that the BBB is not completely impermeable to large molecules, but that multiple proteins cross the BBB via receptor-mediated transcytosis (RMT). Receptors involved in transcytosis across the BBB include insulin receptor, transferrin receptor, and low-density lipoprotein receptor. Although the extent of protein transcytosis across the BBB is quantitatively lower than in peripheral endothelia, such transport is not negligible, but has instead important physiological roles, as exemplified by insulin and leptin. Importantly, RMT has been exploited by molecular shuttles that enhance the delivery of biologics to the brain. Yet, despite the relevance of RMT for physiological processes and therapeutic development, very little is known about its regulation at the cellular and molecular levels. Here, we highlight the most recent findings on transcytosis across the BBB and its regulation in physiological and pathophysiological conditions.
+
+Intracellular transport pathways across the blood–brain barrier
+
+Intracellular transport pathways in brain endothelial cells. Transport across brain endothelial cells can be divided into three distinct processes: internalization, sorting, and exocytosis. For simplicity, only transport from the luminal (apical) to the abluminal (basolateral) membrane is shown, but the same mechanisms may also occur for basolateral-to-apical trafficking. Internalization into brain endothelial cells can occur via caveolae, clathrin-dependent endocytosis, or clathrin-independent endocytosis pathways such as fast endophilin-mediated endocytosis (FEME) or clathrin-independent carriers/glycosylphosphatidylinositol-anchored protein-enriched endocytic compartment (CLIC/GEEC). Internalization pathways converge in the early endosome network, which functions as an intracellular sorting station. Caveolae are thought to undergo transcytosis without fusion with early endosomes to promote transport of receptor-independent molecules (e.g., HRP, dextran, and albumin). Clathrin-coated vesicles (CCV) fuse with early endosomes after shedding the clathrin coat. From early endosomes, cargo can be transported via sorting tubules for transcytosis (e.g., Monovalent TfR and cation-independent mannose-6-phosphate receptor (CI-MPR) antibodies). Alternatively, endosomes mature into late endosomes and multi-vesicular bodies (MVB) which undergo fusion with lysosomes for cargo degradation (e.g., Bivalent TfR antibody, IgG). The retrograde transport pathway can shuttle cargo (e.g., CI-MPR antibody) from lysosomes to the Golgi apparatus and early endosomes. Exocytosis occurs when the sorting/transport compartment fuses with the abluminal membrane and is the least characterized process during endothelial transcytosis. Sorting tubules can fuse directly with the abluminal membrane or they can fuse with an intermediate basolateral sorting endosome (BSE) prior to exocytosis, as observed for transcytosis in epithelial cells. From the Golgi, cargo exocytosis can occur directly by polarized secretion to the abluminal membrane or indirectly by transport to early endosomes and subsequent sorting into tubules. A subpopulation of MVBs is thought to promote transcytosis by fusing with the abluminal membrane and releasing cargo (e.g., FC5 antibody) bound to exosomes. Dotted lines reflect pathways or compartments which have not been experimentally verified
+
+The observations from the landmark electron microscopy study from Reese and Karnovsky led to the paradigm that minimal vesicular transport is a key property of the BBB. While the number of vesicles in BECs is indeed lower than the number of vesicles in peripheral endothelial cells (ECs), by no means is endocytosis negligible at the BBB. On the contrary, electron microscopy studies showed that exogenous horse radish peroxidase (HRP) is internalized, albeit only in low amounts, and transported to lysosomes in BECs. A more recent study also found that endogenous mouse IgG are localized within intracellular vesicles within BECs and transported to lysosomes. Vesicular transport is especially important for RMT across the BBB, as shown for molecular shuttles that enhance antibody delivery to the brain. However, not all internalized antibodies undergo efficient transcytosis. For example, it was shown that both high binding affinity and bivalent antibody binding to the transferrin receptor (TfR) prevented transcytosis and instead, drove transport to the lysosome. The fact that both brain-penetrant (e.g., TfR monovalent antibodies) and non-brain-penetrant molecules (e.g., TfR bivalent antibodies, IgG) are internalized by BECs raise the question to which sorting mechanisms determine successful transcytosis to the brain parenchyma. In this section, we review the known intracellular endocytic mechanisms in endothelial cells and discuss how such mechanisms can regulate transcytosis across the BBB (Fig. 1).
+
+The transcellular transport pathway is initiated by endocytosis at the plasma membrane. For a detailed review on the mechanisms of endocytosis, the reader is referred to recent reviews on the topic. The most highly characterized internalization pathway is clathrin-mediated endocytosis (CME). A recent study showed that approximately 95% of transmembrane receptors at the plasma membrane are internalized via CME in fibroblasts. Coated pits characteristic of CME can be observed in BECs in brain tissue by electron microscopy. Furthermore, multiple receptors that undergo RMT in BECs require CME for internalization, such as TfR and insulin receptor. Despite the prevalence of CME, other clathrin-independent pathway(s) may also regulate RMT across the BBB.
+
+In peripheral blood vessels, there is strong evidence for the role of caveolae in transcellular transport. Caveolae are 60–80 nm flask-shaped organelles that lack an electron-dense membrane coat and contain oligomeric caveolin-1. It was previously shown that lung endothelial cells in caveolin-1 deficient mice lack caveolae and exhibit impaired transcytosis of an antibody against aminopeptidase P. More recent data showed that caveolin-1 is also involved in transcytosis across the BBB. Caveolae assembly at the plasma membrane in BECs is negatively regulated by the lipid transporter Mfsd2a. Genetic knock-out of Mfsd2a in mice led to a marked increase in both brain endothelial caveolae and transcellular permeability in the brain vasculature. Abolishing caveolin-1 in Mfsd2a knock-out mice prevented enhanced transcytosis. These results revealed that caveolin-1 is required for the transport of fluid-phase molecules such as dextran and HRP upon Mfsd2a knock-out. Whether caveolin-1 is required for RMT under physiological conditions was not explored. It is important to note that caveolae also regulate lipid transport, mechanoregulation, and cell signaling. It is still unclear whether caveolae are endocytic transport carriers that undergo transcytosis, or instead, they indirectly induce transcytosis via endosomes, for example, through modulation of membrane fluidity. Interestingly, recent studies have challenged the role of caveolae as endocytic transport carriers. First, there is no known specific cargo molecule transported primarily by caveolae. Second, the widespread methods for cholesterol extraction used to disassemble caveolae, for example, treatment with filipin, also affect other clathrin-independent pathways. Finally, knock-out of caveolin-1 upregulated caveolin-independent pathways in mouse fibroblasts. Therefore, further work is required to clarify how caveolae regulate intracellular transport and what is their specific contribution to transcytosis at the BBB.
+
+Further additional clathrin-independent pathways can drive the internalization of receptors, for example, fast endophilin-mediated endocytosis (FEME), macropinocytosis, ultrafast endocytosis, and the clathrin-independent carriers/glycosylphosphatidylinositol-anchored protein-enriched endocytic compartment (CLIC/GEEC) pathway. However, these pathways have been observed only in non-endothelial cell types, and to date, there is no evidence of their presence in BECs.
+
+The internalization pathway can determine the cellular fate of a receptor, as was hypothesized for the LDL receptor which is internalized by both CME and caveolin-dependent endocytosis. However, mechanisms downstream of internalization can also sort receptors to different destinations. One of the best examples of such receptors at the BBB is TfR. Two independent groups showed that monovalent antibodies or bispecific low-affinity constructs against TfR are sorted for transcytosis, while bivalent antibodies or high-affinity constructs against TfR are sorted for degradation at lysosomes. A recent study described that differential sorting of this receptor-antibody pair is regulated by intracellular tubules. Transport via tubules is an efficient and versatile strategy to sort proteins to different intracellular destinations, as it allows separating receptors based on interactions with cytosolic proteins or on the balance between receptor monomers and oligomers. In the case of TfR in BECs, bivalent antibody binding resulted in the formation of macroscopic receptor clusters which failed to enter intracellular tubules. Although tubules were observed both in primary mouse BECs and in mouse brain capillaries in vivo, their molecular identity was not characterized. Work in other cell types showed that endosomal tubules are heterogeneous organelles that can be formed through different membrane-remodeling pathways, including sorting nexins containing the Bin/Amphiphysin/Rvs domain (SNX-BAR), Arf6 GAP proteins with coiled-coil, ankyrin repeats and pleckstrin homology domain (ACAPs) and Eps15 homology domain (EHD) proteins. Therefore, a systematic loss-of-function approach will be required to identify the mechanisms that drive tubule formation and receptor sorting at the BBB.
+
+Sorting by intracellular tubules is likely not exclusive to TfR transcytosis, but could be a general mechanism of transport at the BBB, as suggested by studies on the cation-independent mannose-6-phosphate receptor (CI-MPR). CI-MPR is shuttled by the retrograde transport pathway between the trans-Golgi network and endosomes to deliver lysosomal hydrolases. It was recently found that BECs of porcine and bovine origin express CI-MPR and that this receptor is able to undergo bidirectional apico-basal trafficking across polarized BECs. Interestingly, recent work in HeLa cells showed that CI-MPR transport from endosomes occurs via intracellular tubules formed by the SNX1/2-5/6 complexes. Whether SNX-dependent tubules are responsible for the sorting and apico-basal trafficking of CI-MPR and transcytosis of TfR at the BBB still needs to be investigated.
+
+Additional evidence supporting the relevance of intracellular sorting for transcytosis across the BBB comes from the extensive characterization of the novel camelid antibody construct FC5. FC5 crosses the BBB via RMT driven by the putative receptor Tmem30. By performing multi-plexed mass spectrometry on purified organelle fractions from an immortalized rat BEC cell line, it was shown that FC5 was enriched in early endosomes and a subpopulation of multi-vesicular bodies (MVBs). On the other hand, a construct that does not undergo transcytosis in vivo was enriched in late endosomes/lysosomes and depleted from early endosomes. These observations strengthen the hypothesis that the lysosomal network is an additional mechanism to restrict transcellular transport of blood-borne proteins. The authors of this study proposed a new pathway for FC5 transcytosis which could be mediated by MVB fusion with the plasma membrane, as known to occur during exosome biogenesis.
+
+The last step during transcellular transport at the BBB is exocytosis, which refers to the fusion of the carrier organelle with the opposite membrane. It is still unknown whether tubules and/or MVBs directly undergo fusion with the abluminal or luminal membrane. An alternative scenario is that tubules and/or MVBs may act as transport intermediates between apical and basolateral endosomes, as observed in epithelial cells. Recently, an assay based on total internal reflection fluorescence (TIRF) microscopy was developed to better characterize insulin and LDL transcytosis in endothelial cells. The application of this or other similar novel quantitative approaches to BECs will be instrumental to shed light on the mechanisms regulating exocytosis at the BBB. Although most studies have focused on apical-to-basolateral BBB transport (i.e., influx to the brain parenchyma), trafficking from the basolateral to apical membrane (i.e., efflux from the brain parenchyma) is very likely occurring within BECs. Recent work suggested that basolateral-to-apical transport of LRP1 receptor may play an important role for efflux and clearance of amyloid β (Aβ). However, data on this pathway on BECs are scarce and it is still unclear whether the same mechanisms regulating apical-to-basolateral transport also operate in the opposite direction.
+
+Transcellular transport across the BBB is currently being exploited to enhance delivery of therapeutic antibodies to the brain. Utilizing the TfR pathway as a shuttle mechanism has proved to be a successful strategy for brain delivery in preclinical species. Key lessons from these studies were that the extent of transport to the brain parenchyma is regulated by TfR-antibody avidity and affinity. These results were recently confirmed using TfR-targeted nanoparticles. Interestingly, the effects of avidity and affinity on transport were not observed when different antibody formats against TfR or antibodies against another receptor were used as shuttles. These findings underscore the fact that transport across the BBB is not solely dependent on antibody binding properties, but is likely receptor- and epitope-specific. Recently, a proteomic analysis of mouse brain endothelial cells was performed to identify novel BBB-specific membrane proteins and increase the repertoire of transcytosis shuttles. This work identified that the transmembrane proteins CD98hc and Glut1 are highly enriched in brain capillaries. Antibodies against CD98hc substantially increased transport across the BBB in mice after systemic dosing. However, it should be noted that although CD98hc- and TfR-based shuttles can enhance transport of biologics to the brain in preclinical species, the safety, efficacy, and pharmacokinetic profiles of these molecules are likely impacted by the ubiquitous expression of TfR and CD98hc in peripheral tissues. An alternative approach to discover brain-specific shuttles is to screen antibody or peptide libraries for molecules that can cross the BBB in preclinical species. With this method, two different groups identified new binders with enhanced brain penetration after systemic dosing. While promising, these novel shuttles rely on poorly characterized receptors (e.g., CD98hc, Tmem30) with unknown intracellular transport routes. As discussed below, we consider that optimization of new shuttles will require a thorough characterization of their intracellular transport pathways. While more work is required for a better understanding of how receptors can cross the BBB, the studies summarized in this section highlight the relevance of intracellular trafficking for transcytosis as well as its potential to be exploited as a delivery mechanism of therapeutic antibodies. In the next section, we discuss how intracellular transport at the BBB is affected during disease.
+
+Regulation of intracellular transport across the BBB during disease
+
+Sterile brain injuries (e.g., status epilepticus, non-penetrating trauma, and vascular accident) and chronic stages of diverse brain diseases are often associated with capillary damage and increased BBB permeability. The inflammatory response that accompanies the progression of numerous CNS disorders promotes an aberrant neuro-vascular remodeling resulting in neuronal dysfunction and neurodegeneration. There is ample evidence to demonstrate that inflammation opens tight junctions and enhances paracellular transport, which has been reviewed elsewhere. Here, we focus on the specific changes to intracellular transport across the BBB. In particular, numerous electron microscopy (EM) studies have found an increase in the density of intracellular vesicles in BECs after various forms of injury to the BBB [reviewed in ]. Such vesicles are partly elongated, form vesiculo-tubular structures, and reflect changes in the intracellular endocytic network within BECs. A high number of vesicles and vesiculo-tubular structures is often assumed to reflect an increase in transcytosis rate. However, this conclusion is based on correlative evidence and requires functional validation, as it offers no insight into the transport of cargo molecules. To overcome this limitation, an alternative method was recently developed to investigate the intracellular distribution of endogenous and exogenous cargo molecules at the BBB. The authors used high-resolution ex vivo confocal microscopy to detect intracellular accumulation of endogenous IgG within vesicles in mouse BECs. Strikingly, increased BBB permeability led to a significant reduction in the number of IgG-positive vesicles, likely due to increased fusion with the abluminal membrane and accelerated IgG delivery to the brain parenchyma. This sensitive method will facilitate the functional characterization of intracellular transport at the BBB during brain injury or disease. Below, we highlight recent examples of intracellular transport mis-regulation and its potential consequences in CNS disorders.
+
+In the context of Alzheimer’s disease (AD), transcytosis across the BBB is increasingly investigated, as it is one of the mechanisms responsible for both clearance of Aβ from the brain and for delivery of therapeutic antibodies to the brain. Genome-wide association studies have linked the disease to several genes that may be involved in Aβ clearance. Interestingly, at least two of them, PICALM and CD2AP, are expressed in BECs and are involved in endocytosis. The function of PICALM in Aβ transport has been studied in considerable detail. PICALM is a ubiquitously expressed clathrin adaptor protein which closely interacts with LRP1, a key player in receptor-mediated endocytosis and Aβ efflux from the brain. After binding to LRP1 in an Aβ-dependent manner, PICALM facilitates trafficking to Rab5- and EEA1-positive early endosomes and to Rab11-positive recycling endosomes. A single-nucleotide polymorphism in the Picalm locus that leads to a lower Picalm expression is associated with AD, in agreement with the concept that PICALM is involved in the transendothelial transport and efflux of Aβ.
+
+In addition to disturbed PICALM-mediated transcytotic efflux of Aβ, there is also evidence that transcytotic influx of plasma proteins into the brain is enhanced in AD and may contribute to disease pathology [reviewed in ]. It was proposed that Aβ can induce apoptotic cell death of pericytes in the hippocampus leading to vascular regression, reduction of nutrient transport and energy substrates to neurons, as well as extravasation of blood components in the brain parenchyma. The combination of these multiple factors thus contributes to neuroinflammation and neuronal injury, altogether promoting neurodegeneration. However, the extent of transcytosis during AD seems to be markedly lower than in neuroinflammatory diseases and the specific changes to intracellular transport pathways are still unknown. Interestingly, in mouse models of AD, endogenous plasma proteins as well as exogenously administered therapeutic antibodies were transported to the brain parenchyma, but there was no evidence for a widespread disruption of the BBB. This result suggests that the BBB is a hurdle for therapeutic antibodies in AD unless other features increase passage.
+
+In stroke patients, EM also identified an increase of vesiculo-tubular structures within BECs. Cerebral ischemia leads to an upregulation of caveolin-1 and caveolin-2 in BECs but not in other cell types of the brain. As early as 6 h after ischemia, there was an increase in endothelial caveolae and albumin uptake/transport to the brain parenchyma. In accordance with the key role of caveolin-1 in caveolae formation, caveolin-1 deficient mice exhibited reduced albumin uptake/transport to the brain parenchyma in the first hours after stroke. At later timepoints, the BBB was disrupted due to disturbed tight junctions, but this process did not depend on caveolin-1. The relevance of altered intracellular transport for the post-ischemic BBB disruption is supported by data showing a parallel increase of uncoated vesicles and BBB disruption in obese mice. Hypertension but not old age further increased the number of post-ischemic endothelial vesicles. The mechanisms by which obesity or hypertension promote post-ischemic transcytosis are still unclear. In addition to the general increase in intracellular transport, cerebral ischemia may exert very specific effects on the machinery involved in RMT, as illustrated by the upregulation of TfR, which may enable the efficient delivery of therapeutic antibodies via this pathway.
+
+Altered intracellular transport was also observed for multiple sclerosis (MS) patients. The number of intracellular vesicles within BECs correlated with disease severity. Interestingly, while there was a substantial increase in non-coated intracellular vesicles between patients, no differences in the number of coated vesicles was detected, suggesting that different endocytic pathways are independently regulated. The findings on increased intracellular vesicles are reproduced in the experimental autoimmune encephalomyelitis (EAE) animal model of MS. Caveolin-1 and caveolin-2 levels are elevated in endothelial cells during EAE, possibly because the pro-inflammatory transcription factor NF-κB controls expression of caveolin-1. In addition, inflammatory cytokines likely present in MS lesions are also known to stimulate fluid-phase endocytosis. In contrast, Wnt signaling inhibits caveolin-1 expression, an effect that may contribute to the central role of Wnt in the development and maintenance of the BBB. Similar to its effect in stroke models, deficiency of caveolin-1 significantly mitigated the course of EAE and reduced the albumin uptake by endothelial cells. However, the latter effect was lost if mice were matched for the EAE severity score. As discussed in the previous section, this observation could be explained by the upregulation of caveolin-independent endocytosis upon caveolae disassembly. Interestingly, caveolin-1 deficiency reduced clinical severity in the EAE model of MS by preventing transcellular migration of Th1 lymphocytes to the CNS. Caveolae are rich in VCAM-1 that binds to integrins on the surface of Th1 cells, suggesting the intriguing possibility that Th1 cells use the endosomal network as a route for their transcellular migration across the BBB.
+
+The changes in BBB permeability observed during injury or disease are mediated by different cell types. Microglial cells, the resident macrophages in the CNS, are the primary cellular regulators of the inflammatory response in the brain. Upon brain injury, microglia synthesize a plethora of pro-inflammatory cytokines which can directly affect BBB permeability. A more general description of the key roles of microglia during injury and disease and their general effect on BBB permeability is out of the scope of this review, but has been comprehensively reviewed elsewhere. Altered BBB permeability during disease can also be mediated by pericytes and astrocytes, as these cells display immune properties and participate in both innate and adaptative immunity processes in vivo. Changes of the pericyte inflammatory profiles have been reported in CNS pathologies associated with ischemic stroke, AD, and traumatic brain injury. For example, pericytes can release matrix metalloproteinases (e.g., MMP9) upon TNF-α stimulation impacting the integrity of the BBB. Pericytes constitutively express major histocompatibility complex (MHC) class I but not MHC class II or the co-stimulatory molecules CD80 or CD86. In vivo, they can secrete chemokines and cytokines and attract immune cells to the site of inflammation in the presence of inflammatory cytokines including IFN-γ, IL-17, TNF-α, and IL-1β. In the case of astrocyte-mediated regulation, the arachidonic acid (AA) pathway emerged recently as a regulator of neuro-vascular coupling at the capillary level. This pathway depends on astrocytic Ca2+ signaling and the production of AA-derived prostaglandins (PGs). The AA pathway has also been involved in the regulation of pericyte tone and diameter, which is indicative of its importance for the regulation of the neuro-vascular unit. In astrocytes, production of the pro-inflammatory PGs depends on the activity of the diacylglycerol lipase (DAGL) and the monoacylglycerol lipase (MAGL). In the brain, MAGL is the main enzyme responsible for the production of AA and PGs through the cleavage of the main endocannabinoid 2-AG. Specific deletion of MAGL expression in astrocytes significantly increases 2-AG levels while concomitantly reducing AA levels and protecting against neuroinflammation. Inflammation drives the activation of the neurovasculature, thus disrupting the integrity of the BBB and substantially inducing its permeability as reported in several neurodegenerative diseases. Inhibition of MAGL activity, and, therefore, modulation of PGs expression were recently shown to prevent an inflammation-driven increase in BBB permeability suggesting a dual role of the AA pathway controlling neuro-vascular coupling and BBB integrity/permeability. However, it should be stressed that changes to the BBB upon immune challenges are not restricted to intracellular transport but also affect paracellular transport and immune cell transmigration. Therefore, additional work is required to identify the signaling pathways that specifically mediate changes to the endosomal network during disease. Nonetheless, the examples summarized here provide some evidence that alterations to intracellular transport at the BBB may play a key role in the pathophysiology of CNS disorders.
+
+Open questions and challenges
+
+The recent findings on intracellular transport across the BBB raise new important questions. How many pathways can drive transcytosis (e.g., tubules from early endosomes, MVBs, retrograde transport, caveolae)? What is the relative contribution of each pathway to overall transport into and out of the brain? What mechanisms determine which pathway(s) will sort different receptors? How do these processes contribute or respond to disease? Answering these questions first requires identifying the molecular mechanisms controlling intracellular transport at the BBB. Such mechanisms may be unique to endothelial cells, as BECs do not express known regulators of epithelial transcytosis, such as Rab17 and Rab25. We consider that to improve the current understanding of BBB transcytosis and reveal the specific mechanisms of intracellular transport within BECs, it is necessary to adopt emerging technologies from the field of molecular cell biology, such as super-resolution microscopy, unbiased image analysis, and genome editing. The value of quantitative microscopy/image analysis for the BBB is highlighted by the findings on new mechanisms of transferrin receptor sorting and on the regulation of the endo-lysosomal network of porcine BECs by astrocytes. However, a major limitation of these studies is that they relied on two-dimensional cellular models that do not fully recapitulate the complex cellular architecture of the NVU. Moreover, most studies on the BBB use animal models which may not be translatable to human physiology. A solution to these caveats may come from the use of increasingly complex in vitro human BBB models, including multicellular human BBB spheroids, inducible pluripotent stem-cell-derived multicellular co-cultures, and microphysiological systems with fluid flow. The study of such complex models requires the adoption of new imaging technologies that allow the acquisition of the complete NVU volume with subcellular resolution at endocytosis-relevant time scales. The combination of improved multicellular BBB models with advanced microscopy imaging will likely reveal physiologically relevant mechanisms for the regulation of intracellular transport across the BBB.
+
+We propose that a better understanding of intracellular transport within BECs will lead to improved therapies for CNS disorders, specifically through the impact in three key areas of drug development. First, a thorough characterization of transcytosis across the BBB and its alterations during disease can point to new therapeutic targets. For example, upregulation of wild-type PICALM in BECs may help decrease Aβ levels in AD. Second, detailed knowledge on the regulation of intracellular transport will contribute to rational design of antibody shuttles. Current shuttle engineering focuses mostly on modifying binding properties, but as discussed above, target binding does not always correlate with transport across the BBB. By mapping which intracellular routes are most efficient for transcytosis, shuttles with desired trafficking profiles could be engineered, for example, by modifying net protein charge or by adding glycosphingolipids that regulate sorting. Third, understanding the itinerary of proteins within BECs will improve target receptor selection and molecule optimization. Selection criteria are now primarily based on receptor expression and specificity. However, abundant receptors in BECs are not necessarily the most efficient for transcytosis, as is the case for TfR. During molecule optimization, another critical factor to consider is the interaction between a given shuttle and other endosome-resident proteins in the same pathway. For example, it is not yet known whether FcRn, an endosome-resident receptor expressed in BECs which specializes in recycling antibodies back to the circulation, impacts transcytosis of TfR-antibody-based shuttles. Furthermore, the development of new antibody formats using, for example, pH-sensitive linkers or sequential targeting to promote binding at the cell surface followed by intracellular redirection, clearly require a detailed understanding of sorting pathways and protein interactions within endosomes. Through the impact on these three areas, we consider that investigating the mechanisms of intracellular pathways at the BBB will help to accelerate the clinical development of new brain delivery platforms for biologics.
+
+The evidence on intracellular transport across the BBB presented in this review demonstrate that, instead of being cells with “reduced vesicular transport”, BECs possess a complex intracellular transport network controlling receptor transport to the brain. Characterizing these pathways will help drive a renaissance in the field of intracellular transport across the BBB.
+
+References
+
+Fine structural localization of a blood–brain barrier to exogenous peroxidase
+
+Development, maintenance and disruption of the blood–brain barrier
+
+Astrocyte-endothelial interaction: physiology and pathology
+
+Tumor necrosis factor-alpha-stimulated brain pericytes possess a unique cytokine and chemokine release profile and enhance microglial activation
+
+TGF-beta1 regulates human brain pericyte inflammatory processes involved in neurovasculature function
+
+Pericytes of the neurovascular unit: key functions and signaling pathways
+
+Capillary pericytes regulate cerebral blood flow in health and disease
+
+Regional blood flow in the normal and ischemic brain is controlled by arteriolar smooth muscle cell contractility and not by capillary pericytes
+
+What is a pericyte?
+
+Dynamic remodeling of pericytes in vivo maintains capillary coverage in the adult mouse brain
+
+Pericytes: developmental, physiological, and pathological perspectives, problems, and promises
+
+Pericytes are required for blood–brain barrier integrity during embryogenesis
+
+Region-specific permeability of the blood–brain barrier upon pericyte loss
+
+The role of astroglia in neuroprotection
+
+Establishment and dysfunction of the Blood–Brain barrier
+
+Glial-endothelial crosstalk regulates blood–brain barrier function
+
+Astrocyte-endothelial interactions at the blood–brain barrier
+
+Glial influence on the blood brain barrier
+
+Transcytosis of macromolecules at the blood–brain barrier
+
+Insulin in the brain: there and back again
+
+Involvement of the blood–brain barrier in metabolic regulation
+
+Protein engineering approaches for regulating blood–brain barrier transcytosis
+
+Into rather unexplored terrain-transcellular transport across the blood–brain barrier
+
+Endocytosis at the blood–brain barrier: from basic understanding to drug delivery strategies
+
+The molecular constituents of the blood–brain barrier
+
+Endothelial vesicles in the blood–brain barrier: are they related to permeability?
+
+Expanding the definition of the blood–brain barrier to protein
+
+Trafficking of endogenous immunoglobulins by endothelial cells at the blood–brain barrier
+
+Protein engineering approaches for regulating blood–brain barrier transcytosis
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+Transferrin receptor (TfR) trafficking determines brain uptake of TfR antibody affinity variants
+
+Clathrin-independent pathways of endocytosis
+
+Mechanisms of endocytosis
+
+Mechanisms of clathrin-mediated endocytosis
+
+Clathrin-independent pathways do not contribute significantly to endocytic flux
+
+Dynasore impairs VEGFR2 signalling in an endocytosis-independent manner
+
+Clathrin-dependent entry and vesicle-mediated exocytosis define insulin transcytosis across microvascular endothelial cells
+
+Caveolae as plasma membrane sensors, protectors and organizers
+
+Live dynamic imaging of caveolae pumping targeted antibody rapidly and specifically across endothelium in the lung
+
+Blood-brain barrier permeability is regulated by lipid transport-dependent suppression of caveolae-mediated transcytosis
+
+Mfsd2a is critical for the formation and function of the blood–brain barrier
+
+Caveolae: one function or many?
+
+Endophilin marks and controls a clathrin-independent endocytic pathway
+
+Cholesterol-sensitive Cdc42 activation regulates actin polymerization for endocytosis via the GEEC pathway
+
+Endocytic crosstalk: cavins, caveolins, and caveolae regulate clathrin-independent endocytosis
+
+Mechanisms of carrier formation during clathrin-independent endocytosis
+
+Transcellular vesicular transport in epithelial and endothelial cells: challenges and opportunities
+
+Sorting tubules regulate blood–brain barrier transcytosis
+
+Sequence-dependent sorting of recycling proteins by actin-stabilized endosomal microdomains
+
+HRS-WASH axis governs actin-mediated endosomal recycling and cell invasion
+
+Multivalent immune complexes divert FcRn to lysosomes by exclusion from recycling sorting tubules
+
+Membrane-associated cargo recycling by tubule-based endosomal sorting
+
+Mannose 6-phosphate receptors: new twists in the tale
+
+Bidirectional apical-basal traffic of the cation-independent mannose-6-phosphate receptor in brain endothelial cells
+
+Sequence-dependent cargo recognition by SNX-BARs mediates retromer-independent transport of CI-MPR
+
+The blood–brain barrier transmigrating single domain antibody: mechanisms of transport and antigenic epitopes in human brain endothelial cells
+
+A novel platform for engineering blood–brain barrier-crossing bispecific biologics
+
+Endosomal trafficking regulates receptor-mediated transcytosis of antibodies across the blood brain barrier
+
+Biogenesis, secretion, and intercellular interactions of exosomes and other extracellular vesicles
+
+Membrane transport across polarized epithelia
+
+A novel assay uncovers an unexpected role for SR-BI in LDL transcytosis
+
+Central role for PICALM in amyloid-beta blood–brain barrier transcytosis and clearance
+
+Therapeutic bispecific antibodies cross the blood–brain barrier in nonhuman primates
+
+Antibody affinity and valency impact brain uptake of transferrin receptor-targeted gold nanoparticles
+
+Brain uptake of multivalent and multi-specific DVD-Ig proteins after systemic administration
+
+Discovery of novel blood–brain barrier targets to enhance brain uptake of therapeutic antibodies
+
+Cargo delivery into the brain by in vivo identified transport peptides
+
+Selection of phage-displayed llama single-domain antibodies that transmigrate across human blood–brain barrier endothelium
+
+Inflammation and neuroprotection in traumatic brain injury
+
+Clinical evidence of inflammation driving secondary brain injury: a systematic review
+
+Inflammation and vascular remodeling
+
+Mechanisms underlying inflammation in neurodegeneration
+
+Fibrinogen in neurological diseases: mechanisms, imaging and therapeutics
+
+Structural pathways for macromolecular and cellular transport across the blood–brain barrier during inflammatory conditions. Review
+
+Microglial genes regulating neuroinflammation in the progression of Alzheimer’s disease
+
+The Alzheimer’s disease risk factor CD2AP maintains blood–brain barrier integrity
+
+Endothelial LRP1 transports amyloid-beta(1-42) across the blood–brain barrier
+
+LDL receptor-related protein 1: unique tissue-specific functions revealed by selective gene knockout studies
+
+Alzheimer’s disease: a matter of blood–brain barrier dysfunction?
+
+Blood–brain barrier breakdown in the aging human hippocampus
+
+Blood–brain barrier breakdown in Alzheimer disease and other neurodegenerative disorders
+
+Lack of widespread BBB disruption in alzheimer’s disease models: focus on therapeutic antibodies
+
+Neuronal uptake of tau/pS422 antibody and reduced progression of tau pathology in a mouse model of Alzheimer’s disease
+
+Electron microscopic study of capillary wall in human cerebral edema
+
+Caveolin-1 deficiency increases cerebral ischemic injury
+
+Stepwise recruitment of transcellular and paracellular pathways underlies blood–brain barrier breakdown in stroke
+
+The blood–brain barrier after stroke: structural studies and the role of transcytotic vesicles
+
+Effect of hypertension on blood–brain barrier. Change after restoration of blood flow in post-ischemic gerbil brains. An electronmicroscopic study
+
+Ultrastructural analysis of blood–brain barrier breakdown in the peri-infarct zone in young adult and aged mice
+
+Targeting of post-ischemic cerebral endothelium in rat by liposomes bearing polyethylene glycol-coupled transferrin
+
+Evidence of persistent blood–brain barrier abnormalities in chronic-progressive multiple sclerosis
+
+Effects of prazosin on the blood–brain barrier during experimental autoimmune encephalomyelitis
+
+Caveolin-1 is critical for lymphocyte trafficking into central nervous system during experimental autoimmune encephalomyelitis
+
+Expression of caveolin-1, -2, and -3 in the spinal cords of Lewis rats with experimental autoimmune encephalomyelitis
+
+Role of NF-kappaB-dependent caveolin-1 expression in the mechanism of increased endothelial permeability induced by lipopolysaccharide
+
+Adsorptive endocytosis of HIV-1gp120 by blood–brain barrier is enhanced by lipopolysaccharide
+
+Ultracytochemical studies of the compromised blood–brain barrier
+
+Lipopolysaccharide-induced caveolin-1 phosphorylation-dependent increase in transcellular permeability precedes the increase in paracellular permeability
+
+Endothelial Wnt/β-catenin signaling reduces immune cell infiltration in multiple sclerosis
+
+Caveolin1 is required for Th1 cell infiltration, but not tight junction remodeling, at the blood–brain barrier in autoimmune neuroinflammation
+
+Microglia in the neurovascular unit: blood–brain barrier–microglia interactions after central nervous system disorders
+
+Microglia in neurodegenerative disease
+
+The impact of microglial activation on blood–brain barrier in brain diseases
+
+Immune regulation by pericytes: modulating innate and adaptive immunity
+
+Early loss of pericytes and perivascular stromal cell-induced scar formation after stroke
+
+Cerebrovascular pathology during the progression of experimental Alzheimer’s disease
+
+Traumatic brain injury results in rapid pericyte loss followed by reactive pericytosis in the cerebral cortex
+
+Astrocytes mediate neurovascular signaling to capillary pericytes but not to arterioles
+
+Neuron-to-astrocyte signaling is central to the dynamic control of brain microcirculation
+
+Deletion of monoglyceride lipase in astrocytes attenuates lipopolysaccharide-induced neuroinflammation
+
+Metabolic interplay between astrocytes and neurons regulates endocannabinoid action
+
+Inhibition of 2-AG hydrolysis differentially regulates blood brain barrier permeability after injury
+
+The endo-lysosomal system of brain endothelial cells is influenced by astrocytes in vitro
+
+Blood–brain-barrier spheroids as an in vitro screening platform for brain-penetrating agents
+
+A novel human induced pluripotent stem cell blood–brain barrier model: applicability to study antibody-triggered receptor-mediated transcytosis
+
+An isogenic blood–brain barrier model comprising brain endothelial cells, astrocytes, and neurons derived from human induced pluripotent stem cells
+
+Blood–brain barrier-on-a-chip: microphysiological systems that capture the complexity of the blood-central nervous system interface
+
+Lattice light-sheet microscopy: imaging molecules to embryos at high spatiotemporal resolution
+
+Cellular uptake mechanisms and endosomal trafficking of supercharged proteins
+
+Mucosal absorption of therapeutic peptides by harnessing the endogenous sorting of glycosphingolipids
+
+Transferrin and transferrin receptor function in brain barrier systems
+
+FcRn: the neonatal Fc receptor comes of age
+
+Transcytosis of payloads that are non-covalently complexed to bispecific antibodies across the hCMEC/D3 blood–brain barrier model

@@ -1,0 +1,309 @@
+Delivery of Therapeutic Peptides and Proteins to the CNS
+
+Peptides and proteins have potent effects on the brain after their peripheral administration, suggesting that they may be good substrates for the development of CNS therapeutics. Major hurdles to such development include their relation to the blood–brain barrier (BBB) and poor pharmacokinetics. Some peptides cross the BBB by transendothelial diffusion and others cross in the blood-to-brain direction by saturable transporters. Some regulatory proteins are also transported across the BBB and antibodies can enter the CNS via the extracellular pathways. Glycoproteins and some antibody fragments can be taken up and cross the BBB by mechanisms related to adsorptive endocytosis/transcytosis. Many peptides and proteins are transported out of the CNS by saturable efflux systems and enzymatic activity in the blood, CNS, or BBB are substantial barriers to others. Both influx and efflux transporters are altered by various substances and in disease states. Strategies that manipulate these interactions between the BBB and peptides and proteins provide many opportunities for the development of therapeutics. Such strategies include increasing transendothelial diffusion of small peptides, upregulation of saturable influx transporters with allosteric regulators and other posttranslational means, use of vectors and other Trojan horse strategies, inhibition of efflux transporters including with antisense molecules, and improvement in pharmaco-kinetic parameters to overcome short half-lives, tissue sequestration, and enzymatic degradation.
+
+INTRODUCTION
+
+Diseases of the central nervous system (CNS) are in need of effective therapeutics. However, the development of such therapeutics is hindered by the blood–brain barrier (BBB), which prevents the unregulated leakage of substances from the blood into the brain. Peptides and proteins have great potential as CNS therapeutics as they have many effects within the CNS. Many endogenous peptides and proteins can cross the BBB by a variety of mechanisms that could facilitate their development into effective CNS drugs. However, the BBB and other barriers exist to their development into effective therapeutics. This review will examine the characteristics of peptides and proteins in regards to their relations and interactions with the BBB and how those relations and interactions both facilitate and complicate their development as therapeutics.
+
+OBSTACLES TO DELIVERING PROTEIN AND PEPTIDES TO THE CNS
+
+Barriers of the CNS
+
+Cerebrospinal fluid (CSF), which is secreted by the choroid plexuses, is contained within the cerebral ventricles and subarachnoid space. There are three barriers which limit and control molecular exchange at the interfaces between the blood and the neural tissue and its fluid spaces: (i) the vascular BBB, which is formed by cerebrovascular endothelial cells between the blood and the brain’s interstitial fluid, (ii) the choroid plexus epithelium between the blood and the ventricular CSF, and (iii) the arachnoid epithelium between the blood and the subarachnoid CSF. The distance between each of the three barriers varies, so while an individual neuron is typically found 35 μm from a brain capillary, it is typically millimeters or centimeters from a CSF compartment. Therefore, of all the CNS barriers, the vascular BBB has the greatest control over the immediate microenvironment of brain cells.
+
+The BBB
+
+The BBB is the primary obstacle to overcome in the delivery of proteins and peptides to the CNS. Many peptides and regulatory proteins, for example, leptin and pituitary adenylate cyclase-activating polypeptide (PACAP), cross the BBB by saturable transport systems and affect the functions of the CNS. IL-2 does not cross the BBB and is prevented from doing so by not only the physical barrier of the capillary wall but also by an enzymatic barrier and an efflux system. To understand how and why the BBB differentiates between these peptides and regulatory proteins, we must understand the general characteristics that make up the BBB.
+
+The BBB is a structural and functional barrier, which impedes and regulates the influx of compounds from the blood into the brain. The barrier is formed by capillary endothelial cells, surrounded by basal lamina, astrocytic perivascular endfeet, pericytes, and microglial cells. These brain microvascular endothelial cells (BMECs) differ from endothelial cells found in other tissues both structurally and functionally. Structural differences include the absence of fenestrations and more extensive tight junctions (TJs). Functional differences include that they have sparse pinocytic vesicular transport, have increased expression of transport and carrier proteins, contain no gap junctions, and have TJs; these differences result in limited paracellular permeation and macropinocytotic transport. These characteristics of BMECs indicate that they lack the ability to produce plasma ultrafiltrate like other peripheral tissues, and thus do not leak proteins into the interstitial space of the CNS.
+
+The structural and functional integrity of the BBB is controlled by TJs, adherens junctions, pericytes, and astrocyte end feet. TJs are present at the apical end of the interendothelial space. Review articles have stated that 98% of small molecules and ~100% of large molecules are unable to pass through the BBB as a result of TJs (). TJs are comprised of a number of integral membrane proteins including claudin (isoforms 1, 3, 5 and 12), occludin, junction adhesion molecules, and cytoplasmic accessory proteins, for example, zonula occludens-1 protein, cingulin, and AF-6 (afadin). TJ modulation at the BBB is an approach utilized to enhance delivery of proteins and peptides to the CNS. This task is completed using compounds such as calcium chelators, surfactants, cationic polymers, cyclodextrins, and hyperosmotic solutions. These compounds are not specific for TJs at the BBB, and as a result, have cytotoxic side effects. Zonula occludens toxin is a TJ modulator that is specific for the BBB. It has been shown to increase permeability selectively at the BBB, in a reversible and nontoxic manner. Adherens junctions form adhesive contacts between the cells and are located near the basolateral side of the endothelial space. They are formed as a complex between the transmembrane glycoproteins of the cadherins family, which are linked to the cytoplasmic anchor proteins of the catenin family. Pericytes provide structural support and vasodynamic capacity to the brain microvasculature. As an example of the importance of pericytes in maintaining BBB structural integrity, it has been demonstrated that endothelial cells that are associated with pericytes are more resistant to apoptosis than isolated endothelial cells. Also, the presence of pericytes improved brain endothelial cell monolayer transendothelial electrical resistance (TEER) but had no effect on albumin permeability. TEER is a commonly used measurement to gage the tightness of a monolayer of cells both in vitro and in vivo. Pericytes are necessary for BBB formation during embryogenesis, given that they are recruited to the BBB prior to astrocyte generation. They regulate functional aspects of the BBB; including the formation of TJs and vesicle trafficking in CNS endothelial cells. Astrocytic end feet provide biochemical support to BMEC. They co-regulate function by the secretion of soluble cytokines such as LIF (leukemia-inhibiting factor), Ca2+- dependent signals by intracellular IP-3 and gap junction-dependent pathways, and second messenger pathways involving extracellular diffusion of purinergic messengers. Astrocytes influence the formation and maintenance of the BBB in vitro. Physical contact, or at least close proximity, between astrocytes and endothelial cells is required for the induction of certain BBB-specific markers such as the brain-type glucose transporter (GLUT-1) and gamma-glutamyl transpeptidase, a carboxypeptidase selectively expressed in endothelial cells of the CNS.
+
+A unique characteristic of the BBB is that the TJs between the endothelial cells have a high TEER of 1500–2000 Ω cm2 compared to 3–33 Ω cm2 in other vascular tissues. This high electrical resistance results in low paracellular diffusion, thus providing the brain with a highly regulated and stable microenvironment. The BBB maintains and regulates brain homeostasis, and compensates for fluctuations in the systemic circulation and increased metabolic functions; nevertheless, a number of CNS-associated diseases, including human immu-odeficiency virus encephalitis, meningitis, multiple sclerosis, Alzheimer’s and Parkinson’s disease, epilepsy, and stroke, have been shown or proposed to have a disrupted BBB, leading to functional breakdown.
+
+Physicochemical characteristics of the drug
+
+The majority of drugs that are used to treat CNS disease have a molecular weight between 150 and 500 Da and a log octanol/water partition coefficient between –0.5 and 6.0. This does not indicate that drugs with a molecular weight less than 150 or greater than 500 Da are unable to cross. Characteristics that reduce the ability of small molecules to cross the BBB include a polar surface area in excess of 80 Å, a high Lewis bond strength, and a high potential for hydrogen bond formation. Also, increased number of positive charges and increased flexibility contribute to BBB crossing. Lipid solubility is a clear indicator of small drugs that can pass through the BBB.
+
+Rules for peptides have some similarities and some apparent differences from those for small drugs. Most peptides are poorly soluble in lipids and so would be expected to not penetrate the BBB very well by transendothelial diffusion. However, lipid solubility was a predictor of BBB penetration for one series of peptides that had molecular weights ranging from 486 to 6000 Da. Delta sleep-inducing peptide and an enkephalins are examples of peptides that have a molecular weight over 600 Da and are known to cross the BBB. The largest substance found to cross the BBB using transmembrane diffusion thus far is cytokine-induced neutrophil chemoattractant-1, which has a molecular weight of 7800 Da. This is thought to represent a direct correlation between BBB penetration and the ability of a drug to partition into the lipid bilayer of the cell membrane.
+
+Pharmacokinetics of the drug
+
+In general, peptides and regulatory proteins have very short half-lives and large volumes of distribution after their peripheral injection. This means that the opportunity for these substances to cross the BBB is reduced in terms of both the percent of the injected dose that reaches the BBB and the length of time for which that exposure lasts. Peptides are especially susceptible to enzymatic degradation which, along with renal and hepatic clearance, contributes to their short half-life. Regulatory proteins have smaller volumes of distribution than peptides, but can also have short half-lives in the circulation. Production of analogues with smaller volumes of distribution and longer half-lives will proportionately increase uptake by the CNS. Erythropoietin and IgG antibodies represent an example of the effects of improving the pharmacokinetics of a protein or peptide on transport into the brain. Neither of these substances show high distribution in the brain, but they are able to gain access to the CNS through the extracellular pathways, by leaking into the brain in the same manner as albumin, and, as a result of their long residence time in blood, they are able to eventually accumulate in brain.
+
+Enzymatic degradation is especially high when it comes to the oral delivery of therapeutic peptides and protein. Use of a chitosan–aprotinin conjugate has enhanced oral administration of therapeutic peptides and proteins that are susceptible to degradation by trypsin and chymotrypsin.
+
+Binding to plasma proteins
+
+Many peptides are known to bind to circulating proteins. The amount of time that the unbound drug spends at the site of action mediates the intensity and duration of drug action. Since it is difficult to measure the concentration of unbound drug at the site of action, the measurement of the concentration of unbound drug in plasma is used instead. This assumes that drugs bind reversely to plasma and tissue protein and that equilibrium of unbound drug exists between plasma and tissues. So while this is an area that has been studied for over 100 years, accurate prediction of this parameter continues to be an issue. There are numerous methods for in vitro determination of protein binding, including equilibrium dialysis, dynamic dialysis, ultrafiltration, ultracentrifugation, and exclusion chromatography. Protein binding is commonly determined for in vitro drugs during development since this is an important factor in determining their pharmacokinetics and pharmacological effects. Protein binding or uptake by circulating cells can decrease the free fraction of a substance in blood. This, in turn, can limit access to the BBB, especially for those peptides without a saturable transporter located at the BBB.
+
+Enzymatic degradation at the BBB
+
+Endothelial cells of the BBB provide a metabolic barrier for many substances by expressing a number of enzymes that modify endogenous and exogenous molecules that otherwise could bypass the physical barrier and negatively affect neuronal function. There are a variety of ectoenzymes, such as aminopeptidases, endopeptidases, and cholinesterases, which are expressed on the plasma membranes of the capillary endothelium, pericytes, and astrocytes. Patients with Parkinson’s disease are treated with L-DOPA, the precursor for dopamine, because it has a higher affinity for the transporter. The ability of L-DOPA to cross the BBB is limited by the presence of the enzymes L-DOPA decarboxylase and monoamine oxidase with the capillary endothelial cells. This is evidenced by the fact that only 0.1–0.3% of a clinical dose of L-DOPA enters the brain. As a result, large amounts of L-DOPA need to be used in treatment of Parkinson’s disease and sometimes, treatment is administered simultaneously with an inhibitor of L-DOPA decarboxylase. Brain endothelial cell enzymes are also important in peptide BBB interactions, retarding the entry of enkephalins and affecting interactions with amyloid-beta peptide.
+
+Brain-to-blood transporters
+
+The BBB itself plays a role in preventing peptides and regulatory proteins from entering the brain. This includes its ability to sequester these peptides and proteins by taking them up from the blood but not transporting them into the brain. Sequestration of peptides and proteins is often harmful to the brain and results in the onset of neurodegenerative diseases. An example of this is the amyloid-beta (Aβ) peptide sequestration in Alzheimer’s disease. Efflux systems transport these peptides in a brain-to-blood direction to prevent their accumulation in the brain. These efflux systems are controlled by ATP-binding cassette (ABC) transporters. Three ABC transporters have emerged as major regulators of drug efflux: P-glycoprotein (Pgp), multidrug resistance-associated protein (MRP), and breast cancer resistance protein (BCRP). There are known inhibitors to each of these ABC transporters that prevent the expulsion of the drug from the brain.
+
+ABC transporters are involved in clearance of some peptides from the brain, but peptides often have more specific efflux transporters as well. In the case of Aβ, the clearance not only involves Pgp but also occurs through the low-density lipoprotein receptor-related protein 1 (LRP1). LRP1 expression is reduced in patients with Alzheimer’s disease. It is thought that because of this, amyloid-beta accumulates in the brains of Alzheimer’s patients and is toxic to nerve cells. Efflux transporters have also been described for Tyr-MIF-1, enkephalins, arginine vasopressin, somatostatin, and a host of other peptides. Efflux can be a major regulator of brain levels of the peptide as demonstrated by Met-enkephalin or a major contributor to blood levels of the peptide as demonstrated by corticotrophin-releasing hormone.
+
+SATURABLE MECHANISMS OF PEPTIDE AND PROTEIN PASSAGE ACROSS THE BBB
+
+Transport proteins
+
+Carrier-mediated transport allows substances with low lipid solubility to cross the BBB many fold faster than possible by transendothelial diffusion. Examples of transporters include the medium-chain fatty acid carrier, large neutral amino acid carrier, monocarboxylic acid carrier, cation transporter, purine carrier, nucleoside carrier, and hexose carrier. Some of these transporters are highly selective in regards to their stereochemical requirements and as a result they will not transfer drugs with the same affinity and capacity as the endogenous substrate. An example of this is glucose, which is the primary energy substrate of the brain. It crosses the BBB by using the stereospecific, but insulin-independent, GLUT-1 transporter. The stereospecificity of the glucose-transport system allows D-glucose, but not L-glucose, to enter the brain. This transport system also allows some other hexoses, such as man-nose, maltose, and fructose, to enter the brain. Low GLUT-1 expression is associated with individuals who have seizures, mental retardation, compromised brain development, and low CSF glucose concentrations.
+
+Some small peptides cross the BBB by saturable systems as well. These include enkephalins, arginine vasopressin, a peptide-T analog, amyloid-beta peptide, and insulin.
+
+Receptor-mediated transcytosis
+
+Larger peptides and proteins that can cross the BBB are thought to do so by binding to mobile versions of their receptors, inducing a vesicular-based transport mechanism. When a protein binds to the receptor, it is endocytosed into the endothelial cell to form a vesicle, and then released on the other side. Transport by this mechanism is unidirectional, saturable, and energy requiring. Insulin and transferrin are the classic examples usually given for blood-to-brain RMT and IgG efflux for brain-to-blood RMT. Examples exist, however, in which the transporter for a protein is not its canonical receptor. The molecular weight at which transport can no longer occur via a channel or pore is also not known.
+
+Adsorptive-mediated endocytosis
+
+In adsorptive-mediated endocytosis, there is thought to be a charge interaction between the protein/peptide and the luminal side of the endothelial cell. Polycationic proteins, such as histones and lectins, cross the BBB by a similar manner to receptor-mediated transcytosis. However, instead of binding to a specific receptor in the membrane, these proteins absorb to the endothelial cell membrane based on charge or affinity for sugar moieties of membrane glycoproteins. The overall capacity of absorptive-mediated endocytosis is greater because the number of receptors present in the membrane does not limit it. Thus, cationization of a protein may provide a mechanism for enhancing brain uptake.
+
+STRATEGIES TO ENHANCE THE DELIVERY OF PROTEINS AND PEPTIDES TO THE CNS
+
+The BBB is lined with brain endothelial cells, sealed with paracellular protein complexes, bound by extracellular matrix, and maintained through pericyte and glial interactions. Through its ability to restrict penetration of biomolecules, the BBB regulates the chemical composition of the CNS required for proper neuronal function. While vital for health and normal physiology, the BBB remains an obstacle for delivery of therapeutics into the brain. Thus, the development of noninvasive strategies to enhance macromolecule delivery across the BBB has been a long-sought objective for academic and biopharmaceutical research.
+
+Most of the drugs currently in use for the treatment of CNS disorders have a low-molecular weight (150–500 Da) and high lipophilicity. Many potential drugs are unable to reach the brain because of enzymatic degradation, clearance by efflux mechanisms, or binding to plasma proteins. In order to enhance drug delivery to the brain, the following strategies for delivery optimization have been explored: (i) BBB modulation, which includes transient osmotic opening of the BBB; (ii) physiologically based strategies, which exploit the various transport mechanisms present at the BBB; and (iii) pharmacologically based approaches to increase the passage through the BBB by optimizing the specific biochemical attributes of a compound.
+
+BBB modulation to increase permeability
+
+One strategy to improve peptide and protein drug delivery to the CNS consists of combining systemic administration of the drug with transient osmotic opening of the BBB. Modulating the efficacy of the TJs between cerebral endothelial cells, so that the paracellular route of access to the brain is accessible, is an approach that has been utilized to permeabilize the BBB to drugs and enhance brain uptake. Le Fèvre and Millet, in 1926, claimed that urotropine (hexamine), given intravenously before herpes virus administration, enabled the virus to cross the BBB and initiate encephalitis in rabbits. Although later studies involving the pathogenesis of herpetic infection of the nervous system after intravenous inoculation invalidated their findings, the interest in discovering substances that altered BBB permeability to allow the uptake of various molecules was strong. In the decades that followed, researchers discovered a number of substances that alter BBB permeability including adrenaline, theocin, urethane, histamine, coal-gas, and ether. Currently, we are still employing this strategy of BBB modulation to deliver drugs to the CNS. Mannitol, a hypertonic solution, is administered simultaneously with drugs like methotrexate to enhance its delivery to brain tumors. Hypertonic solutions are thought to osmotically remove water from the endothelial cells, causing the cell to shrink, which may cause cellular changes affecting the TJs. This method is transitory and the barrier closes within 10–20 min following BBB disruption. Unfortunately, this method is not selective for the drug and may allow access of other molecules, such as neurotransmitters, which could be potentially harmful. Similarly, solvents such as a high dose of ethanol or dimethylsulfide, alkylating agents like etoposide, and vasoactive agents such as bradykinin and histamine, have all been used to disrupt the BBB. Alkylglycerols have also been shown to modulate the BBB. The mechanism of BBB modulation has not been elucidated; however, both the normal brain and tumor BBB are opened, in contrast to osmotic opening that appears to act preferentially on the BBB of normal brain. The opening of the BBB is again presumably nonselective. The use of these agents to affect BBB permeability can be highly traumatic and often results in serious side effects, such as seizures, permanent neurological disorders, and brain edema. To circumvent these problems, ultrasound and electromagnetic radiation are being employed as modulators of BBB function. An advantage of these methods is that they can be focused with some precision to a particular brain region or to a tumor, thus selectively modulating the BBB at a preferred site and not globally throughout the brain. These modifications in BBB function and integrity appear to be rapidly induced and rapidly reversed.
+
+Few strategies have endeavored to alter the transendothelial permeation of the BBB itself. The BBB’s lipid composition and permeability to lipid soluble molecules does not seem to changes during the life span, but may do so in models of diabetes mellitus and aluminum toxicity.
+
+Physiologically based strategies
+
+One strategy involves the exploitation of receptor-mediated and adsorptive-mediated transport systems using chimeric peptide technology. This involves coupling the peptide or protein drug to a vector, which may also be a protein/peptide, and which normally crosses the BBB either by receptor-mediated transcytosis (transferrin and insulin) or adsorptive endocytosis (cationized albumin). The following chimeric protein/peptide is endocytosed at the luminal side of the BBB following the interaction of the transport vector with its corresponding cell surface receptor. It is then carried through the membrane, released into the interstitial fluid, and the chimeric protein/peptide is cleaved to release the peptide or protein drug into the brain where it can exert a pharmacological response. The protein or peptide drug is joined to the vector using chemical linkers, polyethylene glycol linkers, or avidin–biotin technology.
+
+Receptor-mediated vectors for brain delivery must be specific. A well-characterized transcytotic model to target drug delivery into the CNS is the transferrin receptor (TfR). It has been 30 years since Jefferies et al. discovered that brain capillaries had an abundance of TfR that delivered iron-bound transferrin into the brain. Following this discovery, they showed that TfR antibodies could cross the BBB and deliver therapeutic compounds such as methotrexate, making TfR particularly promising in brain-targeted delivery. Modifications are still being made in the use of TfR as a delivery system after studies showed that antibodies bound to the TfR were retained in the brain endothelium and not penetrating into the CNS. To address this problem, a “brain shuttle” approach has been developed which fuses the C-terminus of a monoclonal antibody against Aβ, the peptide that accumulates in the brain of Alzheimer’s patients, to an anti-TfRFab, which facilitates the BBB transcytosis of an attached immunoglobulin. This differs from current approaches where studies have used a TfR antibody carrying therapeutic cargo or a bispecific antibody that binds TfR with low affinity and with high affinity, a disease target, for example, the enzyme β-secretase (BACE1), which processes amyloid precursor protein into Aβ peptides including those associated with Alzheimer’s disease. Compared to the monospecific anti-BACE1 antibody, the bispecific antibody had increased accumulation in the brain and led to an increased reduction in Aβ levels. Alternatively, receptor-specific monoclonal antibodies that undergo receptor-mediated endocytosis at the BBB in vivo, such as OX26, the mouse monoclonal antibody to the TfR, can also be used as transport vectors in this regard. Receptor-mediated transcytosis has been very useful in delivering numerous peptide and protein drugs to the CNS including VIP analogs, brain-derived neurotrophic factor, adrenocorticotrophic hormone analog, doxorubicin, dalargin, and cationized albumin.
+
+An alternative strategy is the exploitation of carrier-mediated transport systems. The BBB contains many nutrient transporters including peptide carrier systems for small peptides such as enkephalins, thyrotropin-releasing hormone, and arginine vasopressin; amino acid carrier systems for glutamate, phenylalanine, leucine, and aspartate; nucleoside carrier systems for choline and thiamine; and hexose carrier systems for glucose and mannose. In order to utilize these transport systems, the structural properties of the drugs have to be modified to mimic those of the carried nutrient. Very few drugs are known to use BBB transport systems to enter the CNS.
+
+This mechanism of using endogenous transporters is also often overlooked for the delivery of proteins and peptides to the CNS. Despite the growing list of peptides and proteins known to cross the BBB by saturable systems, use of transporters to deliver endogenous ligands or analogs of them has not been exploited. PACAP38 provides an example of a peptide with a saturable BBB transporter that can exert therapeutic effects in a disease model. PACAP started 24 h after four-vessel stroke and infused peripherally will prevent about 50% of CA1 hippocampal cell death.
+
+Small molecules that are physiologic regulators of endogenous transport systems can also be used to enhance brain uptake of large proteins. Alpha adrenergics enhance the BBB uptake of both leptin and lysosomal enzymes. The increase in leptin transport may explain one mechanism by which epinephrine induces weight loss.
+
+Inhibition of efflux transporters is another method to strengthen the ability of proteins and peptides to enter the brain. Specific inhibitors to the ABC transporters have been developed as one option to allow drugs increased access to the CNS. Examples of inhibitors used to target Pgp include verapamil, cyclosporin A, LY335979, and fumitremorgin C; MRP include sulfinpyrazone and benzbromarone; BCRP include fumitremorgin C and GF120918. PACAP27 uptake by the brain is limited by the efflux system, peptide transport system-6 (PTS-6). Antisense targeting of PTS-6, prevented PACAP27 efflux and increased its levels in the brain. When cotreated with the antisense and PACAP27, improved cognition was observed in a mouse mode of Alzheimer’s disease and infarct size was reduced after cerebral ischemia. Although the benefits of increasing the delivery of these drugs to the CNS are high, inhibition of these ABC transporters may have detrimental effects because they allow for the passage of other toxic substances through the BBB as well and require use of high concentrations to effectively block transport.
+
+Pharmacologically based strategies
+
+One of the primary factors in determining whether a peptide will cross the BBB is its lipophilicity. A strategy for enhancing the ability of peptide to cross the BBB is increasing its lipophilicity. There a number of techniques to enhance a proteins lipophilicity including altering the protein structure, methylation, halogenation, or acylation. Structural changes, for example covalently binding the drug to lipidic moieties, such as long-chain fatty acids, will increase the lipophilicity of a peptide. Peptides with a high number of hydroxyl groups tend to promote hydrogen bonding with water, which leads to a decrease in the partition coefficient and thus, a decrease in membrane permeability. Decreasing hydrogen bonding increases membrane permeability. Ideally, there should be fewer than eight bonds when developing new drugs. Methylation is one method used to reduce hydrogen bonding. An example of how this approach has been utilized is found in the development of cyclic peptides for increased membrane permeability and oral bioavailability. In this study, they showed that on-resin N-methylation of cyclic peptides was able to increase membrane permeability and enhance oral bioavailability in rats compared to non-methylated controls. D–Penicillamine(2,5)-enkephalin (DPDPE) is a potent opioid peptide that exhibits a high selectivity for the delta-opiate receptors. This receptor is part of the organic anion transporting polypeptides (Oatps) family of transporters which are known to transport a wide range of amphipathic organic compounds including bile salts, steroid hormones, thyroid hormones, and organic cations; providing a potential target for therapeutic peptide delivery. Trimethylation of the Phe of DPDPE showed increased BBB transport. This study demonstrated an interesting point as four isomers of (trimethyl-Phe4)DPDPE were examined but only one isomer showed an effect of BBB transport. This illustrates an important point for peptide modifications: that the location and type of modification play a significant role in improving BBB transport of your peptide of interest. Halogenation of peptides and proteins can also lead to increased lipophilicity and BBB permeability. The halogenation of the DPDPE peptide has been studied in great detail. The increase in BBB transport of DPDPE was dependent on which halogen was utilized; chloro and bromo additions increased BBB transport, while flouro and iodo additions had no effect.
+
+An alternative approach is acylation of the N-terminal amino acid can also increase the lipophilicity of peptides and proteins. For example, acylation of insulin improved its ability to cross the BBB while maintaining its pharmacological effects. Similarly, glycosylation has been shown to increase transport of proteins and peptides. Proteins that have been glycosylated using Amidori rearrangement have increased uptake into the CNS. This reaction describes the acid or base catalyzed isomerization of the N-glycoside of an aldose or the glycosylamine to the corresponding 1-amino-1-deoxy-ketose. This method has been used for deltorphin, cyclized Met-enkephalin analogues, and linear Leu-enkephalin analogues.
+
+As an alternative to altering the chemical structure of a compound drug carriers, such as liposomes and nanoparticles, can be used to enhance the delivery of proteins and peptides to the CNS. This is referred to as the “Trojan horse” or “Universal Carrier” approach. One of the first approaches utilizing the Trojan horse strategy involved placing the cargo protein inside a liposome studded with IgG molecules to direct delivery.
+
+There are many advantages to using this method for peptide and protein delivery to the brain. First, this technique allows for some control in determining where the protein and peptide are delivered to in the brain. Secondly, it is relatively easy to modify the chemical properties of the nanoparticles or liposomes to achieve a specific and selective delivery of the protein or peptide drug to the intended site of action. Since the peptides and protein drugs are carried within the nanoparticle or liposome, there is no need to change the physiochemical properties of the drugs to allow for their entry into the brain and you can deliver a large quantity of drug, as the carrier is quite large. Finally, this technique provides protection of the drug from enzymatic degradation.
+
+Nanoparticles are solid colloidal particles, ranging in size from 1 to 1000 nm, consisting of various macromolecules in which therapeutic drugs can be absorbed, entrapped, or covalently attached. There are a variety of nanoparticles in use currently to deliver drugs across the BBB: liposomes, solid lipid nanoparticle, nonpolymeric micelles, lipoplex, dendrimers, polymeric nanoparticle, polymeric micelle, nanotubes, silica nanoparticle, quantum dots, gold nanoparticle, and magnetic nanoparticle. One of the most successful nanoparticles in use currently to deliver drugs to the CNS is the poly(butyl)cyanoacrylate nanoparticles. These 250 nm nanoparticles are loaded with drugs and coated with polysorbate-80. When they are intravenously injected, their surface becomes coated with absorbed plasma proteins such as apolipoprotein E. It is thought that these nanoparticles are capable of passing the BBB because they are mistaken for low-density lipoprotein particles. A number of drugs have gained successful entrance into the brain using this method including dalargin, loperamide, and doxorubicin.
+
+CONCLUSION
+
+Diseases of the CNS are in need of effective therapeutics. A major hurdle in the development of these therapeutic agents includes their relation to the BBB and poor pharmacokinetics. This review examined the characteristics of peptides and proteins in regards to their relations and interactions with the BBB and how those relations and interactions both facilitate and complicate their development as therapeutics. Strategies that manipulate these interactions between the BBB and peptides and proteins provide many opportunities for the development of therapeutics. Such strategies include increasing transendothelial diffusion of small peptides, upregulation of saturable influx transporters with allosteric regulators and other posttranslational means, use of vectors and other Trojan horse strategies, inhibition of efflux transporters including with antisense molecules, and improvement in pharmacokinetic parameters to overcome short half-lives, tissue sequestration, and enzymatic degradation. While major advancements have been made in this area, there is still much space for improvement.
+
+CONFLICT OF INTEREST
+
+The authors have no conflicts of interest.
+
+REFERENCES
+
+Evidence for bulk flow of brain interstitial fluid: Significance for physiology and pathology
+
+Astrocyte-endothelial interactions at the blood-brain barrier
+
+Drug metabolism and pharmacokinetics, the blood-brain barrier, and central nervous system drug discovery
+
+Body distribution of polysorbate-80 and doxorubicin-loaded [14C]poly(butyl cyanoacrylate) nanoparticles after i.v. administration in rats
+
+Effects of lipopolysaccharide on blood-brain barrier permeability during pentylenetetrazole-induced epileptic seizures in rats
+
+A therapeutic antibody targeting BACE1 inhibits amyloid-β production in vivo
+
+Enhanced leptin transport across the blood-brain barrier by alpha1-adrenergic agents
+
+Passage of erythropoietic agents across the blood-brain barrier: A comparison of human and murine erythropoietin and the analog Darbopoetin alpha
+
+Peptides and the blood-brain barrier: Lipophilicity as a predictor of permeability
+
+Delta sleep-inducing peptide crosses the blood-brain-barrier in dogs: Some correlations with protein binding
+
+Permeability of the mouse blood-brain barrier to murine interleukin-2: Predominance of a saturable efflux system
+
+Transport of amyloid protein antibody across the blood-brain barrier in an animal model of Alzheimer’s disease
+
+Characteristics of aminopeptidase activity from bovine brain microvessel endothelium
+
+Brain-blood barrier breakdown and pro-inflammatory mediators in neonate rats submitted meningitis by Streptococcus pneumoniae
+
+D-[Ala 1]-peptide T-amide is transported from blood to brain by a saturable system
+
+Strategies for delivery of peptide drugs to the central nervous system: Exploiting molecular structure
+
+Brain-targeted drug delivery
+
+Effect of peptidases at the blood brain barrier on the permeability of enkephalin
+
+Electrical resistance across the blood-brain barrier in anaesthetized rats: A developmental study
+
+Hydrogen bonding potential as a determinant of the in vitro and in situ blood-brain barrier permeability of peptides
+
+Comparison of lipid-mediated blood-brain-barrier penetrability in neonates and adults
+
+Independent blood-brain barrier transport systems for nucleic acid precursors
+
+Addressing safety liabilities of TfR bispecific antibodies that cross the blood-brain barrier
+
+Electrical resistance of a capillary endothelium
+
+Uptake and efflux of the peptidic delta-opioid receptor agonist [D-penicillamine2,5]-enkephalin at the murine blood-brain barrier by in situ perfusion
+
+Pericytes are required for blood–brain barrier integrity during embryogenesis
+
+Brain endothelial cell enzymes cleave platelet-retained amyloid precursor protein
+
+Defective glucose transport across the blood-brain barrier as a cause of persistent hypoglycorrhachia, seizures, and developmental delay
+
+LRP/amyloid beta-peptide interaction mediates differential brain efflux of Abeta isoforms
+
+Potential use of tight junction modulators to reversibly open membranous barriers and improve drug delivery
+
+Transferrin antibodies into the brain
+
+Uptake and transport of fatty acids into the brain and the role of the blood-brain barrier system
+
+Aβ peptide immunization restores blood-brain barrier integrity in Alzheimer disease
+
+Passive permeability and P-glycoprotein-mediated efflux differentiate central nervous system (CNS) and non-CNS marketed drugs
+
+Isolation of peptide transport system-6 from brain endothelial cells: Therapeutic effects with antisense inhibition in Alzheimer and stroke models
+
+Brain pericytes increase the lipopolysaccharide-enhanced transcytosis of HIV-1 free virus across the in vitro blood-brain barrier: Evidence for cytokine-mediated pericyte-endothelial cell crosstalk
+
+Alkylglycerol opening of the blood-brain barrier to small and large fluorescence markers in normal and C6 glioma-bearing rats and isolated rat brain capillaries
+
+Investigational ABC transporter inhibitors
+
+Anti-transferrin receptor antibody and antibody-drug conjugates cross the blood-brain barrier
+
+Targeted delivery of nano-therapeutics for major disorders of the central nervous system
+
+The effect of halogenation on blood-brain barrier permeability of a novel peptide drug
+
+Targeting anti-transferrin receptor antibody (OX26) and OX26-conjugated liposomes to brain capillary endothelial cells using in situ perfusion
+
+The superfamily of organic anion transporting polypeptides
+
+Barrier mechanisms for neurotransmitter monoamines and their precursors at the blood-brain interface
+
+Restoring blood-brain barrier p-glycoprotein reduces brain amyloid-beta in a mouse model of Alzheimer’s disease
+
+Structure-activity and conformational studies of a series of modified C-terminal hexapeptide neurotensin analogues
+
+ABC transporters: Physiology, structure and mechanism—An overview
+
+Lentivirus-mediated transfer of MMP-9 shRNA provides neuroprotection following focal ischemic brain injury in rats
+
+Acute effects of short-chain alkylglycerols on blood-brain barrier properties of cultured brain endothelial cells
+
+Studies on the blood-brain barrier. II. Attempts to influence the passage of substances into the brain
+
+Human fetal astrocytes induce the expression of blood-brain barrier specific proteins by autologous endothelial cells
+
+Exercise and the brain: Angiogenesis in the adult rat cerebellum after vigorous physical activity and motor skill learning
+
+Transferrin receptor on endothelium of brain capillaries
+
+Challenges for blood-brain barrier (BBB) screening
+
+Modulation of amyloid β-protein clearance and Alzheimer’s disease susceptibility by the LDL receptor-related protein pathway
+
+HIV-1 gp120 compromises blood-brain barrier integrity and enhance monocyte migration across blood-brain barrier: Implication for viral neuropathogenesis
+
+EEG evidence that morphine and an enkephalin analog cross the blood-brain barrier
+
+Noninvasive localized delivery of Herceptin to the mouse brain by MRI-guided focused ultrasound-induced blood-brain barrier disruption
+
+Structure and function of claudins
+
+Relationship of octanol/water partition coefficient and molecular weight to rat brain capillary permeability
+
+Tight junction in blood-brain barrier: An overview of structure, regulation, and regulator substances
+
+Affinity purification and partial characterization of the zonulin/zonula occludens toxin (Zot) receptor from human brain
+
+Noninvasive, transient and selective blood-brain barrier opening in non-human primates in vivo
+
+Transport of CRH from mouse brain directly affects peripheral production of beta-endorphin by the spleen
+
+The effect of age on lipid composition and order of rat cerebral microvessels
+
+The effect of experimentally induced diabetes mellitus on the lipid order and composition of rat cerebral microvessels
+
+Monitoring of methotrexate delivery in patients with malignant brain tumors after osmotic blood-brain barrier disruption
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+Changing the chemokine gradient: CINC1 crosses the blood-brain barrier
+
+Drug and gene delivery to the brain: The vascular route
+
+The blood-brain barrier: Bottleneck in brain drug development
+
+Drug transport across the blood-brain barrier
+
+Amyloid-beta transporter expression at the blood-CSF barrier is age-dependent
+
+Blood-brain barrier: Structural components and function under physiologic and pathologic conditions
+
+Junctional complexes of the blood-brain barrier: Permeability changes in neuroinflammation
+
+Enkephalin, PPE, mRNA, and PTS-1 in alcohol withdrawal seizure-prone and -resistant mice
+
+Glycation increases the permeability of proteins across the blood-nerve and blood-brain barriers
+
+Angiogenesis of the blood-brain barrier in vitro and the function of cerebral pericytes
+
+Tight junction modulation and its relationship to drug delivery
+
+Microvessel organization and structure in experimental brain tumors: Microvessel populations with distinctive structural and functional properties
+
+Blood brain barrier endothelial cells express candidate amyloid precursor protein-cleaving secretases
+
+Kinetics of neutral amino acid transport across the blood-brain barrier
+
+Structure-internalization relationship for adsorptive-mediated endocytosis of basic peptides at the blood-brain barrier
+
+Barriers built on claudins
+
+Prevention of ischemia-induced death of hippocampal neurons by pituitary adenylate cyclase activating polypeptide
+
+Epinephrine enhances lysosomal enzyme delivery across the blood-brain barrier by up-regulation of the mannose 6-phosphate receptor
+
+Whole body and brain distribution of [3H]cyclic[D-Pen 2, D-Pen 5] enkephalin after intraperitoneal, intravenous, oral and subcutaneous administration
+
+Distribution and analgesia of [3 H][D-Pen 2, D-Pen 5]enkephalin and two halogenated analogs after intravenous administration
+
+Experimental enzyme replacement in genetic and other disorders
+
+Design and evaluation of a chitosan–aprotinin conjugate for the perioral delivery of therapeutic peptides and proteins susceptible to enzymatic degradation
+
+On-resin N-methylation of cyclic peptides for discovery of orally bioavailable scaffolds
+
+Assessment of stereoselectivity of trimethylphenylalanine analogues of δ-opioid [D-Pen2, D-Pen5]-enkephalin
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Inhibitory effect of matrine on blood-brain barrier disruption for the treatment of experimental autoimmune encephalomyelitis
+
+The blood-brain barrier in health and chronic neurodegenerative disorders
+
+Transport, uptake, and metabolism of blood-borne vasopressin by the blood-brain barrier
+
+Blood-brain barrier transport of circulating Alzheimer’s amyloid
+
+Kinetic analysis of leucine-enkephalin cellular uptake at the luminal side of the blood-brain barrier of an in situ perfused guinea pig brain

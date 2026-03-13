@@ -1,0 +1,225 @@
+Transcytosis at the Blood-Brain Barrier
+
+The blood-brain barrier (BBB) is a functional interface separating the brain from the circulatory system and is essential for homeostasis of the central nervous system (CNS). The BBB regulates molecular flux to maintain an optimal environment for neuronal function and protects the brain from toxins and pathogens. Endothelial cells forming the walls of CNS blood vessels constitute the BBB. CNS endothelial cells exhibit two features that underlie the restrictive properties of the BBB: specialized tight junctions that prevent paracellular passage between the blood and the brain, and unusually low levels of vesicle trafficking that limit transcellular transport or transcytosis. While the prevailing view in the field was that specialized tight junctions contributed to CNS barrier properties, recent findings have revealed the importance of maintaining low rates of transcytosis at the BBB. It is now clear that suppression of transcytosis at the BBB is an active process and that CNS-specific genetic programs inhibit this pathway to maintain a functional barrier.
+
+Introduction
+
+Endothelial cells in different organs have distinct properties, which give rise to structural and functional heterogeneity across vascular beds catering to the demands of the underlying tissue. Endothelial cells across organs are classified as discontinuous, fenestrated and continuous based on their morphology. Discontinuous endothelial cells have large intercellular gaps, fenestrated endothelial cells have fenestrae or pores and continuous endothelial cells are connected by tight junctions between cells. These different types of endothelial cells confer varying degrees of molecular exchange between the blood and the tissue. Continuous endothelium found in many tissues including the lung, muscle and the brain are the least permissive of these three types. Among these tissues, endothelial cells in the brain are unique given their even higher restricted permeability compared to the continuous endothelium found in the periphery. These specialized endothelial cells in the CNS blood vessels form the BBB that regulates molecular flux between the blood and the brain and is critical for proper brain function.
+
+CNS endothelial cells have specialized tight junctions and exhibit low levels of transcytosis to restrict molecular exchange. They also limit the entry of immune cells into the brain by expressing low levels of leukocyte adhesion molecules. A consequence of their limited permeability is the expression of dedicated transporters that facilitate nutrient uptake and removal of metabolic waste. Additionally, CNS endothelial cells have the highest density of pericytes, cells that enwrap blood vessels, and, are in close contact with astrocyte endfeet on their abluminal side (Figure 1A). Together, these cells form the neurovascular unit that induce and maintain barrier properties in CNS endothelial cells.
+
+While the presence of a unique barrier between the blood and the brain was hypothesized over a century ago, the precise anatomical site of the BBB was elucidated only about 50 years ago. Initial studies using high resolution electron microscopy (EM) to examine the subcellular localization of tracers such as horseradish peroxidase (HRP) revealed that the BBB is localized to CNS endothelial cells. The authors injected HRP into circulation, and examination of mouse brain sections by EM revealed two features: HRP halted sharply at tight junctions between endothelial cells and endothelial cells contained very few HRP-containing vesicles. These observations were in contrast to observations from peripheral tissues like cardiac and skeletal muscle where HRP permeated through intercellular junctions and abundant HRP-containing vesicles were seen within endothelial cells. Given that HRP could be delivered to peripheral tissue parenchyma via vesicles and that the striking difference between the two tissues was the ability of brain endothelial tight junctions to effectively prevent HRP movement into the tissue, the authors attributed the selective permeability of the BBB to specialized tight junctions between CNS endothelial cells.
+
+Given the clear differences in barrier properties between CNS and peripheral endothelial cells, Ben-Zvi et al took an unbiased approach to identify unique genes that give rise to these distinct properties by comparing gene expression in endothelial cells isolated from the brain cortex and the lung. Of the genes enriched in cortical endothelial cells, Mfsd2a, is a transmembrane protein that regulates BBB formation by suppressing transcytosis. Despite having functional tight junctions, the BBB of Mfsd2a−/− mice was surprisingly leaky and the leakage was due to increased transcytosis. This study gave a fresh perspective on the regulation of transcytosis at the BBB – for the first time, it was apparent that machinery for transcytosis exists at the BBB but it is actively suppressed by molecules like Mfsd2a, to ensure barrier integrity.
+
+Recent work further demonstrated that active suppression of transcytosis could be a general regulatory mechanism across CNS-barriers, and that transcytosis is dynamically regulated during development and disease. In the blood-retinal barrier (BRB), a CNS barrier physiologically analogous to the BBB, spatio-temporal mapping of the barrier formation revealed that blood vessels are leaky when they first enter the retina. These vessels already have functional tight junctions but have a high level of transcytosis which contributes to their leakage. Gradually these transcytotic vesicles are suppressed and the barrier becomes functional. Thus, gradual suppression of transcytosis determines the formation of a functional barrier. Similarly, in disease models of stroke and pathological insults, transcytosis is upregulated and is an early event in barrier breakdown.
+
+Together, these studies contribute to an emerging theme that active suppression of transcytosis is critical for functional blood-CNS barriers. Here, we review recently identified mechanisms governing transcytosis at the BBB and provide a brief overview of the cell biology of this pathway. We then discuss the role of this pathway in disease, the strategies researchers have used to manipulate this pathway for drug delivery and highlight the critical questions that remain.
+
+Mechanisms regulating transcytosis at the BBB
+
+Cell non-autonomous regulation of transcytosis
+
+Pericytes enwrap CNS endothelial cells and are embedded within the basement membrane of endothelial cells, facilitating extensive signaling between the two cell types. Studies have revealed that a precise pericyte to endothelial cell ratio in CNS endothelial cells is critical for barrier integrity. Both, pericyte-deficient mice generated by the manipulation of a signaling pathway that normally recruits pericytes and depletion of Foxf2, a transcription factor in pericytes, causing increase in pericyte density, have leaky barriers. In both these models, the leakage is due to increased transcytosis. Together, these studies implicate pericytes as key components of the neurovascular unit (Figure 1A) that induce barrier properties by regulating transcytosis in CNS endothelial cells. However, the specific genes within pericytes and the paracrine signaling mechanisms between pericytes and endothelial cells regulating barrier properties are unknown. Future studies identifying specific receptor-ligand interactions between these cells and genes downstream of Foxf2 transcription factor that regulate transcytosis in CNS endothelial cells will enable the delineation of mechanisms suppressing transcytosis at the BBB.
+
+Cell-autonomous regulation of transcytosis
+
+Mfsd2a in CNS endothelium cell-autonomously suppresses transcytosis at the BBB. A recent study dissecting the mechanistic basis for Mfsd2a suppressing transcytosis revealed that Mfsd2a specifically inhibits caveolae-mediated transcytosis and this inhibition relies on the lipid-transporter function of Mfsd2a. Mfsd2a translocates unsaturated phospholipids such as DHA from the outer leaflet plasma membrane to the inner leaflet of the plasma membrane of endothelial cells, and the resulting membrane lipid composition prevents the formation of caveolae.
+
+Given the importance of maintaining low rates of transcytosis for a functional barrier, it is likely that multiple other CNS-specific genetic programs exist that act both cell non-autonomously as well as cell autonomously to tightly regulate levels of transcytosis. Recent work has brought attention back to the importance of transcytosis at the BBB and future studies exploring other molecules and mechanisms will reveal previously unknown CNS mechanisms regulating transcytosis at the BBB.
+
+Cell biology of transcytosis
+
+Transcytosis is the transcellular transport of molecules via vesicles. Macromolecules are first endocytosed or internalized by vesicles on one side of the cell, trafficked in vesicles and then exocytosed or released on the other side of the cell. Transcytosis in CNS endothelial cells can be divided into two categories: receptor-mediated transcytosis where ligand binding to receptors mediates endocytosis such as in the case of insulin and transferrin, and the non-selective adsorptive transcytosis where charged interactions between the molecule and plasma membrane facilitate its entry as with albumin (Figure 1B). The two major endocytic pathways at the BBB are clathrin-mediated and caveolae-mediated. Recent work has also provided evidence for sorting mechanisms at the BBB, similar to that seen in other cells.
+
+Clathrin-mediated transcytosis
+
+Clathrin-mediated transcytosis involves the endocytosis of cargo by clathrin-coated pits, a process ubiquitous across all cell types. Since the initial observation of clathrin coats, several proteins have been shown to play a role in the biogenesis of clathrin-coated vesicles at the plasma membrane. This includes the adaptor complex, AP2 which facilitates formation of clathrin-coated pits made of clathrin heavy chain and light chain. The GTPase dynamin facilitates pit release from the plasma membrane, leading to the formation of clathrin-coated vesicles. The coat is then disassembled by the ATPase HSC70 and the uncoated vesicle fuses with early endosomes to enter the endosomal sorting pathway.
+
+Multiple receptors such as that of transferrin and insulin have been shown to undergo clathrin-mediated transcytosis. More recently, the clearance of amyloid-β (Aβ) peptides from the brain to the blood has been shown to rely on clathrin-mediated transcytosis. Aβ binds to LRP1 receptor on the abluminal side of the BBB and PICALM, an endocytic protein regulates clathrin-dependent internalization of Aβ-LRP1 complex leading to the transcytosis and clearance of Aβ from the brain. While mechanisms of clathrin-mediated endocytosis have been extensively studied in other cell types, future studies focusing on this pathway in the context of the BBB will be important in identifying specific mechanisms of clathrin-mediated transcytosis in CNS endothelial cells.
+
+Caveolae-mediated transcytosis
+
+Caveolae are small plasma membrane invaginations found in mammals. Caveolae biogenesis relies on caveolins and cavins. Caveolins are integral membrane proteins that bind to cytosolic cavins and drive caveolae vesicle formation. Other proteins regulating caveolae machinery include EHD2 and Pacsin2. There is also growing evidence implicating caveolae as mechanosensors, transducers of intracellular signaling and organizers of lipids in plasma membranes.
+
+George Palade first put forth the idea of caveolae vesicles as transcytotic carriers that function as mass-carriers of fluid and solutes across the endothelium. Consistent with this, to date, many studies reporting dysfunctional CNS barriers due to increased transcytosis have implicated caveolae vesicles as the main contributors of barrier leakage. A bottleneck in our understanding of caveolae function is highly variable results obtained across in vitro models in different studies. Future studies employing in vivo analyses will be extremely useful in determining the physiological roles of caveolae at global and tissue specific levels. The generation of caveolin-1 global knockout mice as well as caveolin-1 floxed mice is a first step toward that direction.
+
+Endosomal sorting mechanisms
+
+In most cell types it is widely observed that once macromolecules or cargo are internalized via the various endocytic pathways mentioned above, they enter the common endosomal sorting network. This step determines the fate of endocytosed cargo – either degradation by trafficking into lysosomes, recycling back to the plasma membrane or transcytosis by fusion with abluminal plasma membrane. The itinerary of endocytosed cargo is a highly orchestrated process involving iterative sorting of endosomal content by several regulatory mechanisms. Two such regulatory cues are pH and endosome geometry. For example, molecular sorting of receptor-ligand complexes relies on the acidic gradient within endosomes which promotes the dissociation of ligands from their receptors. The dissociation of these complexes leads to the generation of tubules from vesicular structures. For recycling receptors, receptors concentrate in tubular extensions and ligands remain in the more spherical vesicular structures, causing receptors within tubules to recycle back to the plasma membrane while ligands are further trafficked into lysosomes for degradation or transcytosed for delivery to the tissue parenchyma.
+
+Given that endosomal sorting mechanisms are present in many cell types across tissues, it is likely that CNS endothelial cells employ similar processes of endosomal maturation. However, none of these steps has been investigated thoroughly in CNS endothelial cells. Furthermore, what determines whether a molecule will be transcytosed or degraded is still an open question. We also do not know whether clathrin and caveolae-independent transcytotic routes operate in CNS endothelial cells (Figure 2), as studies have shown the existence of these endocytic pathways as well. Future studies addressing these questions specifically at the BBB will be important in developing new therapeutic strategies as some of the most promising methods of CNS drug delivery have relied on transcytosis, described below.
+
+Role of transcytosis in disease and therapeutics
+
+The highly restrictive nature of the BBB makes it a huge obstacle in CNS drug delivery. Initial observations of transferrin receptor (TfR) enriched on brain endothelial cells and the subsequent finding of anti-TfR antibodies and antibody-drug conjugates crossing the BBB made TfR-mediated transcytosis an attractive target for CNS drug delivery. The general strategy to use this pathway for drug delivery has been to conjugate the therapeutic molecule such as a peptide to a molecular Trojan horse which is an antibody that binds to a receptor on the BBB. The binding of the Trojan horse to the receptor facilitates the transcytosis and the delivery of the fusion protein into the brain. Bispecific antibodies targeting TfR have been used to reduce amyloid-β plaques in rodents. Recent studies have also shown that both affinity and valency of antibody binding to TfR are important factors that determine transport efficacy of the antibody complex into the brain. Transferrin-containing nanoparticles were also shown to effectively transcytose into the brain parenchyma. Targeted nanoparticles containing therapeutic agents such as small molecule drugs, peptides or nucleic acids are emerging as a new modality for disease treatment owing to the higher specificity in their targeting compared to using the therapeutic agent alone.
+
+Conversely, upregulated transcytosis is an early event that precedes barrier breakdown after pathological insult. Ultrastructural studies in different stroke models demonstrated that an early step contributing to barrier leakage is increased vesicle number in CNS endothelial cells. Increased vesicles are seen as early as 4–6 hours post-injury while abnormalities in tight junctions and breakdown of basement membrane are seen after days. This indicates that upregulated transcytosis is the first event driving BBB permeability following certain pathological insults.
+
+Taken together, these studies emphasize the translational impact in dissecting specific transcytosis mechanisms at the BBB. There is huge potential in exploring complementary approaches for CNS drug delivery such as identifying more receptors like TfR that are enriched in the CNS and targeting genes like Mfsd2a to upregulate transcytosis at the BBB to facilitate uptake of therapeutic agents.
+
+Outstanding questions
+
+While research in recent years has given us a new perspective on mechanisms regulating transcytosis at the BBB, our understanding of this process in the CNS is still nascent. First, the basic cell biology of transcytosis at the BBB is elusive. Are there transcytosis pathways besides the clathrin and caveolae-mediated as seen in other cells? What are the specific contributions of each of these pathways to overall transcytosis at the BBB in physiological and pathophysiological states? And what are the specific itineraries of molecules transcytosing through these different pathways? Second, the real-time dynamics of transcytosis in the brain are completely unknown. While the fast, real-time dynamics of caveolae-mediated transcytosis has been demonstrated in the lung using intravital microscopy, this has yet to be employed in the brain. We anticipate advances in in vivo imaging in live animals and development of sensitive fluorescent molecules will aid in implementing tools to visualize this process real-time. Being able to visualize and measure dynamics of transcytosis could reveal the speed and directionality of vesicular trafficking. Such information will enable us to investigate the efficacy, speed, and reversibility of agents that perturb or repair the BBB. Finally, barrier properties are not intrinsic to endothelial cells, as BBB formation and maintenance depend on endothelial cell interactions with pericytes and astrocytes. What are the inter-cellular signaling pathways between pericytes and endothelial cells that contribute to suppression of transcytosis? A deeper understanding of mechanisms regulating transcytosis in the brain will not only set the stage for exciting avenues of research but will also reveal new opportunities for CNS drug delivery.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Conflict of interest
+
+The authors declare no conflict of interest.
+
+References
+
+Vascular heterogeneity and specialization in development and disease
+
+Organotypic vasculature: From descriptive heterogeneity to functional pathophysiology
+
+Pericyte-endothelial relationships in cardiac and skeletal muscle capillaries
+
+Pericyte coverage is greater in the retinal than in the cerebral capillaries of the rat
+
+Establishment and Dysfunction of the Blood-Brain Barrier
+
+Die äussere und innere Sekretion des gesunden und kranken Organismus im Lichte der ‘vitalen Färbung.’
+
+Le passage dans le liquide céphalo-rachidien de substances introduites dans la circulation et leur action sur le système nerveux central chez les différentes espèces animales
+
+The early stages of absorption of injected horseradish peroxidase in the proximal tubules of mouse kidney: ultrastructural cytochemistry by a new technique
+
+Fine structural localization of a blood-brain barrier to exogenous peroxidase
+
+Junctions between intimately apposed cell membranes in the vertebrate brain
+
+The ultrastructural basis of capillary permeability studied with peroxidase as a tracer
+
+Endothelial tight junctions form the blood-brain barrier
+
+Mfsd2a is critical for the formation and function of the blood-brain barrier
+
+Gradual Suppression of Transcytosis Governs Functional Blood-Retinal Barrier Formation
+
+Stepwise recruitment of transcellular and paracellular pathways underlies blood-brain barrier breakdown in stroke
+
+Spreading depolarizations trigger caveolin-1-dependent endothelial transcytosis
+
+Pericytes are required for blood-brain barrier integrity during embryogenesis
+
+Pericytes regulate the blood-brain barrier
+
+Pericytes control key neurovascular functions and neuronal phenotype in the adult brain and during brain aging
+
+Foxf2 Is Required for Brain Pericyte Differentiation and Development and Maintenance of the Blood-Brain Barrier
+
+Blood-Brain Barrier Permeability Is Regulated by Lipid Transport-Dependent Suppression of Caveolae-Mediated Transcytosis
+
+Mfsd2a is a transporter for the essential omega-3 fatty acid docosahexaenoic acid
+
+Sorting Tubules Regulate Blood-Brain Barrier Transcytosis
+
+Yolk Protein Uptake in the Oocyte of the Mosquito Aedes Aegypti. L
+
+Mechanisms of clathrin-mediated endocytosis
+
+Clathrin-mediated endocytosis in AP-2-depleted cells
+
+Clathrin: a unique protein associated with intracellular transfer of membrane by coated vesicles
+
+Dynamin undergoes a GTP-dependent conformational change causing vesiculation
+
+An enzyme that removes clathrin coats: purification of an uncoating ATPase
+
+Receptor-mediated endocytosis of transferrin at the blood-brain barrier
+
+Blood-brain barrier transcytosis of insulin in developing rabbits
+
+Transcytosis of macromolecules at the blood-brain barrier
+
+LRP/amyloid beta-peptide interaction mediates differential brain efflux of Abeta isoforms
+
+Central role for PICALM in amyloid-beta blood-brain barrier transcytosis and clearance
+
+Caveolin, a protein component of caveolae membrane coats
+
+PTRF-Cavin, a conserved cytoplasmic protein required for caveola formation and function
+
+EHD2 regulates caveolar dynamics via ATP-driven targeting and oligomerization
+
+Oligomers of the ATPase EHD2 confine caveolae to the plasma membrane through association with actin
+
+Pacsin 2 is recruited to caveolae and functions in caveolar biogenesis
+
+Caveolae as plasma membrane sensors, protectors and organizers
+
+Fine structure of blood capillaries
+
+Plasmalemmal vesicles function as transcytotic carriers for small proteins in the continuous endothelium
+
+Loss of caveolae, vascular dysfunction, and pulmonary defects in caveolin-1 gene-disrupted mice
+
+Caveolin-1 null mice are viable but show evidence of hyperproliferative and vascular abnormalities
+
+Disruption of the caveolin-1 gene impairs renal calcium reabsorption and leads to hypercalciuria and urolithiasis
+
+Endocytic pathways and endosomal trafficking: a primer
+
+To degrade or not to degrade: mechanisms and significance of endocytic recycling
+
+Rapid acidification of endocytic vesicles containing alpha 2-macroglobulin
+
+The importance of being acid: the role of acidification in intracellular membrane traffic
+
+Intracellular site of asialoglycoprotein receptor-ligand uncoupling: double-label immunoelectron microscopy during receptor-mediated endocytosis
+
+Inhibition of coated pit formation in Hep2 cells blocks the cytotoxicity of diphtheria toxin but not that of ricin toxin
+
+Ultrastructural identification of uncoated caveolin-independent early endocytic vehicles
+
+The blood-brain barrier: bottleneck in brain drug development
+
+Transferrin receptor on endothelium of brain capillaries
+
+Anti-transferrin receptor antibody and antibody-drug conjugates cross the blood-brain barrier
+
+Combined use of carboxyl-directed protein pegylation and vector-mediated blood-brain barrier drug delivery system optimizes brain uptake of brain-derived neurotrophic factor following intravenous administration
+
+The blood-brain barrier and neurotherapeutics
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Transferrin receptor (TfR) trafficking determines brain uptake of TfR antibody affinity variants
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle
+
+Transcytosis and brain uptake of transferrin-containing nanoparticles by tuning avidity to transferrin receptor
+
+Nanoparticle therapeutics: an emerging treatment modality for cancer
+
+Early and late mechanisms of increased vascular permeability following experimental cerebral infarction
+
+Effect of hypertension on blood-brain barrier. Change after restoration of blood flow in post-ischemic gerbil brains. An electronmicroscopic study
+
+Blood-brain barrier breakdown after embolic stroke in rats occurs without ultrastructural evidence for disrupting tight junctions
+
+The blood-brain barrier after stroke: Structural studies and the role of transcytotic vesicles
+
+Discovery of Novel Blood-Brain Barrier Targets to Enhance Brain Uptake of Therapeutic Antibodies
+
+Live dynamic imaging of caveolae pumping targeted antibody rapidly and specifically across endothelium in the lung
+
+Neurovascular unit and transcytosis at the BBB
+
+(A) Cross-section of the neurovascular unit depicting endothelial cells surrounded by pericytes and astrocytes on their abluminal side. (B) Schematic illustrating the two kinds of transcytosis in CNS endothelial cells: molecules with specific receptors on CNS endothelial cells such as insulin and transferrin undergo receptor-mediated transcytosis while molecules such as albumin get endocytosed through charged interactions and undergo adsorptive transcytosis.
+
+Existence of multiple endocytic pathways in mammalian cells
+
+Macromolecules can be internalized into cells by clathrin-mediated, caveolae-mediated or by other vesicular and tubular endocytic pathways that are independent of both clathrin and caveolin-1.
+
+Highlights for Transcytosis at the Blood-Brain Barrier
+
+Transcytosis is actively suppressed in CNS endothelial cells for barrier integrity
+
+Transcytosis is dynamically regulated during development and disease
+
+Regulation of transcytosis is a general mechanism in formation of blood-CNS barriers
+
+Disinhibiting the suppression of transcytosis at the BBB will enable CNS therapeutics

@@ -1,0 +1,363 @@
+How to Make Anticancer Drugs Cross the Blood–Brain Barrier to Treat Brain Metastases
+
+The incidence of brain metastases has increased in the last 10 years. However, the survival of patients with brain metastases remains poor and challenging in daily practice in medical oncology. One of the mechanisms suggested for the persistence of a high incidence of brain metastases is the failure to cross the blood–brain barrier of most chemotherapeutic agents, including the more recent targeted therapies. Therefore, new pharmacological approaches are needed to optimize the efficacy of anticancer drug protocols. In this article, we present recent findings in molecular data on brain metastases. We then discuss published data from pharmacological studies on the crossing of the blood–brain barrier by anticancer agents. We go on to discuss future developments to facilitate drug penetration across the blood–brain barrier for the treatment of brain metastases among cancer patients, using physical methods or physiological transporters.
+
+1. Introduction
+
+The incidence of brain metastases in cancer has increased over time in Western countries, as a result of better control of extra-central nervous system localizations. Melanoma, breast, and lung cancers are the main sources of brain metastases. Following recent improvements in genomic sequencing, targetable genetic alterations are being increasingly identified, with efficient treatments and improvements in survival for most cancers at metastatic stages. However, most pharmaceutical anticancer drugs do not cross the blood–brain barrier (BBB), and many metastatic patients die from brain metastasis as a result, with a short survival rate of less than one year. Indeed, standard care for brain metastases is still surgery or radiation therapy, with limited indications.
+
+Like the eye, the testis, or the uterus, the central nervous system is a sanctuary site with immune privilege, and it is protected from injury by two mechanisms: a physical restriction barrier, the BBB, and a mechanism involving regulatory immune processes.
+
+The BBB is a physiological barrier between the blood and the central nervous system, with two major functions: (i) it limits the accumulation of deleterious molecules in the brain by preventing their passage from the blood to the brain, and by favoring their efflux from the brain to the blood. (ii) It maintains brain homeostasis by facilitating active transport of vital endogenous molecules and nutrients. In the neurovascular unit of rat BBB, 10%–15% of all proteins are transporters.
+
+Even in case of effraction of the BBB by brain metastasis, the permeability to anticancer drugs remains low. In this review, we discuss the most recent literature to facilitate the crossing of the BBB by anticancer drugs.
+
+2. Molecular Biology of Brain Metastasis and Potential Targeted Therapies
+
+Recent technological advances have greatly improved the massive sequencing analysis of tissues from primary cancers and metastases. Parallel sequencing analyses of primary tumors and metastases have been performed in various studies. Although a primary tumor and its metastases harbor a common signature, some discrepancies have been identified across matched tumor samples from a given patient.
+
+Indeed, since cancers are heterogeneous at cell and molecular levels, metastases can derive from a minority clone in the primary tumor. The metastatic process may result in a clonal selection that shares a common ancestor and yet continues to evolve independently, subject to selective pressure.
+
+The identification of additional genomic alterations in metastases requires access to metastatic samples. This has been facilitated by the use of imaging-guided biopsies, except in the case of brain metastasis, for which access is restricted to surgical removal or stereotaxic biopsies of single lesions.
+
+There is little data available. For a systematic literature search of comparative studies on genomic profiling between primary and brain metastases, we used the following research algorithm: “Sequence Analysis, RNA” [Mesh] OR “Sequence Analysis, DNA” [Mesh] OR “Molecular Sequence Data” [Mesh] OR “High-Throughput Nucleotide Sequencing” [Mesh] OR “DNA Fingerprinting” [Mesh] OR “DNA Copy Number Variations” [Mesh] OR “DNA Mutational Analysis” [Mesh] AND “Brain Neoplasms/secondary” [Mesh]. A total of 113 articles were initially identified. We then tested a second algorithm: “profiling” [All Fields] AND “brain metastases” [All Fields] AND (“breast cancer” [All Fields] OR “lung cancer” [All Fields] OR “melanoma” [All Fields]). We obtained 69 publications. After selection of recent work (by application of the “5-year” filter), we selected clinical articles on breast cancer, lung cancer, and melanoma. Finally, we retrieved 17 publications (Table 1). While primary tumors and brain metastases usually have a common genomic signature, additional alterations are frequently identified in brain metastases. Interestingly, a comparative study on 14 primary breast cancers and brain metastases demonstrated that 92% of the samples harbored at least one actionable genomic alteration in the brain metastases that was not found in the primary tumor. In addition, it seems that new PIK3CA gene mutations are frequently identified in brain metastases from breast, lung, and melanoma cancers. This suggests that PIK3CA may be implicated in the metastatic process in the brain and should be a preferential target for the development of targeted drugs. In all cases, to improve efficient targeting of brain metastases, a way of overcoming the limitation resulting from the impermeability of the BBB to drugs needs to be sought.
+
+3. Is the BBB Disrupted in the Case of Brain Metastases?
+
+The normal BBB (Figure 1a) is composed of endothelial cells with tight junctions, surrounded by a layer of pericytes. The end-feet of the astrocytes wrap around the capillaries and play a role in the formation and maintenance of the BBB. The tight junctions are made up of transmembrane proteins: claudins and occludins anchored in the cytoplasm of the endothelial cells and linked to the cytoskeleton by zona occludens proteins (ZO). Tight junctions limit the paracellular transport of most molecules and pharmacological compounds across the BBB. A basement membrane, composed of fibronectin, laminin, and collagen, surrounds the endothelial cells and the pericytes. Both endothelial cells and pericytes contribute to the production of the basement membrane.
+
+In murine models of brain metastases, there is evidence of disruption and physical changes in the BBB, usually called the blood–tumor barrier (BTB) (Figure 1b). Typically, albumin-bound Evans Blue dye injected intravenously accumulates in brain metastases, while it does not cross the BBB in the absence of metastases. Morphologically, the blood–tumor barrier is anarchic, disorganized, sinuous, irregularly shaped, with large and leaky blood vessels. Ultrathin-section electron microscopy has shown a redistribution of tight junctions on both sides (from the protoplasmic to the exoplasmic side) of the lipid bilayer. The number of normal astrocytes is reduced, and they probably lose their ability to produce BBB-inducing factors. The extracellular matrix of tumor vessels is expanded, decreasing the coating of endothelial cells with pericytes. These morphological alterations are linked to molecular alterations: (i) endothelial cells exhibit high levels of vascular endothelial growth factor (VEGF), and CD31 expression (a marker of activation of angiogenesis in endothelial cells) increases. In contrast, tight junction proteins (claudin-1, claudin-5, and 55 kDa occludins) have decreased expression. In in vitro models, high VEGF levels are responsible for an increase in the permeability of the BBB by inhibition of tight junction protein expression through the activation of the MAP kinase signaling pathway. (ii) Preclinical models of brain metastases have demonstrated an imbalance in pericyte subpopulations, with an increase in desmin+ and a reduction in CD13+ pericytes, proportionally linked to BBB permeability. (iii) BBB astrocytes have an increased, diffuse expression of aquaporin 4, a water channel. These adaptive modifications may limit the extent of edema fluid intrusion from the tumor bed into the brain extracellular space. (iv) The basement membrane composition is altered, with a decrease in laminin alpha 2, which is correlated with an increase in BBB permeability. In a preclinical model, another study highlighted an upregulation of astrocytic sphingosine-1 phosphate receptor 3 (S1P3) gene expression in brain metastases, responsible for an increase in BTB permeability. The authors demonstrated possibilities of modulation of BTB permeability by S1P3 inhibition or activation.
+
+4. Limited Brain Delivery of Anticancer Drugs
+
+Several physicochemical parameters are involved in the ability of drugs to cross the BBB and then to remain in the brain: small molecules, liposolubility, charge, interactions with plasma proteins, and interactions with efflux pumps and transporters.
+
+For the literature search on the crossing of the BBB or the BTB by drugs, we applied the following method:
+
+(« Blood-brain barrier » [Mesh]) AND (« neoplasm » [Mesh] OR « Cancer » OR « malignant tumor ») AND (« Brain neoplasm » OR « Brain metastasis ») AND (« antineoplasic agents» [Mesh] OR « Chemotherapy » OR « Anticancer drug ») AND (« passage »),
+
+(« antineoplasic agents» [MeSH Terms]) AND (“Blood–Brain Barrier/drug effects” [Majr]) AND (“pharmacokinetic”)
+
+(“anticancer drugs”) AND (“blood brain barrier” (AND (“penetration”)
+
+(“Cerebro Spinal Fluid penetration” (AND (“anticancer drugs” OR “antineoplasic agents”).
+
+We first tested four search algorithms:
+
+We did not identify any relevant papers. We thus extended our literature search using the free text term “cerebro-spinal fluid penetration of antineoplasic agents”. A total of 237 articles were then identified, including 24 articles with pharmacological data (references). Overall, drug accumulation in the brain was low, due to limited penetration into the brain and a rapid efflux from the brain to the blood (Table 2). For most targeted therapies, including monoclonal antibodies and tyrosine kinase inhibitors, penetration into brain was barely detectable.
+
+In conclusion, despite morphological and molecular alterations of the BTB, there is almost no pharmacologically relevant penetration by most anticancer drugs.
+
+5. Enhancing the Therapeutic Delivery of Drugs from Blood to Brain
+
+5.1. Mechanical Disruption of the Blood–Brain Barrier to Deliver Drugs to the Brain
+
+This consists of exerting pressure variations in order to change the conformation of endothelial cells, and permeabilize tight junctions. Two methods have been developed: osmotic disruption and ultrasound disruption.
+
+Osmotic alteration of the BBB, also called osmotic disruption, is known to increase the intracranial and intratumoral concentrations of chemotherapeutic agents. In 1973, using electron microscopy, Brightman et al. visualized a disruption of BBB tight junctions in rats after intracarotid perfusion of a hyperosmotic solution of urea. A hyperosmotic solution produces a transient, reversible disruption of the BBB by causing endothelial cell shrinkage and thus opening the tight junctions (Figure 2A). In clinical practice, the procedure includes an intra-arterial infusion of hypertonic solution of mannitol (25%) into a carotid or vertebral artery, followed by intra-arterial delivery of chemotherapy, for the treatment of brain tumors. Knuutinen et al. recently reported the case of a 25-year-old man with brain metastases of a germ cell tumor, progressing after standard treatments. After two months of osmotic BBB disruption with an intra-arterial association of carboplatin, cyclophosphamide, and etoposide, the patient achieved a complete, durable response. Comparable promising results have been reported with brain metastases or primary tumors from other cancer types. Apart from the clinical benefit, this method is also safe, with toxicity profiles similar to intravenous chemotherapy. However, it is difficult to implement this procedure in daily practice since it requires several days of hospitalization with intra-arterial cranial catheter placement under general anesthesia.
+
+The use of extracranial ultrasounds has been explored to improve the delivery of drugs to brain tumors. This technique is combined with intravenous administration of air microbubbles and has the advantage of being noninvasive. When excited by ultrasounds, microbubbles expand and exert a mechanical force on the endothelial cells of the BBB, leading to tight junction disruption and also to increased activity of active transports (Figure 2B). Preclinical studies using ultrasound disruption for the delivery of anticancer drugs have recently been reviewed. The use of focused ultrasounds can lead to an average 4-fold increase in the delivery of chemotherapeutic agents and a 3.5-fold increase in the delivery of monoclonal antibodies.
+
+Ultrasound delivery can also be radiologically guided by magnetic resonance imagery (MRI). One early clinical study has demonstrated the safety of using ultrasounds combined with microbubbles to disrupt the BBB, in combination with carboplatin, in 17 patients with glioblastoma. This pilot study opens new perspectives for optimizing chemotherapy delivery to brain tumors.
+
+5.2. Intranasal Delivery of Drugs
+
+In 2004, a study demonstrated that after intranasal administration, xenobiotics were able to penetrate the central nervous system through the olfactory and trigeminal pathway. Since then, intranasal drug delivery has been offered for the treatment of brain tumors. Preclinical studies using murine models of brain tumors demonstrated a better cerebral absorption of drugs following intranasal delivery. In a nonhuman primate model, the CSF/serum concentration ratio of temozolomide was 22% after intravenous administration, compared to 36% after intranasal delivery. Different preclinical and clinical trials using intranasal administration have been developed and are reviewed by Peterson et al..
+
+The anticancer drug perillyl alcohol, a chemical derived from essential oil, has been selectively developed to treat central nervous system tumors using intranasal delivery. In a phase-II clinical study of 37 patients with recurrent malignant glioma, perillyl alcohol intranasal delivery was well tolerated. Furthermore, when compared to historically untreated controls, patients with primary recurrent glioblastoma treated with intranasal perillyl alcohol showed a 5.9-month survival advantage. After 4 years of exclusive perillyl alcohol inhalation treatment of 198 patients with recurrent malignant glioma, 19% of the patients were still in clinical remission. In addition, the toxicity profile of intranasal administration seems to be good compared to systemic administration. A multicenter phase 1/2a trial started in the United States in 2016, including patients with recurrent glioblastoma ( identifier: NCT02704858). It uses NEO100, a synthetic, highly pure version of perillyl alcohol. Preliminary results are expected in 2020.
+
+5.3. The Use of Nanoparticles to Cross the BBB
+
+Nanoparticles are natural or artificial particles ranging from 10 and 1000 nm in size. The term nanoparticle applies to a wide variety of drug delivery vehicles, including dendrimers, micelles, liposomes, nanoscale ceramics, metallic and polymer nanoparticles. Nanoparticles have two advantages: first, they are taken up by the BBB endothelial cells (by receptor-mediated or adsorptive-mediated transcytosis pathways), and secondly, when administered systemically, nanoparticle encapsulation protects the drugs transported from damage. A wide variety of nanoparticles have been developed and are described by Khaitan et al.. Here, we focused on nanoparticles specifically developed to treat brain tumors.
+
+Polymeric nanoparticles are made of synthetic polymers. Different in vitro/in vivo studies showed better cellular uptake, cytotoxic effects, and brain penetration with drugs bound to polymeric nanoparticles. However, while a better brain uptake is observed when antitumoral drugs are associated with polymeric nanoparticles, brain penetration is mainly due to the combination with polysorbate 80 (a nonionic surfactant and emulsifier), which interacts with the low-density lipoprotein receptor by an endocytic process. After intravenous injection of doxorubicin in normal rats, brain concentrations can be enhanced more than 60-fold when doxorubicin is linked to polymeric nanoparticles coated with polysorbate 80. In a model of rat glioblastoma, 40% of rats treated with this formulation survived for half a year. Furthermore, the toxicity profile was similar or even better than that of free doxorubicin.
+
+Gold nanoparticles have recently emerged as innovative tools, particularly for photothermal therapy since they can be excited by laser to induce hyperthermia and cytotoxicity in tumor cells. Gold nanoparticles have already been tested for both diagnosis and therapy, and they present a low toxicity profile. Gold nanoparticles can also be functionalized to target cancer cells. Our team recently demonstrated a significant inhibition of tumor growth in a mouse xenograft model of HER2-overexpressing breast cancer, using functionalized gold nanoparticles with anti-HER-2 antibodies. For brain tumors, gold nanoparticles seem to be of particular interest. In an in vitro blood–brain barrier model, glucose-coated gold nanoparticles are taken up by brain-endothelium, and they target glial cells by passive diffusion. Furthermore, gold nanoparticles are able to selectively penetrate the brain endothelial cells, rather than other endothelial cells (Figure 2C). Jensen et al. developed gold nanoparticles conjugated with nucleic acids targeting the oncoprotein Bcl2Like12 in glioblastoma xenografts. They demonstrated an efficient penetration of this nanoparticle across the BBB, with a significant antitumor effect. A clinical trial using this nanoparticle (called NU-0129) is ongoing for the treatment of recurrent glioblastoma.
+
+Liposomes are vesicles made up of a phospholipid bilayer and an aqueous core. Vesicle size is typically between 50 nm and 5 μm. They have several advantages, such as the possibility of carrying various types of drugs. They can pass through the inter-endothelial gaps in the leaky vasculature of the BTB, or by active receptor-mediated transports when they are linked to specific ligands (Figure 2C). In preclinical studies, they tend to accumulate in brain tumor tissues rather than in normal brain tissues, thus favoring brain penetration by drugs. In a rat model, brain penetration of docetaxel loaded on liposomes is greatly enhanced (100%) compared to docetaxel alone. In a normal model of breast cancer brain metastasis, irinotecan was compared to a liposomal formulation (nal-IRI-50): the irinotecan metabolite SN38 accumulated in the brain metastases at 7 days after intravenous injection of nal-IRI-50, while it was undetectable with irinotecan 12 h post-administration.
+
+In 15 patients with glioblastoma or metastatic brain tumors, radiolabeled liposomal doxorubicin strongly accumulated in brain tumors with significant responses in 14 patients. The same liposomal formulation of doxorubicin functionalized with anti-HER2 antibodies (64Cu-MM-302) also accumulated in HER2 overexpressing breast cancer brain metastases.
+
+5.4. Combinations of Drugs Targeting Receptor-Mediated Transport
+
+Receptor-mediated transport, expressed in the endothelial cells of the BBB, enables active transporters to cross the BBB to maintain homeostasis of the central nervous system. Typically, the insulin receptor is responsible for the import of insulin from blood to brain. The low-density lipoprotein receptor mediates the transport of lipoproteins and of many other ligands across the BBB. The transferrin receptor mediates iron transport. When a ligand binds to its specific receptor on endothelial cells of the BBB, it leads to the endocytosis of the ligand-receptor complex into a transport vesicle. When the vesicle reaches the opposite membrane, it fuses with the membrane and enables the ligand to be released into the brain compartment (Figure 2C). Using these physiological shuttles, bispecific antibodies or drug receptor conjugates have been developed.
+
+Transferrin receptor is of particular interest, since it is overexpressed in cancers. Since 1981 and the first anti-transferrin receptor antibody conjugate, several compounds have been investigated (reviewed in). Tf-CRM107, a conjugate of human transferrin and diphtheria toxin, has been tested after intraventricular injection in a phase-II study on 44 patients with glioblastoma or astrocytoma. A response was obtained in 12 patients. Unfortunately, the phase-III clinical trial failed to demonstrate a benefit due to unacceptable toxicities. More recently, drug conjugates targeting transferrin receptor in nanoparticle formulations are being tested by intravenous administration, with promising pharmacological and antitumor results in preclinical studies.
+
+One limitation remains, linked to toxicities due to the ubiquitous expression of transferrin receptor in humans.
+
+Lipoproteins are responsible for the blood transport of hydrophobic molecules including triglycerides and cholesterol. Apolipoproteins are parts of lipoproteins, ensuring cohesion and solubilization of lipoproteins in the blood. Depending on the different types of apolipoproteins present on their surface, the lipoproteins are captured by lipoprotein receptors of specific cells. Drug nanoparticles conjugated with apolipoprotein domains have been developed with limited brain penetration due to their large size and their competition with circulating endogenous ligands.
+
+Other molecules contain a Kunitz domain, a region of 50–60 specific amino acids, which is the ligand of lipoprotein receptors. This led to the identification of a family of peptides, named angiopeps, derived from the Kunitz domain, with good transcytosis ability from blood to brain. In 2008, Regina et al. developed a new drug combining paclitaxel and angiopep2, called ANG1005 or GRN1005, with promising preclinical results in glioma or brain metastases. A phase-1 clinical trial has been successfully completed on brain metastases in different cancers, and in recurrent malignant gliomas. In a phase-II study on women with breast cancer brain metastasis or leptomeningeal carcinomatosis, the clinical benefit was 71%, with a median survival of 8 months. A Phase 3-trial is underway with results expected in 2020.
+
+This promising data led to the engineering of Angiopep2 conjugates with targeted therapies: a combination of an anti-epidermal growth factor reception (EGFR) and Angiopep2, with promising results in murine models of glioblastoma, and a combination of Angiopep2 with a new anti-HER2 antibody, with a strong brain uptake in xenograft models of human epidermal receptor (HER)-overexpressing breast cancer brain metastasis.
+
+6. Conclusions
+
+The treatment of brain metastases remains a major therapeutic challenge since standard treatments (surgery, radiation therapy) are of limited benefit. Innovative approaches using physical methods or physiological transporters are being explored to facilitate drug penetration across the blood–brain barrier and deliver them to brain metastases at relevant pharmacological concentrations.
+
+Drug conjugates using mediate transport receptors, particularly angiopeps, are the most promising therapies with ongoing phase III clinical studies. They open avenues for further clinical applications to facilitate the passage of targeted therapies across the BBB and thus target molecular abnormalities linked to brain tumors.
+
+Author Contributions
+
+Conceptualization, E.A. and G.B.; methodology, E.A. and G.B.; validation, G.B., A.J. and T.T.N.; writing—original draft preparation, E.A; writing—review and editing, E.A.; supervision, G.B. project administration, G.B. All authors have read and agreed to the published version of the manuscript.
+
+Funding
+
+This research received no external funding
+
+Conflicts of Interest
+
+The authors have no conflict of interest to report
+
+Abbreviations
+
+BBB	Blood–brain barrier	 	BTB	Blood–tumor barrier	 	CSF	Cerebrospinal fluid	 	HER	Human epidermal receptor	 	EGFR	Epidermal growth factor receptor	 	TKI	Tyrosine kinase inhibitor
+
+References
+
+Metastatic sites and survival in lung cancer
+
+Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer and Central Nervous System Metastases
+
+Brain metastasis: Unique challenges and open opportunities
+
+Surgical Brain Metastases: Management and Outcome Related to Prognostic Indexes: A Critical Review of a Ten-Year Series
+
+Recommendations on Disease Management for Patients With Advanced Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer and Brain Metastases: American Society of Clinical Oncology Clinical Practice Guideline
+
+Organ-specific protection mediated by cooperation between vascular and epithelial barriers
+
+The blood-brain barrier: an engineering perspective
+
+The rat blood—Brain barrier transcriptome
+
+Distant metastasis occurs late during the genetic evolution of pancreatic cancer
+
+Intratumor heterogeneity and branched evolution revealed by multiregion sequencing
+
+Divergent modes of clonal spread and intraperitoneal mixing in high-grade serous ovarian cancer
+
+Subclonal diversification of primary breast cancer revealed by multiregion sequencing
+
+Tumour heterogeneity and resistance to cancer therapies
+
+A Comparison of DNA Mutation and Copy Number Profiles of Primary Breast Cancers and Paired Brain Metastases for Identifying Clinically Relevant Genetic Alterations in Brain Metastases
+
+Mutational profiling of brain metastasis from breast cancer: Matched pair analysis of targeted sequencing between brain metastasis and primary breast cancer
+
+Gene Expression Profiling of Breast Cancer Brain Metastasis
+
+Transcriptome Characterization of Matched Primary Breast and Brain Metastatic Tumors to Detect Novel Actionable Targets
+
+Mutation Profiling of Key Cancer Genes in Primary Breast Cancers and Their Distant Metastases
+
+HER3 and downstream pathways are involved in colonization of brain metastases from breast cancer
+
+Cytogenomic profiling of breast cancer brain metastases reveals potential for repurposing targeted therapeutics
+
+Comprehensive molecular biomarker identification in breast cancer brain metastases
+
+Intrinsic Subtype Switching and Acquired ERBB2/HER2 Amplifications and Mutations in Breast Cancer Brain Metastases
+
+Next-Generation Sequencing of Stage IV Squamous Cell Lung Cancers Reveals an Association of PI3K Aberrations and Evidence of Clonal Heterogeneity in Patients with Brain Metastases
+
+Genes associated with increased brain metastasis risk in non-small cell lung cancer: Comprehensive genomic profiling of 61 resected brain metastases versus primary non-small cell lung cancer (Guangdong Association Study of Thoracic Oncology 1036)
+
+Acquirement of DNA copy number variations in non-small cell lung cancer metastasis to the brain
+
+Molecular profiling of patient-matched brain and extracranial melanoma metastases implicates the PI3K pathway as a therapeutic target
+
+Molecular Profiling Reveals Unique Immune and Metabolic Features of Melanoma Brain Metastases
+
+Profiles of brain metastases: Prioritization of therapeutic targets: Profiling brain metastases
+
+Genomic Characterization of Brain Metastases Reveals Branched Evolution and Potential Therapeutic Targets
+
+Integrated genomic and transcriptomic analysis of human brain metastases identifies alterations of potential clinical significance: Integrated genomic and transcriptomic analysis of brain metastases
+
+Astrocytes induce blood–brain barrier properties in endothelial cells
+
+CNS drug design based on principles of blood-brain barrier transport
+
+The role of pericytes in blood-brain barrier function and stroke
+
+Astrocyte–endothelial interactions at the blood–brain barrier
+
+Ex vivo Evans blue assessment of the blood brain barrier in three breast cancer brain metastasis models
+
+Blood-brain barrier, cytotoxic chemotherapies and glioblastoma
+
+Claudin-1 and claudin-5 expression and tight junction morphology are altered in blood vessels of human glioblastoma multiforme
+
+Molecular mechanisms of brain tumor edema
+
+Occludin expression in microvessels of neoplastic and non-neoplastic human brain
+
+Alterations in Pericyte Subpopulations Are Associated with Elevated Blood-Tumor Barrier Permeability in Experimental Brain Metastasis of Breast Cancer
+
+Vascular permeability factor/vascular endothelial cell growth factor-mediated permeability occurs through disorganization of endothelial junctional proteins
+
+Reactive astrocytic S1P3 signaling modulates the blood–tumor barrier in brain metastases
+
+Phase I and pharmacokinetic evaluation of thiotepa in the cerebrospinal fluid and plasma of pediatric patients: evidence for dose-dependent plasma clearance of thiotepa
+
+Plasma and Cerebrospinal Fluid Population Pharmacokinetics of Temozolomide in Malignant Glioma Patients
+
+Comparison of pharmacokinetics and toxicity after high-dose methotrexate treatments in children with acute lymphoblastic leukemia
+
+Plasma and cerebrospinal fluid pharmacokinetic study of topotecan in nonhuman primates
+
+Plasma and cerebrospinal fluid pharmacokinetics of 9-aminocamptothecin (9-AC), irinotecan (CPT-11), and SN-38 in nonhuman primates
+
+Extracellular fluid concentrations of cisplatin, carboplatin, and oxaliplatin in brain, muscle, and blood measured using microdialysis in nonhuman primates
+
+Etoposide achieves potentially cytotoxic concentrations in CSF of children with acute lymphoblastic leukemia
+
+Effect of P-glycoprotein modulation with cyclosporin A on cerebrospinal fluid penetration of doxorubicin in non-human primates
+
+Pharmacokinetics and cerebrospinal fluid penetration of daunorubicin, idarubicin, and their metabolites in the nonhuman primate model
+
+The plasma pharmacokinetics and cerebrospinal fluid penetration of the thymidylate synthase inhibitor raltitrexed (Tomudex) in a nonhuman primate model
+
+Limited cerebrospinal fluid penetration of docetaxel
+
+Pharmacokinetics and efficacy of pemetrexed in patients with brain or leptomeningeal metastases
+
+Plasma and cerebrospinal fluid pharmacokinetics of pemetrexed after intravenous administration in non-human primates
+
+Cerebrospinal fluid penetration of active metabolites of cyclophosphamide and ifosfamide in rhesus monkeys
+
+Penetration of ifosfamide and its active metabolite 4-OH-ifosfamide into cerebrospinal fluid of patients with CNS malignancies
+
+Cerebrospinal fluid concentrations of vincristine after bolus intravenous dosing: a surrogate marker of brain penetration
+
+Pharmacokinetics of vincristine in the cerebrospinal fluid of humans
+
+Plasma and cerebrospinal fluid pharmacokinetics of gemcitabine after intravenous administration in nonhuman primates
+
+Tyrosine kinase inhibitors show different anti-brain metastases efficacy in NSCLC: A direct comparative analysis of icotinib, gefitinib, and erlotinib in a nude mouse model
+
+Plasma and cerebrospinal fluid pharmacokinetics of imatinib after administration to nonhuman primates
+
+Preclinical Comparison of Osimertinib with Other EGFR-TKIs in EGFR-Mutant NSCLC Brain Metastases Models, and Early Evidence of Clinical Brain Metastases Activity
+
+Antibody pharmacokinetics in rat brain determined using microdialysis
+
+Complement Activation in Circulation and Central Nervous System after Rituximab (Anti-CD20) Treatment of B-Cell Lymphoma
+
+Pharmacokinetics of methotrexate in cerebrospinal fluid and serum after osmotic blood-brain barrier disruption in patients with brain lymphoma
+
+Pharmacokinetics of Etoposide and Carboplatin in Cerebrospinal Fluid and Plasma during Hyperosmotic Disruption of the Blood Brain Barrier and Intraarterial Combination Chemotherapy
+
+Osmotic opening of tight junctions in cerebral endothelium
+
+Case Report: Chemotherapy in Conjunction With Blood–Brain Barrier Disruption for a Patient With Germ Cell Tumor With Multiple Brain Metastases
+
+Enhanced chemotherapy delivery by intraarterial infusion and blood-brain barrier disruption in the treatment of cerebral metastasis
+
+Osmotic Blood-Brain Barrier Modification for the Treatment of Malignant Brain Tumors
+
+Mechanism of low-frequency ultrasound in opening blood-tumor barrier by tight junction
+
+Brain arterioles show more active vesicular transport of blood-borne tracer molecules than capillaries and venules after focused ultrasound-evoked opening of the blood-brain barrier
+
+Mechanisms of enhanced drug delivery in brain metastases with focused ultrasound-induced blood–tumor barrier disruption
+
+Clinical trial of blood-brain barrier disruption by pulsed ultrasound
+
+Delivery of insulin-like growth factor-I to the rat brain and spinal cord along olfactory and trigeminal pathways following intranasal administration
+
+Transnasal Delivery of 5-Fluorouracil to the Brain in the Rat
+
+Transnasal Delivery of Methotrexate to Brain Tumors in Rats: A New Strategy for Brain Tumor Chemotherapy
+
+Plasma and cerebrospinal fluid pharmacokinetics of select chemotherapeutic agents following intranasal delivery in a non-human primate model
+
+A systematic review of inhaled intranasal therapy for central nervous system neoplasms: an emerging therapeutic option
+
+Preliminary results from a phase I/II study of perillyl alcohol intranasal administration in adults with recurrent malignant gliomas
+
+Efficacy of monoterpene perillyl alcohol upon survival rate of patients with recurrent glioblastoma
+
+Long-term outcome in patients with recurrent malignant glioma treated with Perillyl alcohol inhalation
+
+Intranasal Perillyl Alcohol for Glioma Therapy: Molecular Mechanisms and Clinical Development
+
+Nanoparticulate systems for brain delivery of drugs
+
+Polymeric nanoparticles for drug delivery to the central nervous system
+
+Targeting Brain Tumors with Nanomedicines: Overcoming Blood Brain Barrier Challenges
+
+Carboplatin loaded Surface modified PLGA nanoparticles: Optimization, characterization, and in vivo brain targeting studies
+
+Intracellular drug delivery using polysorbate 80-modified poly(D,L-lactide-co-glycolide) nanospheres to glioblastoma cells
+
+Enhanced brain targeting of temozolomide in polysorbate-80 coated polybutylcyanoacrylate nanoparticles
+
+Significant transport of doxorubicin into the brain with polysorbate 80-coated nanoparticles
+
+Toxicological studies of doxorubicin bound to polysorbate 80-coated poly(butyl cyanoacrylate) nanoparticles in healthy rats and rats with intracranial glioblastoma
+
+Pulsed-laser irradiation of multifunctional gold nanoshells to overcome trastuzumab resistance in HER2-overexpressing breast cancer
+
+Glucose-Coated Gold Nanoparticles Transfer across Human Brain Endothelium and Enter Astrocytes In Vitro
+
+Spherical nucleic acid nanoparticle conjugates as an RNAi-based therapy for glioblastoma
+
+Nanocarriers for the treatment of glioblastoma multiforme: Current state-of-the-art
+
+High intratumoural accumulation of stealth® liposomal doxorubicin (Caelyx®) in glioblastomas and in metastatic brain tumours
+
+Successful delivery of docetaxel to rat brain using experimentally developed nanoliposome: a treatment strategy for brain tumor
+
+Liposomal Irinotecan Accumulates in Metastatic Lesions, Crosses the Blood-Tumor Barrier (BTB), and Prolongs Survival in an Experimental Model of Brain Metastases of Triple Negative Breast Cancer
+
+64Cu-MM-302 Positron Emission Tomography Quantifies Variability of Enhanced Permeability and Retention of Nanoparticles in Relation to Treatment Response in Patients with Metastatic Breast Cancer
+
+Targeting Receptor-Mediated Transport for Delivery of Biologics Across the Blood-Brain Barrier
+
+Transferrin Receptor-Mediated Endocytosis: A Useful Target for Cancer Therapy
+
+Tumor regression with regional distribution of the targeted toxin TF-CRM107 in patients with malignant brain tumors
+
+Intraventricular immunotoxin therapy for leptomeningeal neoplasia
+
+Brain tumor-targeted therapy by systemic delivery of siRNA with Transferrin receptor-mediated core-shell nanoparticles
+
+Method of establishing breast cancer brain metastases affects brain uptake and efficacy of targeted, therapeutic nanoparticles
+
+Transferrin adsorption onto PLGA nanoparticles governs their interaction with biological systems from blood circulation to brain cancer cells
+
+Uptake Mechanism of ApoE-Modified Nanoparticles on Brain Capillary Endothelial Cells as a Blood-Brain Barrier Model
+
+Use of LDL receptor–targeting peptide vectors forin vitroandin vivocargo transport across the blood-brain barrier
+
+Uptake of ANG1005, a novel paclitaxel derivative, through the blood-brain barrier into brain and experimental brain metastases of breast cancer
+
+Safety, pharmacokinetics, and activity of GRN1005, a novel conjugate of Angiopep-2, a peptide facilitating brain penetration, and paclitaxel, in patients with advanced solid tumors
+
+Phase I Study of GRN1005 in Recurrent Malignant Glioma
+
+OS7.2 A Phase II Study of ANG1005, a novel BBB/BCB Penetratant Taxane in Patients with Recurrent Brain Metastases and Leptomeningeal Carcinomatosis from Breast Cancer
+
+Angiopep-2/IP10-EGFRvIIIscFv modified nanoparticles and CTL synergistically inhibit malignant glioblastoma
+
+ANG4043, a novel brain-penetrant peptide-mAb conjugate, is efficacious against HER2-positive intracranial tumors in mice
+
+Neurovascular unit of (a) normal blood–brain barrier (BBB) and (b) blood–tumor barrier (Credits images: © User: Kuebi / Wikimedia Commons / CC-BY-3.0), ↑ means an increase,↓ means a decrease.
+
+Summary of different way to overcome the BBB (except the intranasal). (A) Osmotic disruption, hypertonic mannitol causes a water leakage to the extracellular area and a shrinkage of endothelial cells (blue arrow means an extravasation of H2O from intracellular to extracellular space/ pink arrow means the passage of drugs across the BBB from blood to brain). (B) Ultrasounds combined to microbubbles: when excited by ultrasounds, microbubbles expand and exert a mechanical force on the endothelial cells of the BBB, leading to tight junction disruption. (C) Transcytosis across endothelial cells of the blood–brain barrier. Left side: receptor mediated transport: binding of the ligand to a specific receptor on the apical side, invagination of the membrane containing the complex, transcytosis, fusion, and release of the cargo to the basal side. Middle: inter-endothelial passage of liposomal nanoparticles. Right side: passive diffusion of gold nanoparticles (Credits images: © SMART / CC-BY-3.0).
+
+Molecular alterations in brain metastases.
+
+Primary Localization	Histological Subtype	Patient Numbers/ BM Analyzed	Materials and Analyses	Examples of Driver mutations or CNV Acquired in BM	Reference	 	Breast	All	14/14	DNA	PIK3CAEGFRFGFR1	Tyran 2019 	 	All	45/42	DNA	TP53 (ns)	Lee JY 2015 	 	All	61/61	RNAProtein	SOX2OLIG2ERBB2	Lee JY 2016 	 	All	21/21	RNAProtein	RETHER2 amplification	Varešlija 2019 	 	ER negative	17/ 9	DNA	TP53PIK3CASMAD4RB1	Schrijver 2018 	 	All	78/52	DNARNAprotein	PIK3CAHER3EGFRHRAS/KRAS/NRAS	Da Silva 2010 	 	All	10/10	DNAProtein	PTENFBXW7ERBB2KIT	Bollig-Fisher 2015 	 	All	35/3	DNARNAProtein	TP53ERBB2BRCA1–2IDH1CDH1	Schulten 2017 	 	All	20/20	DNARNAProtein	ERBB2FGFR4EGFRESR1	Priedigkeit 2017 	 	Lung	Squamous	79/9	DNARNAProtein	Total of 23 genes	Paik 2015 	 	NSCLC	61/61	DNA	PIK3CAEGFRMETROS1VEGFACCND1CDKN2A/2B	Wang 2019 	 	NSCLC	1/1	DNAProtein	PTENCDKN2A	Li 2015 	 	Melanoma		16/16	DNARNAProtein	PI3K/AKT pathway genes	Chen G2014 	 		74/88	DNARNAProtein	Increase in oxidative phosphorylation gene expression	Fisher 2019 	 	Both	LungBreastMelanoma 	NA/493	DNAprotein	TOP2AcMET (melanoma)HER2 (breast)EGFR	Ferguson 2018 	 	LungBreastRenal carcinoma 	86/86	DNA	PTENEGFRPI3K/AKT pathway genesHER2 amplificationMCL1 amplification	Brastianos 2015 	 	BreastLungMelanomaEsophagus	36/36	DNARNA	MAP3K4COL5A1	Saunus 2015
+
+BM: brain metastases; CNV: Copy Number Variations; NSCLC: Non-Squamous Cell Lung Cancer; ns: nonsignificant.
+
+Cerebrospinal fluid (CSF) pharmacokinetics for anticancer drugs.
+
+Drug Family	CSF/Plasma Ratio (%)	Species Studied	Time	Ref	 	Chemotherapy	 	Thiotepa	100 (for thiotepa and metabolite)	Human (children)	AUC 0–24 h		 	Temozolomide	20	Human	AUC 0–5 h		 	Methotrexate	2.8	Human (children)	24 h		 	Topotecan	32	RHM	AUC 0–60 min		 	Irinotecan	9.6–16 Metabolite SN 38: <3	RHM	AUC 0–48 h		 	Cisplatin	3	RHM	AUC 0–4 h		 	Carboplatin	2.6	RHM	AUC 0–4 h		 	Oxaliplatin	1.2	RHM	AUC 0–4 h		 	Etoposide	0–3	Human (children)	Mean 0–5 h		 	Doxorubicin	<5	RHM	Mean 0–48 h		 	Idarubicin	0–15 Metabolite idarubicinol: 1.9 	RHM	1 h		 	Daunorubicin	2.4 (Metabolite Daunorubicinol)	RHM	AUC 0–96 h		 	Tomudex	0.6–2.0	RHM	Mean 0–48 h		 	Docetaxel	0.1–9	Human	72 h		 	Pemetrexed	1–3	Human	AUC 1–4 h		 	0.76	RHM	AUC 0–∞		 	Ciclofosphamid	17	RHM	AUC 0–240 min		 	Ifosphamid	38	RHM	AUC 0–240 min		 	Metabolite 4-OH-Ifo: 30				 	13	RHM	AUC 0–240 min		 	Vincristin	0	Human (children)	Mean 8–46 min		 	0	Human	Mean 0–24 h		 	Gemcitabin	6.7	RHM	NA		 	TKI	 	Gefitinib	1	Mice	1 h		 	Erlotinib	1	Mice	1 h		 	Icotinib	0.7	Mice	1 h		 	Imatinib	5	RHM	AUC 0–48 h		 	Osimertinib	>100 (brain/plasma ratio)	Mouse and monkey	AUC 0–90 min		 	Antibodies	 	Trastuzumab	0.5	Rat	AUC 0–722 h		 	Rituximab	0.2	Human	Mean 0–15 days
+
+CSF: cerebrospinal fluid; AUC: area under the curve; RHM: Rhesus Monkey; TKI: Tyrosine kinase inhibitors.

@@ -1,0 +1,423 @@
+Peptide Mediated Brain Delivery of Nano- and Submicroparticles: A Synergistic  Approach
+
+The brain is a complex, regulated organ with a highly controlled access mechanism: The Blood-Brain Barrier (BBB). The selectivity of this barrier is a double-edged sword, being both its greatest strength and weakness. This weakness is evident when trying to target therapeutics against diseases within the brain. Diseases such as metastatic brain cancer have extremely poor prognosis due to the poor permeability of many therapeutics across the BBB. Peptides can be designed to target BBB receptors and gain access to the brain by transcytosis. These peptides (known as BBB-shuttles) can carry compounds, usually excluded from the brain, across the BBB. BBB-shuttles are limited by poor loading of therapeutics and degradation of the peptide and cargo. Likewise, nano- submicro- and microparticles can be fine-tuned to limit their degradation and with high loading of therapeutics. However, most nano- and microparticles’ core materials completely lack efficient targeting, with a few selected materials able to cross the BBB passively. Combining the selectivity of peptides with the high loading potential of nano-, microparticles offers an exciting strategy to develop novel, targeted therapeutics towards many brain disorders and diseases. Nevertheless, at present the field is diverse, in both scope and nomenclature, often with competing or contradictory names. In this review, we will try to address some of these issues and evaluate the current state of peptide mediated nano,-microparticle transport to the brain, analyzing delivery vehicle type and peptide design, the two key components that must act synergistically for optimal therapeutic impact.
+
+Introduction
+
+The complexity and multitude of functions the brain controls require equally intricate and robust barriers to this organ. At present, there are three agreed upon main regulators to access the brain: The Blood-Brain Barrier (BBB), the blood–CSF barrier, and the arachnoid barrier. These barriers strictly regulate homeostasis within the brain. This selectivity protects the brain from many pathogens, harmful compounds and other foreign material. However, problems arise when cells within the brain become abnormal, or when foreign material crosses the barrier and invades the brain tissue. The BBB that once protected healthy brain tissue, in effect becomes the greatest obstacle to the delivery of therapeutics. The BBB by area is one of the largest of the aforementioned brain barriers, with an area of approximately 20 m2 with a total capillary length of over 600 km. In terms of brain density this vascular barrier is extremely dense, with a neuron never being more than a median distance of 50 micron away from a brain capillary. The BBB in comparison to the blood-CSF barrier, is less invasive to target and has a greater blood flow rate making it an attractive option for targeting therapeutics to the brain. The arachnoid barrier, like the BBB has a number of efflux transporters that reduce the retention time of molecules able to pass through the plasma membrane into the cytosol before being kicked out again. However, the arachnoid barrier compared in terms of surface area to the BBB is vastly smaller. The olfactory bulb has recently become the focus of renewed interest in reaching the brain.This barrier to the brain is more permissible but has a vastly reduced surface area. Additionally, the presence of mucus entraps many compounds before they can even make it to the olfactory bulb and thus into the brain. The BBB is composed of three cell types, endothelial, astrocytes and pericytes (Fig. 1). Together they are described as a neurovascular unit, that act in situ to maintain tight junctions, and efficient efflux mechanisms. These tight junctions produce high Transendothelial Electrical Resistance (TEER) values as high as 2000 Ω·cm. This in turn highlights the polarity between the luminal and abluminal side of the barrier. Requiring the barrier to have highly developed uptake mechanisms. Transport can be split into two areas, uptake (influx) and efflux. Efflux transporters of the ATP-binding cassette (ABC) family (P-glycoproteins) and Solute Carrier Family (SLC) play essential roles in the BBB permeability of small molecules, both endogenous compounds and xenobiotics. Uptake can be further split into 3 mechanisms, receptor-mediated endocytosis, adsorptive uptake and passive diffusion (Fig. 2). Receptor-mediated uptake offers the most comprehensive system studied at present. Although many authors in the field still believe that much more remains to be discovered. Several receptor systems have been reported that actively mediate transcytosis of molecules from the basal to the apical side, for example insulin, LRP-1, LDL and transferrin to name but a few. Targeting these receptors has several advantages; being selectable, with promising indications of regiospecificity within the brain. However, receptor-mediated targets are a saturable route, with compounds quickly overloading the receptors targeted. Other mechanisms such as passive and adsorptive transport are non-saturable, but lack specificity. Highly lipophilic compounds are predominately transported via passive diffusion. Peptides with a highly cationic electrostatic nature create deformations, which develop into pits across the cell membrane. As the peptide enters these pit formations, their presence continues to extend and deform the membrane. Finally the peptide is fully encapsulated within a newly formed vesicle, within the cytosol. This mechanism is non-saturable and non-specific.
+
+Diseases afflicting the brain, such as metastatic brain cancer have extremely poor prognosis and are the most common form of neurologic complications. At present reports conclude that the incidence is between 9%-17% for metastatic brain cancer. Nevertheless, it is generally accepted that the exact incidence will be much higher. Current treatments fail to be effective against this aggressive form of cancer. They are either prevented from passing into the brain, rapidly effluxed, or metabolised by the body before ever reaching their target. Those treatments that can cross require such large doses to be effective that they induce toxicity elsewhere in the body. From this perspective, a more specific, targeted, and less toxic approach is needed. A promising tool in development has been the discovery of peptides that can cross the BBB by transcytosis. These peptides can target the brain specifically, circumvent rapid efflux mechanisms from the brain and are designed to prevent degradation.
+
+Combining peptide shuttles with nanoparticles conjugated with a therapeutic drug have the potential to target the brain with minimal disruption and toxicity. At present most clinical treatments are highly invasive, vastly disruptive and create a plethora of unwanted side effects.
+
+Within the field of nanomedicine, the diversity in nomenclature that exists has grown rapidly over the last few years. In many regards, much of the terms used had to be created to define the uniqueness of the properties being observed. However, this explosion in nomenclature has come at a price. Each new term initially has very limited penetration within the nanomedicine community’s lexicon. Often leading to competing and sometimes contradictory definitions, it is within this context that we must clearly define what terms we are describing, until a globally accepted definition has been agreed upon. For example, describing the property of a peptide to cross the BBB has been described as a BBB-shuttle, a BBB carrier and a molecular Trojan horse. The last example was first coined by William M Pardridge et al. (1986); however, these molecular Trojan horses were made from modified large proteins and antibodies. The BBB-shuttle concept relating to peptides to enable passive transport across the BBB was proposed by Teixidó et al. (2007) and later expanded by Malakoutikhah et al. (2008) to include receptor-mediated transport. They defined BBB-shuttles in terms of being solely peptidic in nature, excluding large proteins and antibodies from the definition, to differentiate between the advantages peptides would have over larger molecules defined as molecular Trojan horses. Recently a third definition for BBB-shuttles has arisen by Webster et al. (2015) defining BBB-shuttles as the receptors, engineered ligands to these receptors as ‘BBB carriers’, and drugs attached to these ‘carriers’ being classed as molecular Trojan horses. Other groups have reported and defined brain shuttles as modified antibodies able to cross the BBB via transcytosis. The examples mentioned above are just a few cases illustrating the complexity of the nomenclature. However, terms are not always mutually exclusive, for example carriers have been defined as objects with the ability to directly transport cargo such as siRNA, drugs, and fluorophore across the BBB. With this definition of a carrier, a BBB-shuttle able to cross into the parenchyma of the brain with an attached cargo could equally be described as both a BBB-shuttle and a BBB-carrier.
+
+For the purposes of this review, we will consolidate these competing terms and clarify our definitions on the following. A BBB-shuttle will be defined within the context of this review as a peptide that can cross the BBB by either passive or active transport mechanisms and crucially, can transport other components attached to this molecule. The components attached to the BBB-shuttle will also be deemed as the cargo. Finally, a unifying term is required to talk about the shuttle with the cargo, to describe its size. For this we propose the terms constructs for entities larger than 100 nm, and nano-constructs, for when the overall size is below 100 nm including the hydrodynamic diameter.
+
+Blood-brain barrier shuttles (BBB-shuttles)
+
+In 1986, William M Pardridge began to pursue the idea of proteins targeting cell receptors to cross the BBB; eventually coining the molecular Trojan horse concept. These early modified proteins and antibodies were large, had high affinity to receptors, but poor release. Since then a new class of small peptides targeting receptors has arisen. When the first CPP was described in 1998, a lot of excitement over the subsequent years was generated by the prospect that these CPPs could cross any cellular barrier. However, this excitement gave way to the reality that not all CPPs could cross and crucially, remain in the parenchyma. This lead to more in-depth studies on the role of efflux, influx, rate of transport and the extent to which the CPP could penetrate. Stalmans et al. (2015) investigated the balance between these CPP properties. Selecting five different CPPs they evaluated to what extent the CPP can cross the BBB (influx) and how quickly is the CPP removed from the BBB (efflux). They selected five structurally distinct CPPs; pVEC, SynB3, Tat 47-57, transportan 10 (TP10) and TP10-2 (Fig. 3).
+
+Their findings concluded SynB3, Tat 47-57 and pVEC displayed initial high brain influx rates, by a non-saturable mechanism. TP10 and TP10-2 produced low influx and higher efflux rates. Excluding pVEC, the remaining CPPs were significantly effluxed from the neurovascular unit. This study highlights the importance of peptide choice and design. This study contributed to the difference between CPPs and BBB-shuttles. Whilst CPPs by their very nature can be internalised, only a small subset are capable of transcytosis. It’s this ability to transcytosis that differentiates CPPs from BBB-shuttles (Fig. 4).
+
+Receptor-Mediated
+
+At present a number of peptides exist that target only a small class of receptors. The low density lipid receptor (LDLR) is a cell surface receptor responsible for cholesterol and apoprotein uptake, ubiquitous in epithelial cells and endothelial brain tissue. Several groups have sought to target this receptor using repeats of lysine, arginine and leucine (ApoE) (Table 1) identified from natural proteins. Other receptors include leptin, receptor-associated protein (RAP), insulin, scavenger receptor type B1 (SCARB1) and Fc like growth factor receptor (FCGRT). The transferrin receptor (TfR) mediates iron uptake and metabolism into the brain parenchyma via the BBB. At present, this receptor is one of the most targeted for therapeutics (Table 1). TfR is essential for iron uptake in many cell types, with its highest expression observed in the bone marrow. As a candidate target the transferrin receptor has shown some remarkable results as a mode to access the brain parenchyma. However, modulation of this receptor may have off-target effects. TfR modulation has been linked to mitochondrial respiration, the generation of reactive oxygen species, as well as the induction and maintenance of oncogenesis. Despite this current array of receptors and peptides, much more research must be done
+
+to find novel routes into the brain. A paper by Holton et al. (2013) put forward the idea to “mine” viral sequences to find promising new CPP’s and antibiotics. This “bio-prospecting” opens up a vast new avenue to explore novel receptors and ligands for the BBB, as the full extent of its complexity has not yet been elucidated.
+
+Peptide Design: Cyclic or Linear
+
+Many of the peptides, which have been found to have shuttling capacity, have been synthesized to be linear, e.g. ApoE, AngioPep2, THR, RVG, etc. (Table 1). However, linear peptides can be enzymatically degraded much quicker than cyclized peptides in plasma. Oller-Salvia et al. (2016) showed the stability of a miniaturized cyclic version of the Apamin protein derived from bee venom (Table 1). Other groups have shown similar trends with peptide cyclisation improving stability such as Peptide-22 and CRT (Table 1). However, shuttling capacity does not seem to be dependent on cyclisation, rather the benefit of cyclisation appears to be the increased stability of the peptide.
+
+Chirality
+
+Chirality can be defined as the property of disymmetry, i.e. being non-superimposable to their mirror image. Peptide and proteins are chiral compounds. This chirality derives from the chirality of the amino acids that can exist in an L- or D- format. However, in nature, only L- amino acids are used. This offers some interesting possibilities, as D- amino acids have the same properties as L- amino acids, with some notable exceptions. When a peptide is made with one or more D- amino acids, protease enzymes within our body are no longer able to recognise and cleave these D- structures. This property means that, we can design peptides with similar functions to the natural L- peptide but with vastly increased resistance to proteases. However, there is a caveat with this approach to produce D- peptides. The sequence must be reversed to mimic the function of the original L- form; this method is called the retro-enantio approach. Several studies have shown increased BBB permeation using peptide resistant D-versions of BBB-shuttles. Another approach is to pinpoint the exact areas of a peptide sequence, which is prone to degradation and to substitute this amino acid with the D- version.
+
+BBB-Shuttle Binding and Release
+
+BBB-shuttles must be able to bind to their receptors to allow trafficking. However, it must also be noted that the affinity of the peptide to the receptors must also be considered. It would not be desirable to have a peptide that can bind with such a high affinity to a desired receptor that it could no longer be released. This has been shown by studies with high affinity antibodies to target the BBB. They found by lowering the binding affinity, the antibodies were able to escape lysosomal degradation and enter the parenchyma.
+
+Clark et al. (2015) designed an acid cleavable linker between a high affinity transferrin receptor ligand and a gold nanoparticle. This cleavable linker resulted in a significant increase of gold nanoparticles being found within the mice parenchyma. They concluded that targeting with high affinity comes at a cost. The high binding strength between ligand and receptor can prevent further penetration into the tissue, in turn leading to degradation of the construct by lysosomal sorting.
+
+BRAIN DELIVERY OF nanoparticles WITH BBB-shuttles
+
+BBB-shuttles can cross the parenchyma of the brain; however, directly attaching therapeutics onto the BBB-shuttle in a 1:1 ratio can drastically limit the potential potency of the drug and the shuttle combination. Using nanoparticles decorated with BBB-shuttles and containing various copies of the therapeutic cargos, we can increase the potency of both. An exhaustive analysis of the current examples of BBB-shuttle modified NPs is depicted in Table 1, where the main characteristics of the NP system and evaluation of the BBB-shuttle properties have been described. The majority of studies discussed within this review compare modified and unmodified nano- submicroparticles showing a clear benefit when decorated with BBB-Shuttles. However, the impact of size has not been studied systematically in relation to BBB-shuttles and their corresponding uptake/transport efficiencies.
+
+Gold
+
+Gold Nanoparticles (AuNPs) have been extensively used for drug delivery for in vitro and in vivo studies. This is due to their many desirable qualities. It can be tailored to many different sizes very easily, with multifunctional moieties using thiol bonds. PEGylated AuNPs are highly stable in vivo, and have been shown to be very biocompatible. As a delivery system, AuNPs have been studied extensively with many studies discussing the role of stabilization and release kinetics. In the field of BBB-shuttles, AuNPs have been used in several studies (Table 1). One of the first studies to combine gold nanoparticles with a specifically designed amphiphilic peptide to improve uptake into the brain was performed by Guerrero et al. (2010) (Table 1). Comparing AuNPs conjugated to the peptide LPFFD with unlabelled AuNPs, the authors demonstrated that the peptide conjugates improved the delivery to the brain by four-fold. However, AuNPs are still beset with a number of issues, there mechanism of clearance from the brain is still unknown and the long term effects of AuNPs on the brain have yet to be elucidated.
+
+Iron-Based Nanoparticles
+
+Superparamagnetic iron oxide nanoparticles (SPIONs) require more complex chemistry to provide stable nanoparticles, but do offer some excellent advantages over gold nanoparticles. Their magnetic properties can be used to target to specific region under a magnetic field. Using T1 and T2 relaxivity properties in MRI, it is possible to view highly defined regions in real time of nanoparticle uptake. Many reports have shown the biocompatibility and low toxicity of SPIONS, over short-term experiments. However, it has not been fully elucidated as to the long-term impact of SPIONs in the body under repeated doses and how the NPs are cleared from tissue. A study by Engberink et al. (2010) put forward a possible clearance mechanism of iron oxide nanoparticles by cervical lymph nodes after passing the BBB into the brain.
+
+Some reports have shown that high SPION concentrations increase the Reactive Oxygen Species (ROS) that can be found in tissues with SPIONs inside, inducing possible mutagenic effects. An increase in Alzheimer’s like aggregates and neurodegeneration has also been associated with SPIONS. Despite this, promising results have shown that SPIONs, can be functionalised with shuttles and cargo and are able to effectively and efficiently cross the BBB (Table 1).
+
+Polymer-Based Nanoparticles
+
+Polymer-based nanoparticles offer the most US Food and Drug Administration (FDA) and European Medicines Agency (EMA) friendly route to the clinic. The polymers themselves can be broken down into harmless by-products, circumventing some of the clearance issues associated with inorganic nanoparticles. Poly(ethylene glycol) (PEG) poly(glycolic acid) (PGA), poly(lactic acid) (PLA) and Poly(lactic-co-glycolic acid) (PLGA), have been approved by the FDA and EMA for certain medical applications. PLGA has been the most studied and successful polymer for drug delivery. It is highly biocompatible and its by-products can be used within the bodies Krebs cycle. The problems arising from polymer based nanoparticles, is size, drug loading, stability and leakage. It is much more difficult to produce nanoparticles within a small distribution; with many formulations existing over a large range. It has been shown that, polymer based nanoparticles can leak out their cargo or spontaneously burst. This has major implications for their long-term stability and use in the clinic. Some polymers, such as PEI, have been used to electrostatically maintain cargos within PLGA polymer-based nanoparticles. PEI can stabilize encapsulated cargo, and allow for higher loading. These advantageous properties are offset by PEI’s cytotoxicity. Furthermore at present, PEI is not FDA or EMA approved. In 2012, the EMA granted an “orphan designation” to allow clinical trials of a construct combining DOX-PEI-siRNA against claudin 5 to treat glioma. In 2017 however, the product was withdrawn, with no clinical trials taking place. Others have combined PLGA with PEG to stabilize the nanoparticles and increase the clearance time in vivo (Table 1).
+
+Liposomal Nanoparticles
+
+Liposomal nanoparticles have been trialled for many years and were among the first theranostics developed. Some formulations have even progressed into the clinic. In 2013, a GSH labelled liposome containing doxorubicin reached phase II clinical trials (ClinicaTrials.gov identifier: NCT01818713). Liposomes have some excellent physicochemical characteristics, being able to incorporate a vast array of lipophilic, hydrophilic or hydrophobic moieties. Several groups have combined liposomal technology with BBB-shuttles to target the brain and release various therapeutics. Recently, Chen et al (2017) proposed a dual BBB-shuttle labelled liposome approach to cross the BBB. They found that the cyclic RGD peptide with the BBB-shuttle peptide-22 could significantly cross the BBB and localize to glioma cells (Table 1). However, not all liposomes are created equally and the starting material considered is highly important for drug release and stability. A recent report by Hu et al. (2017) showed that egg-yolk phosphatidylcholine (EYPC) shuttled significantly higher levels of the drug MTX into the brain via the BBB using GSH. In comparison, a hydrogenated soy phosphatidylcholine (HSPC) displayed poorer permeation into the parenchyma. Confirming once again the importance of the starting material.
+
+Despite promising advances into the clinic, liposomes still have some issues with targeting. As highly cationic liposomes tend to accumulate in peripheral organs. Targeting could be vastly improved in clinical studies by combining the encapsulation efficiency of liposomes and the targeting of peptide based shuttles across the BBB. In vivo studies by Ying et al. (2016) and Song et al. (2016) combined BBB-shuttles and liposomes to increase transport. Both studies reported increased targeting of liposomes into the brain.
+
+Nano-, submicro-, microparticles
+
+As mentioned previously, the field of particle science is diverse. With thousands of articles being published year after year, the field has become highly divergent in vocabulary; accelerating a growth in confusion and contradictions. In 2008 and later in 2015, the International Standards Organization (ISO) aimed to bring an ordered and unified set of definitions to describe nanoscale materials and indeed to even define the “nanoscale”. The ISO issued guidelines defining a nanoparticle as an object with 3 dimensions below 100 nm (Fig. 5). They deemed under 100 nm to be the most appropriate cut off for nanoparticles, as it is within this range that most of the special properties characterized by being “nano” are exhibited. However, the field has been very relaxed to stick within the confines of this definition, with many papers reporting “nanoparticles” with sizes above 100 nm for years. Building upon the ISO “nano” definition, any particle therefore with any of the 3 dimensions greater than 100 nm and below 1000 nm should therefore be classed as a submicroparticle (SMP). It is within these confines that we can truly grasp the complexity and variability within the field.
+
+Nanoconstructs and Submicroconstructs
+
+With this in mind, it is still difficult in global terms to talk definitively about engineered nanoparticles. For example when discussing the size of a 50 nm iron oxide nanoparticle, does this size refer to the core or the hydrodynamic radius? Are we discussing an unmodified or modified nanoparticle? From the current definitions, it would not be incorrect to talk about a 50 nm nanoparticle core as a nanoparticle, yet in global terms the functionalization of the nanoparticle with additional moieties (such as PEG) could produce a particle with a hydrodynamic diameter larger than 100 nm. In this scenario, the engineered “nanoparticle” exceeds the nanoparticle definition. We propose using the term constructs to encompass the global size of engineered particles. In the case of our previous example, the iron oxide functionalised with PEG should be considered as a submicroconstruct (SMC), as it no longer falls within the nanoscale limit as defined by the ISO. Extension engineered particles less than 100 nm should be referred to as nanoconstructs (NC). We believe the practicalities of using this form of terminology adds clarity of expression and more precision to the field.
+
+Future works and current limitations
+
+At present, the combination of nanoparticles and peptides arriving to the clinic is extremely limited. Of note, is a formulation by the company 2-BBB Medicines. Using liposomes with a GSH peptide and a therapeutic cargo of doxorubicin, they aim to target metastatic cancer within the brain. This formulation has successfully progressed to phase II clinical trials, being the only nanoparticle modified with BBB-shuttles to do so (Integrity database: 698269).
+
+However, the arrival to the clinic of these nanoconstructs does not hide the fact that at present our understanding of the clearance mechanisms of nanoparticles from tissues requires greater levels of research. Additionally, the long-term effects of these nanoconstructs is unknown, and will require many more years of observation and research before their long-term effects can be fully understood. Finally, the toxicity of the nanoconstructs to the environment is another area where our knowledge and research is at best sparse. Nevertheless, the direction of therapeutic research is heading towards the combination of novel nanomaterials with targeting moieties.
+
+Conclusion
+
+The rapid convergence and expansion of both the peptide shuttles field and the nanoparticle field have furthered our basic understanding of disease and offer huge potential to combine transport with therapies. However, this rapid pace has posed many challenges. Firstly terminology, although at first glance a trivial matter, has huge implications on whether a new therapeutic needs to undergo more or less stringent regulatory assessments. Secondly, although hugely promising objects for theranostics applications, nanoconstructs (1-100 nm) must be carefully and stringently assessed for toxicity and stability. Many studies still have to be carried out to fully assess the long-term effects and clearance mechanisms. These hurdles are not insurmountable but will slow down translation from the bench to the bedside. Thirdly, peptides offer the most exciting avenue to target towards cells of interest and cross biological barriers. However, they too have to be assessed for toxicity, and potential off-target effects. For example, peptides that are able to cross the BBB may also potentiate other as of yet undiscovered factors, producing off-target effects. On the contrary, combining the fantastic targeting properties of peptides and the diverse applications of nanoparticles, the next decade offers fantastic opportunities to target, treat and terminate the worst ailments of humanity.
+
+List of abbreviations
+
+BBB
+
+Blood-brain Barrier
+
+NP
+
+Nanoparticle
+
+SMP
+
+Submicroparticle
+
+NC
+
+Nanoconstruct
+
+SMC
+
+Submicroconstruct
+
+AuNP
+
+Gold Nanoparticle
+
+SPION
+
+Superparamagnetic Iron Oxide Nanoparticles
+
+Consent for Publication
+
+Not applicable.
+
+Conflict of Interest
+
+The authors declare no conflict of interest, financial or otherwise.
+
+REFERENCES
+
+A morphometric study on the development of the lateral ventricle choroid plexus, choroid plexus capillaries and ventricular ependyma in the rat.
+
+Overcoming the blood–brain tumor barrier for effective glioblastoma treatment.
+
+Strategies to Improve Drug Delivery Across the Blood-Brain Barrier.
+
+Drug transporters on arachnoid barrier cells contribute to the blood-cerebrospinal fluid barrier.
+
+In vitro screening of nanomedicines through the blood brain barrier: A critical review.
+
+Brain delivery of insulin boosted by intranasal coadministration with cell-penetrating peptides.
+
+Nasal mucociliary clearance as a factor in nasal drug delivery.
+
+Nanoparticle transport across in vitro olfactory cell monolayers.
+
+Electrical resistance of brain microvascular endothelium.
+
+Anatomy and physiology of the blood-brain barrier.
+
+Drug delivery across the blood–brain barrier: why is it difficult? how to measure and improve it?
+
+Restoring Blood-Brain Barrier P-Glycoprotein Reduces Brain Amyloid- in a Mouse Model of Alzheimer’s Disease.
+
+Central role for PICALM in amyloid-β blood-brain barrier transcytosis and clearance.
+
+Involvement of the low-density lipoprotein receptor-related protein in the transcytosis of the brain delivery vector Angiopep-2.
+
+Transcriptional profiles of receptors and transporters involved in brain cholesterol homeostasis at the blood-brain barrier: use of an in vitro model.
+
+New Angiopep-Modified Doxorubicin (ANG1007) and Etoposide (ANG1009) Chemotherapeutics With Increased Brain Penetration.
+
+Antitumour activity of ANG1005, a conjugate between paclitaxel and the new brain delivery vector Angiopep-2.
+
+Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle.
+
+Transferrin receptor on endothelium of brain capillaries.
+
+Transport of nanoparticles through the blood–brain barrier for imaging and therapeutic applications.
+
+N-Methyl Phenylalanine-Rich peptides as highly versatile blood-brain barrier shuttles.
+
+Improving the brain delivery of gold nanoparticles by conjugation with an amphipathic peptide.
+
+Synergistic dual-ligand doxorubicin liposomes improve targeting and therapeutic efficacy of brain glioma in animals.
+
+Brain tumor-targeted therapy by systemic delivery of siRNA with Transferrin receptor-mediated core-shell nanoparticles.
+
+Glutathione-sensitive RGD-Poly(ethylene glycol)-SS-Polyethylenimine for intracranial glioblastoma targeted gene delivery.
+
+Epidemiology of brain metastases.
+
+From venoms to BBB shuttles: Synthesis and blood-brain barrier transport assessment of apamin and a nontoxic analog.
+
+Overcoming the challenges in administering biopharmaceuticals: formulation and delivery strategies.
+
+Drug Targeting to the Brain.
+
+Current approaches to enhance CNS delivery of drugs across the brain barriers.
+
+Strategy for effective brain drug delivery.
+
+Diketopiperazines as a tool for the study of transport across the blood-brain barrier (BBB) and their potential use as BBB-shuttles.
+
+Toward an optimal blood - brain barrier shuttle by synthesis and evaluation of peptide.
+
+Jumping hurdles: peptides able to overcome biological barriers.
+
+Blood-brain barrier shuttle peptides: An emerging paradigm for brain delivery.
+
+A gateway to the brain: Shuttles for brain delivery of macromolecules.
+
+Blood–brain barrier peptide shuttles.
+
+Bivalent Brain Shuttle Increases Antibody Uptake by Monovalent Binding to the Transferrin Receptor.
+
+Strategies to overcome the barrier: Use of nanoparticles as carriers and modulators of barrier properties.
+
+Novel functionalization strategies of polymeric nanoparticles as carriers for brain medications.
+
+Peptide-derivatized biodegradable nanoparticles able to cross the blood-brain barrier.
+
+Shuttle-Mediated Nanoparticle Delivery to the Blood-Brain Barrier.
+
+Potential peptide carriers: Amphipathic proline-rich peptides derived from the N-terminal domain of γ-zein.
+
+Amphipathic peptides and drug delivery.
+
+Proline-rich, amphipathic cell-penetrating peptides.
+
+Cell penetration by transportan.
+
+Cell-Penetrating Peptides Selectively Cross the Blood-Brain Barrier In Vivo.
+
+Functionalization with ApoE-derived peptides enhances the interaction with brain capillary endothelial cells of nanoliposomes binding amyloid-beta peptide.
+
+Uptake mechanism of ApoE-modified nanoparticles on brain capillary endothelial cells as a blood-brain barrier model.
+
+Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics.
+
+The labile iron pool: characterization, measurement, and participation in cellular processes.
+
+CPPpred: prediction of cell penetrating peptides.
+
+MiniAp-4: A Venom-Inspired Peptidomimetic for Brain Delivery.
+
+Revisiting N-to-O acyl shift for synthesis of natural product-like cyclic depsipeptides.
+
+Nanofiber-Based Delivery of Therapeutic Peptides to the Brain.
+
+Comparison of linear and cyclic His-Ala-Val peptides in modulating the blood-brain barrier permeability: Impact on delivery of molecules to the brain.
+
+Chemical optimization of new ligands of the low-density lipoprotein receptor as potential vectors for central nervous system targeting.
+
+Systemic combinatorial peptide selection yields a non-canonical iron-mimicry mechanism for targeting tumors in a mouse model of human glioblastoma.
+
+Strategic approaches to optimizing peptide ADME properties.
+
+all-D proline-rich cell-penetrating peptides: A preliminary in vivo internalization study.
+
+D-SAP: A New, Noncytotoxic, and Fully Protease Resistant Cell-Penetrating Peptide.
+
+Applying the retro-enantio approach to obtain a peptide capable of overcoming the blood-brain barrier.
+
+Retro-inverso isomer of angiopep-2: A stable d -peptide ligand inspires brain-targeted drug delivery.
+
+Boosting Brain Uptake of a Therapeutic Antibody by Reducing Its Affinity for a Transcytosis Target.
+
+Restricted transport of anti-transferrin receptor antibody (OX26) through the blood-brain barrier in the rat.
+
+Increased brain uptake of targeted nanoparticles by adding an acid-cleavable linkage between transferrin and the nanoparticle core.
+
+Co-delivery of doxorubicin and siRNA for glioma therapy by a brain targeting system: angiopep-2-modified poly(lactic-co-glycolic acid) nanoparticles.
+
+Preparation of Angiopep-2 Peptide-Modified Bubble Liposomes for Delivery to the Brain.
+
+Fluorescent Carbonaceous Nanodots for Noninvasive Glioma Imaging after Angiopep-2 Decoration.
+
+Biomaterials Tumor microenvironment sensitive doxorubicin delivery and release to glioma using angiopep-2 decorated gold nanoparticles.
+
+Peptide multifunctionalized gold nanorods decrease toxicity of β-amyloid peptide in a Caenorhabditis elegans model of Alzheimer’s disease.
+
+Retro-Inverso Isomer of Angiopep-2: A Stable <scp>d</scp> -Peptide Ligand Inspires Brain-Targeted Drug Delivery.
+
+Functionalization with ApoE-derived peptides enhances the interaction with brain capillary endothelial cells of nanoliposomes binding amyloid-beta peptide.
+
+Novel functionalization strategies of polymeric nanoparticles as carriers for brain medications.
+
+B6 Peptide-modified PEG-PLA nanoparticles for enhanced brain delivery of neuroprotective peptide.
+
+Sialic acid (SA)-modified selenium nanoparticles coated with a high blood–brain barrier permeability peptide-B6 peptide for potential use in Alzheimer’s disease.
+
+Cyclic RGD-linked polymeric micelles for targeted delivery of platinum anticancer drugs to glioblastoma through the blood-brain tumor barrier.
+
+Micelle-based brain-targeted drug delivery enabled by a nicotine acetylcholine receptor ligand.
+
+A D-peptide ligand of nicotine acetylcholine receptors for brain-targeted drug delivery.
+
+68 Ga-labeled gold glyconanoparticles for exploring blood–brain barrier permeability: Preparation, biodistribution studies, and improved brain uptake via neuropeptide conjugation.
+
+Crossing the blood-brain barrier: Glutathione-conjugated poly(ethylene imine) for gene delivery.
+
+MiniAp-4: A venom-inspired peptidomimetic for brain delivery.
+
+Penetratin peptide-functionalized gold nanostars: Enhanced BBB permeability and NIR photothermal treatment of alzheimer’s disease using ultralow irradiance.
+
+A new strategy for specific imaging of neural cells based on peptide-conjugated gold nanoclusters.
+
+Il, Kim YH, Tae G. Brain-targeted delivery of protein using chitosan- and RVG peptide-conjugated, pluronic-based nano-carrier.
+
+Targeted drug delivery to ischemic stroke via chlorotoxin-anchored, lexiscan-loaded nanoparticles. Nanomedicine Nanotechnology.
+
+Dual-targeting magnetic PLGA nanoparticles for codelivery of paclitaxel and curcumin for brain tumor therapy.
+
+T7 Peptide-functionalized PEG-PLGA micelles loaded with carmustine for targeting therapy of glioma.
+
+Dual functional peptide-driven nanoparticles for highly efficient glioma-targeting and drug codelivery.
+
+Enhanced anti-ischemic stroke of ZL006 by T7-conjugated PEGylated liposomes drug delivery system.
+
+Functionalization with TAT-peptide enhances blood-brain barrier crossing in vitro of nanoliposomes carrying a curcumin-derivative to bind amyloid-B peptide.
+
+Passage of magnetic tat-conjugated Fe3O4@SiO2 nanoparticles across in vitro blood-brain barrier.
+
+Retro-inverso peptide inhibitor nanoparticles as potent inhibitors of aggregation of the Alzheimer’s Aβ peptide.
+
+Precise glioma targeting of and penetration by aptamer and peptide dual-functioned nanoparticles.
+
+Brain delivery of NAP with PEG-PLGA nanoparticles modified with phage display peptides.
+
+Dual-functional nanoparticles targeting amyloid plaques in the brains of Alzheimer’s disease mice.
+
+Delivery of gold nanoparticles to the brain by conjugation with a peptide that recognizes the transferrin receptor.
+
+Peptide-22 and cyclic RGD functionalized liposomes for glioma targeting drug delivery overcoming BBB and BBTB.
+
+Abbreviated nomenclature for cyclic and branched homo- and hetero-detic peptides.
+
+A gold nanoparticle platform for the delivery of functional microRNAs into cancer cells.
+
+Modulation of biological processes in the nucleus by delivery of DNA oligonucleotides conjugated with gold nanoparticles.
+
+High efficacy gold-KDEL peptide-siRNA nanoconstruct-mediated transfection in C2C12 myoblasts and myotubes.
+
+Enhanced gene delivery and siRNA silencing by gold nanoparticles coated with charge-reversal polyelectrolyte.
+
+Gold nanoparticles as multimodality imaging agents for brain gliomas.
+
+Design of multifunctional gold nanoparticles for in vitro and in vivo gene silencing.
+
+Nanoparticle-mediated drug delivery to high-grade gliomas. Nanomedicine Nanotechnology.
+
+Peptides and proteins used to enhance gold nanoparticle delivery to the brain: preclinical approaches.
+
+Nanoparticle-mediated local and remote manipulation of protein aggregation.
+
+How changes in the sequence of the peptide CLPFFD-NH2Can modify the conjugation and stability of gold nanoparticles and their affinity for β-amyloid fibrils.
+
+Gold nanoparticles and microwave irradiation inhibit beta-amyloid amyloidogenesis.
+
+Shuttling gold nanoparticles into tumoral cells with an amphipathic proline-rich peptide.
+
+Significance of the balance between intracellular glutathione and polyethylene glycol for successful release of small interfering RNA from gold nanoparticles.
+
+Rational design of a transferrin-binding peptide sequence tailored to targeted nanoparticle internalization.
+
+Biomaterials Anti-glioblastoma efficacy and safety of paclitaxel-loading Angiopep-conjugated dual targeting PEG-PCL nanoparticles.
+
+Biomaterials A brain-targeted rabies virus glycoprotein-disul fi de linked PEI nanocarrier for delivery of neurogenic microRNA.
+
+Angiopep-2 modified PE-PEG based polymeric micelles for amphotericin B delivery targeted to the brain.
+
+Blood-Brain Barrier Permeable Gold Nanoparticles: An Efficient Delivery Platform for Enhanced Malignant Glioma Therapy Imaging.
+
+Nanoparticle-mediated brain drug delivery: Overcoming blood–brain barrier to treat neurodegenerative diseases.
+
+Improving gold nanorod delivery to the central nervous system by conjugation to the shuttle Angiopep-2.
+
+Toward a general physiologically-based pharmacokinetic model for intravenously injected nanoparticles.
+
+Nanoparticles and the brain: cause for concern?
+
+Dynamics and fate of USPIO in the central nervous system in experimental autoimmune encephalomyelitis.
+
+Mutagenic effects of Iron oxide nanoparticles on biological cells.
+
+Nanoparticle iron chelators: A new therapeutic approach in Alzheimer disease and other neurologic disorders associated with trace metal imbalance.
+
+Biodegradable polymeric nanoparticles based drug delivery systems.
+
+PLGA-based nanoparticles: An overview of biomedical applications.
+
+Insulin-loaded biodegradable PLGA microcapsules: Initial burst release controlled by hydrophilic additives.
+
+Analysis of initial burst in PLGA microparticles.
+
+Enhanced BBB permeability of osmotically active poly(mannitol-co-PEI) modified with rabies virus glycoprotein via selective stimulation of caveolar endocytosis for RNAi therapeutics in Alzheimer’s disease.
+
+Potential use of polymeric nanoparticles for drug delivery across the blood-brain barrier.
+
+Brain-targeted co-delivery of therapeutic gene and peptide by multifunctional nanoparticles in Alzheimer’s disease mice.
+
+Nanoparticles and the blood-brain barrier: Advancing from in-vitro models towards therapeutic significance.
+
+Getting into the brain: liposome-based strategies for effective drug delivery across the blood-brain barrier.
+
+Enhanced blood–brain barrier transmigration using a novel transferrin embedded fluorescent magneto-liposome nanoformulation.
+
+Masking and triggered unmasking of targeting ligands on nanocarriers to improve drug delivery to brain tumors.
+
+Brain drug delivery of small molecules using immunoliposomes.
+
+Drug transport to brain with targeted liposomes.
+
+Targeting anticancer drugs to tumor vasculature using cationic liposomes.
+
+Cationic liposomes as non-viral carriers of gene medicines: resolved issues, open questions, and future promises.
+
+Liposome-based systemic glioma-targeted drug delivery enabled by All-D peptides.
+
+Biomimetic ApoE-reconstituted high density lipoprotein nanocarrier for blood-brain barrier penetration and amyloid beta-targeting drug delivery.
+
+Biomimetic ApoE-reconstituted high density lipoprotein nanocarrier for blood-brain barrier penetration and amyloid beta-targeting drug delivery.
+
+Detailing the different barriers to the brain. A) The Arachnoid barrier, showing efflux pump transporters and endothelial cells. B) The blood-brain barrier is composed of the neurovascular unit (endothelial, pericytes and astrocytes cells with a basement membrane lining). C) The CSF barrier is composed of epithelial and endothelial cells.
+
+Diagram describing various models of uptake of material for BBB endothelial cells. Detailing clathrin-, caveolin- mediated endocytosis and clathrin/caveolin independent mechanisms. The difference between CPPs and BBB-Shuttles is shown with CPPs being exocytosed to the lumen whilst BBB-Shuttles are transcytosed.
+
+Comparing the rate of influx from the blood to the brain and efflux from the brain to the blood of several CPPs. Image reproduced with permission.
+
+Comparing the properties of CPPs and BBB-Shuttles.
+
+ISO definition of nanoparticles, nanowires and nanoplates.
+
+Features of selected BBB-shuttle modified NPs.
+
+BBB- Shuttle	Target	Sequence	NP Composition	Therapeutic Moiety	Size (nm)a	In vitro Evaluationb	In vivo Evaluationc	Ref.	 							Uptake	Toxicity	Biodistribution	Therapeutic Impactd		 	Ang-2	LDR 1	TFFYGGSRGKRNNFKTEEY	PLGA/chitosan	siRNA (EGFR)Doxorubicin	190	•	•	•	•		 	PEG-Liposomes	Perfluoro-propane gas	144 (LP)525 (BL)	•	-	•	-		 	AuNP-PEG	Doxorubicin	39.9		•	•	•		 	AuNRs-PEG	D1 peptidee	11x97	•	•	•	•f		 	Yeetkfnnrkgrsggyfft	PEG-Liposomes	Coumarin and DiR	12-16	•	•	•	•		 	ApoE (141-150)	LDLR	(LRKLRKRLLR)(LRKLRKRLLR)2	Nanoliposomes	Phosphatidicacid orcardiolipin	136146	•	•	-	-		 	LRKLRKRLLROr L-PGDS	PLGA	-	220	•	•	•	-		 	B6	hTrR	CGHKAKGPRK	PEG-PLA	NeuroprotectivePeptide (NAP)	120	•	•	•	•g		 	SeNP	Sialic acid e	95	•	•	-	-		 	Cyclic-RGD	Integrin R	&RGDfK&h	PEG-PolyQ	DACHPt	28-31	-	•	-	•		 	CDX	nAchR	FKESWREARGTRIERG	mPEG–PLA micelles	DiR/PTX	39	•	-	•	•		 	DCDX	nAchR	GreirtGraerwsekf-OH	HSPC/cholesterol/mPEG2000-DSPE	DiR/Dox	50-200 nm	•	-	•	•		 	EnkGly-copep	Opioid receptor	YGGFLGGYTGFLS-O-beta-glucoside	AuNP	NOTA-Gd	2-3 i	-	-	•	-		 	g7	Unknown	GFtGFLS-(monosaccharide) (derived from opioid family)	PLGA-RG503H	-	162-212 j	-	-	•	-		 	gH625	Unknown	Ac-HGLASTLTRWAHYNALIRAFGGG-COOH	orange fluorescent amine-modified polystyrene	-	96	•	•	-	-		 	Gluthatione	Mrp/Abcc	GSH	PEI	DNA	117	•	•	-	-		 	LPFFD	RAGE?	LPFFD	AuNP	-	13	•	-	•	-		 	MiniAp-4	Unknown	Dap(&)KAPETALD(&)	Qdots, AuNP	-	10-15 (QDs),j 12 nm (AuNP) i	•	-	•	-		 	Penetratin	CPP	RQIKIWFQNRRMKWKK	PEG-AuNanostars	Ru	105	•	•	•	-		 	BBB- Shuttle	Target	Sequence	NP Composition	Therapeutic Moiety	Size (nm)a	In vitro Evaluationb	In vivo Evaluationc	Ref.	 							Uptake	Toxicity	Biodistribution	Therapeutic Impactd		 	RDP peptide	nAchR	KSVRTWNEIIPSKGCLRVGGRCHPHVNGGGRRRRRRRRR	BSA covered AuNanoclusters	-	10 nm	•	•	•			 	RVG29	nAchR	YTWMPENPRPGTPCDIFTNSRGKRASNGGGGGGC	Pluronic and chitosan	β-galactoside	142-162 (25oC)52-65 (37oC)	-	-	-	•		 	CTX	MMP-2, Annexin A, Cl-channels	MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR	PLGA-PLL NP	NEP1-40(IR780)	150 nm	-	-	•	•		 	T7-HAI	TfR	HAIYPRH	MNP coencapsulated in PLGA	Paclitaxel andcurcumin	130	•	•	-	•		 	HAIYPRH	Micelle PEG-PLGA	Carmustine	83	•	•	-	•		 	C-HAIYPRH	DGL-PEG	siRNADox	143	•	-	-	•		 	HAIYPRH	PEG-liposome	ZL006	73-74	•	•	-	• k		 	TAT	AME	GRKKRRQRRRPPQGWC	liposome	Curcumin derivative	196	•	•	-	-		 	YGRKKRRQRRR	SiO2@Fe3O2	Fe3O2	87	•	•	-	-		 	TATre	AME	rrrqrrkkrGy	Nanoliposomes	OR2 (anti aβaggregationpeptide)	140	•	•	•	• l		 	TGN	Unknown	TGNYKALHPHNG	PEG-PCL	Docetaxel and AS1411 aptamer,	150-170	•	-	•	•		 	TGNYKALHPHNG	PEG-PLGA NPs	NAP (peptide)	151	-	-	• g	• l		 	TGNYKALHPHNG	PEG-PLA	QSH (anti abaggregation peptide)	96-111	•	•	• g	-		 	THR	TfR	THRPPMWSPVWP	AuNP-LPFFD	LPFFD (anti abaggregation peptide	12	•	•	•	-		 	THRre	TfR	pwvpswmpprht	AuNPQDots	QDots	10-15 (QDs),h 12 nm (AuNP) h	•	•	-	-		 	Peptide-22	LDLR	c(&)MPRLRGC(&)	DSPE-PEG3400	c(RGDfK)+DOX	100-125	•	•	•	•
+
+aSize as means of hydrodynamic diameter, measured by DLS; bEndocytosis or transcytosis experiments in endothelial cell lines cIn vivo mice models otherwise noticed; dAntiglioma effect otherwise noticed; einhibits Aβ aggregation ; fAD model of C. elegants; g AD mice model; h & denotes cyclised peptides, nomenclature adapted from Spengler et al. (2005); isize is determined by TEM; jsize is determined by SEM; kIschemia rat model; lCognitive test;

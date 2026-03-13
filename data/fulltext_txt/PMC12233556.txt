@@ -1,0 +1,925 @@
+The blood–brain barrier: a help and a hindrance
+
+Abstract
+
+The blood–brain barrier (BBB) is a specialized vascular structure that protects the brain micro-environment from toxins and pathogens in the blood. At the same time, the BBB presents a significant challenge for drug development, as it restricts the entry of most therapeutics into the brain. In this review, we first examine recent findings on the molecular and cellular architecture of the BBB, emphasizing the diverse mechanisms that facilitate the transport and exchange of molecules between the blood and the brain.
+
+We discuss current knowledge on the heterogeneity of the BBB along the arteriovenous axis and across different brain regions. Then, we explore the molecular and functional changes in the BBB that occur during normal ageing, neurodegeneration and acute brain injuries, and how prolonged BBB impairment affects transport mechanisms and disease progression. Additionally, we discuss novel developments in drug delivery strategies to transport small molecules, biologicals or cellular therapeutics across the BBB. Finally, we examine therapeutic opportunities to restore the BBB and discuss future directions in the field.
+
+The blood–brain barrier helps protect the brain, but also hinders drug delivery. Rust et al. examine its molecular and cellular architecture, highlighting regional differences and changes with ageing, neurodegeneration and injury. They discuss how its prolonged disruption can accelerate disease progression, and review emerging drug delivery strategies.
+
+Introduction
+
+Human blood vessels form an extensive hierarchical network of 60 000 miles (100 000 km), circulating 1800 gallons (7000 l) of blood daily from the heart to all tissues and organs throughout the body. This vascular network is required for delivering oxygen and nutrients, removing carbon dioxide and metabolic waste products facilitating hormonal communication among tissues and supporting immune system interactions. The vascular system comprises specialized blood vessels: large arteries and arterioles, which deliver blood from the heart to our body, the capillary bed, a network of small blood vessels important for gas and nutrient exchange; and venules and veins, which return blood to the heart. Particularly, the microvasculature, made up of the capillaries, is finely adapted to meet the specific metabolic requirements of the different tissues it supplies. The vascular system is also specialized for the organ-specific removal of waste products and immune surveillance.
+
+The human brain is one of the most metabolically active organs. Even though it comprises only 2% of the entire body weight, the brain receives 20% of the cardiac output and accounts for up to 20% of total oxygen and total glucose consumption. Neurons alone can consume up to 80% of the energy utilized by the brain. To meet these high metabolic demands, the human brain is supplied with an extensive vascular system that spans 400 miles (644 km) of specialized blood vessels. When cerebral blood flow stops, brain functions end within seconds and damage to neurons occurs within minutes. Blockage of a large artery in the brain results in an average loss of 1.9 million neurons and 13.8 billion synapses. Remarkably, it has been estimated that almost every single one of the 86 billion neurons in the human brain is served by its own capillary that is no further than 25 µm away, which allows tight regulation of cerebral blood flow, but also the precise exchange of ions, molecules and cells between the blood and the brain.
+
+To achieve such precise regulation, specialized endothelial cells (EC) that make up capillaries are connected by tight junctions to form the blood–brain barrier (BBB). The BBB is a specialized membrane within the brain's microvasculature that is established during embryonic and postnatal development by extrinsic cues provided by the perivascular environment and intrinsic EC regulation mediated by homeobox transcription factors. The EC in the brain are embedded in a microenvironment that includes perivascular cells, such as astrocytes, pericytes and perivascular fibroblasts, neurons and microglia, and together form a highly coordinated functional neurovascular unit to maintain brain function and homeostasis. Apart from limiting the entrance of most blood-derived molecules, the BBB also poses a significant barrier to drug delivery to the brain. More than 98% of small molecule and 100% of large molecule therapeutics cannot cross the BBB, contributing to challenges in CNS drug development.
+
+Recent estimates suggest that three billion people worldwide (over 1 in 3 people) are affected by neurological conditions, with only limited treatment options. Even approved therapeutics, such as anti-amyloid-β (Aβ) antibodies for Alzheimer's disease (AD) like aducanumab and lecanemab, administered via intravenous infusion, exhibit limited permeability through the BBB. It is estimated that <0.1% of the injected antibody dose reaches the brain. The ability of the antibodies to reach therapeutically effective levels is only possible due to regular repetitive infusions at relatively high dose, such as 10 mg/kg, as shown for example with aducanumab. Additionally, BBB breakdown and prolonged BBB permeability have been identified as key biomarkers indicative of adverse outcome in various neurological injuries and neurodegeneration.
+
+With recent progress in molecular technologies including single-cell and spatially resolved transcriptomics, our understanding of both the physiological and pathological aspects of the BBB anatomy, structural and molecular composition and physiological functions has significantly deepened. The new knowledge unveils the heterogeneity of the BBB across different brain regions and how molecular changes may affect disease progression. These advancements hold promise to innovate drug delivery systems across the BBB and/or identify new targets that help restore BBB function after injury/disease.
+
+In this review, we first anatomically and molecularly define the BBB and the underlying mechanisms of BBB transport under physiological conditions. We then explore changes and dysfunction of the BBB associated with normal ageing, neurodegeneration and acute brain injuries. We discuss recent findings from single cell and spatially resolved RNA sequencing studies of the damaged BBB and their relevance in developing systems to shuttle therapeutics to the brain. Last, we discuss development of new BBB-targeted therapeutics and their relevance to disease progression and outcomes.
+
+Anatomy, molecular composition and physiology of the BBB
+
+Structural and molecular composition of the BBB
+
+The structure and function of the BBB were first identified using physiological experiments and anatomical studies. More recent developments in single-cell and spatially-resolved RNA sequencing technologies, together with vessel-enrichment protocols, allow us to also molecularly decode brain vasculature and vessel-associated cells in mouse and humans. Mouse studies often take advantage of transgenic reporter mice with promoters expressed in the endothelium (e.g. Cldn5, Tie2, Vwf, Pecam1) and vessel-associated cells (e.g. Cspg4, Pdgfrb, Aldh1l1, Atp13a5), whereas human datasets are either obtained from single nuclei dissociated from post-mortem human tissue or single cells collected during brain surgery e.g. epilepsy or arteriovenous malformations. To enrich for the BBB-associated cells, several protocols have recently been developed that typically use a sucrose gradient and flow cytometry to efficiently remove myelin and enrich for non-neural cells. Among the most important cell types for BBB function are brain EC, mural cells (pericytes and smooth muscle cells) and astrocytes. Below we examine their unique features, molecular identity and overall role in the context of BBB transport and homeostasis (Fig. 1A and B).
+
+Anatomy and transport across the blood–brain barrier. (A) Arteriovenous zonation of the human brain vasculature, highlighted with canonical zonation markers. (B) Cross-section view of the anatomical blood–brain barrier (BBB) structure. (C) Various mechanisms of transport across the BBB between the blood and brain. In A, zonation markers were selected to maximize overlap between human and mouse vasculature. Markers for human vasculature were derived from Yang et al. and Garcia et al. and markers for mouse vasculature were derived from Kaluka et al. Please see text for details for species-specific differences. aEC = arterial endothelial cells; AQP1 = aquaporin 1; AQP4 = aquaporin 4; aSMC = arterial smooth muscle cells; BM = basement membrane; cEC = capillary endothelial cells; EC = endothelial cells; GLUT1 = glucose transporter 1; Na+/K+ ATPase = sodium-potassium pump; LRP1 = low-density lipoprotein receptor-related protein 1; PGP = P-glycoprotein; RAGE = receptor for advanced glycation end products; RMT = receptor-mediated transcytosis; SMC = smooth muscle cells; TJ = tight junctions; vEC = venule endothelial cells; vSMC = venule smooth muscle cells.
+
+Brain endothelial cells
+
+Brain EC considerably differ from peripheral EC in gene expression, morphology and function. Unlike peripheral EC, brain EC lack fenestration and are interconnected by tight and adherens junctions, which restricts paracellular diffusion. Tight junctions include occludins, claudins (claudin-1, claudin-3, claudin-4, claudin-5, claudin-12) and members of the membrane-associated guanylate kinase tight junction proteins (ZO-1, ZO-2 and ZO-3). Adherens junction proteins further enhance intercellular adhesion and consist of cadherins, catenins, PECAM-1 and junctional adhesion molecules (JAMs).
+
+EC of the BBB have a higher mitochondrial content than peripheral EC, necessary to maintain integrity and the high metabolic output of the BBB. Although gases can diffuse freely through the BBB, oxygen is primarily delivered to the mitochondria of brain cells through the capillary and arteriole network. The brain EC, together with other components of the neurovascular unit, can contribute to dynamically adjusting cerebral blood flow in response to the metabolic demand of the brain cells, in a process known as neurovascular coupling. Apart from regulation of the energy metabolism, neurovascular coupling is also important for neuroimmune trafficking, waste clearance, temperature regulation and hippocampal neurogenesis.
+
+In contrast to peripheral EC, brain EC have reduced expression of major cell trafficking cues (e.g. P-selectin protein, ACKR1) required for immune cell entry. Therefore, immune cell migration into the intact CNS is low and limited to activated T cells that do not depend on these trafficking cues. Importantly, under certain pathological conditions, such as inflammation or brain injuries, the expression of these molecules in brain EC can be upregulated, leading to immune cell infiltration.
+
+Recent molecular profiling of the BBB vasculature uncovered a phenotypic ‘zonation’ within the vascular cell types of the brain, revealing molecular and functional differences along the arteriovenous axis. For instance, transcription factors were found to be more prevalent in the arterial endothelium, whereas transporters predominated in the capillary and venous endothelium. All brain EC highly expressed gene sets associated with transmembrane transport, supporting the importance of regulated trafficking across the BBB.
+
+Interestingly, the zonation principle is conserved between mouse and human datasets but the specific zonated genes vary considerably, with only 10% showing conservation across species. Zonation markers of arterioles (e.g. VEGFC/Vegfc, BMX/Bmx, EFNB2/Efnb2) and capillaries (MFSD2A/Mfsd2a, TFRC/Tfrc, SLC7A5/Slc7A5) showed more similarity, whereas venule markers exhibit greater differences between mouse (Slc38a5) and humans (TSHZ2, LRRC1) (Fig. 1A and B).
+
+Pericytes
+
+Pericytes are mural cells that are embedded in the basement membrane of smaller blood vessels of the brain, including, primarily, capillaries but also pre-capillaries, arterioles and post-capillary venules, and cover ∼80% of the EC surface in the brain. All pericytes develop projections that grow along and enwrap the endothelium, but present with heterogenous morphologies that depend on their location in the vascular tree. Those closest to the arteriole vasculature have ensheathing and mesh-like morphologies encircling the underlying vessel, and tend to express higher levels of the contractile protein α-smooth muscle actin (SMA/ACTA2) than any other pericytes. In the capillary bed, this morphology gives way to more elongated string-like projections along the axis of the vessels, with pericyte nuclei protruding into the extracellular space like ‘bumps on a log’, and then to a more stellate shape with multiple projections spread across the underlying vessel towards the venular end of the vascular tree.
+
+Functionally, pericytes and EC interact via multiple signalling pathways including platelet-derived growth factor receptor-β (PDGFRβ)—PDGF-BB and vitronectin—integrin α5 receptor-ligand pairs, tight, adherens and gap junctions, and physical peg-socket structures between the two cell types. Through these interactions, pericytes play pivotal roles in maintaining BBB stability, regulation of angiogenesis, regulation of capillary blood flow, clearance of toxic metabolites and inflammatory responses in the adult brain (reviewed in detail elsewhere).
+
+Pericytes are characterized by expression of the key receptor PDGFRβ, the cell surface antigen CSPG4 (or NG2), and ANPEP (CD13), and also express contractile proteins, such as vitronectin, desmin and others, although these markers are not solely specific to pericytes. Recently, more pericyte-specific markers, such as Kcnj8, Abcc9 and Atp13a5 have been identified in mice. In contrast to the EC with gradual zonation along the arteriovenous axis, the mural cell population of smooth muscle cells and pericytes show a segregated molecular zonation pattern between the larger and smaller vessels, respectively, in mouse studies. While axial zonation in smooth muscle cells (e.g. arterial SMC: ACTA2 and MYH11; vascular SMC: MRC1 and CD74) has also been confirmed in human cell atlases, zonal distribution of pericytes was not consistently observed. For instance, one study clustered pericytes into transport (T)-pericytes (SLC20A2, SLC6A1 markers) and matrix (M)-pericytes (COL4A1, LAMA4 markers) mixed along the capillary and venous human brain vasculature, while other studies did not identify specific pericyte subpopulations. Thus it remains to be determined whether differences in pericyte morphology along the vascular tree reflect differences in pericyte transcriptomic expression, or if they are due to cues from the endothelium and/or other surrounding cells of the neurovascular unit imposing zonation on pericytes.
+
+Astrocytes
+
+Astrocytic end-feet, together with pericytes, extensively cover >99% of the cerebrovascular surface. Astrocytes express gap junction proteins, some of which are important to maintain BBB integrity, including CX30 and CX43. They facilitate communication between the vasculature, pericytes and neurons, thereby mediating neurovascular coupling to capillaries (but not to arterioles), participating in the regulation of blood flow and supporting aspects of the barrier's selective permeability. Although astrocytes are not directly involved in the physical barrier, they play an important role in the formation and maintenance of a functional BBB. Furthermore, astrocytic end-feet contain water channel aquaporin 4 (AQP4) and the potassium channel Kir4.1 for the regulation of brain water and electrolyte metabolism.
+
+Major differences in astrocyte phenotypes have been extensively described following CNS injuries resulting in at least two types of reactive astrocytes with either beneficial or detrimental effects. More recently, human single cell atlases also describe differences in astrocytes (expressing canonical astrocyte markers: SLC1A2, SLC1A3, AQP, S100B) across brain regions and along the arteriovenous gradient in the intact brain. Across all BBB cell types, astrocyte transcriptional identity was the most influenced by brain region. Cortical astrocytes showed higher levels of CABLES1, NRXN1 and SLC1A2, whereas hippocampal astrocytes upregulated CD33, GFAP and TENM4.
+
+Additionally, the transcriptional profile between perivascular astrocytes (that are in direct contact with blood vessels) considerably differed from non-perivascular astrocytes in mice. Perivascular astrocytes were enriched in extracellular matrix adhesion pathways (e.g. Itga7, Lama3) and cell-to-cell contact communication (Sema4a, Sema4b). Among the perivascular astrocytes, differences were further observed along the arteriovenous axis. For instance, the distribution of cell-adhesion molecules nectin-2δ and podoplanin in perivascular astrocyte end-feed is present around arteries and veins but scarce near capillaries, and Kirrel2 was preferentially associated with arterial end-feed.
+
+In summary, recent molecular insights into major cellular components of the neurovascular unit and BBB reveal the cellular heterogeneity in different brain regions and along the zonal distribution. Moreover, the observed vascular heterogeneity in the molecular findings opens up new avenues for functional studies aimed at elucidating the specific physiological impacts on BBB functions.
+
+Transport function across the BBB
+
+In contrast to the leaky capillary EC in peripheral organs, the BBB endothelium is sealed by tight junctions and has a minimal rate of bulk-flow transcytosis. The only molecules that can passively diffuse across the BBB are gases, such as oxygen, carbon dioxide and small lipid-soluble molecules with a molecular weight <400 Da, or containing <8 hydrogen bonds (e.g. ethanol). Even if a drug candidate meets all the necessary criteria to cross the BBB, it may still fail to exert a therapeutic effect on neurons as the drug can be actively transported out of the brain through several mechanisms. For example, epilepsy patients who poorly respond to anti-seizure medications, despite the ability of these drugs to penetrate the BBB, often show heightened activity of drug efflux transporters.
+
+The majority of molecules required to maintain brain homeostasis enter and exit the brain through different transporter systems, such as solute carrier-mediated transport (CMT), receptor-mediated transcytosis (RMT) and active efflux pumps, as well as water and ion transport systems (Fig. 1C). Overviews of all BBB transporters have been published.
+
+Solute carrier-mediated transport
+
+CMT facilitates the transcellular entry of essential nutrients and molecules, including carbohydrates, amino acids, fatty acids, hormones and vitamins into the brain. CMT may occur at either the abluminal or luminal membranes of the BBB, facilitating directional transport either into or out of the brain according to the substrate concentration gradient. Additionally, CMT contributes to the clearance of potentially harmful substances, such as the excitatory amino acids, from the brain. For example, the amino acid L-glutamine is transported from the brain into the cerebrovasculature via sodium-coupled neutral amino acid transporters, metabolized to L-glutamate and removed into the blood circulation.
+
+One important solute carrier is the carbohydrate transporter GLUT1 (encoded by SLC2A1), which transports glucose along the concentration gradient, typically from the blood to the brain. The SLC2A1 transcript is one of the most abundant transcripts in brain endothelium, and SLC2A1 dysfunction or reduction can severely affect BBB integrity and cognitive function in mice and humans. Brain endothelial GLUT1 is downregulated during ageing(p1) and neurodegeneration but is upregulated after stroke, likely due to the sustained expression of hypoxia factors post-stroke.
+
+Receptor-mediated transcytosis
+
+RMT enables the receptor-mediated bidirectional transport of proteins and peptides, such as transferrin, insulin and leptin via the transcellular route across the BBB. Transferrin receptors (TfR) have been extensively targeted for enhancing drug delivery to the brain using e.g. bispecific antibodies engineered to bind simultaneously to two distinct antigens, such as transferrin and disease-specific antigens.
+
+Another important class of RMT transporters includes low-density lipoprotein receptor-related protein (LRP1) and receptor for advanced glycation end products (RAGE). They have multiple functions including transport of Aβ across the BBB. The abluminally expressed LRP1 is an important APOE metabolic receptor and involved in regulating the clearance pathway for Aβ out of the brain, while the luminally expressed RAGE acts as an influx transporter for Aβ into the brain. Endothelial LRP1 is downregulated in ageing and almost absent in blood vessels in AD. More recently, LRP1 in vascular mural cells has also been described to regulate cerebrovascular integrity and function in an APOE genotype dependent manner.
+
+Active efflux transporters
+
+Active efflux transporters, like P-glycoprotein (PGP, encoded by ABCB1), are almost exclusively expressed at the luminal side of the brain endothelium and use ATP to actively efflux drugs, xenobiotics and endogenous metabolites to prevent their accumulation in the brain. PGP contributes to maintaining BBB integrity and Aβ clearance, which requires LRP1 for transport from brain to blood. PET imaging studies showed a reduction in PGP activity in ageing and across several neurodegenerative disorders in mice and human. Notably, following cerebral ischaemia, PGP levels in brain capillaries were increased, aggravating BBB dysfunction.
+
+The BBB transport systems are important to maintain brain homeostasis and regulate the exchange of molecules between the blood and brain (Fig. 1C). However, the BBB integrity and functionality of most transport systems are considerably altered in ageing, acute neurological injuries and neurodegenerative diseases. Such alterations may not only influence disease progression but may also impact the efficacy of delivery of neuropharmaceuticals to the brain. Given the recently recognized regional and zonal heterogeneity of the BBB, future studies also need to take into account how these variations influence dysfunction and drug delivery efficacy across different brain regions. Understanding these differences could help to deliver therapeutics to certain brain regions or specific vascular cell types more effectively.
+
+Effects of ageing on BBB structure and transport function
+
+Considering that almost 90% of the US population aged 65 and older is taking at least one prescription medication, including drugs that act on the CNS, understanding how these medications and future therapeutics are transported across the ageing BBB is of great importance.
+
+Major changes in BBB structure and transport function have been observed during healthy ageing. A large body of studies indicates functional changes to the BBB function during ageing in healthy mice and humans. Multiple cellular components are altered in the aged BBB including pericyte degeneration, basement membrane alterations and astrocyte end-feet detachment. Changes in BBB leakage occur in various brain regions including hippocampus, cortex, corpus callosum with reduced expression of key tight junction proteins (claudin-5, ZO-1 and occludin), as shown both in humans and mice. Other tight junction proteins are upregulated in ageing like claudin-1, which are present in leaky blood vessels of aged mice (Fig. 2).
+
+Blood–brain barrier dysfunction in ageing. Anatomical and functional changes in the blood–brain barrier (BBB) and changes in important transport mechanisms during the process of normal ageing. GLUT1 = glucose transporter 1; IR = insulin receptor; LRP1 = low-density lipoprotein receptor-related protein 1; PGP = P-glycoprotein; RAGE = receptor for advanced glycation end products; RMT = receptor-mediated transcytosis; TfR = transferrin receptor; TJ = tight junctions.
+
+Also, the function of systems regulating the circulation of brain extracellular fluid and CSF are decreased with healthy ageing. Several CSF biomarkers have been associated with age-related enhanced BBB leakage, including the increased albumin quotient (QAlb; ratio of CSF to serum albumin concentrations) and the pericyte-injury marker soluble PDGFRβ (sPDGFRβ).
+
+BBB disruption and/or increased BBB permeability occurs during healthy ageing and may be exacerbated by additional factors, such as inflammation. In aged mice, for example, when BBB is disrupted, cognitive decline is accelerated in the presence of systemic gut inflammation. In addition to these effects, there is growing evidence from human and murine studies that gut microbiota can influence BBB permeability in health and disease, and that ageing may drive further gut microbiota changes or dysbiosis, compounding BBB changes.
+
+Ageing-associated BBB changes seem to be more dependent on zonation (differential effects with vessel types), rather than brain regions, with capillaries being most susceptible. Besides well known regulators of the BBB, other factors have recently been shown to be involved in age-related BBB dysfunction. For instance, a transcriptomic screening of aged mice and humans revealed decline of a longevity factor sirtuin-1 (Sirt1) expression. Brain endothelial knockout of Sirt1 led to BBB dysfunction, whereas overexpression of Sirt1 protected against age-induced BBB permeability.
+
+Many transporters are downregulated in aged healthy mice and humans including glucose transporters GLUT1, receptor-mediated transporters LRP1, and the active efflux transporter PGP. A recent study suggested that rather than an increase in permeability, the BBB undergoes a shift in transport from receptor-mediated transport to unspecific caveolar transcytosis during ageing. Gene-set enrichment analysis revealed loss of clathrin adaptor activity (a protein involved in forming vesicles) and ATP utilization, suggesting defective receptor-mediated transcytosis in aged mouse BBB.
+
+The concept of ageing has also been applied on a cellular level. Recent findings introduced the concept of chronological ageing clocks (predicting age of the cells) and biological ageing clocks (functional fitness of cells) for individual BBB cells based on single cell RNA sequencing and proteomics. Ageing increases mRNA associated with inflammation in brain EC, especially in a subtype of activated postcapillary venules. Subsets of perivascular macrophages (PVMs) closely associated with activated ICAM-1+ postcapillary venules were identified to potentially serve as antigen presenting cells for immune surveillance at the BBB. PVMs with a proinflammatory signature increased with ageing, which correlates with a decrease in the frequency of anti-inflammatory PVM subsets. However, comprehensive studies are still needed to explore how ageing clocks could predict overall BBB function and serve as potential biomarker for disease progression. Integration of ageing biomarkers into BBB research may also provide new insights into therapeutic interventions to restore vascular integrity in ageing and associated neurodegenerative disorders.
+
+Similar findings in the ageing BBB cells were observed in a recently developed spatiotemporal atlas, profiling 15 brain regions at seven developmental stages in mice. While a characteristic aged gene signature was present across all cell types, it was most prominently present in glia and brain EC. Specifically, capillary brain EC exhibited the most profound transcriptional changes with ageing, more so than their arterial and venous counterparts. These changes involved, similar to previous studies, changes in regulation of immune responses and oxidative stress. Also, plasma proteomes originating from different organs in humans can estimate organ-specific ageing differences. Models describing accelerated brain and vascular ageing could predict the onset of neurodegenerative diseases as reliably as the best blood-based AD biomarker (e.g. phosphorylated tau 181) in humans.
+
+In summary, major changes occur to the BBB structure and transport during ageing. New molecular studies identified the heterogeneity in ageing on brain region- and cell-specific levels and have the potential to predict disease onset enhance our understanding on the molecular mechanisms underlying BBB ageing.
+
+Genetic disorders contributing to BBB dysfunction
+
+BBB dysfunction has been reported in several rare inherited human monogenic neurological diseases with genetic mutations affecting individual cell types within the BBB, causing specific defects in BBB development, maintenance and transport.
+
+Genetic mutations in the BBB endothelial GLUT1 glucose transporter (encoded by SLC2A1 gene) in humans results in early-onset seizures, microcephaly and developmental delay. GLUT1 haploinsufficient mice show early BBB breakdown, loss of tight junction proteins and reduced glucose uptake by the brain, leading to neurodegenerative changes and microcephaly.
+
+Missense mutations in the BBB endothelial lipid transporter MFSD2A lead to BBB leakage followed by development of microcephaly and cognitive disabilities in humans and could be lethal. Mutations in BBB solute carrier transporter MCT8 (encoded by SLC16A2), responsible for transport of T3 thyroid hormone in the brain, lead to severe impairment of neuronal development and motor and cognitive deficits, known as the Allan-Herndon-Dudley syndrome. Furthermore, rare human mutations in genes encoding endothelial junctional proteins OCL, JAM3 and basement membrane components COL4A1 and COL4A2, resulted in impairments of the BBB.
+
+Apart from brain EC, genetic mutations in pericytes can also cause BBB dysfunction. Mutations affecting the PDGFB/PDGFRβ signalling are a primary cause of familial idiopathic basal ganglia calcification (IBGC), which is characterized by deep brain calcification leading to pericyte loss and motor and cognitive impairments. NOTCH3 mutations in vascular smooth muscle cells and pericytes causes cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL), an autosomal dominant stroke syndrome, affecting young to middle-aged adults and leading to dementia and disability. Mutations in NOTCH3 lead to toxic NOTCH3 protein accumulation in the brain vasculature. CADASIL patients also showed decreased water exchange rates across the BBB that may be associated with AQP4. While mice show vascular changes and defects in the microcirculation and BBB, leakage of BBB has been shown in some studies but has not been consistently reproduced. Furthermore, active immunization specifically targeting CADASIL-like aggregated NOTCH3 reduced extracellular deposition of NOTCH3 in a mouse model of CADASIL without.
+
+Overall, genetic mutations affecting various BBB components can lead to serious neurological diseases, highlighting the critical role of the BBB in brain function.
+
+BBB dysfunction in neurological disorders
+
+BBB damage is an important hallmark in major neurological injuries and neurodegenerative diseases. However, the underlying mechanisms that lead to BBB dysfunction and affect BBB transport systems vary considerably (Fig. 3A and B). In this review we primarily focus on AD and stroke; however, BBB dysfunction is a hallmark of many other neurological disorders, e.g. Parkinson's disease and multiple sclerosis, which have been reviewed elsewhere.
+
+Blood–brain barrier dysfunction in neurodegeneration and stroke. Anatomical and functional changes in the blood–brain barrier (BBB) and changes in important transport mechanisms during the process of (A) Alzheimer's disease (AD) and (B) the acute and/or subacute phase after ischaemic stroke. GLUT1 = glucose transporter 1; IR = insulin receptor; LRP1 = low-density lipoprotein receptor-related protein 1; PBMC = peripheral blood mononuclear cells, PGP = P-glycoprotein; RAGE = receptor for advanced glycation end products; RMT = receptor-mediated transcytosis; TfR = transferrin receptor; TJ = tight junctions.
+
+Alzheimer's disease
+
+AD is the most common cause of dementia characterized by Aβ-containing extracellular plaques, tau-containing intracellular neurofibrillary tangles and vascular changes. Cognitive dysfunction is also associated with loss of cerebrovascular integrity and BBB damage. Recent neuroimaging studies reveal that BBB breakdown occurs early on in individuals who are in AD continuum with positive antibody (Ab) and tau pathology in the CSF and/or brain as well as in those who are not, with negative Ab and tau pathology, serving as an early biomarker of disease progression and cognitive dysfunction. Additionally, BBB breakdown can also be assessed using CSF sPDGFRβ, a marker of brain pericyte injury. BBB breakdown is most pronounced in individuals carrying the APOE e4 allele, a major genetic risk factor for AD. Experimental and human pathology studies suggest that AD-related BBB breakdown is associated with loss of tight junction proteins, accumulation of blood-derived proteins in brain, as well as endothelial and pericyte degeneration (Fig. 3A). More recently, these findings have also been confirmed by molecular single cell atlases of the mouse and human AD brain vasculature.
+
+A single cell atlas revealed, in total, 500 differentially expressed genes in AD BBB compared to BBB from individuals with no cognitive impairment, with highest changes in mural cells. Mural cells from AD patients upregulated pathways related to impaired vasoconstriction and blood flow regulation. Specifically, M-pericytes, a subtype of pericytes functionally associated with extracellular matrix organization, appear to be particularly susceptible and upregulated genes possibly involved in the previously observed dysregulation and/or diminished cerebral blood flow in AD. Additionally, the majority of differentially expressed genes were cell-type and zonation-specific indicating a heterogenous response to AD pathology and BBB breakdown across the cerebrovasculature.
+
+Functionally, local BBB breakdowns can lead to extravasation of plasma and red blood cells in the AD brain. In AD individuals, these incidents are often related to cerebral amyloid angiopathy, or vascular-associated Aβ deposits, which occurs in AD brains with accumulating Aβ deposition. With the emerging application of anti-Aβ therapeutics, the frequency and attention of such occurrences have notably increased. These amyloid related imaging abnormalities (ARIA) observed are categorized as ARIA-oedema (ARIA-E) and ARIA-microhaemorrhages (ARIA-H). The two main hypotheses suggest that both forms of ARIA may occur early during anti-Aβ therapies due to (i) anti-Aβ therapies rapidly mobilizing plaque amyloid from the parenchyma into the perivascular drainage system, potentially overwhelming the drainage capacity and indirectly affecting vessel stability; or (ii) anti-Aβ antibodies directly targeting Aβ deposits within the blood vessels and directly damaging the stability of the blood vessels.
+
+Apart from the loss of BBB integrity, many transport systems at the BBB are affected by AD. For instance, brain uptake of glucose via the GLUT1 transporter is reduced early in AD patients, evidenced by brain histology and the use of radiolabelled glucose analogues in PET imaging. Imaging, genetic and pharmacological studies showed that reduction or deficiency of GLUT1 leads to reduced glucose delivery to the brain, accelerated Aβ pathology, neuronal loss and cognitive impairment in AD mouse models crossed with GLUT1 haploinsufficient mice.
+
+The function of the active efflux transporter PGP is impaired in AD. Specifically, the clearance of Aβ involves PGP and is dependent on lipoprotein receptor LRP1. Endothelial LRP1 is almost absent in AD blood vessels in humans and animal models. This diminished function of LRP1 and PGP leads to the accumulation of Aβ in the brain, exacerbating the disease's progression. Additionally, LRP1 deletion from the mouse endothelium results in activation of the cyclophilin A–matrix metalloproteinase-9 pathway, causing BBB breakdown due to loss of tight junctions, which is followed by neuron loss and vascular-mediated neurodegeneration.
+
+The importance of BBB in AD has also been shown by genome wide association studies (GWAS) linking 66% of the top 45 AD genes to the brain vasculature. GWAS genes were also mapped to important endothelial functions at the BBB, including protein transport, extracellular matrix pathways and adaptive immune responses.
+
+Acute neurological injuries
+
+BBB impairment is an important hallmark of most acute brain injuries including stroke, traumatic brain injury (TBI) and spinal cord injury. Damage to the BBB typically occurs within minutes to hours following the injury and involves generation of reactive oxygen species and the activation of matrix metalloproteases (MMPs), such as MMP-2, MMP-3 and MMP-9 and MMP-12 that degrade the basement membrane, tight junction proteins and damage cellular components of the neurovascular unit, such as pericytes. The acute post-injury phase is often followed by an inflammation-associated BBB disruption that may last several hours to weeks after injury and has been associated with worse neurological outcomes in rodent and CNS injured patients. Although these mechanisms are shared in various CNS injuries, the extent and timeline of BBB breakdown, as well as the subsequent post-ischaemic inflammation, can differ based on the type and severity of injury.
+
+The most common acute neurological injury is the ischaemic stroke accounting for 55% of all neurological disabilities and affecting 1 in 4 people during their lifetime. Various preclinical models of stroke showed that the time and frequency of BBB opening can vary. Some studies report a biphasic opening (an initial transient disruption followed by a delayed, prolonged breakdown) that occurs acutely after stroke due to endothelial cytoskeleton rearrangements, which acts synergistically with activation of BBB-degrading enzymes MMP-2, MMP-3, MMP-9 and MMP-12, causing enzymatic degradation of tight junction proteins to jeopardize BBB integrity.
+
+Other studies report a continued BBB opening with incomplete anatomical restoration of tight junction proteins, such as ZO-1 and occludin and cellular components of the neurovascular unit in rodents and non-human primate stroke models, as well as in stroke patients (Fig. 3B).
+
+A common complication after stroke is the haemorrhagic transformation that can be exacerbated by recombinant tissue-type plasminogen activator (rtPA) therapy, the gold standard for treatment of stroke. It occurs due to severe BBB disruption and is associated with worse neurological outcome and increased mortality. Consequently, BBB restoration is an emerging therapeutic strategy after stroke, as shown by improved functional outcome in experimental stroke mouse models.
+
+Increased BBB permeability has also been observed in some experimental therapies aiming to promote angiogenesis after stroke. Generally, post-stroke angiogenesis is considered beneficial in experimental stroke models and in patients; however, newly formed capillaries are often immature and uncontrolled therapeutic angiogenesis can increase BBB permeability. The adverse effects of pro-angiogeneic therapies have been initially observed in early studies using proangiogenic factors, such as vascular endothelial growth factor (VEGF) acutely after stroke, but not in vascular guidance cues that have shown to promote angiogenesis and simultaneously support maturation and remodelling of the vasculature via extracellular matrix formation or pericyte recruitment.
+
+BBB transporters are significantly altered after stroke. The efflux transporter PGP is upregulated in capillaries after stroke. Increased endothelial PGP led to degradation of tight junction proteins, BBB hyperpermeability, and brain inflammation in a mouse model of stroke. This BBB disruption is potentially mediated by the suppression of protein kinase B (Akt) and mammalian target of rapamycin (mTOR) signalling pathway, which leads to reduced endothelial autophagy—essential for restoring the BBB after stroke. Pharmacological inhibition or genetic knockout of the efflux transporter PGP increased the accumulation and efficacy of neuroprotective drugs. Additionally, endothelial GLUT1 is acutely upregulated after ischaemic stroke in mice and rats, likely due to the sustained upregulation of the hypoxia inducible factor. Although changes to glucose metabolism have also been observed in other acute injuries, e.g. in TBI models and TBI patients, no changes in gene expression of GLUT1 in the BBB were observed, suggesting post-transcriptional upregulation.
+
+Endothelial LRP1 is upregulated following experimental stroke. Interestingly, tPA, the gold standard treatment for acute stroke, can bind EC LRP1 to induce the synthesis of MMP-3 and MMP9 via NF-κB and phosphoinositide 3-kinase (PI3K)–Akt pathways, contributing to BBB permeability in the ischaemic brain. Inhibition of LRP1 suppressed MMP activation and the risk for intracranial bleeding through LRP1/nuclear factor-κ B pathway in a stroke model. However, LRP1 may have a dual role in post-stroke recovery, and LRP1-targeted drug delivery has also been explored for neuroprotective therapeutics.
+
+On a molecular level, recent molecular single cell atlases identified a list of BBB dysfunction-associated gene modules such as Adamts4, Upp1,Timp1 and Pdlim1 in a mouse model of middle cerebral artery occlusion 24 h after injury. The atlas revealed a unique gene expression signature of microglia after stroke with high expression of MMP12 that has been shown to cause BBB disruption. A subset of pericytes expressed gene sets involving immune functions (e.g. Oncostatin-M), which can contribute to BBB dysfunction via JAK/STAT3. A recent study integrating spatial and single-cell transcriptomics 3 days after photothrombotic stroke revealed that microglia-derived galectin-9 is a critical pathway after injury. Targeting galectin-9/CD44 signalling has shown to improve functional recovery and has previously been reported to protect the integrity of the BBB. During the subacute phase after stroke, major cellular shifts have been observed in neural and non-neural cells via signalling pathways involving collagen, laminin and cell adhesion molecules. Additionally, a fibroblast-like cell cluster termed ‘injury associated cells’ has been identified in the subacute phase after stroke, marked by IGFBP5 upregulation. IGFBP5 is the most conserved member of the IGFBP family, with various biological functions influencing inflammatory response, fibrosis and angiogenesis, making it a potential therapeutic target for stroke.
+
+Technologies for drug delivery across the BBB
+
+Delivery of therapeutics to the brain is considerably restricted by the BBB, which remains a primary bottleneck for drug development for major brain disorders. It has been estimated that 98% of small molecule drugs, nearly all larger biomolecules (e.g. proteins, antibodies, viral vectors) and all cellular therapeutics cannot cross the intact BBB.
+
+Recently, this problem has been highlighted in the application of antibodies against Aβ in AD. Only 0.1% of the intravenously injected monoclonal antibodies reach the human AD brain, demanding a very high concentration in the blood circulation, which in turn can be associated with increased risk of systemic toxicity. These findings are comparable to earlier mouse studies estimating the levels of therapeutic antibodies entering the intact, stroke-injured or AD-affected brain to only 0.01%–0.1% of those in blood. The majority of cell-based therapies face a similar challenge, as nearly all intravenously injected cells fail to reach the brain, and become mechanically trapped in peripheral organs, such as the lung or spleen, unless the BBB is severely disrupted, as in large strokes. Large stroke lesions can increase the number of transplanted cells in the lesion to 1%–10%, especially when injected within 24 h post-injury.
+
+Facilitating therapeutic delivery into the brain therefore requires tailored strategies to take advantage of the BBB properties to improve the penetration and efficacy of therapeutic agents (Table 1). We discuss developments in therapeutic brain delivery with selected technologies using CMT, RMT, microbubble-assisted focused ultrasound (FUS), viral delivery, intranasal delivery and cellular therapeutics. BBB transport using biomaterials and other polymers have been reviewed elsewhere and are summarized in Table 1.
+
+Strategies for drug delivery across the blood–brain barrier: recent studies
+
+Delivery methods	Shuttling system and description of mechanism	Species and neurological disorders	References	 	Transporter-based delivery	Caveolar-dependent BBB transport of Temozolomide i.p is inhibited by MFSD2A	Mouse, glioma	Xie et al.	 	Atorvastatin i.v. was transported across BBB through Oatp1a4	Rat, ischaemic stroke	Williams et al.	 	Receptor-mediated transcytosis	Bi-specific antibody targeting protofibrillar amyloid-β and transferrin receptor, i.v.	Mouse, Alzheimer’s disease	Do et al.	 	Transferrin receptor-binding Fc fragment fused with BACE1 antibody, i.v.	Mouse, mucopolysaccharidosis type II	Kariolis et al.	 	Monospecific mAb3D6 targeting amyloid-β; bispecific mAb3D6-scFv8D3, i.v.	Mouse, healthy, Alzheimer’s disease	Julku et al.	 	Bispecific antibody targeting TREM2 and transferrin receptor, i.p.	Mouse, Alzheimer’s disease	Zhao et al.	 	Trontinemab—Brainshuttle™ coupled to an amyloid-β antibody; targeting transferrin receptor, i.v.	Macaque, healthy	Grimm et al.	 	Focused ultrasound	MRI-guided FUS-mediated BBB opening	Human, Alzheimer’s disease	Meng et al.	 	Aducanumab and MRI-guided FUS-mediated BBB opening	Human, Alzheimer’s disease	Rezai et al.	 	AAV	AAV.CAP-B10, an AAV variant that are enriched in brain and targeted away from liver i.v.	Mouse, healthy; Marmoset, healthy	Goertsen et al.	 	AAV.CPP.16 and AAV.CPP.21, AAV variants with improved transduction efficiency in CNS i.v.	Mouse, healthy and glioblastoma; Macaque	Yao et al.	 	Nanoparticle	CREKA (fibrin-targeting peptide)- and thioketal-modified liposome, loaded with Cl-amidine	Mouse, ischaemic stroke	Sun et al.	 	Gold nanoparticle, loaded with Bcl2L12 siRNA	Human, glioblastoma	Kumthekar et al.	 	Membrane camouflage	Neutrobot—neutrophil internalizing E. coli membrane-enveloped iron oxide nanoparticle	Mouse, glioma	Zhang et al.	 	Endothelial cell membrane-coated PLGA-PEG nanoparticle, loaded with doxorubicin	Mouse, glioblastoma	Chen et al.
+
+AAV = adeno-associated virus; BBB = blood–brain barrier; FUS = focused ultrasound; i.p. = intraperitoneal; i.v. = intravenous; mAb = monoclonal antibody; PEG = polyethylene glycol; PLGA = poly(lactic-co-glycolic) acid.
+
+Drug delivery via solute carrier-mediated transport
+
+There are a few clinically tested drugs, for various neurological disorders, that take advantage of the properties of the BBB. For example, in patients with Parkinson's disease, the solute carrier transporter SLC7A5 (also called L-type amino acid transporter 1) enables L-3,4-dihydroxyphenylalanine (levodopa)—a precursor of dopamine—to reach the brain. To achieve therapeutic concentrations in the brain, a higher systemic dosage is required, which can result in adverse effects, such as nausea and vomiting. To mitigate these adverse events, levodopa is co-administered with a peripheral decarboxylase-inhibitor, carbidopa. Carbidopa does not cross the BBB, ensuring that levodopa is converted into dopamine primarily within the brain. Other classes of transporters, including organic ion transporters, have also been preclinically explored to shuttle drugs into the brain.
+
+Drug delivery via receptor-mediated transcytosis
+
+Most transport vehicles take advantage of the TfR to enhance drug delivery across the BBB via receptor-mediated endocytosis. Earlier studies used one of two architectures: (i) a bi-specific antibody where one Fab (the antigen-binding region of the antibody) binds TfR and the other binds a therapeutic target, or an antibody where both Fabs bind a therapeutic target and a TfR-binding domain is fused to the heavy or light chain [for example, in AD, a TfR antibody fused with single chain variable fragments Fv (scFv) binding Aβ]; or (ii) a bi-specific antibody against TfR and the Aβ processing enzyme β-secretase (BACE) showing enhanced antibody uptake by the brain and greater Aβ reduction in the brain in mice. More recently, a bi-specific antibody, trontinemab, against TfR and Aβ has been tested in non-human primates and AD patients (NCT04023994). Trontinemab reached the brain 4–18-fold more efficiently than monoclonal anti-Aβ antibodies in non-human primates. Interestingly, preliminary data indicate that trontinemab may also reduce the risk of ARIA-E, potentially because it enters the brain differently to standard anti-Aβ antibodies. The safety and efficacy of trontinemab is now being validated in 210 patients with mild-to-moderate AD during a randomized, double-blind placebo-controlled phase Ib/IIa trial (NCT04639050). Similar approaches are also in preparation for other AD targets, such as TREM2 using a bi-specific anti-TREM2 antibody fused with scFv targeting TfR. A newer generation of brain shuttles, called BBB transport vehicles, allows a highly modular combination of Fabs by engineering the human IgG1 Fc domains that directly binds human TfR. The design allows for the retention of the natural properties and pharmacokinetics of IgG and also to have bi-specific Fab domains targeting up to two disease-specific targets. Using this technology, transport vehicles targeting BACE1 could be delivered into the brain of mice and monkeys with AD, leading to reduction in both BACE1 and Aβ levels in the AD brain. Other studies used the same transport vehicles to deliver therapeutic proteins or peptides instead of antibodies across the BBB.
+
+Apart from AD, delivery of transferrin receptor antibody fused to human lysosomal enzyme iduronate-2-sulfatase (IDS) showed high brain biodistribution in a mouse model of mucopolysaccharidosis type II, an X-linked recessive lysosomal storage disease caused by IDS deficiency. Pharmacokinetics studies in non-human primates and initial clinical findings confirmed improved brain distribution of the transferrin receptor targeted enzymes. More recently, a phase 2/3 clinical trial in 28 Japanese patients with Hunter syndrome resulted in the first approval of anti-TfR-coupled IDS protein. Apart from the transferrin receptors, other targets were more recently explored for enhanced antibody delivery across the BBB. For instance, bispecific-antibody shuttles targeting CD98hc, the heavy chain of the large neutral amino acid transporter, resulted in efficient IgG delivery to the brain with an improved retention compared to transferrin receptor shuttles in the brain.
+
+Microbubble-assisted focused ultrasound
+
+Recently, microbubble-assisted FUS has been used for drug delivery to the brain. The ultrasound is directed towards specific brain regions and microbubbles are administered to facilitate transient BBB opening. Application of MRI-guided FUS with a clinically approved Aβ antibody enhanced amyloid removal in regions treated with FUS in a small trial with three patients. Microbubble-assisted FUS has also been successfully performed in non-human primates and patients with Parkinson's disease, e.g. for gene delivery.
+
+BBB-crossing AAVs
+
+Variants of adeno associated virus (AAV-9) vectors have been discovered to have enhanced penetration of the BBB after intravenous delivery in rodents and primates. For instance, AAV9 delivery of FGF10 has been shown to reduce tau hyperphosphorylation and neuronal apoptosis in animal models of AD. Similar results have been observed when delivering Nurr1 and Foxa2 transcription/epigenetic regulators in glial AD pathology. More recently, engineered AAV viral variants have been developed that also show efficient gene transfer in the brains of several non-human primate species.
+
+Intranasal delivery with nanocarriers
+
+Intranasal drug delivery is a method that can directly transport drugs from the nose to the brain. The nose to brain route can occur via the olfactory or trigeminal nerves, or indirectly through the lungs, gut and bloodstream to the brain. A few recent studies have shown encouraging results when encapsuling peptides, antibodies or oligonucleotides in nanocarriers. For instance, intranasal delivery of BACE1 siRNA nanoparticles was shown to reduce BACE1 expression and reduce amyloid deposition in an AD mouse model. In cerebral ischaemia, intranasal delivery of BDNF-loaded extracellular vesicles activated BDNF signalling and reduced stroke size and functional behaviour. Intranasal delivery of stem cells has also been tested in animal stroke models with mixed results. Stem cell therapy via intranasal application is currently being tested in a clinical setting for patients with permanent neurological deficits e.g. after stroke or TBI (NCT02795052).
+
+Delivery of cellular therapeutics
+
+For cellular therapeutics, gene-edited cell sources have been tested that can migrate across the BBB using peptides expressed i.e. BBB-crossing immune cells. For instance, the SDF-1α/CXCR4 axis is one of the most important migratory routes across the BBB. Genetic overexpression of CXCR4 has been identified to guide grafts toward the injury site in the lesioned brain and spinal cord and loss of the pathway impairs migratory abilities. Overexpression of other chemokine receptors e.g. CCR2 on mesenchymal stem cells has also been shown to enhance their targeted migration to the ischaemic hemisphere and improved the functional outcomes via peroxiredoxin4-mediated BBB preservation.
+
+Other routes of drug delivery across the BBB include liposome and non-liposome based nanoparticles, as well as membrane coatings. These technologies are described in more detail in Table 1.
+
+Therapies to restore the BBB
+
+BBB impairment is associated with worsened functional outcome in many neurological disorders. Evidence from stroke models and models of vascular-induced neurodegeneration suggest that BBB breakdown may lead to neuronal and synaptic dysfunction and/or loss, which can be slowed down and is often associated with improved neuronal and synaptic recovery after BBB repair. Additionally, BBB function can further be compromised in ageing and neurological disorders due to cardiovascular and other comorbidities. Therefore, the BBB is an important therapeutic target in neurological disorders. Repair of the BBB can involve multiple aspects, including focusing on paracellular permeability to restore endothelial and other BBB-associated cell-cell junctional proteins and/or cellular components, such as pericytes or transcellular permeability to restore function of major transport systems and ion channels at the BBB. Restoration of transport systems may also help with targeted drug delivery. Although for some time it has been considered that increased BBB permeability in the ageing brain, in neurodegenerative disorders and/or after acute brain injuries, might facilitate drug delivery, recent brain pharmacokinetics studies and clinical observations do not support this hypothesis. For instance, neurotherapeutics including AD therapeutics are likely to get trapped in pathologically altered perivascular spaces along with other blood-derived debris due to disrupted interstitial fluid (ISF) flow. Moreover, dysfunction of CMT and RMT systems may further complicate their use for therapeutic drug delivery, especially for therapeutics designed to take advantage of these systems, such as bi-specific antibodies. Restoration of the BBB structure and function can occur via several mechanisms, as described below.
+
+Reducing neuroinflammation
+
+Pharmacological agents have been reported to restore BBB function in animal models of acute neurological disorders and neurodegeneration. For example, in AD mouse models, inhibition or genetic ablation of the cyclophilin A (CypA)-MMP-9 pathway, which degrades EC tight junctions, has been shown to restore BBB integrity and slow down development of neurodegenerative changes in transgenic APOE4 mice. More recently, treatment with the non-immunosuppressive CypA inhibitor Alisporivir (Debio-025) improved BBB integrity, and prevented development of neuronal loss and cognitive dysfunction in older APOE4 AD mice. Alisporivir is being clinically investigated in humans for several non-CNS applications but has not been tested in a clinical setting for BBB repair. In addition, the inhibition of the proinflammatory cytokine TNFα reduces BBB permeability, prevents immune cell infiltration, decreases Aβ plaques, and rescues neuronal dysfunction in AD mice. Similarly, TNFα-responsive microRNAs are involved in BBB breakdown via tight junction disruption. Antisense oligonucleotides targeting TNFα-responsive miR-501-3p improve BBB function and cognition in a mouse model of cognitive impairment.
+
+BBB vascular repair and remodelling
+
+Guidance molecules including netrins, ephrins, semaphorins and Nogo-A that regulate CNS angiogenesis have also been described to improve BBB integrity by regulating the maturation of the brain ECs, recruitment of pericytes and restoration of tight junctions in ischaemic stroke models. Conventional vascular growth factors appear to have a dual effect on BBB permeability after stroke. Although older studies indicated VEGF-mediated BBB disruption and immature leaky blood vessels, more recent studies suggest that delayed application or controlled release of lower levels of VEGF contributes to maturation of blood vessels leading to functional recovery after stroke. While many of these strategies to promote vascular repair and restore the BBB have been explored in the context of acute BBB disruption, their application may potentially extend to control the slowly progressing BBB permeability changes in ageing and neurodegenerative conditions associated with similar impairments in angiogenic responses.
+
+Restoration of BBB transporters
+
+Endothelial GLUT1 reductions results in reduced brain glucose uptake and BBB breakdown, which exacerbates cerebrovascular degeneration and cognitive dysfunction in an AD mouse model crossed with GLUT1 haploinsufficient mice. GLUT1 deficiency leads to reductions in Aβ clearance and accelerates Aβ pathology via reduced expression of LRP1 in the microvasculature. To restore Glut1 levels, local gene-delivery using AAV-Glut1 improved brain glucose levels and motor function of Glut1-deficient mice. Similarly, restoration of Glut1 in the hippocampus of an AD mouse model deficient in Glut1 significantly reduced local Aβ levels.
+
+The expression of the active efflux transporter PGP is also downregulated in AD resulting in reduced clearance of Aβ in the brain. Proteasome inhibition with a US Food and Drug Administration (FDA)-approved inhibitor bortezomib has been shown to restore PGP levels and lower Aβ accumulation in the brain of AD mice. In stroke, capillary PGP levels are increased and cause BBB dysfunction and hyperpermeability by suppressing Akt/mTOR induced endothelial autophagy. Therapeutic siRNA silencing and pharmacological inhibition of PGP with cyclosporine A increased tight junction protein levels and reduced inflammation.
+
+The impaired receptor mediated transport mechanisms in the ageing BBB can also be restored. For instance, inhibition of the transcytosis enzyme alkaline phosphatase (encoded by Alpl) that is upregulated in the ageing vasculature in mice results in enhanced transferrin receptor expression in capillaries and venous cells. Enhanced expression of transferrin in the ageing vasculature enabled improved transferrin-targeted antibody transport across the BBB to the brain.
+
+Cell therapy
+
+Cell-based therapies have been shown to improve BBB integrity, in both mouse models of acute brain injuries and neurodegeneration. Interestingly, BBB restoration has been observed by integrating pericytes, potentially indicating a direct cell replacement of the BBB components, but also by neural or mesenchymal stem cells, which likely suggests an indirect paracrine effect. For instance, induced pluripotent stem cell (iPSC)-derived pericytes transplanted into the hippocampi of an aged pericyte-deficient mouse model resulted in functional restoration of BBB leakage via PDGRFB signalling. Pericytes transplanted into a mouse model of stroke promoted functional recovery by improving BBB integrity and preventing neuronal apoptosis. Interestingly, transplantation of neural stem cells has also been shown to promote BBB integrity. Transplanted iPSC-derived neural stem cells differentiate into neurons and glia and have been shown to enhance endogenous regeneration-associated mechanisms by enhancing angiogenesis, and by reducing inflammation and glial scarring. It is likely that those regenerative mechanisms also support repair of the BBB, indirectly contributing to BBB integrity. Cellular therapies have recently become an emerging therapeutic opportunity as new genetic strategies emerged to overcome previous limitations including immuno-compatibility or precise delivery to the targeted brain region.
+
+Current limitations of molecular and cell-based therapies to cross and repair the BBB
+
+While cell-based and molecular approaches hold promise for BBB repair, several challenges remain in their clinical translation. For instance, scalability and quality control, particularly for gene-edited cell sources, are complex, time-consuming and costly. Additionally, concerns regarding off-target effects, immune compatibility and long-term stability require further investigation. Viral-based gene therapy strategies face similar challenges and also demand precise dosing and delivery to minimize adverse effects. Recent FDA approvals of AAV-based therapies, such as Zolgensma for spinal muscular atrophy and Luxturna for retinal dystrophy, show the overall feasibility of AAV vectors in the CNS. Future studies may focus on optimizing these approaches, establishing standardized protocols and enhancing their feasibility for clinical trials. Alternatively, some of these barriers may be overcome by the development of innovative drug delivery systems.
+
+Conclusion
+
+In recent years, our understanding of BBB anatomy, function and transport mechanisms has significantly advanced. Systems biology approaches have deepened our insights into the molecular interactions of individual BBB cells and the molecular changes associated with ageing, acute brain injury and neurodegeneration. We are beginning to comprehend how to target the BBB transport systems for drug delivery and understand the pathophysiological changes and defects in these systems. Disruption of the BBB has been identified as a hallmark of many neurological diseases, and therapies aimed at restoring BBB function are being developed. The next challenge will be to functionally evaluate the new molecular findings that identified the heterogenous BBB responses and investigate their role in animal models and in a clinical setting in humans with neurological disorders associated with BBB dysfunction. Future clinical applications may involve developing biomarker panels based on molecular BBB signatures to enhance early detection, prediction and monitoring of BBB integrity in ageing and neurological disorders.
+
+Supplementary Material
+
+Funding
+
+R.R. acknowledges funding support from Swiss 3R Competence Center (OC-2020-002), the Swiss National Science Foundation (CRSK-3_195902), (PZ00P3_216225), and Keck School of Medicine of USC (KSOM) Dean's Pilot Funding Program Award.
+
+Competing interests
+
+The authors report no competing interests
+
+Supplementary material
+
+Supplementary material is available at Brain online
+
+References
+
+Vascular endothelial cell development and diversity
+
+Shaping the brain vasculature in development and disease in the single-cell era
+
+Exploring the crosstalk between endothelial cells, immune cells, and immune checkpoints in the tumor microenvironment: New insights and therapeutic implications
+
+Improving immune–vascular crosstalk for cancer immunotherapy
+
+Endothelial cells and macrophages as allies in the healthy and diseased brain
+
+The anatomy and immunology of vasculature in the central nervous system
+
+Blood-brain barrier: From physiology to disease and back
+
+Cortical energy demands of signaling and nonsignaling components in brain are conserved across mammalian species and activity levels
+
+Fluid transport in the brain
+
+Time is brain--quantified
+
+Brain borders at the central stage of neuroimmunology
+
+Blood–brain barrier breakdown in Alzheimer’s disease and other neurodegenerative disorders
+
+The role of brain vasculature in neurodegenerative disorders
+
+Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: A systematic analysis for the global burden of disease study 2021
+
+Two randomized phase 3 studies of aducanumab in early Alzheimer’s disease
+
+Investigating partially discordant results in phase 3 studies of aducanumab
+
+Lecanemab in early Alzheimer’s disease
+
+Brain pharmacokinetics of mono- and bispecific amyloid-β antibodies in wild-type and Alzheimer’s disease mice measured by high cut-off microdialysis
+
+In vivo imaging of alpha-synuclein with antibody-based PET
+
+Post-stroke blood-brain barrier disruption and poor functional outcome in patients receiving thrombolytic therapy
+
+Blood–brain barrier breakdown is an early biomarker of human cognitive dysfunction
+
+APOE4 leads to blood–brain barrier dysfunction predicting cognitive decline
+
+A molecular atlas of cell types and zonation in the brain vasculature
+
+A single-cell atlas of the normal and malformed human brain vasculature
+
+A human brain vascular atlas reveals diverse mediators of Alzheimer’s risk
+
+Single-cell atlas reveals correlates of high cognitive function, dementia, and resilience to Alzheimer’s disease pathology
+
+Atlas of the aging mouse brain reveals white matter as vulnerable foci
+
+Single-cell transcriptome atlas of murine endothelial cells
+
+Transcriptional and epigenomic landscapes of CNS and non-CNS vascular endothelial cells
+
+Brain endothelial cells are exquisite sensors of age-related circulatory cues
+
+Single-cell dissection of the human brain vasculature
+
+Transcriptome profiling of the Olig2-expressing astrocyte subtype reveals their unique molecular signature
+
+Atp13a5 marker reveals pericyte specification in the mouse central nervous system
+
+A robust and efficient microvascular isolation method for multimodal characterization of the mouse brain vasculature
+
+Nano-scale architecture of blood-brain barrier tight-junctions
+
+Hallmarks of endothelial cell metabolism in health and disease
+
+Brain barriers: Crosstalk between complex tight junctions and adherens junctions
+
+Tight junction channel regulation by interclaudin interference
+
+Mitochondrial crisis in cerebrovascular endothelial cells opens the blood–brain barrier
+
+More homogeneous capillary flow and oxygenation in deeper cortical layers correlate with increased oxygen extraction
+
+Revisiting the neurovascular unit
+
+Neurovascular coupling in the dentate gyrus regulates adult hippocampal neurogenesis
+
+Vasomotion as a driving force for paravascular clearance in the awake mouse brain
+
+Functional hyperemia drives fluid exchange in the paravascular space
+
+Brain endothelial tricellular junctions as novel sites for T cell diapedesis across the blood-brain barrier
+
+ACKR1 favors transcellular over paracellular T-cell diapedesis across the blood-brain barrier in neuroinflammation in vitro
+
+P-selectin-targeted nanocarriers induce active crossing of the blood–brain barrier via caveolin-1-dependent transcytosis
+
+Pericytes are required for blood–brain barrier integrity during embryogenesis
+
+Pericyte loss leads to circulatory failure and pleiotrophin depletion causing neuron loss
+
+Acute ablation of cortical pericytes leads to rapid neurovascular uncoupling
+
+Pericytes control key neurovascular functions and neuronal phenotype in the adult brain and during brain aging
+
+Pericytes regulate the blood–brain barrier
+
+Regional early and progressive loss of brain pericytes but not vascular smooth muscle cells in adult mice with disrupted platelet-derived growth factor receptor-β signaling
+
+Organizational hierarchy and structural diversity of microvascular pericytes in adult mouse cortex
+
+Cerebral blood flow regulation and neurovascular dysfunction in Alzheimer disease
+
+Capillary pericytes express α-smooth muscle actin, which requires prevention of filamentous-actin depolymerization for detection
+
+Pericyte endothelial gap junctions in human cerebral capillaries
+
+Three-dimensional ultrastructure of the brain pericyte-endothelial interface
+
+Pericyte-to-endothelial cell signaling via vitronectin-integrin regulates blood-CNS barrier
+
+The active role of pericytes during neuroinflammation in the adult brain
+
+Pericytes of the neurovascular unit: Key functions and signaling pathways
+
+The perivascular astroglial sheath provides a complete covering of the brain microvessels: An electron microscopic 3D reconstruction
+
+Targeting gliovascular connexins prevents inflammatory blood-brain barrier leakage and astrogliosis
+
+Astrocytes mediate neurovascular signaling to capillary pericytes but not to arterioles
+
+Astrocytes monitor cerebral perfusion and control systemic circulation to maintain brain blood flow
+
+Astrocytes are necessary for blood–brain barrier maintenance in the adult mouse brain
+
+Astrocyte-derived Wnt growth factors are required for endothelial blood-brain barrier maintenance
+
+Astrocytic endfeet re-cover blood vessels after removal by laser ablation
+
+Function and therapeutic value of astrocytes in neurological diseases
+
+Reactive astrocytes: Production, function, and therapeutic potential
+
+Neurotoxic reactive astrocytes induce cell death via saturated lipids
+
+Neuroinflammatory astrocyte subtypes in the mouse brain
+
+Reactive astrocytes and emerging roles in central nervous system (CNS) disorders
+
+Isolation and transcriptional characterization of mouse perivascular astrocytes
+
+The alpha7 integrin subunit in astrocytes promotes endothelial blood-brain barrier integrity
+
+Heterogeneity of perivascular astrocyte endfeet depending on vascular regions in the mouse brain
+
+Mechanism of drug extrusion by brain endothelial cells via lysosomal drug trapping and disposal by neutrophils
+
+Evaluation of P-glycoprotein-targeting circulating microRNAs as peripheral biomarkers for medically intractable epilepsy
+
+Strategies for delivering therapeutics across the blood–brain barrier
+
+Dysregulation of ion channels and transporters and blood-brain barrier dysfunction in Alzheimer’s disease and vascular dementia
+
+Transport of amino acids across the blood-brain barrier
+
+GLUT1 reductions exacerbate Alzheimer’s disease vasculoneuronal dysfunction and degeneration
+
+Downregulation of the glucose transporter GLUT 1 in the cerebral microvasculature contributes to postoperative neurocognitive disorders in aged mice
+
+Impairment of brain endothelial glucose transporter by methamphetamine causes blood-brain barrier dysfunction
+
+Topography of brain glucose hypometabolism and epileptic network in glucose transporter 1 deficiency
+
+Overall cognitive profiles in patients with GLUT1 deficiency syndrome
+
+Lower GLUT1 and unchanged MCT1 in Alzheimer’s disease cerebrovasculature
+
+A systematic review of glucose transport alterations in Alzheimer’s disease
+
+GLUT-1 expression in the cerebra of patients with Alzheimer’s disease
+
+Decreased concentrations of GLUT1 and GLUT3 glucose transporters in the brains of patients with Alzheimer’s disease
+
+Glucose transporters in brain in health and disease
+
+Neuroprotection conferred by post-ischemia ethanol therapy in experimental stroke: An inhibitory effect on hyperglycolysis and NADPH oxidase activation
+
+Hypoxia increases expression of selected blood–brain barrier transporters GLUT-1, P-gp, SLC7A5 and TFRC, while maintaining barrier integrity, in brain capillary endothelial monolayers
+
+Delivery of the Brainshuttle™ amyloid-beta antibody fusion trontinemab to non-human primate brain and projected efficacious dose regimens in humans
+
+Therapeutic bispecific antibodies cross the blood-brain barrier in nonhuman primates
+
+Age, dose, and binding to TfR on blood cells influence brain delivery of a TfR-transported antibody
+
+A tetravalent TREM2 agonistic antibody reduced amyloid pathology in a mouse model of Alzheimer’s disease
+
+Tetravalent bispecific tandem antibodies improve brain exposure and efficacy in an amyloid transgenic mouse model
+
+Brain delivery of therapeutic proteins using an fc fragment blood-brain barrier transport vehicle in mice and monkeys
+
+Clearance of Alzheimer’s amyloid-ss(1–40) peptide from brain by LDL receptor-related protein-1 at the blood-brain barrier
+
+Modulation of amyloid beta-protein clearance and Alzheimer’s disease susceptibility by the LDL receptor-related protein pathway
+
+RAGE, LRP-1, and amyloid-beta protein in Alzheimer’s disease
+
+LRP/amyloid beta-peptide interaction mediates differential brain efflux of Abeta isoforms
+
+Endothelial LRP1 transports amyloid-β(1–42) across the blood-brain barrier
+
+A multimodal RAGE-specific inhibitor reduces amyloid β–mediated brain disorder in a mouse model of Alzheimer disease
+
+APOE2, E3, and E4 differentially modulate cellular homeostasis, cholesterol metabolism, and inflammatory response in isogenic iPSC-derived astrocytes
+
+Accelerated pericyte degeneration and blood-brain barrier breakdown in apolipoprotein E4 carriers with Alzheimer’s disease
+
+LRP1 in vascular mural cells modulates cerebrovascular integrity and function in the presence of APOE4
+
+Endothelial LRP1 protects against neurodegeneration by blocking cyclophilin A
+
+The concerted amyloid-beta clearance of LRP1 and ABCB1/P-gp across the blood-brain barrier is linked by PICALM
+
+LRP1 has a predominant role in production over clearance of Aβ in a mouse model of Alzheimer’s disease
+
+Age dependency of cerebral P-glycoprotein function in wild-type and APPPS1 mice measured with PET
+
+A role for P-glycoprotein in clearance of Alzheimer amyloid β-peptide from the brain
+
+Activity of P-glycoprotein, a β-amyloid transporter at the blood-brain barrier, is compromised in patients with mild Alzheimer disease
+
+P-glycoprotein aggravates blood brain barrier dysfunction in experimental ischemic stroke by inhibiting endothelial autophagy
+
+National trends in prescription drug expenditures and projections for 2023
+
+Changes in prescription and over-the-counter medication and dietary supplement use among older adults in the United States, 2005 vs 2011
+
+Physiological blood-brain transport is impaired with age by a shift in transcytosis
+
+Imaging the role of blood-brain barrier disruption in normal cognitive ageing
+
+Increase in blood-brain barrier leakage in healthy, older adults
+
+Blood-brain barrier breakdown in the aging human hippocampus
+
+Regional differences in blood-brain barrier permeability in cognitively normal elderly subjects: A dynamic contrast-enhanced MRI-based study
+
+Pharmacologically reversible zonation-dependent endothelial cell transcriptomic changes with neurodegenerative disease associations in the aged brain
+
+The blood-brain barrier in aging and neurodegeneration
+
+Decline in sirtuin-1 expression and activity plays a critical role in blood-brain barrier permeability in aging
+
+Claudin-1-targeted nanoparticles for delivery to aging-induced alterations in the blood–brain barrier
+
+The glymphatic system and waste clearance with brain aging: A review
+
+Impairment of paravascular clearance pathways in the aging brain
+
+A soluble platelet-derived growth factor receptor-β originates via Pre-mRNA splicing in the healthy brain and is upregulated during hypoxia and aging
+
+Fluid biomarkers of the neurovascular unit in cerebrovascular disease and vascular cognitive disorders: A systematic review and meta-analysis
+
+Molecular biomarkers for vascular cognitive impairment and dementia
+
+Associations of CSF PDGFRβ with aging, blood-brain barrier damage, neuroinflammation, and Alzheimer disease pathologic changes
+
+Shedding of soluble platelet-derived growth factor receptor-β from human brain pericytes
+
+A novel sensitive assay for detection of a biomarker of pericyte injury in cerebrospinal fluid
+
+Gut microbiome improves postoperative cognitive function by decreasing permeability of the blood-brain barrier in aged mice
+
+The gut microbiota influences blood-brain barrier permeability in mice
+
+The gut microbiota is important for the maintenance of blood-cerebrospinal fluid barrier integrity
+
+The modulatory effects of gut microbes and metabolites on blood-brain barrier integrity and brain function in sepsis-associated encephalopathy
+
+Antibiotic-induced microbiome depletion in adult mice disrupts blood-brain barrier and facilitates brain infiltration of monocytes after bone-marrow transplantation
+
+Gut dysbiosis aggravates cognitive deficits, amyloid pathology and lipid metabolism dysregulation in a transgenic mouse model of Alzheimer’s disease
+
+Evidence supportive of a bacterial component in the etiology for Alzheimer’s disease and for a temporal-spatial development of a pathogenic microbiome in the brain
+
+The role of the gut microbiome in health and disease in the elderly
+
+Early decline in glucose transport and metabolism precedes shift to ketogenic system in female aging and Alzheimer’s mouse brain: Implication for bioenergetic intervention
+
+Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic regions of the brain
+
+Defining the age-dependent and tissue-specific circadian transcriptome in male mice
+
+Plasma proteomic signature of age in healthy humans
+
+Organ aging signatures in the plasma proteome track health and disease
+
+Single-cell transcriptomics reveals functionally specialized vascular endothelium in brain
+
+Aged blood impairs hippocampal neural precursor activity and activates microglia via brain endothelial cell VCAM1
+
+Plasma P-tau181 in Alzheimer’s disease: Relationship to other biomarkers, differential diagnosis, neuropathology and longitudinal progression to Alzheimer’s dementia
+
+Structure and mechanism of blood–brain-barrier lipid transporter MFSD2A
+
+Mfsd2a is critical for the formation and function of the blood-brain barrier
+
+Blood-brain barrier permeability is regulated by lipid transport-dependent suppression of caveolae-mediated transcytosis
+
+Neurovascular unit disruption and blood-brain barrier leakage in MCT8 deficiency
+
+Association between mutations in a thyroid hormone transporter and severe X-linked psychomotor retardation
+
+Recessive mutations in the gene encoding the tight junction protein occludin cause band-like calcification with simplified gyration and polymicrogyria
+
+Delineation of the clinical, molecular and cellular aspects of novel JAM3 mutations underlying the autosomal recessive hemorrhagic destruction of the brain, subependymal calcification, and congenital cataracts
+
+Role of COL4A1 in small-vessel disease and hemorrhagic stroke
+
+COL4A2 mutations impair COL4A1 and COL4A2 secretion and cause hemorrhagic stroke
+
+Mutations in the gene encoding PDGF-B cause brain calcifications in humans and mice
+
+Distinct functional classes of PDGFRB pathogenic variants in primary familial brain calcification
+
+Role of NOTCH3 mutations in the cerebral small vessel disease cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+
+Decreased water exchange rate across blood–brain barrier in hereditary cerebral small vessel disease
+
+Severe white matter astrocytopathy in CADASIL
+
+Iron leakage owing to blood-brain barrier disruption in small vessel disease CADASIL
+
+Blood brain barrier leakage is not a consistent feature of white matter lesions in CADASIL
+
+Microglial activation and blood-brain barrier permeability in cerebral small vessel disease
+
+Active immunotherapy reduces NOTCH3 deposition in brain capillaries in a CADASIL mouse model
+
+Blood–brain barrier alterations and their impact on Parkinson’s disease pathogenesis and therapy
+
+Blood–brain barrier dysfunction in multiple sclerosis: Causes, consequences, and potential effects of therapies
+
+Alzheimer disease
+
+APOE ɛ4 dose associates with increased brain iron and β-amyloid via blood-brain barrier dysfunction
+
+Contributions of blood–brain barrier imaging to neurovascular unit pathophysiology of Alzheimer’s disease and related dementias
+
+Dynamic changes of CSF sPDGFRβ during ageing and AD progression and associations with CSF ATN biomarkers
+
+Selective loss of cortical endothelial tight junction proteins during Alzheimer’s disease progression
+
+Distinct changes in all major components of the neurovascular unit across different neuropathological stages of Alzheimer’s disease
+
+Single-cell analysis of blood-brain barrier response to pericyte loss
+
+Early role of vascular dysregulation on late-onset Alzheimer’s disease based on multifactorial data-driven analysis
+
+Altered cerebral blood flow in older adults with Alzheimer’s disease: A systematic review
+
+Cerebral perfusion and the risk of dementia: A population-based study
+
+Alzheimer’s disease neuroimaging initiative. Cerebrovascular resistance: Effects on cognitive decline, cortical atrophy, and progression to dementia
+
+The identification and cognitive correlation of perfusion patterns measured with arterial spin labeling MRI in Alzheimer’s disease
+
+Neurovascular dysfunction in GRN-associated frontotemporal dementia identified by single-nucleus RNA sequencing of human cerebral cortex
+
+Cerebral amyloid angiopathy and Alzheimer disease—One peptide, two pathways
+
+Amyloid-related imaging abnormalities (ARIA): Radiological, biological and clinical characteristics
+
+New insights into the genetic etiology of Alzheimer’s disease and related dementias
+
+Neuroinflammation, stroke, blood-brain barrier dysfunction, and imaging modalities
+
+The significance of matrix metalloproteinase (MMP)-2 and MMP-9 in the ischemic stroke
+
+Infiltration and persistence of lymphocytes during late-stage cerebral ischemia in middle cerebral artery occlusion and photothrombotic stroke models
+
+Microvascular dysfunction in blood-brain barrier disruption and hypoperfusion within the infarct posttreatment are associated with cerebral edema
+
+Leakage beyond the primary lesion: A temporal analysis of cerebrovascular dysregulation at sites of hippocampal secondary neurodegeneration following cortical photothrombotic stroke
+
+Heart disease and stroke statistics-2023 update: A report from the American Heart Association
+
+Rapid endothelial cytoskeletal reorganization enables early blood–brain barrier disruption and long-term ischaemic reperfusion brain injury
+
+Characterization of the blood brain barrier disruption in the photothrombotic stroke model
+
+Matrix metalloproteinase-2-mediated occludin degradation and caveolin-1-mediated claudin-5 redistribution contribute to blood–brain barrier damage in early ischemic stroke stage
+
+Matrix metalloproteinase-9 inhibition attenuates vascular endothelial growth factor-induced intracerebral hemorrhage
+
+Matrix metalloprotease 3 exacerbates hemorrhagic transformation and worsens functional outcomes in hyperglycemic stroke
+
+Matrix metalloproteinase-12 induces blood-brain barrier damage after focal cerebral ischemia
+
+Chronic cerebral hypoperfusion and blood-brain barrier disruption in uninjured brain areas of rhesus monkeys subjected to transient ischemic stroke
+
+Sustained opening of the blood-brain barrier with progressive accumulation of white matter hyperintensities following ischemic stroke
+
+Treatment and outcome of hemorrhagic transformation after intravenous alteplase in acute ischemic stroke: A scientific statement for healthcare professionals from the American Heart Association/American stroke association
+
+Blood-brain barrier dysfunction in ischemic stroke: Targeting tight junctions and transporters for vascular protection
+
+Outgrowth endothelial progenitor cells restore cerebral barrier function following ischaemic damage: The impact of NOX2 inhibition
+
+Treatment with outgrowth endothelial cells protects cerebral barrier against ischemic injury
+
+Zebularine protects against blood-brain-barrier (BBB) disruption through increasing the expression of zona occludens-1 (ZO-1) and vascular endothelial (VE)-cadherin
+
+Damage mechanism and therapy progress of the blood-brain barrier after ischemic stroke
+
+VEGF enhances angiogenesis and promotes blood-brain barrier leakage in the ischemic brain
+
+Excessive vascular sprouting underlies cerebral hemorrhage in mice lacking αVβ8-TGFβ signaling in the brain
+
+Anti-Nogo-A antibodies prevent vascular leakage and act as pro-angiogenic factors following stroke
+
+Refueling the ischemic CNS: Guidance molecules for vascular repair
+
+Insights into the dual role of angiogenesis following stroke
+
+Nogo-A targeted therapy promotes vascular repair and functional recovery following stroke
+
+Dual-function injectable angiogenic biomaterial for the repair of brain tissue following stroke
+
+A large screening of angiogenesis biomarkers and their association with neurological outcome after ischemic stroke
+
+Pro- and antiangiogenic therapies: Current status and clinical implications
+
+Ephrinb2 activation enhances vascular repair mechanisms and reduces brain swelling after mild cerebral ischemia
+
+Inhibition of multidrug resistance transporter-1 facilitates neuroprotective therapies after focal cerebral ischemia
+
+Autophagy protects human brain microvascular endothelial cells against methylglyoxal-induced injuries, reproducible in a cerebral ischemic model in diabetic rats
+
+Autophagy alleviates hypoxia-induced blood-brain barrier injury via regulation of CLDN5 (claudin 5)
+
+RS1 (Rsc1A1) deficiency limits cerebral SGLT1 expression and delays brain damage after experimental traumatic brain injury
+
+Tissue-type plasminogen activator (t-PA) induces stromelysin-1 (MMP-3) in endothelial cells through activation of lipoprotein receptor–related protein
+
+Tissue-type plasminogen activator and the low-density lipoprotein receptor-related protein mediate cerebral ischemia-induced nuclear factor-κB pathway activation
+
+Tissue-type plasminogen activator and the low-density lipoprotein receptor–related protein induce Akt phosphorylation in the ischemic brain
+
+LRP-1 functionalized polymersomes enhance the efficacy of carnosine in experimental stroke
+
+Single-cell RNA-seq reveals the transcriptional landscape in ischemic stroke
+
+Profiling the mouse brain endothelial transcriptome in health and disease models reveals a core blood-brain barrier dysfunction module
+
+Ischemic stroke-related gene expression profiles across species: A meta-analysis
+
+Oncostatin M triggers brain inflammation by compromising blood–brain barrier integrity
+
+Oncostatin-M-reactive pericytes aggravate blood–brain barrier dysfunction by activating JAK/STAT3 signaling In Vitro
+
+Targeting the CD146/galectin-9 axis protects the integrity of the blood–brain barrier in experimental cerebral malaria
+
+Integrating spatial and single-cell transcriptomics to characterize the molecular and cellular architecture of the ischemic mouse brain
+
+A molecular brain atlas reveals cellular shifts during the repair phase of stroke
+
+microRNA-181a promotes mitochondrial dysfunction and inflammatory reaction in a rat model of intensive care unit-acquired weakness by inhibiting IGFBP5 expression
+
+Local application of IGFBP5 protein enhanced periodontal tissue regeneration via increasing the migration, cell proliferation and osteo/dentinogenic differentiation of mesenchymal stem cells in an inflammatory niche
+
+Deletion of endothelial IGFBP5 protects against ischaemic hindlimb injury by promoting angiogenesis
+
+Donanemab (LY3002813) dose-escalation study in Alzheimer’s disease
+
+Pharmacokinetics and pharmacodynamic effect of crenezumab on plasma and cerebrospinal fluid beta-amyloid in patients with mild-to-moderate Alzheimer’s disease
+
+Lecanemab, aducanumab, and gantenerumab—Binding profiles to different forms of amyloid-beta might explain efficacy and Side effects in clinical trials for Alzheimer’s disease
+
+Targeting therapeutic antibodies to the CNS: A comparative study of intrathecal, intravenous, and subcutaneous anti-Nogo A antibody treatment after stroke in rats
+
+Editing a gateway for cell therapy across the blood–brain barrier
+
+Intravenous cellular therapies for acute ischemic stroke
+
+Intra-arterial delivery is not superior to intravenous delivery of autologous bone marrow mononuclear cells in acute ischemic stroke
+
+Intravenous infusion of human bone marrow mesenchymal stromal cells promotes functional recovery and neuroplasticity after ischemic stroke in mice
+
+Pulmonary passage is a major obstacle for intravenous stem cell delivery: The pulmonary first-pass effect
+
+Intravenous administration of human umbilical cord blood reduces behavioral deficits after stroke in rats
+
+Treatment of stroke in rat with intracarotid administration of marrow stromal cells
+
+Surface functionalization of PLGA nanoparticles to increase transport across the BBB for Alzheimer’s disease
+
+A phase 2/3 trial of pabinafusp alfa, IDS fused with anti-human transferrin receptor antibody, targeting neurodegeneration in MPS-II
+
+Bispecific antibody shuttles targeting CD98hc mediate efficient and long-lived brain delivery of IgGs
+
+Ultrasound blood-brain barrier opening and aducanumab in Alzheimer’s disease
+
+Blood-brain barrier opening of the default mode network in Alzheimer’s disease with magnetic resonance-guided focused ultrasound
+
+Loss of LRP1 in adult neural stem cells impairs migration to ischemic lesions
+
+Size-selective transfer of lipid nanoparticle-based drug carriers across the blood brain barrier via vascular occlusions following traumatic brain injury
+
+Novel neurolisteriosis therapy using SPION as a drivable nanocarrier in gallic acid delivery to CNS
+
+Engineered macrophage-membrane-coated nanoparticles with enhanced PD-1 expression induce immunomodulation for a synergistic and targeted antiglioblastoma activity
+
+Development of polymeric nanoparticles for blood–brain barrier transfer—Strategies and challenges
+
+Safety and efficacy of continuous subcutaneous levodopa–carbidopa infusion (ND0612) for Parkinson’s disease with motor fluctuations (BouNDless): A phase 3, randomised, double-blind, double-dummy, multicentre trial
+
+Wnt signaling regulates MFSD2A-dependent drug delivery through endothelial transcytosis in glioma
+
+Targeting organic cation transporters at the blood-brain barrier to treat ischemic stroke in rats
+
+Oatp (organic anion transporting polypeptide)-mediated transport: A mechanism for atorvastatin neuroprotection in stroke
+
+Post-capillary venules are the key locus for transcytosis-mediated brain delivery of therapeutic nanoparticles
+
+Acid-responsive dual-targeted nanoparticles encapsulated aspirin rescue the immune activation and phenotype in autism spectrum disorder
+
+Signature effects of vector-guided systemic nano bioconjugate delivery across blood-brain barrier of normal, Alzheimer’s, and tumor mouse models
+
+Synchronous disintegration of ferroptosis defense axis via engineered exosome-conjugated magnetic nanoparticles for glioblastoma therapy
+
+Receptor-mediated abeta amyloid antibody targeting to Alzheimer’s disease mouse brain
+
+Boosting brain uptake of a therapeutic antibody by reducing its affinity for a transcytosis target
+
+Unlocking blood-brain barrier boosts immunotherapy efficacy, lowers ARIA | ALZFORUM
+
+Brain delivery and activity of a lysosomal enzyme using a blood-brain barrier transport vehicle in mice
+
+Molecular architecture determines brain delivery of a transferrin receptor–targeted lysosomal enzyme
+
+A blood-brain-barrier-penetrating anti-human transferrin receptor antibody fusion protein for neuronopathic mucopolysaccharidosis II
+
+Iduronate-2-sulfatase with anti-human transferrin receptor antibody for neuropathic mucopolysaccharidosis II: A phase 1/2 trial
+
+CD98hc is a target for brain delivery of biotherapeutics
+
+Ultrasound-mediated blood-brain barrier opening uncovers an intracerebral perivenous fluid network in persons with Alzheimer’s disease
+
+BBB opening with focused ultrasound in nonhuman primates and Parkinson’s disease patients: Targeted AAV vector delivery and PET imaging
+
+Blood-brain barrier opening with focused ultrasound in Parkinson’s disease dementia
+
+Variants of the adeno-associated virus serotype 9 with enhanced penetration of the blood–brain barrier in rodents and primates
+
+AAV capsid variants with brain-wide transgene expression and decreased liver targeting after intravenous delivery in mouse and marmoset
+
+Fibroblast growth factor 10 ameliorates neurodegeneration in mouse and cellular models of Alzheimer’s disease via reducing tau hyperphosphorylation and neuronal apoptosis
+
+Adeno-associated virus (AAV) 9-mediated gene delivery of Nurr1 and Foxa2 ameliorates symptoms and pathologies of Alzheimer disease model mice by suppressing neuro-inflammation and glial pathology
+
+Adeno-associated viral vectors for functional intravenous gene transfer throughout the non-human primate brain
+
+Functional gene delivery to and across brain vasculature of systemic AAVs with endothelial-specific tropism in rodents and broad tropism in primates
+
+Intranasal administration of self-oriented nanocarriers based on therapeutic exosomes for synergistic treatment of Parkinson’s disease
+
+Spatiotemporal tracking of gold nanorods after intranasal administration for brain targeting
+
+Delivery of mutant huntingtin-lowering antisense oligonucleotides to the brain by intranasally administered apolipoprotein A-I nanodisks
+
+Intranasal delivery of BDNF-loaded small extracellular vesicles for cerebral ischemia therapy
+
+Intranasal administration of edaravone nanoparticles improves its stability and brain bioavailability
+
+Intranasal delivery of BACE1 siRNA and rapamycin by dual targets modified nanoparticles for Alzheimer’s disease therapy
+
+The route by which intranasally delivered stem cells enter the central nervous system
+
+Migration of engrafted neural stem cells is mediated by CXCL12 signaling through CXCR4 in a viral model of multiple sclerosis
+
+Targeted homing of CCR2-overexpressing mesenchymal stromal cells to ischemic brain enhances post-stroke recovery partially through PRDX4-mediated blood-brain barrier preservation
+
+Brain-targeted liposomes loaded with monoclonal antibodies reduce alpha-synuclein aggregation and improve behavioral symptoms in Parkinson’s disease
+
+Smart liposomal nanocarrier enhanced the treatment of ischemic stroke through neutrophil extracellular traps and cyclic guanosine monophosphate-adenosine monophosphate synthase-stimulator of interferon genes (cGAS-STING) pathway inhibition of ischemic penumbra
+
+Microneedle-mediated delivery of ziconotide-loaded liposomes fused with exosomes for analgesia
+
+Blood-brain barrier-penetrating and lesion-targeting nanoplatforms inspired by the pathophysiological features for synergistic ischemic stroke therapy
+
+A first-in-human phase 0 clinical study of RNA interference-based spherical nucleic acids in patients with recurrent glioblastoma
+
+“Swiss Army Knife” black phosphorus-based nanodelivery platform for synergistic antiparkinsonian therapy via remodeling the brain microenvironment
+
+Enhancing photothermal/photodynamic therapy for glioblastoma by tumor hypoxia alleviation and heat shock protein inhibition using IR820-conjugated reduced graphene oxide quantum dots
+
+Gint4.T-siHDGF chimera-capped mesoporous silica nanoparticles encapsulating temozolomide for synergistic glioblastoma therapy
+
+Dual-responsive biohybrid neutrobots for active target delivery
+
+Neutrophil-biomimetic “Nanobuffer” for remodeling the microenvironment in the infarct core and protecting neurons in the penumbra via neutralization of detrimental factors to treat ischemic stroke
+
+Cancer cell membrane-coated nanoparticle co-loaded with photosensitizer and toll-like receptor 7 agonist for the enhancement of combined tumor immunotherapy
+
+Neutrophil nanodecoys inhibit tumor metastasis by blocking the interaction between tumor cells and neutrophils
+
+PGC1α-Inducing senomorphic nanotherapeutics functionalized with NKG2D-overexpressing cell membranes for intervertebral disc degeneration
+
+Nanoparticles coated with brain microvascular endothelial cell membranes can target and cross the blood-brain barrier to deliver drugs to brain tumors
+
+Surgical tumor-derived nanoplatform targets tumor-associated macrophage for personalized postsurgical cancer immunotherapy
+
+Blood-brain barrier link to human cognitive impairment and Alzheimer’s disease
+
+Human iPSC-derived cell grafts promote functional recovery by molecular interaction with stroke-injured brain
+
+Apolipoprotein E controls cerebrovascular integrity via cyclophilin A
+
+The importance of comorbidities in ischemic stroke: Impact of hypertension on the cerebral circulation
+
+Comorbidity analysis between Alzheimer’s disease and type 2 diabetes mellitus (T2DM) based on shared pathways and the role of T2DM drugs
+
+The impact of disease comorbidities in Alzheimer’s disease
+
+Shared pathological pathways of Alzheimer’s disease with specific comorbidities: Current perspectives and interventions
+
+APOE4 accelerates advanced-stage vascular and neurodegenerative disorder in old Alzheimer’s mice via cyclophilin A independently of amyloid-β
+
+Alisporivir plus ribavirin, interferon free or in combination with pegylated interferon, for hepatitis C virus genotype 2 or 3 infection
+
+Randomised clinical trial: Alisporivir combined with peginterferon and ribavirin in treatment-naïve patients with chronic HCV genotype 1 infection (ESSENTIAL II)
+
+Peripheral administration of the soluble TNF inhibitor XPro1595 modifies brain immune cell profiles, decreases beta-amyloid plaque load, and rescues impaired long-term potentiation in 5xFAD mice
+
+MicroRNA-mediated therapy modulating blood–brain barrier disruption improves vascular cognitive impairment
+
+Inhibition of semaphorin as a novel strategy for therapeutic angiogenesis
+
+Netrin 1 regulates blood-brain barrier function and neuroinflammation
+
+Nogo-A is secreted in extracellular vesicles, occurs in blood and can influence vascular permeability
+
+Delayed VEGF treatment enhances angiogenesis and recovery after neonatal focal rodent stroke
+
+A single nuclear transcriptomic characterisation of mechanisms responsible for impaired angiogenesis and blood-brain barrier function in Alzheimer’s disease
+
+Single-nucleus multiregion transcriptomic analysis of brain vasculature in Alzheimer’s disease
+
+Molecular and spatial signatures of mouse brain aging at single-cell resolution
+
+Gene therapy for Glut1-deficient mouse using an adeno-associated virus vector with the human intrinsic GLUT1 promoter
+
+Proteasome inhibition protects blood–brain barrier P-glycoprotein and lowers aβ brain levels in an Alzheimer’s disease model
+
+Molecular signature and functional properties of human pluripotent stem cell-derived brain pericytes
+
+Transplantation of hPSC-derived pericyte-like cells promotes functional recovery in ischemic stroke mice
+
+Human neural stem cells improve early stage stroke outcome in delayed tissue plasminogen activator-treated aged stroke brains
+
+Delayed transplantation of neural stem cells improves initial graft survival following stroke
+
+Mesenchymal stem cells attenuate blood-brain barrier leakage after cerebral ischemia in mice
+
+Stem cell therapy for repair of the injured brain: Five principles
+
+Beneath the radar: Immune-evasive cell sources for stroke therapy
+
+Hypoimmunogenic derivatives of induced pluripotent stem cells evade immune rejection in fully immunocompetent allogeneic recipients
+
+Targeted disruption of HLA genes via CRISPR-Cas9 generates iPSCs with enhanced immune compatibility
+
+Cost-effectiveness of a hypothetical gene therapy for Alzheimer’s disease: A Markov simulation analysis
+
+Five-year extension results of the phase 1 START trial of onasemnogene abeparvovec in spinal muscular atrophy
+
+AAV vectors applied to the treatment of CNS disorders: Clinical status and challenges
+
+Overcoming barriers to patient adherence: The case for developing innovative drug delivery systems

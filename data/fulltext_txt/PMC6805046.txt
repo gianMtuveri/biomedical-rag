@@ -1,0 +1,267 @@
+In-vitro blood-brain barrier models for drug screening and permeation studies: an overview
+
+Abstract
+
+The blood-brain barrier (BBB) is comprised of brain microvascular endothelial central nervous system (CNS) cells, which communicate with other CNS cells (astrocytes, pericytes) and behave according to the state of the CNS, by responding against pathological environments and modulating disease progression. The BBB plays a crucial role in maintaining homeostasis in the CNS by maintaining restricted transport of toxic or harmful molecules, transport of nutrients, and removal of metabolites from the brain. Neurological disorders, such as NeuroHIV, cerebral stroke, brain tumors, and other neurodegenerative diseases increase the permeability of the BBB. While on the other hand, semipermeable nature of BBB restricts the movement of bigger molecules i.e. drugs or proteins (>500 kDa) across it, leading to minimal bioavailability of drugs in the CNS. This poses the most significant shortcoming in the development of therapeutics for CNS neurodegenerative disorders. Although the complexity of the BBB (dynamic and adaptable barrier) affects approaches of CNS drug delivery and promotes disease progression, understanding the composition and functions of BBB provides a platform for novel innovative approaches towards drug delivery to CNS. The methodical and scientific interests in the physiology and pathology of the BBB led to the development and the advancement of numerous in vitro models of the BBB. This review discusses the fundamentals of BBB structure, permeation mechanisms, an overview of all the different in-vitro BBB models with their advantages and disadvantages, and rationale of selecting penetration prediction methods towards the critical role in the development of the CNS therapeutics.
+
+Introduction
+
+Structure and functionality of the Blood-Brain Barrier (BBB): (A) Brain structure- The brain has several barriers, including the BBB, the outer blood-cerebrospinal fluid (CSF)–brain barrier, and the blood–CSF barrier; (B) BBB structure- The BBB is formed by endothelial cells (ECs) that are in close association with astrocyte end feet and pericytes, forming a physical barrier; (C) BBB transport- Routes for molecular traffic across the BBB are shown. Some transporters are energy-dependent (P-glycoprotein, P-gp) and act as efflux transporters; (D) Tight junctions- Tight junctions are typically located on the apical region of ECs. The tight junctions form complex networks that result in multiple barriers that restrict the penetration of polar drugs into the brain.
+
+Schematic representation of mechanisms available for drugs transport across the BBB: Schematic shows the main mechanism behind the drugs or small molecule transport across the BBB ie receptor-mediated transcytosis; adsorptive transcytosis (passive transport), diffusion or active transport.
+
+Notes: Reprinted from Adv Drug Deliv Rev, 103, Nair M, Jayant RD, Kaushik A, Sagar V., Getting into the brain: potential of nanotechnology in the management of NeuroAIDS, 202–217, Copyright 2016, with permission from Elsevier.
+
+The first evidence for the existence of a barrier between the central nervous system (CNS) and the systemic circulation was reported by Paul Ehrlich in 1885 and Edwin Goldmann in 1913 and the term “Blood-brain barrier” (BBB) was coined by Stern and Gaultier in 1922. The nature of the BBB is semipermeable as it restricts the movement of detrimental molecules and cells from the blood and allows uptake of selective nutrients and hormones. The major cells comprising the BBB are brain microvascular endothelial cells (BMECs), which are supported by astrocytes, and pericytes. We briefly introduce the biological properties and functions of individual BBB components to discuss in vitro BBB models. The assurance of the access of nutrients to the brain is due to the large surface area, and the diminutive diffusion distance from the BBB capillaries to the neurons in the CNS and the chemicals/molecules penetrate the BBB by utilizing intra- and intercellular routes. Tight junctions (TJs) to facilitate the passage of molecules based on their lipophilicity, ionization, polarity and other physicochemical properties regulate the intracellular route whereas, the intercellular route [(transport of molecules from the luminal (apical) to the abluminal (basolateral) side of endothelial cells] is controlled by passive diffusion, endocytosis, and the ratio of influx and efflux transporters.
+
+The inefficacy of drugs to reach across the BBB is mainly due to poor physico-chemical or pharmacokinetic properties, i.e. inefficient absorption, distribution, metabolism, and excretion (ADME). In addition to ADME, the toxicity of CNS drugs is also one amongst the significant shortcomings. Drug exposure is controlled by plasma pharmacokinetic properties of the drug, which are different from the brain pharmacokinetics of the drug. Studying drug pharmacokinetics for CNS specifically involves understanding the correlation of physicochemical properties of drug compound and physiological function of the BBB. Therefore, in this review, we have discussed the fundamentals of BBB focusing on the permeation mechanisms, penetration measurement, prediction methods and diseases patterns that have been changing in recent times. In the case of infectious diseases of CNS or ageing disorders, the most significant factor is the incapability of BBB to maintain its integrity and open temporarily allowing the access of the drugs into the CNS. Unable to maintain the brain homeostasis and allowing minimal bioavailability of the drug into the CNS, the BBB directly contributes towards the progression of the pathological conditions. This makes BBB a potential target for designing the drugs that can cross the BBB to treat CNS disorders. The progress of new chemical entity into clinically effective drugs is hindered by numerous drawbacks intrinsic to modelling the CNS in vitro and in vivo for instance, the post-mitotic nature of neurons (limited access to primary cultures), presence of an intricate tissue cyto-architecture, anatomical and molecular inter-species diversities, and constrained access to the human brain. Therefore, in order to study the drug transmigration across the BBB, simplified in vitro BBB models have been developed, including the monolayer models, co-culture models, dynamic models, stem cell-based and microfluidic models, to understand the dynamics and role of the BBB. The in vitro BBB models come with the shortcoming of not being able to be replicated in vivo conditions, therefore understanding the limitations of the in vitro BBB models would be critical for experimental design and data interpretation.
+
+Fundamentals and composition of BBB
+
+The BBB consists of a monolayer of BMECs connected by much tighter junctions than peripheral vessels and forms a cellular membrane, which is known as the physical backbone of the BBB. The key characteristics of the BBB are its uniform thickness, absence of fenestrae, least pinocytotic activity, and negative surface charge. In the BBB composition, the capillary basement membrane, pericytes, astrocytes, and microglial cells forming the neurovascular unit support BMECs. The basement membrane is made of collagen and elastin structural proteins, fibronectin and laminin, which are specialized proteins and finally proteoglycans, which gives the structural specificity and membrane stability. Additionally, pericytes are the cellular constituents of microvessels, including capillaries and postcapillary venules, which cover 22–32% of the capillaries and share the same basement membrane, helping in various structural and non-structural tasks of the BBB. It synthesizes structural and signaling proteins and contributes to the BMECs proliferation, migration, and differentiation processes. The astrocytes are other important types of cells, contributing as a part of the neurovascular unit of CNS. Additionally, the presence of immunocompetent brain microglial cells is crucial that checks the local microenvironment with its motile extensions and are capable of changing phenotype according to the homeostatic disturbance in the CNS. The interactions of the BMECs with the basement membrane, glial cells (microglia and astrocytes), neurons, and perivascular pericytes lead to specific brain microvascular biology. Presence of matrix adhesion receptors and signaling proteins form an extensive and complex matrix that is essential for the maintenance of the BBB (Figure 1).
+
+Molecular properties of BBB
+
+The molecular constituents of TJs, adherence junctions, and signaling pathways regulate the BMECs assembly. TJs are highly dynamic structures that are responsible for the selective permeability property of the BBB as the apical region of the endothelial cells are sealed together by TJs allowing limited paracellular permeability. Structurally, TJs are formed by the interaction of integral transmembrane proteins with the adjacent plasma membrane. Among these proteins, junction adhesion molecules (JAM), claudins and occludins (intermembrane) bind to cytoplasmic proteins (e.g. zonula occludens, cinguline), and are well-studied for their role in the TJs constituting the BBB. Along with contribution to the physical restriction property of the BBB, TJs also provide functions such as control of gene expression, cell proliferation, and differentiation. Below the TJs, actin filaments (including cadherins and catenins) link together and form a belt of adherence junctions. These adherence junctions contribute to the barrier property along with additional roles such as promoting BMECs adhesions, contact inhibition throughout vascular growth, cell polarity and controlling paracellular permeability regulations. Dynamic interactions between TJs and adherence junctions, through signaling pathways, regulate the BBB permeability. These signaling pathways include mitogen-activated protein kinases, endothelial nitric oxide synthases, and G-proteins and interaction between these pathways regulate the paracellular route. The signal transduction includes signals from the interior of the cells to the TJs (facilitating the assembly and regulating the permeability) and signals from the TJs to the interior of the cell for modulating gene expression, proliferation and differentiation. In addition to the proteins with enzymatic activities, there are other specific proteins (i.e. drug efflux transporters (ATP-binding cassette (ABC), P-glycoprotein-Pgp, multidrug resistance proteins- MRPs, organic anion transporting polypeptides (OATPs), organic anion transporting polypeptides) that work as the BBB transporters, responsible for the rapid efflux of xenobiotic/drugs from the CNS, and for the delivery of the essential nutrients and transmitters into the brain, resulting in the specific barrier functions of the BBB, important for protecting CNS against harmful xenobiotics. BBB is complex, and transmigration of small/drugs molecules or drug-loaded nanoparticles still is a big challenge. The main drug transport mechanism for small/drug molecules for BBB permeation is attributed to passive diffusion, active transport, carrier-mediated/receptor-mediated and for larger peptide or proteins trans-endocytosis is the main transport mechanism (Figure 2). Other than physiological condition of basal membrane, physicochemical parameters of drugs (i.e. size, shape, charge molecular weight or lipophilicity) also effects the drug transport and need to be considered while designing the newer therapeutics. More details about the effect of these physicochemical parameters on BBB transport is covered in the review article by Teleanu et al (2018) and research article by Surnar et al (2018).
+
+In vitro BBB permeation measurement methods
+
+To expedite the process of brain research, and the development of novel drugs for numerous neurological diseases, different types of in vitro BBB models have been established. However, as none of these in vitro models entirely reproduces the in vivo conditions, there is no perfect in vitro BBB model. Therefore, it is important to carefully choose the in vitro BBB model according to the requirement of the study and interpretation of the data, efficiently. Here, we have summarized the commonly used in vitro BBB models, including the recently developed microfluidic BBB models, along with their advantages and disadvantages. Based on the simulation of shear stress, in vitro BBB models are classified into the static and dynamic BBB models.
+
+Static BBB models
+
+Static BBB models are commonly used, but they do not imitate the shear stress, which is
+
+usually generated in vivo due to the blood flow. Static BBB models are further divided into monolayer and co-culture models, based on type of cells involved in the BBB design.
+
+Monolayer BBB models
+
+Schematic representation of different in vitro BBB models: (A) Configurations for in vitro static BBB Models using brain capillary endothelial cells (BCECs) (i) Monolayer models: are constructed using BCECs on the upper side of microporous semipermeable membrane (transwell), (ii) Non-contact co-culture: Astrocytes seeded at the bottom of the culture wells with BCECs; (iii) 2D co-culture contact models: endothelial cells are grown on porous cell culture inserts and co-cultured with primary astrocytes. Reprinted from J Pharm Sci, 105(2), Tornabene E, Brodin B, Stroke and drug delivery—in vitro models of the ischemic blood-brain barrier, Page Nos.398–405, Copyright 2016, with permission from Elsevier. (B) Cone and Plate viscometer apparatus. (C) Dynamic in vitro blood–brain barrier (DIV-BBB) model: The endothelial cells (ECs) are cultured inside the fibronectin-coated surface of hollow fibers made up of polypropylene. This system allows co-culture because astrocytes can be cultured on the outer surface of the hollow fibers. (B) and (C) adapted from J Pharm Sci, 101(4), Naik P, Cucullo L, In vitro blood-brain barrier models: current and perspective technologies, Page Nos.1337–1354, Copyright 2012, with permission from Elsevier. (D) Microfluidic-based in vitro BBB models: layered PDMS channels sandwiching a polyester membrane and the organization of b.End3 endothelial cells, pericyte, and astrocytes in the co-culture model. Reprinted with permission from Wang JD, Khafagy E-S, Khanafer K, Takayama S, ElSayed MEH. Organization of endothelial cells, pericytes, and astrocytes into a 3D microfluidic in vitro model of the blood–brain barrier. Mol Pharm. 2016;13(3):895–906. Copyright © 2016 American Chemical Society. (E) Stem cell-derived in-vitro BBB model: Undifferentiated iPSCs were differentiated simultaneously into ECs and neural cells, and then brain like ECs were purified on a selective matrix and co-cultured with astrocytes, the ECs exhibited a high TEER and formed networks of tight junctions.
+
+Abbreviations: ACM-Astrocyte-conditioned medium; BMEC- Brain microvascular endothelial cell; and TEER- Transendothelial electric resistance; iPSCs- Induced pluripotent stem cells; UM- Unconditioned medium; E6-Essential medium; EC-Endothelial cell medium supplemented with bFGF (Basic fibroblast growth factor); RA-Retinoic acid.
+
+A monolayer of endothelial cells grown in the Transwell insert is used as a simple in vitro BBB model (Figure 3A-i). The insert mimics the blood (luminal) side, whereas the well in which the insert fits, mimics the parenchymal (abluminal) side. The microporous membrane support (0.2–0.4 μm) allows the exchange of small molecules and cell-secreted growth factors but prevents the migration of cells between the two compartments. To mimic the unique properties of BMECs, primary or low passage number cells are used for the BBB model preparation. This process is challenging, due to isolation and culturing the primary BMECs as well as has a considerable risk of being contaminated by the mural cells. Also, low yield of primary BMECs after isolation is a shortcoming as the brain vasculature records only for 0.1% (v/v) of the brain, therefore a large number of rodents are needed to isolate enough primary BMECs to continue with the cell culture studies. To overcome this limitation, larger species and nonhuman primates are utilized for the experiment to isolate significant amounts of BMECs, for further experiments. Human cells are used for the studies focusing human-specific transporters/receptors or immunological aspects, but insufficient because of ethical issues. To overcome this, many immortalized human cell lines, such as human cerebral microvascular endothelial cell line (hCMEC/D3) and immortalized human cerebral endothelial cells, have been produced, which are useful but have lower expression of some of the BBB specific transporters and enzymes, leading to decreased generation of a tight monolayer and thus, having inadequate barrier function. This inadequacy is counteracted by the addition of BBB modulating compounds like cAMP and glucocorticoids, which increase the endothelial monolayer tightness and stability. Monolayer models are employed in studying signaling pathways, transporter kinetics, binding affinity, and high-throughput screenings. However, the monolayer model is not ideal for BBB integrity studies, as it has only one type of cells (BMECs) and lacks to imitate the brain microenvironment in which cell to cell communication is essential between different cell CNS cell types. Therefore, for the study of BBB integrity, more vivid and complex BBB model is required, such as co-culture and dynamic models.
+
+Co-culture BBB models
+
+In order to mimic the anatomic structure of BBB in vivo, BMECs are co-cultured with other CNS cells that directly contribute to the barrier properties of BBB. Interaction between BMECs and other brain cells increases the expression of transporters, TJs in BMECs, and induces the cell polarity in BMECs, promoting a phenotype closely mimicking the BBB in vivo. In this co-culture model (BMECs with astrocytes or pericytes) fits (Figure 3A-ii). BMECs are seeded in the transwell insert, and astrocytes are grown either on the undersurface of the transwell insert or at the base of the well in which the insert. Since pericytes also have a key role in BBB regulation, a BMEC–astrocyte-pericyte co-culture model has also been developed, which is termed as a triple co-culture system (BMEC–pericyte–astrocyte). Addition of pericytes enhances the quality of the co-culture model compared to the monolayer model. In this model, BMECs are plated in the transwell insert with astrocytes at the bottom of the well and pericytes on the underside of the insert (Figure 3A-iii). Although it lacks the direct cell-cell to communication between BMECs, astrocytes, and pericytes, this arrangement utilizes indirect cell-to-cell communication via secreted soluble factors, which promotes BBB regulation. BMEC–pericyte–astrocyte triple co-culture model is a more reliable in vitro BBB model due to the higher transendothelial electric resistance (TEER) value and lower permeability, which generates tighter BBB, ideal for permeability studies.
+
+Dynamic BBB models
+
+In physiological conditions, the steady blood flow generates the shear stress, which regulates transporters and TJs expression, donating towards effective barrier function. Shear stress developed by blood flow increases ZO-1 expression and reduces permeability; therefore the dynamic BBB models, with shear stress, have been developed, which are of three major types, namely the cone-plate, dynamic and microfluidic-based models.
+
+Cone-plate BBB apparatus
+
+The cone-plate apparatus was used initially to construct shear force, in which a rotating cone produces shear force, and the angular velocity and the angle of the cone regulate the produced shear stress. The sheer stress then reaches the endothelial monolayer via the medium (Figure 3B), but it is not uniformly dispersed along the radius of the plates, and therefore the endothelial monolayer receives varying shear stress depending upon the location. This model does not include astrocytes and pericytes; therefore, it has a limited application, low reliability, and less significant to be used in the BBB studies.
+
+Dynamic in vitro BBB model
+
+To incorporate both the components, i.e., shear stress and various cell types, microporous hollow fibers are used (Figure 3C). In this model, BMECs and astrocytes are implanted in the inner (luminal) and outer (abluminal) sides of the porous hollow fibers, respectively. The culture medium is pushed into the system through a variable-speed pump to produce shear stress equivalent to that of physiological conditions in vivo (5–23 dynes/cm2). To maintain the stable microenvironment, a gas-permeable tubing system was used for the exchange of O2 and CO2. This dynamic in vitro BBB model has been used to study the pathophysiology of various CNS diseases, including ischemia-reperfusion-induced injury and epilepsy. Recently, an updated model with hollow fibers with transmural microholes of 2–4 μm has been developed to facilitate transmigration/trafficking studies. However, the dynamic BBB model has many disadvantages like, i) it does not allow direct visualization of the endothelial morphology in the luminal side; ii) the cell numbers (>1×106) required to build this model are relatively high, and iii) the time required to reach steady-state TEER is longer (9–12 days) compared to co-culture models (3–4 days). These shortcomings prevent the use of dynamic in vitro BBB model in large-scale screens. This model, however, is useful in lead compound validation/optimization in new drug research and development.
+
+Microfluidic based BBB models
+
+Microfluidic device-based in vitro BBB models have been developed to overcome the shortcomings of dynamic BBB models. The microfluidic BBB (μ-BBB) comprises two perpendicularly crossing channels, allowing the dynamic flow to generate shear stress; a polycarbonate porous membrane placed over the intersection of the perpendicular channels, enabling the co-culture of BMECs and astrocytes (on the luminal and abluminal sides, respectively). The channels are 200 μm tall, 2 mm (luminal) and 5 mm (abluminal) wide. It also contains multiple built-in Ag/AgCl electrodes for facilitating the TEER measurement (Figure 3D). Pumps and a gas-permeable tubing system are used to generate shear stress and allow O2–CO2 exchange, respectively. This μ-BBB model is further improved by replacing the oxidation-sensitive AgCl electrodes with inert platinum ones and reducing the cross-sectional area. These adjustments offer precise measurement of TEER and reduce the number of cells required. Additionally, the microfluidic-based BBB model with the microhole, have been designed to study the BBB permeability of drugs, which is composed of two horizontally aligned chambers connected by a microhole structure, but the shortcomings of the model is that i) it lacks cell-cell contact and, ii) it fails to replicate the dimensions of microvasculature in vivo. Therefore, currently, the development of a new version of the microfluidic device, i.e., a synthetic microvasculature model of the BBB (SyMBBB) is progressing. The SyM-BBB model contains two microchannels separated by microfabricated pillars, which mimic the porous membrane of the μBBB model. Endothelial cells were infused to the blood chamber via ports 1 and 2, whereas astrocyte-conditioned medium or astrocytes were infused to the brain chamber from port 3. The flow velocity of medium in these chambers regulates the shear stress. This design mimics the in vivo microcirculatory system in a better way by including the diverging and converging bifurcations. In comparison to the dynamic BBB model, the microfluidic models are closer replicates of the in vivo BBB structure as they have thicker membrane (<10 μm), which allows efficacious transmigration studies conditions. With the microfluidic model, nondestructive microscopy is possible because of the transparency of the materials, it takes relatively less time (3–4 days) to achieve steady-state TEER, and require only a modest amount of cells and are less challenging in terms of technical skills. Although the microfluidic systems have so many advantages, they have limitations too, i.e., 1) TEER value is not high enough (250–300 Ω∙cm2), ii) only incorporate two cell types, given that the membrane and pillars (hollow fibers in the dynamic in vitro BBB model) have only two sides. With the growth of research data, these microfluidic models may be used to aid neurovascular research and new drug development in the future due to its small size, short time to reach steady state TEER, low-to-moderate technical skill requirement, and low cost.
+
+Stem cell (iPSCs) based BBB models
+
+Pluripotent stem cells (PSCs), like embryonic stem (ES) cells and induced pluripotent stems cells (iPSCs) exhibit excellent properties that mimic physiological in vivo conditions. Stem cell-based in vitro systems have been extensively used for drug screening and regenerative therapies via differentiating cells from patient-derived pluripotent stem cells. For the in vitro BBB development, BMECs from human ES and iPSC by co-differentiation with neural cells along with retinoic acid have been explored comprehensively comparing to other available models (Figure 3E). The differentiated cells showed similar properties comprising barrier integrity with tissue derived BMECs. Yamanaka’s contribution of deriving iPSCs from somatic cells and the neuronal differentiation procedure established by Zhang and co-workers on human ES, modelling neurological diseases in vitro using iPSCs had made a significant impact in the field of BBB and have been explored for the various neurological diseases like Parkinson’s disease, Huntington’s disease, Epilepsy, Down’s syndrome, and autism disorders. Stem cell-derived BBB model provides a human, scalable, and reproducible source of cells, which can achieve good barrier properties like in vivo. Furthermore, the use of iPSCs provides an integrated model allowing the usage of isogenic co-cultures and consequently generate models similar to the complexity observed in vivo. The use of patient-specific in vitro models of the BBB generates unique aspects to detect how genetic disorders linked with neurological indications hamper the barrier function, thus, ultimately leading the researchers to identify novel therapeutic agents. Even though the iPSCs system offers great advantages, but the cell differential procedure depends upon various random and permanent insertion of transcription factors. Another major hurdle in diseases modelling using patient-derived iPSCs is the limited source of patient-derived iPSCs lines, shortage of matched-controls (e.g., parents, siblings) and a probable characteristic genetic drifting owing to the derivation and the maintenance of iPSC lines. Furthermore, the use of a genome integrating approach in the derivation method comprises a significant hurdle in translating such outcomes into iPSC-based cell therapies. Recent advances in gene editing techniques as CRISPR/Cas 9 provides exciting opportunities in diseases modelling using iPSCs. In addition, to tackle the problems mentioned above, various approaches have been developed, e.g. non-genomes integrating re-programming techniques like the usage of episomal vectors that allow cell-reprogramming bypasses, the insertion of genomic sequences have been developed. Although, these methods still have hindrances like epigenetic reprogramming and loss of patient-specific epigenetic signature. A significant problem of in vitro modelling is the absence of 3-dimensional structures related to cellular cytoarchitecture observed in vivo. A substitute to such matter is the portrayal of brain “organoids” offering a primitive multi-layer sphere. Although, these structures have several hindrances like the absence of an extracellular matrix scaffold (in vivo), absence of neuronal projections and tracts, and the presence of multi-cellular organoids integrative of glial cells.
+
+Zhang et al, produced an in vitro human BBB model by differentiating the human iPSC GM25256 cell line into brain endothelial cells. The model displayed various BBB features such as tight junction proteins (ZO-1, claudin-5, and occludin), endothelial markers (von Willebrand factor and Ulex), high transendothelial electrical resistance (TEER) value and c-GTPase activity. The TEER value significantly increased when co-cultured with primary rat astrocytes. RNAseq analysis verified the expression of all the important BBB related genes in the human iPSC derived endothelial cells in comparison to primary BMECs, comprising breast cancer resistant protein (BCRP) and P-glycoprotein (Pgp). Drug transport assays were also performed and in vitro results generated from this model could predict the in vivo BBB permeability of tested drugs in a successful manner. In another study by Lippmann et al showed that retinoic acid enhances the expression of vascular endothelial cadherin in differentiated ECs considerably before passage/purification, and in combination with hydrocortisone, it resulted in the higher TEER value in comparison to untreated cells. Researchers have also demonstrated the effect of co-culture with astrocytes and pericytes on purified BMECs to achieve better barrier and higher TEER measurements (6635±315 Ω × cm2; the highest reported value of TEER till now). Despite substantial progress, stem cell-derived in vitro BBB models demand cell surface marker enrichment or co-differentiation and purification actions generate a pure population of specialized brain endothelial cells still a big challenge.
+
+Advantages and disadvantages of different in-vitro BBB models
+
+Model Type	Advantages	Disadvantage	 	Epithelial cells overexpressingTransporters model	CheapEasy to standardize	Differences between epithelial and endothelial cellsNon-physiologically high levels of transporter	 	Transwell monoculture model- Cerebral endothelial cells on microporous membranes	Uses brain endothelial cellsInexpensive	Effect of other cellular components of the neurovascular unit (NVU-astrocytes, pericytes) is neglectedNo shear stress	 	Co-cultures models- Co-culture of cerebral microvascular endothelial cells with astrocytes	 	Co-culture models using pericytesTriple cell co-culture models (astrocytes, endothelial and pericytes)Co-culture of brain endothelial cells with neuronal precursors	Takes into account the influence of other elements of the neurovascular unit (NVU)	Relatively expensive and time-consumingNo shear stress	 	Dynamic in vitro (DIV) model	Mimics in-vivo situation possibility of co-culture	ExpensiveNo possibility to optically monitor the cellsSpecial skills required to culture cells in these conditions	 	Microfluidic model	Mimics in-vivo situation possibility of co-culture	Not well-established models presently expensive	 	iPSC (Pluripotent stem cells) based model	Generate models similar to the human complexity observed in-vivoVery high TEER values	Differential procedure depends upon random and permanent insertion of transcription factors,Complicated procedure with meagre yieldRigid removal of epigenetic markers related to environmental exposure or age
+
+Comparison of different in vitro BBB models for drug transport
+
+Model Type	Other brain cell required	Sheer Stress produced	Time to stable TEER (d)	Appropriate for migration assay	Cost	Technical requisite	 	Monolayer	No	No	3–4 d	Yes	Low	Low	 	Co-culture	Yes	No	3–4 d	Yes	Low to moderate	Moderate	 	Cone-plate apparatus	No	Yes	3–4 d	No	Low	Low to moderate	 	Dynamic in vitro BBB	Yes	Yes	9 −12 d	No	High	High	 	Microfluidic based model	Yes	Yes	3–4 d	Yes	High	Moderate	 	iPSC based model	No	Yes	>1 Week	Yes	High	High
+
+iPSCs were also used to form neural progenitor-like EZ spheres, which can be differentiated into neurons and astrocytes, facilitating facile neural cell production. Canfield et al have developed an isogenic (each cell type obtained from the same patient) human BBB model containing iPSCs derived BMECs, astrocytes, and neurons. Furthermore, iPSC-derived BMECs co-culture with EZ-sphere-derived astrocytes and neurons generated in a sustained enhanced TEER compared to previously expressed models utilizing primary rat astrocytes and primary human NPCs as co-cultured neural cell sources. These models predicted that the generation of an isogenic model would help in applications for human BBB models and will serve as an excellent tool to evaluate human genetic disease on BBB, drug screening and toxicity evaluation for neurological disorders. The key features, advantages, and disadvantages of all the different type of in vitro BBB models are summarized in Table 1 and the comparison between different in vitro BBB models are also summarized in Table 2.
+
+BBB permeation prediction methods (in silico methods)
+
+The widely used in silico prediction of the BBB permeability is an inexpensive, less time consuming, and high throughput screening method for novel compounds in the drug discovery process. Although this method is based on several molecular descriptors or physicochemical characteristics of the molecule, it has its strengths and weaknesses. These computational models are typically based on the previous in vivo and in vitro experimental data. Therefore, for the predictive power of estimations, the selection of datasets is a critical component. The assumption of passive diffusion of a compound as a major route of transport through the BBB is the base for the in silico predictions that do not consider various BBB transport pathways, e.g., nanoparticle-based transport/carrier-mediated, receptor-mediated, and active efflux or influx transport methods. Recently, cerebrospinal fluid (CSF) penetration is also considered in in silico model while analyzing the brain penetration of the molecule.
+
+In-silico models and their parameters used for predicting drug penetrability
+
+Model	Description	Parameters involved	 	Brain Penetrability Parameters	 	logBB	Brain to plasma ratio (log Cbrain/log Cblood)	Correlation with quantitative structure-activity relationship data	 	logPS	BBB permeability surface area product	Correlation with quantitative structure-activity relationship data	 	logCSF	Cerebrospinal fluid to plasma ratio ((log CCSF/log Cblood)	Correlation with quantitative structure-activity relationship data	 	Molecular Descriptors	 	logPoct	Octanol/water partition coefficient	Hydrophobicity, H-bond donor potential	 	ΔlogP	The difference in octanol/water and cyclohexane/water partition coefficients (logPoct - logPcyc)	Low overall H-bonding ability	 	logD	Log distribution coefficient	Lipophilicity (0< logD <3)	 	Classical descriptors	Physicochemical parameters	Polar surface area; Molecular weight; Molecular size, shape, and flexibility Charge	 	P-glycoprotein substrate	High-affinity P-glycoprotein substrate probability	Efflux transport through the BBB	 	Rule-based Models	 	Hansch’s rule of 2	Prediction based on octanol/water partition coefficient	Compounds having log Poct ≈2.0 have optimal brain penetration	 	Modified Lipinski’s rules for CNS penetration	Prediction based on selected molecular descriptors	H-bond donors ≤3; H-bond acceptors ≤7; molecular weight ≤400 Da; log Poct ≤5.0; 7.5< pKa <10.5	 	CNS active drugs	Prediction based on selected molecular descriptors	Polar surface area <90 Å H-bond donors <3; 2.0 log Poct <5.0; molecular weight <450 Da	 	Quantitative Structure-Activity Relationship (QSAR)	 	Linear QSAR	Prediction based on selected molecular descriptors	Multiple Linear Regression (MLR); Partial Least-Squares (PLS) methods; Variable Selection and Modelling Method based on the Prediction (VSMP); Linear Discriminant Analysis (LDA); Comprehensive Descriptors for Structural and Statistical; Analysis (CODESSA)	 	Non-linear QSAR	Prediction based on selected molecular descriptors	Neural Networks (NN); Bayesian Modelling; Support Vector Machine (SVM); Gaussian Processes; k Nearest Neighbour Method; Recursive Partitioning; Substructure Analysis
+
+Abbreviations: H, bond-hydrogen bond; logBB, brain to plasma ratio; logCSF, cerebrospinal fluid to plasma ratio; logD, log distribution coefficient; logP, log octanol/water partition coefficient; logPS, Blood-Brain-Barrier permeability surface area product; pKa, log of acidic dissociation constant.
+
+To improve the predictive values of these computational models, novel sophisticated approaches have been developed. Table 3 shows different computational models to predict the BBB penetration property of newly designed or synthesized compounds. For brain penetration studies, brain-to-plasma ratios is measured and in silico extrapolations are based on the available logBB data, which represents the most readily available experimental data. In the training set, several molecular descriptors of the compounds are calculated with known logBB values, which were experimentally determined. To derive the equation from the given relationship between logBB and the compound has computed descriptors, typically, regression methods used. Because of its physiological relevance, the permeability surface area product (PS value/logPS) would be an effective method of determining the BBB permeability for a specific molecule both in vivo and in vitro, compared with the currently more popular logBB. Unfortunately, the availability of logPS is limited due to the complicated measurement of logPS than that of logBB. Based on Lipinski’s rule, molecules which have not more than 5 H-bond donors and not more than 10 H-bond acceptors, with an MW of <500 Da and an octanol/water partition coefficient log P under 5 can be the drug candidates. Molecules with these physicochemical characteristics have good aqueous solubility and intestinal permeability. Approximately 90% of the orally active drug molecules, which are under Phase II clinical trials have these characteristics. Guidelines for the properties of new molecules that can be used as potential CNS active drug have been proposed in recent past. The relationship between the experimental data, computationally available parameters of a new compound, and its blood-brain barrier penetration has been studied for long. Among different data sets, the octanol/water partitioning coefficient (logPoct) is one of the earliest predictive factors available for the BBB permeability. For the compounds with MW <400 Da, it is possible to predict the relationship of the capillary permeability coefficient (logPC) to the logPoct. In 1988, when a linear correlation of antihistamines and ΔlogP between the brain-to-blood ratio was established, the computational prediction of BBB penetration for these compounds began. The observation of the inverse relation between the hydrogen bonding activity of the compound and BBB permeability provided a theoretical concept for designing BBB-permeable drugs.
+
+Calculations of logPoct, -cyclohexane, and -dichloromethane systems were used to obtain the descriptors for general Linear Free Energy Response (LFER) equation. Calculation of physicochemical and biochemical properties of the compound would be useful to estimate the blood-to-brain distribution ratio. Universal quantitative scales of hydrogen-bond acidity and basicity of the solute have been standardized for the first time, and along with other descriptors, these descriptors have been used in equations to calculate, predict, analyze and correlate various solute properties. At the same time, these equations may be used for the analysis of physicochemical (LFERs) and biological properties of various compounds, such as quantitative structure-activity relationships (QSARs) set up for blood-brain distribution. Although these rule-based models can be used for the qualitative BBB permeability estimation using various physicochemical descriptors, these may not be useful to predict the active BBB transport through efflux pumps, carriers, and receptor-mediated transmigration. Overall, these in silico quantitative models as classification tools have more than 70% accuracy in predicting logBB. For the analysis of various molecular descriptors listed in Table 3, both linear and non-linear statistical methods would be used. These in silico models for predicting logBB and logPS are reliable and popular than in vitro and in vivo BBB models in the drug discovery process, as these methods are economical and faster. However, the size and quality of the training set play a key role in the accuracy of predicting the passive permeability. Similar to the recently developed model for P-glycoprotein substrate properties, if new models for the active transport mediated by carriers, receptors, and efflux pumps are developed, the predictive power of the in silico models will be tremendously increased.
+
+The rationale for BBB model selection
+
+Applications of BBB models in drug discovery and development.
+
+In vitro BBB models are extensively used for the initial stages of novel drug development, which includes lead identification, hit identification and target identification, optimization (Figure 4). Once a target (enzyme, receptors, etc.) is identified, high-throughput screening (HTS) is employed to identify probable drug contenders. At this phase, a large number of compounds need to be screened and thus, requires easy and fast in vitro BBB screening model. Selecting suitable in vitro models not only enables accurate interpretation of the data but also saves time and money. The main criteria in the model selection are the purpose of study, in case of monolayer or co-culture models, which generally take 3–4 days to reach steady-state TEER value and are reasonably easy to construct, can be used. Previous studies have revealed that the use of different immortalized cell lines provides the best correlation between in vitro and in vivo data for permeability assays. The co-culture models and dynamic in vitro BBB models are the best models to study the drug permeability. Many multi-culture models (2D or 3D) are commercially available now, which considerably reduces the efforts and time, but increases the cost. For trafficking/migration studies, microfluidic BBB model is the right option due to the incorporation of shear stress component and ability to mimic in vivo conditions. To study signaling pathways/transporter kinetics, or to quantify binding affinities, monolayer model is the best option due to its inherent simplicity. For the lead identification/optimization phase studies, validation, and structure-activity relationships (SAR) and toxicological profile, more sensitive in vitro models that replicate the majority of the in vivo conditions are required, i.e., iPSCs based model or static co-culture and dynamic models along with newly developed microfluidic-based BBB models can serve as an alternate choice. Primary human-derived cells are a better option than immortalized cell lines due to more closeness to biological properties of the BMECs in vivo. Authentication using human-derived primary cells is highly recommended for the generation of in vitro BBB model to evade species based difference that may lead to the failure of a product in the later development stages. Based on the above problems and suggestion, Figure 4 summarizes the selection of in vitro BBB models at different research and development stages for the therapeuticdrug development. The selection criteria of BBB models still a big puzzle for small molecule transport versus nanoparticle loaded drugs (Nanoformulation). Based on the available literature and newer development, iPSC based model (CNS organoids) may able to provide a better answer compared to traditional 2D or 3D cell-based models due to human-like pathophysiology and overcome the interspecies (rodent vs human) variability.
+
+Conclusion and future aspects
+
+In vitro models of the BBB have proven exceptionally valued for investigations of endo-thelial cell properties and mechanistic studies of drug transport via brain endothelial cells. The early effort of the pioneers has been followed up by a large community of investigators and has resulted in a range of in-vitro model configurations. In general, the cell culture models of the brain endothelium are believed to reflect the properties of the healthy BBB. In vitro BBB models are essential to our understanding of the BBB functions in physiological and pathological situations and the research and development of novel drugs for different neurological conditions. Different in vitro BBB models have been established and used for a variety of permeation studies; no single model can imitate the in vivo conditions physiologically. Further, knowing the advantages and disadvantages of each of these models and rationale of selecting the appropriate model may allow the precise understanding of the data and elaborate the development of novel drugs for the treatment or management of neurological diseases. In summary, we attempt to provide an overview of regularly used, newly developed and advanced in vitro BBB models, equated their strengths and weaknesses and attempted to rationalize the model selection. Model selection parameters are critical for predicting drug transport because the disease in question may affect the barrier properties. A combinatorial approach of in vitro BBB models and in-vivo methods will be the key to the development of CNS therapeutics with improved pharmacokinetic properties and better BBB penetrability.
+
+Disclosure
+
+The authors report no conflicts of interest in this work.
+
+References
+
+Cell-culture models of the blood–brain barrier
+
+Les Rapports Entre Le Liquide Céphalo-Rachidien Et Les éléments Nerveux De L’axe Cerebrospinal
+
+Microglia, macrophages, perivascular macrophages, and pericytes: a review of function and identification
+
+Modelling of the blood–brain barrier in drug discovery and development
+
+Capture, crawl, cross: the T cell code to breach the blood–brain barriers
+
+Blood brain barrier permeation
+
+Getting into the brain: potential of nanotechnology in the management of NeuroAIDS
+
+Physiology of the blood–brain barrier and its consequences for drug transport to the brain
+
+The concept of an ideal antibiotic: implications for drug design
+
+Looking at the blood–brain barrier: molecular anatomy and possible investigation approaches
+
+Microglia in the CNS: immigrants from another world
+
+Stem cell-based human blood–brain barrier models for drug discovery and delivery
+
+The blood–brain barrier: an overview: structure, regulation, and clinical implications
+
+In vitro models of the blood–brain barrier: an overview of commonly used brain endothelial cell culture models and guidelines for their use
+
+Blood-brain barrier active efflux transporters: ATP-binding cassette gene family
+
+Role of drug efflux transporters in the brain for drug disposition and treatment of brain diseases
+
+Personalized nanomedicine for CNS diseases
+
+Magnetically guided non-invasive CRISPR-Cas9/gRNA delivery across blood-brain barrier to eradicate latent HIV-1 infection
+
+Penetration of the blood-brain barrier by peripheral neuropeptides: new approaches to enhancing transport and endogenous expression
+
+Nanotechnology-mediated crossing of two impermeable membranes to modulate the stars of the neurovascular unit for neuroprotection
+
+Drug metabolism and pharmacokinetics, the blood-brain barrier, and central nervous system drug discovery
+
+Blood-brain delivery methods using nanotechnology
+
+In vitro models for the blood–brain barrier
+
+In vitro models of the blood-brain barrier
+
+A new blood–brain barrier model using primary rat brain endothelial cells, pericytes and astrocytes
+
+Modeling the blood–brain barrier using stem cell sources
+
+Immortalized human cerebral microvascular endothelial cells maintain the properties of primary cells in an in vitro model of immune migration across the blood brain barrier
+
+An improved low-permeability in vitro-model of the blood–brain barrier: transport studies on retinoids, sucrose, haloperidol, caffeine and mannitol
+
+Properties of an immortalised vascular endothelial/glioma cell co-culture model of the blood-brain barrier
+
+A pericyte‐derived angiopoietin‐1 multimeric complex induces occludin gene expression in brain capillary endothelial cells through Tie‐2 activation in vitro
+
+Development of an in vitro blood–brain barrier model—cytotoxicity of mercury and aluminum
+
+Pericytes regulate the blood-brain barrier
+
+Pericytes are required for blood-brain barrier integrity during embryogenesis
+
+Development of TIMP1 magnetic nanoformulation for regulation of synaptic plasticity in HIV-1 infection
+
+Layer-by-Layer (LbL) assembly of anti HIV drug for sustained release to brain using magnetic nanoparticle
+
+Nanotechnology for the treatment of neuroAIDS
+
+Role of biosensing technology for neuroAIDS management
+
+Materials and methods for sustained release of active compounds
+
+Advancements in nano-enabled therapeutics for neuroHIv management
+
+Development of magneto-plasmonic nanoparticles for multimodal image-guided therapy to the brain
+
+Externally controlled on-demand release of anti-HIV drug using magneto-electric nanoparticles as carriers
+
+Targeted brain derived neurotropic factors (BDNF) delivery across the blood-brain barrier for neuro-protection using magnetic nano carriers: an in-vitro study
+
+Enhanced blood–brain barrier transmigration using a novel transferrin embedded fluorescent magneto-liposome nanoformulation
+
+Pericytes from brain microvessels strengthen the barrier integrity in primary cultures of rat brain endothelial cells
+
+Human astrocytes/astrocyte-conditioned medium and shear stress enhance the barrier properties of human brain microvascular endothelial cells
+
+Shear stress and the endothelial transport barrier
+
+Apparatus for subjecting living cells to fluid shear stress
+
+In vitro blood–brain barrier models: current and perspective technologies
+
+Volume flow and wall shear stress quantification in the human conjunctival capillaries and post-capillary venules in vivo
+
+Development of a humanized in vitro blood–brain barrier model to screen for brain penetration of antiepileptic drugs
+
+A dynamic in vitro BBB model for the study of immune cell trafficking into the central nervous system
+
+Characterization of a microfluidic in vitro model of the blood-brain barrier (μBBB)
+
+SyM-BBB: a microfluidic blood brain barrier model
+
+A multi-layered microfluidic device for in vitro bloodbrain barrier permeability studies
+
+In vitro model of cerebral ischemia by using brain microvascular endothelial cells derived from human induced pluripotent stem cells
+
+Neurological diseases at the blood-brain barrier: stemming new scientific paradigms using patient-derived induced pluripotent cells
+
+Development of human in vitro brain-blood barrier model from induced pluripotent stem cell-derived endothelial cells to predict the in vivo permeability of drugs
+
+Accelerated differentiation of human induced pluripotent stem cells to blood-brain barrier endothelial cells
+
+An isogenic blood-brain barrier model comprising brain endothelial cells, astrocytes, and neurons derived from human induced pluripotent stem cells
+
+Current in vitro and in silico models of blood-brain barrier penetration: a practical view
+
+Prediction of blood–brain barrier permeation in drug discovery from in vivo, in vitro and in silico models
+
+In silico predictions of blood-brain barrier penetration: considerations to “Keep in mind”
+
+In vivo, in vitro and in silico methods for small molecule transfer across the BBB
+
+In silico prediction of brain and CSF permeation of small molecules using PLS regression models
+
+Benchmarking of QSAR models for blood-brain barrier permeation
+
+Development of a computational approach to predict blood-brain barrier permeability
+
+The factors that influence permeation across the blood–brain barrier
+
+Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings
+
+Lead-and drug-like compounds: the rule-of-five revolution
+
+Relationship between lipophilic character and anesthetic activity
+
+Medicinal chemical properties of successful central nervous system drugs
+
+Blood–brain barrier permeability considerations for CNS-targeted compound library design
+
+Relationship of octanol/water partition coefficient and molecular weight to cellular permeability and partitioning in S49 lymphoma cells
+
+Development of a new physicochemical model for brain penetration and its application to the design of centrally acting H2 receptor histamine antagonists
+
+On the partition of ampholytes: application to blood–brain distribution
+
+Progress in brain penetration evaluation in drug discovery and development
+
+Modeling barrier tissues in vitro: methods, achievements, and challenges
+
+Stroke and drug delivery—in vitro models of the ischemic blood-brain barrier
+
+Organization of endothelial cells, pericytes, and astrocytes into a 3D microfluidic in vitro model of the blood–brain barrier

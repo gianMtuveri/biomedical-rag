@@ -1,0 +1,811 @@
+Exploring novel roles of lipid droplets and lipid metabolism in regulating inflammation and blood–brain barrier function in neurological diseases
+
+The blood–brain barrier (BBB) is a critical structure that maintains the brain’s homeostasis by regulating the transport of molecules and protecting it from harmful substances. However, in neurological diseases such as ischemic stroke, Alzheimer’s disease, Parkinson’s disease, and multiple sclerosis, the integrity and function of the BBB can be significantly compromised. In these conditions, BBB disruption leads to increased permeability, which facilitates neuroinflammation, exacerbates neuronal damage, and accelerates disease progression. Recent research has highlighted the potential of lipid-based carriers, including liposomes and lipid droplets (LDs), in modulating the BBB’s integrity and function in various neurological diseases. Liposomes, with their ability to cross the BBB via mechanisms such as receptor-mediated transcytosis and carrier-mediated transport, are emerging as promising vehicles for the targeted delivery of therapeutic agents to the brain. These properties allow liposomes to effectively reduce infarct size and promote neuroprotection in ischemic stroke, as well as deliver drugs in the treatment of neurodegenerative diseases. Furthermore, LDs—dynamic regulators of lipid metabolism and cellular energy—play an essential role in maintaining cellular homeostasis, particularly during periods of stress when BBB function is compromised. These LDs help sustain cellular energy needs and modulate inflammatory responses, which are key factors in maintaining BBB integrity. Surface modifications of liposomes can further enhance their targeting efficiency, enabling them to selectively bind to specific brain cell types, including neurons, astrocytes, and microglia. This customization improves the precision of therapeutic delivery and supports the development of more tailored treatments. However, challenges such as immune responses, rapid clearance, and complement activation-related toxicity continue to hinder the broader application of liposomes and LDs in clinical settings. This review will focus on the roles of liposomes and LDs in regulating BBB integrity across a range of neurological diseases, discussing their potential for targeted drug delivery, neuroprotection, and the modulation of neuroinflammation. Additionally, we will explore the strategies being developed to address the limitations that currently restrict their clinical use.
+
+Introduction
+
+The blood–brain barrier (BBB) is a dynamic and highly selective interface that separates the circulating blood from the brain parenchyma. Composed primarily of endothelial cells, tight junction proteins, astrocytes, and pericytes, the BBB plays a crucial role in maintaining central nervous system (CNS) homeostasis by regulating the transport of ions, nutrients, signaling molecules, and lipids. Among the critical lipid species required for brain function is docosahexaenoic acid (DHA), an omega-3 fatty acid essential for neuronal development and synaptic function. The transport of DHA across the BBB is largely mediated by the lipid transporter MFSD2A, which highlights the specialized lipid transport mechanisms necessary to support brain metabolism and function. Lipid metabolism is increasingly recognized as a fundamental component of both physiological BBB maintenance and pathological disruption. In this context, lipid droplets (LDs), intracellular organelles involved in lipid storage, signaling, and energy homeostasis, have emerged as key regulators of cellular stress responses, including inflammation and oxidative stress, particularly in neural and endothelial cells. Under pathological conditions, the dynamics of LDs are closely associated with neuroinflammatory responses, mitochondrial dysfunction, and the integrity of the endothelial barrier. For instance, during ischemic stroke, energy failure and oxidative stress compromise the structural and functional integrity of the BBB, resulting in increased permeability, vasogenic edema, and infiltration of peripheral immune cells and neurotoxic substances. This BBB breakdown exacerbates neuronal injury and promotes a harmful neuroinflammatory cascade. In parallel, the development of lipid-based therapeutic strategies—most notably liposomes and LD-modulating agents—has gained traction for their potential in restoring BBB integrity and enhancing drug delivery to the brain. Liposomes, due to their amphiphilic bilayer structure, can encapsulate both hydrophilic and hydrophobic drugs, protect them from enzymatic degradation, and facilitate targeted transport across the BBB. Meanwhile, LDs are increasingly studied not only for their involvement in cellular stress regulation but also as potential targets for modulating inflammation and metabolic dysregulation during cerebrovascular injury.
+
+Lipid metabolism and neurological disorders
+
+The brief course on lipid metabolism
+
+Lipid metabolism encompasses the complex biochemical processes involved in the synthesis, transport, and degradation of lipids. These processes are crucial for maintaining cellular homeostasis, energy production, and structural integrity of biological membranes. The major pathways of lipid metabolism include fatty acid oxidation, lipid synthesis, and lipoprotein metabolism. Dysregulation of lipid metabolism has been implicated in various pathological conditions, including metabolic syndrome, cardiovascular diseases, and neurological disorders. In the nervous system, lipids play fundamental roles in neuronal function, including signal transduction, membrane fluidity, and myelination. The brain, despite comprising only about 2% of body weight, contains nearly 50% of the body’s total lipids, highlighting the significance of lipid metabolism in neural health and disease.
+
+Biogenesis of LDs
+
+LDs are dynamic organelles that store neutral lipids, primarily triglycerides and cholesteryl esters. They are formed through the coordinated actions of the endoplasmic reticulum (ER) and various lipid metabolism enzymes. LD biogenesis is initiated by the deposition of neutral lipids within the ER membrane bilayer, which subsequently buds outward to generate mature lipid droplets (Figure 1). LDs were once considered inert lipid reservoirs, but recent studies reveal their active role in lipid homeostasis, signaling, and cellular stress responses. In neurological contexts, LDs are increasingly recognized as key regulators of neuronal lipid metabolism, oxidative stress mitigation, and neuroinflammation.
+
+Lipid droplet biogenesis. Lipid droplets (LDs) are spherical organelles with a unique structure consisting of a core of neutral lipids, mainly triglycerides (TG) and cholesteryl esters. Their core is surrounded by a monolayer of phospholipids and associated proteins. LDs are dynamic and functionally active organelles involved in various functions such as lipid metabolism, cell signaling and inflammation.
+
+The vital role of lipid metabolism in neurological disorders
+
+Lipid metabolism is intricately involved in maintaining neuronal function, membrane integrity, and energy homeostasis, and its dysregulation has been implicated in a wide range of neurological disorders (Figure 2). In Alzheimer’s disease (AD), impaired lipid metabolism contributes to Aβ aggregation and tau pathology, with cholesterol modulating APP processing and ApoE4 impairing Aβ clearance. Lipid peroxidation products further amplify oxidative stress and neuroinflammation. Similarly, in Parkinson’s disease (PD), especially peroxidized PUFAs and disrupted sphingolipids, promotes α-synuclein aggregation, mitochondrial dysfunction, and lysosomal impairment. In multiple sclerosis (MS), disturbed lipid homeostasis affects myelin synthesis and oligodendrocyte function, while lipid mediators such as eicosanoids and sphingolipids modulate immune responses and neuroinflammation. In Huntington’s disease (HD), involved defective cholesterol and phospholipid metabolism due to mutant huntingtin-induced SREBP dysregulation, compromising synaptic function and neuronal viability. In amyotrophic lateral sclerosis (ALS), abnormal fatty acid utilization, hypermetabolism, and dyslipidemia contribute to motor neuron degeneration and inflammation. In ischemic stroke (IS), lipid metabolism plays dual roles in neuroprotection and neurotoxicity by regulating inflammation, oxidative stress, and BBB integrity through phospholipid and sphingolipid pathways, whose disruption exacerbates vascular permeability, brain edema, and neuronal injury. Lipid peroxidation, triggered by oxidative stress following ischemia–reperfusion injury, generates reactive oxygen species (ROS) that further damage neuronal membranes and promote inflammation. Moreover, cholesterol metabolism influences post-stroke recovery, with evidence suggesting that high levels of oxidized cholesterol derivatives contribute to neuroinflammatory cascades. Collectively, these findings highlight the fundamental role of lipid metabolism in neurological disorders, emphasizing its impact on neurodegeneration, neuroinflammation, cerebrovascular dysfunction, and bioenergetic deficits. Understanding these mechanisms may provide novel therapeutic targets aimed at modulating lipid metabolism to protect against neuronal dysfunction, enhance neuroprotection, and improve recovery following acute neurological insults.
+
+Schematic illustration of lipids and their respective roles in neurological diseases. In the central nervous system, lipid metabolism and lipid LDs play a crucial role in modulating neuroinflammation and preserving BBB integrity in neurological disorders. Disruptions in lipid homeostasis can impair the function of key cellular components, including neurons, microglia, astrocytes, and endothelial cells. Through the regulation of lipid metabolism, processes such as chronic inflammation, neuronal injury, and BBB dysfunction can be influenced, thereby impacting the progression and potential recovery of central nervous system disorders, including Stroke, Alzheimer’s disease (AD), Parkinson’s disease (PD), amyotrophic lateral sclerosis (ALS), Huntington’s disease (HD), and multiple sclerosis (MS). BBB, Blood–brain barrier; AS, Astrocytes; EC, Endothelial cell; CEs, Cholesterol esters; TC, Triglycerides; FA, Fatty Acid; LDs, Lipid droplets; LPA, Lysophosphatidic acid; ROS, Reactive oxygen species; ICH, Intracerebral hemorrhagic stroke; IS, Ischemic stroke; ACSL4, Acyl-CoA synthetase long-chain family member 4; S1P, Sphingosine-1-phosphate; S1PR3, Sphingosine-1-phosphate receptor 3; AD, Alzheimer’s disease; TREM2, Triggering Receptor Expressed on Myeloid cells 2; ApoE, Apolipoprotein E; LXR, Liver X Receptor; ABCA1, ATP-binding cassette transporter A1; PLA2, Phospholipase A2; PD, Parkinson’s disease; COX-2, Cyclooxygenase-2; PPAR-α, Peroxisome proliferator-activated receptor alpha; ACAT1, Acyl-CoA cholesterol acyltransferase 1; 4-HNE, 4-Hydroxynonenal; 10-NO2-OA, Nitroalkene 10-nitro-oleic acid; MS, Multiple sclerosis; HD, Huntington’s disease; ALS, Amyotrophic lateral sclerosis; HDL-C, high-density lipoprotein cholesterol.
+
+Lipid metabolism in BBB penetration
+
+Lipid metabolism plays a fundamental role in maintaining the structural and functional integrity of the BBB, a highly selective barrier that regulates molecular exchange between the bloodstream and the CNS. The BBB is composed of endothelial cells with tight junctions, pericytes, and astrocyte end-feet, all of which rely on tightly regulated lipid homeostasis to preserve barrier integrity and control permeability. The lipid composition of the BBB is unique, being highly enriched in sphingolipids, phospholipids, and cholesterol, which are critical for maintaining membrane fluidity, vesicular trafficking, and signaling. Changes in lipid metabolism can directly influence BBB function, either enhancing its protective role or contributing to its dysfunction in neurological diseases. For instance, sphingolipids and ceramides are known regulators of BBB permeability, with their dysregulation leading to increased endothelial cell apoptosis, inflammation, and barrier disruption. Cholesterol metabolism also plays a crucial role, as cholesterol is a key component of endothelial membranes and lipid rafts, which mediate signal transduction and transport mechanisms at the BBB. However, excessive cholesterol accumulation or the presence of oxidized cholesterol derivatives can trigger inflammatory cascades, leading to endothelial dysfunction and increased BBB permeability, which has been implicated in diseases such as AD, MS, and stroke.
+
+Lipid transporters and lipid-binding proteins further influence BBB penetration and function. Apolipoproteins such as ApoE, which facilitates lipid transport in the brain via lipoprotein particles, significantly impact BBB dynamics. The ApoE4 variant, for example, has been associated with BBB breakdown and neurovascular dysfunction, increasing the risk of neurodegenerative diseases. Additionally, ATP-binding cassette transporters, such as ABCA1 and ABCG1, regulate cholesterol and lipid efflux from endothelial cells, thereby modulating BBB permeability. Dysregulation of these transporters can impair lipid clearance, leading to increased neuroinflammation and neurovascular damage. Fatty acid metabolism also plays a critical role in BBB function, as endothelial cells utilize specific fatty acid oxidation pathways to maintain barrier homeostasis. Disruptions in fatty acid oxidation have been linked to increased BBB permeability and neuroinflammatory responses, particularly in conditions like MS and ischemic stroke.
+
+Beyond its endogenous functions, lipid metabolism is also crucial for drug delivery strategies targeting the CNS. The BBB presents a major challenge for therapeutic agents due to its restrictive permeability, but lipid-based approaches have been explored to enhance drug transport across the barrier. Although lipophilic drugs, lipid nanoparticles, and liposome-based carriers have been explored to enhance drug delivery across the BBB via lipid-mediated transport, the notion that liposomes easily cross the BBB is often misleading. While PEGylation improves systemic circulation by reducing clearance, it does not inherently facilitate BBB penetration and may even hinder interaction with the endothelial surface. Effective transport across the BBB typically requires active targeting strategies, such as receptor-mediated transcytosis. This involves functionalizing liposomes with ligands or peptides that bind to specific receptors expressed on brain endothelial cells—such as the transferrin receptor (TfR), insulin receptor (IR), and low-density lipoprotein receptor (LDLR). These receptors naturally mediate the transport of essential molecules like iron, insulin, and cholesterol into the brain. By mimicking endogenous ligands, targeted liposomes can hijack these pathways to enhance BBB penetration. However, such strategies are still underutilized and often insufficiently optimized in preclinical models, limiting their translational impact. Nevertheless, understanding the interplay between lipid metabolism and BBB function not only provides insights into disease mechanisms but also opens avenues for developing novel therapeutics aimed at restoring BBB integrity and enhancing drug delivery for neurological disorders.
+
+Lipid metabolism and inflammation
+
+The brief course on inflammation
+
+Inflammation plays a central role in neurological diseases, acting as both an acute defense mechanism and a contributor to chronic neurodegeneration when dysregulated. In the CNS, inflammation is primarily mediated by microglia and astrocytes, which become activated in response to injury or pathological stimuli, releasing pro-inflammatory cytokines such as TNF-α, IL-1β, and IL-6, as well as ROS, leading to neuronal damage and BBB disruption. In AD, Aβ deposition persistently stimulates microglia, promoting chronic neuroinflammation that accelerates neuronal degeneration. In PD, aggregated α-synuclein triggers microglial activation, releasing toxic mediators that exacerbate dopaminergic neuron loss. MS is characterized by T-cell-mediated autoimmune attacks on myelin, leading to demyelination, neurodegeneration, and lipid metabolism dysregulation, further impairing myelin synthesis and repair. In ischemic stroke, hypoxia-ischemia induces an inflammatory cascade where activated microglia and infiltrating peripheral immune cells release inflammatory mediators, amplifying neuronal injury, while lipid peroxidation and BBB breakdown further exacerbate inflammation. Additionally, lipid metabolism plays a crucial role in regulating neuroinflammation, with arachidonic acid-derived prostaglandins and leukotrienes promoting inflammation, whereas ω-3 fatty acid metabolites such as resolvins and protecting facilitate inflammation resolution and homeostasis. The intricate crosstalk between inflammation and lipid metabolism is particularly evident in neurodegenerative diseases, cerebrovascular disorders, and neuroimmune conditions, highlighting potential therapeutic targets for anti-inflammatory and metabolic interventions.
+
+A double-edged sword role of lipids and possible signal pathway
+
+Lipid metabolism plays a paradoxical role in the CNS, acting as both a protector of homeostasis and a contributor to disease progression. On one hand, lipids are essential for neuronal membrane integrity, synaptic function, and energy metabolism. Dysregulated lipid pathways can drive neuroinflammation, oxidative stress, and neurodegeneration. Several key lipid-related signaling pathways illustrate this dual role in neurological health and disease. The SREBP pathway, a central regulator of cholesterol and lipid homeostasis, is vital for maintaining neuronal function. Under normal conditions, SREBP activation ensures adequate lipid supply for membrane synthesis and repair. However, in diseases such as AD and HD, impaired SREBP signaling disrupts lipid balance, leading to synaptic dysfunction and neuronal death. Similarly, the PPAR (Peroxisome Proliferator-Activated Receptor) family, particularly PPAR-γ, plays a neuroprotective role by regulating fatty acid oxidation, anti-inflammatory responses, and mitochondrial function. Activation of PPAR-γ has been shown to mitigate neuroinflammation in PD and MS. However, excessive PPAR-γ activation may also lead to lipid accumulation, contributing to metabolic stress and neuronal vulnerability. Sphingolipid metabolism exemplifies the complex interplay between lipid signaling, neuroinflammation, and BBB regulation. A central mediator in this pathway is sphingosine-1-phosphate (S1P), a bioactive lipid that binds to a family of G-protein–coupled receptors (S1PR1–S1PR5) expressed on endothelial cells, astrocytes, and immune cells. S1P signaling plays a dual role: it promotes BBB stability by enhancing endothelial cell junction integrity and simultaneously regulates immune cell trafficking across the BBB. Dysregulation of this pathway contributes to pathological immune infiltration and barrier breakdown in neuroinflammatory disorders. Therapeutically, S1P receptor modulators such as fingolimod (FTY720) function by downregulating S1PR1 on lymphocytes, thereby sequestering them in lymph nodes and reducing CNS infiltration. In MS, this mechanism attenuates neuroinflammation and protects BBB integrity, making S1P signaling a critical target for both immune modulation and vascular stabilization. However, elevated levels of ceramides and sphingolipids can induce apoptosis and neurotoxicity, exacerbating disease pathology in stroke and neurodegenerative disorders.
+
+LDs, once considered passive fat reservoirs, have emerged as critical regulators of cellular homeostasis. In glial cells, LDs sequester toxic lipid peroxidation products, protecting neurons from oxidative damage. Persistent accumulation of LDs under pathological conditions—such as in ALS, PD, and other neuroinflammatory disorders—has been increasingly recognized as a contributor to chronic inflammation and metabolic dysfunction. LDs serve not only as energy reserves but also as platforms for the synthesis and storage of bioactive lipids, including pro-inflammatory mediators. A key inflammatory pathway linked to LD metabolism is the cyclooxygenase-lipoxygenase (COX-LOX) axis, which metabolizes arachidonic acid into a diverse range of eicosanoids, such as prostaglandins, leukotrienes, and thromboxanes. These lipid mediators orchestrate immune cell recruitment, glial activation, oxidative stress, and vascular permeability—processes that are central to the progression of neurodegenerative diseases. In PD, aberrant activation of the COX-2 isoform has been implicated in dopaminergic neuron loss, with elevated levels of PGE2 detected in affected brain regions. While PGE2 and leukotrienes amplify inflammatory responses in acute CNS injury and chronic neurodegeneration, their counterbalancing counterparts, such as resolvins and protectins, derived from omega-3 fatty acids, promote the resolution of inflammation and neuroprotection. Similarly, LOX-derived leukotrienes have been associated with microglial activation and neurotoxicity. However, evidence remains conflicted, as some lipid mediators—such as lipoxins and resolvins—produced downstream of LOX pathways exhibit anti-inflammatory and pro-resolving effects. This dual nature highlights the complexity of targeting the COX-LOX axis therapeutically: while inhibition of COX-2 has shown neuroprotective effects in preclinical PD models, clinical outcomes with COX inhibitors have been inconsistent, possibly due to interference with beneficial lipid mediators or compensatory pathway activation. Adding to this complexity is the role of acyl-CoA cholesterol acyltransferase 1 (ACAT1), an enzyme that regulates intracellular cholesterol esterification and LD formation. In PD, ACAT1 has been found to be upregulated in activated microglia and is associated with cholesterol ester accumulation and sustained neuroinflammatory responses. Genetic or pharmacological inhibition of ACAT1 has been shown to reduce LD burden, suppress pro-inflammatory cytokine release, and protect dopaminergic neurons in experimental models of PD and AD. These findings suggest that targeting ACAT1 may not only restore lipid homeostasis but also indirectly modulate COX-LOX signaling by limiting the availability of lipid substrates stored in LDs.
+
+These observations underscore the central role of lipid-mediated inflammation in neurodegeneration, while also revealing the intricate balance between protective and harmful lipid signaling. The imbalance between pro-inflammatory and pro-resolving lipid mediators is a hallmark of neuroinflammatory diseases. These findings highlight the intricate role of lipid metabolism in neurological disorders, where the same pathways that sustain brain homeostasis can, under pathological conditions, drive disease progression. Understanding these signaling networks may pave the way for targeted lipid-based therapies that balance neuroprotection and metabolic regulation in CNS disorders.
+
+The crosstalk of impact of inflammation on LDs
+
+Emerging evidence suggests that LDs function as key regulators of cellular responses to stress, particularly in the context of inflammation. The interplay between inflammation and LD metabolism is bidirectional: inflammatory stimuli can induce LD biogenesis and alter lipid composition, while LDs, in turn, modulate inflammatory signaling pathways by sequestering bioactive lipids and influencing immune cell function. Inflammation profoundly impacts LD formation and turnover through multiple mechanisms. Pro-inflammatory cytokines such as TNF-α, IL-1β, and IFN-γ promote LD accumulation in various cell types, including microglia, astrocytes, and endothelial cells. This process serves both protective and pathological roles—on one hand, LDs act as reservoirs to store potentially harmful lipids, preventing lipotoxicity and excessive oxidative stress. On the other hand, LDs serve as platforms for the synthesis of eicosanoids, prostaglandins, and leukotrienes, which are lipid mediators that amplify the inflammatory response. Additionally, chronic inflammation disrupts LD homeostasis, leading to excessive lipid accumulation, mitochondrial dysfunction, and sustained immune activation, all of which contribute to neuroinflammation and disease progression.
+
+The regulation of LD dynamics during inflammation is tightly controlled by lipid metabolism-associated transcription factors, transporters, and structural proteins. Several key regulators, including TREM2, SREBPs, ABCA1, Perilipins (PLIN2-5), ApoE, and LXRs, play crucial roles in balancing LD formation, lipid transport, and inflammatory signaling. Understanding how these factors mediate the crosstalk between inflammation and LDs provides important insights into potential therapeutic targets for neuroinflammatory and neurodegenerative diseases.
+
+Key regulatory factors in the crosstalk between inflammation and LDs
+
+TREM2
+
+TREM2 is a lipid-sensing receptor expressed in microglia that plays a critical role in lipid uptake, LD biogenesis, and the resolution of inflammation. Under inflammatory conditions, TREM2 facilitates the clearance of apoptotic cells and lipid debris by promoting phagocytosis and lipid catabolism. Loss-of-function mutations in TREM2, such as those associated with neurodegenerative diseases, impair LD metabolism, leading to lipid overload, increased oxidative stress, and chronic microglial activation. Furthermore, TREM2-deficient microglia fail to efficiently regulate inflammation, resulting in prolonged cytokine release and exacerbated neurodegeneration. The interaction between TREM2 and LDs highlights the importance of lipid metabolism in controlling inflammatory responses in the brain.
+
+SREBPs
+
+SREBPs are master regulators of lipid biosynthesis, controlling the expression of genes involved in fatty acid and cholesterol synthesis. Inflammation activates SREBPs through cytokine signaling pathways, leading to increased lipid accumulation within LDs. While SREBP activation is essential for maintaining membrane integrity and cellular lipid reserves, excessive activation in response to chronic inflammation can result in lipid imbalances, mitochondrial dysfunction, and inflammatory stress. In microglia and astrocytes, SREBP-driven lipid accumulation contributes to a pro-inflammatory state by fueling the production of prostaglandins and other eicosanoids. Additionally, cross-talk between SREBPs and inflammatory pathways, such as NF-κB signaling, further amplifies immune activation, linking lipid dysregulation to neuroinflammatory disorders.
+
+ABCA1
+
+ABCA1 is a key lipid transporter responsible for cholesterol and phospholipid efflux, playing a vital role in LD homeostasis and inflammatory regulation. Inflammatory stimuli downregulate ABCA1 expression, leading to impaired lipid clearance, increased LD accumulation, and exacerbated immune activation. In contrast, enhancing ABCA1 function promotes lipid efflux, reducing inflammatory lipid species and protecting against neuroinflammatory damage. ABCA1 also influences microglial polarization by modulating the balance between pro-inflammatory M1 and anti-inflammatory M2 phenotypes, demonstrating its role in lipid-mediated immune regulation.
+
+PLINs
+
+Perilipins (PLINs) are structural proteins that coat LDs and regulate lipid storage, hydrolysis, and signaling. Among them, PLIN2 and PLIN3 are highly induced during inflammation, promoting LD expansion and stabilizing lipid storage under oxidative stress. PLIN5, in contrast, plays a role in mitochondrial-lipid interactions, facilitating lipid utilization to prevent excessive accumulation. Dysregulation of PLIN proteins during chronic inflammation leads to lipid overload, increased ROS production, and heightened immune activation. Studies suggest that targeting PLIN-regulated LD dynamics may help modulate inflammation in neurodegenerative conditions.
+
+ApoE
+
+ApoE is a critical lipid transport protein in the brain that influences LD metabolism and inflammation. ApoE facilitates cholesterol and phospholipid transport between cells, regulating lipid availability for LD biogenesis. However, ApoE4, a genetic variant linked to neurodegenerative diseases, is associated with altered lipid metabolism, impaired LD function, and heightened inflammatory responses. ApoE deficiency or dysfunction exacerbates neuroinflammation by promoting lipid accumulation, reducing lipid clearance efficiency, and amplifying microglial activation. These findings highlight ApoE’s essential role in balancing lipid metabolism and immune regulation in the CNS.
+
+LXRs
+
+LXRs are nuclear receptors that regulate cholesterol homeostasis, lipid transport, and inflammatory gene expression. LXRs promote ABCA1-mediated lipid efflux, reducing LD accumulation and mitigating inflammatory stress. Additionally, LXRs suppress pro-inflammatory cytokine production through direct transcriptional repression of NF-κB target genes, establishing a protective mechanism against excessive immune activation. Pharmacological activation of LXRs has been proposed as a therapeutic strategy to enhance lipid metabolism and counteract inflammation in neurodegenerative diseases. However, the precise role of LXRs in different CNS cell types remains an area of active investigation.
+
+Lipid metabolism is involved in regulating inflammation in neurological disorders
+
+Stroke
+
+Stroke, including ischemic and hemorrhagic subtypes, triggers a complex cascade of inflammatory responses that significantly impact neuronal survival, brain repair, and long-term recovery. In stroke, particularly ischemic stroke, lipid metabolism exerts a dual role in neuroprotection and neurotoxicity by modulating inflammatory responses, immune cell activation, oxidative stress, and maintaining BBB integrity through phospholipid and sphingolipid pathways, whose disruption exacerbates vascular permeability, brain edema, and neuronal injury. Dysregulated lipid metabolism in stroke can either exacerbate neuroinflammation and BBB disruption or facilitate resolution of inflammation and neuroprotection, making it a crucial factor in stroke pathophysiology (Table 1).
+
+Preclinical studies assessing the effect of lipids on neuroinflammation or BBB function in stroke.
+
+References	Country	Species	Type of stroke	Involved cells	Damage or protection	Key lipids	Key factors or pathways	Effects on BBB	Mechanisms	 		Germany	Mice, Cells	IS	Microglia, AS	Damage	TC, CE, LDs	ABCA1, ApoE	Inflammation	LDs accumulation drives microglial inflammation and dysfunction, exacerbating post-stroke neuroinflammation	 		Spain	Mice, Human	IS	Microglia	NA	Phospholipids, Cholesterol	PLIN1-5, Snap23, ISG15	Phagocytosis, Inflammation	Accumulated LDs exaggerated inflammatory responses after stroke	 		UK	Mice	IS	Neuron	NA	FA, TC	NA	Inflammation	Stroke causes lasting metabolic, hepatic, and behavioral disturbances.	 		Germany	Mice, Cells	IS	AS, EC	Protection	FA	ABCB1, MMP-9, NF-κB	Inflammation, Apoptosis	FAS inhibition worsens stroke injury by promoting BBB breakdown and inflammation.	 		USA	Mice, Human	IS	Neuron	Protection	Omega-3	NA	Inflammation	Plasma DHA lipids reduce ischemic stroke risk and mediate fish intake benefits	 		China	Mice, Cells	IS	Microglia	NA	LDs	LXR, ABCA1, TLR4	Inflammation	CKN alleviates ischemic stroke injury via LXRα/ABCA1 activation and TLR4 inhibition.	 		China	Rats	IS	Neuron	NA	LPA	LXR, NF-κB	Inflammation	LPA promotes ischemic injury via NFκB activation and LXR suppression.	 		China	Mice, Cells	ICH	OPCs	NA	LDs	DLK1/AMPK/ACC, STAT3	ROS, Ferroptosis	IL-10 protects OPCs post-stroke by reducing lipid ROS and ferroptosis.	 		China	Mice	IS	Neuron	NA	ACSL4	HIF-1α	Ferroptosis, Inflammation	ACSL4 promotes ischemic stroke injury by enhancing lipid peroxidation and neuroinflammation, making it a potential therapeutic target.	 		Germany	Mice, Cells	IS	Microglia	NA	FA, TC, CE, LDs	TREM2, PLIN2, ApoE, ABCA1	Inflammation	TREM2 regulates microglial lipid metabolism, reducing stroke inflammation.	 		China	Mice	IS	NA	Protection	S1P	S1PR3	Inflammation	S1PR3 worsens ischemic stroke by disrupting the blood–brain barrier via MAPK and PI3K-Akt pathways; its inhibition protects BBB integrity and improves outcomes.	 		Japan	Mice, Cells	IS	EC, Pericytes	Protection	S1P	ABCA1, STAT3	Inflammation	Inhibition of S1P signaling preserves BBB integrity after ischemia by suppressing STAT3 activation; probucol shows promise as a stroke treatment.	 		France	Mice, Cells	IS	EC, AS	Protection	S1P	NA	Inflammation	Endothelial S1P1 signaling protects the BBB and blood flow after stroke; selective agonists offer neuroprotection.
+
+BBB, Blood–brain barrier; AS, Astrocytes; EC, Endothelial cell; CE, Cholesterol esters; TC, Triglycerides; FA, Fatty Acid; LDs, Lipid droplets; LPA, Lysophosphatidic acid; ROS, Reactive oxygen species; ICH, Intracerebral hemorrhagic stroke; IS, Ischemic stroke; OPCs, Oligodendrocyte progenitor cells; ACSL4, Acyl-CoA synthetase long-chain family member 4; S1P, Sphingosine-1-phosphate; S1PR3, Sphingosine-1-phosphate receptor 3.
+
+During stroke, lipid metabolism is profoundly altered due to changes in oxygen availability, cellular stress, and inflammatory signaling. One of the key lipid pathways involved is arachidonic acid metabolism, which generates pro-inflammatory mediators such as prostaglandins and leukotrienes. Following ischemic stroke, activation of COX-2 and LOXs leads to excessive production of prostaglandins and leukotrienes, which amplify microglial activation, increase cytokine release, and promote further neuronal injury. In contrast, metabolites derived from omega-3 PUFAs, such as resolvins, protectins, and maresins, counteract inflammation and promote resolution by inhibiting leukocyte infiltration and reducing oxidative damage. Cholesterol metabolism also plays a key role in stroke-induced inflammation. ABCA1 and LXRs regulate cholesterol efflux from microglia and astrocytes, reducing pro-inflammatory lipid accumulation. However, stroke-induced metabolic stress downregulates ABCA1/LXR signaling, leading to cholesterol buildup, LD formation, and chronic neuroinflammation. Enhancing LXR activation has been shown to mitigate neuroinflammation and improve functional recovery post-stroke by promoting anti-inflammatory lipid mediator production. In hemorrhagic stroke, lipid peroxidation is a major driver of neuroinflammation. Excessive release of free iron from blood degradation products catalyzes lipid oxidation, leading to the accumulation of ROS and toxic lipid peroxidation byproducts such as 4-HNE and MDA. These oxidative lipid derivatives induce neuronal apoptosis, activate inflammatory pathways, and exacerbate secondary injury. Additionally, microglia and macrophages surrounding hematomas exhibit altered lipid metabolism, shifting toward a pro-inflammatory M1 phenotype, which sustains local inflammation and hampers recovery.
+
+Stroke-induced inflammation severely compromises BBB integrity, leading to increased permeability, immune cell infiltration, and cerebral edema. Lipid metabolism significantly influences BBB function through various mechanisms. Phospholipids and sphingolipids, essential components of the BBB, undergo extensive remodeling during stroke. In ischemic stroke, activation of PLA2 leads to excessive phospholipid hydrolysis, generating pro-inflammatory lipid mediators that weaken tight junction proteins. Additionally, sphingolipid metabolism, particularly S1P signaling, regulates endothelial barrier function. While S1P promotes endothelial stability under physiological conditions, its dysregulation post-stroke contributes to BBB breakdown and leukocyte infiltration. S1P receptor modulators, such as fingolimod, have shown potential in reducing BBB disruption and neuroinflammation in preclinical stroke models. Furthermore, LDs have emerged as key players in BBB regulation. Endothelial cells accumulate LDs in response to ischemic stress, potentially serving as energy reservoirs to support cellular survival. However, excessive LDs accumulation due to impaired lipid metabolism can lead to endothelial dysfunction and heightened BBB permeability. Inflammatory cytokines, particularly TNF-α and IL-1β, further disrupt lipid homeostasis in BBB cells, exacerbating lipid oxidation and structural damage.
+
+Alzheimer’s disease
+
+Alzheimer’s disease (AD) is characterized by progressive neurodegeneration, neuroinflammation, and the accumulation of Aβ and tau pathology. Lipid metabolism is increasingly recognized as a key player in AD pathogenesis, influencing inflammatory responses and BBB integrity (Table 2). In AD, lipid metabolism disturbances contribute to amyloid-beta (Aβ) aggregation and tau hyperphosphorylation, two key pathological hallmarks of the disease. Cholesterol plays a particularly crucial role in modulating amyloid precursor protein (APP) processing, with elevated cholesterol levels promoting the amyloidogenic pathway, leading to increased Aβ production. Moreover, ApoE, the primary lipid transporter in the brain, significantly affects lipid homeostasis and Aβ clearance, with the ApoE4 allele being the strongest genetic risk factor for late-onset AD. Oxidized lipids and lipid peroxidation products further exacerbate neuroinflammation and oxidative stress, accelerating disease progression. Neuroinflammation in AD is largely driven by activated microglia and astrocytes, which respond to Aβ plaques by releasing pro-inflammatory cytokines. Lipid metabolism profoundly affects microglial activation states and their ability to clear Aβ aggregates. Triggering Receptor Expressed on TREM2 is crucial for microglial function and lipid uptake. Loss-of-function mutations in TREM2 impair microglial lipid metabolism, reducing Aβ phagocytosis and exacerbating inflammatory responses. Furthermore, dysfunctional cholesterol metabolism, mediated by ApoE, particularly the ApoE4 variant, disrupts lipid homeostasis, leading to excessive LDs accumulation in microglia and astrocytes. This lipid overload induces oxidative stress and sustains a pro-inflammatory microglial phenotype, further contributing to synaptic dysfunction and neuronal loss. Fatty acid metabolism is another key regulator of inflammation in AD. Dysregulated omega-6/omega-3 PUFA balance leads to an overproduction of pro-inflammatory lipid mediators, such as prostaglandins and leukotrienes, which perpetuate neuroinflammation. In contrast, bioactive lipid metabolites derived from DHA, such as resolvins and protectins, have neuroprotective and anti-inflammatory properties. However, AD patients often exhibit reduced DHA levels in the brain, contributing to a pro-inflammatory milieu. Cholesterol metabolism also modulates inflammatory responses in AD. LXRs regulate cholesterol transporters like ABCA1, facilitate lipid efflux and maintain microglial homeostasis. However, in AD, LXR signaling is often impaired, leading to cholesterol accumulation, LD formation, and sustained inflammatory activation. Enhancing LXR activity has been shown to promote anti-inflammatory responses and improve lipid metabolism, making it a promising therapeutic target.
+
+Preclinical studies assessing the effect of lipids on BBB function in AD.
+
+References	Country	Species	Involved cells	Damage or protection	Key lipids	Key factors or pathways	Effects on BBB	Mechanisms	 		USA	Mice	Microglia	Damage	Cholesterol	TREM2	Indirect impairment via neuroinflammation	TREM2 loss-of-function impairs microglial lipid uptake and Aβ clearance	 		China	Cells, Human	AS, Microglia	Damage	Cholesterol, LDs	ApoE4	Lipid overload in glial cells	ApoE4 disrupts cholesterol homeostasis, inducing LD accumulation	 		Canada	Mice	Microglia, ECs	Protection	Omega-3	Eicosanoid synthesis	Increased permeability	Omega-3 imbalance increases pro-inflammatory lipid mediators	 		Brazil	Mice	Neurons, Microglia	Protection	DHA	DHA metabolism	Anti-inflammatory milieu	Reduced DHA levels diminish resolvin/protectin production	 		China	Mice	Microglia, ECs	Damage	Cholesterol	LXR-ABCA1 pathway	Cholesterol buildup in BBB endothelial cells	Impaired LXR-ABCA1 signaling causes cholesterol accumulation	 		USA	Mice	ECs	Damage	Phospholipids	ApoE4, PLA2 pathway	Increased vascular permeability	PLA2 activation degrades phospholipids, weakening tight junctions	 		Ireland	Mice	ECs	Protection	S1P	S1P signaling	Immune cell infiltration	Altered S1P signaling disrupts endothelial barrier function	 		USA	Cells, Mice	ECs	Damage	Cholesterol, Phospholipids	ApoE4-mediated lipid transport	Oxidative stress, BBB breakdown	ApoE4 reduces lipid transport efficiency in BBB endothelial cells	 		USA	Cells, Mice	Neurons, ECs	Damage	Oxidized lipids	ApoE4, ROS pathways	Vascular leakage	Lipid peroxidation exacerbates vascular damage	 		USA	Cells, Mice, Human	AS, ECs	Damage	LDs	Lipid storage pathways	Impaired repair mechanisms	Excessive LD storage in endothelial cells impairs BBB repair
+
+AD, Alzheimer’s disease; Aβ, amyloid-beta; BBB, blood–brain barrier; AS, Astrocytes; ECs, Endothelial cells; TREM2, Triggering Receptor Expressed on Myeloid cells 2; ApoE, Apolipoprotein E; LDs, lipid droplets; DHA, docosahexaenoic acid; LXR, Liver X Receptor; ABCA1, ATP-binding cassette transporter A1; PLA2, Phospholipase A2; S1P, Sphingosine-1-phosphate; ROS, reactive oxygen species.
+
+BBB dysfunction is an early pathological feature of AD, contributing to impaired Aβ clearance and increased neuroinflammation. Lipid metabolism significantly influences BBB integrity through various mechanisms, including tight junction regulation, endothelial lipid composition, and lipid-mediated signaling pathways. Phospholipid and sphingolipid metabolism play crucial roles in maintaining BBB stability. PLA2 activation in AD leads to excessive phospholipid degradation, weakening endothelial tight junctions and increasing vascular permeability. Additionally, alterations in S1P signaling affect endothelial barrier function, facilitating immune cell infiltration and chronic inflammation. Cholesterol dysregulation also contributes to BBB breakdown in AD. The ApoE4 isoform is associated with reduced lipid transport efficiency, leading to cholesterol and phospholipid accumulation in BBB endothelial cells. This lipid imbalance disrupts endothelial function, enhances oxidative stress, and weakens BBB integrity. Furthermore, excessive lipid peroxidation, driven by ROS and toxic lipid aldehydes, exacerbates vascular damage and neuroinflammation. LDs in BBB endothelial cells have recently been implicated in AD pathogenesis. Under inflammatory conditions, LD accumulation in endothelial cells can serve as an adaptive response to oxidative stress. However, excessive LD storage due to dysregulated lipid metabolism leads to endothelial dysfunction, impairing BBB repair mechanisms.
+
+Parkinson’s disease
+
+Parkinson’s disease (PD) is a neurodegenerative disorder characterized by dopaminergic neuronal loss, chronic neuroinflammation, and BBB dysfunction, with lipid metabolism and LDs playing critical roles in these pathological processes (Table 3). In PD, altered lipid metabolism has been linked to α-synuclein pathology, mitochondrial dysfunction, and neuroinflammation. Lipids such as polyunsaturated fatty acids (PUFAs) are prone to peroxidation, generating toxic lipid-derived radicals that contribute to dopaminergic neuron loss. Sphingolipid dysregulation, particularly changes in ceramide and glucosylceramide levels, has also been associated with lysosomal dysfunction and impaired autophagy, which are critical in PD pathogenesis. Dysregulated lipid metabolism exacerbates neuroinflammation through the accumulation of lipid peroxidation products such as 4-HNE, which interact with α-synuclein to promote its aggregation and toxicity. Disruptions in cholesterol metabolism, particularly in the LXR/ABCA1 signaling pathway, impair lipid efflux, leading to LD accumulation in microglia and astrocytes, which sustains a pro-inflammatory state and amplifies the release of cytokines such as TNF-α, IL-1β, and IL-6, further contributing to neuronal damage. Although LDs initially serve as protective organelles against oxidative stress, their excessive accumulation within microglia is associated with persistent inflammation and impaired lipid clearance, exacerbating neuronal injury. Similarly, BBB integrity is highly dependent on proper lipid metabolism, and its dysfunction in PD is linked to altered phospholipid and sphingolipid homeostasis. Overactivation of PLA2 weakens endothelial membranes and disrupts tight junctions, increasing BBB permeability and facilitating the entry of peripheral immune cells and inflammatory mediators into the brain, which in turn worsens neuroinflammation. Additionally, LDs within BBB endothelial cells may act as a temporary defense mechanism against oxidative damage, but prolonged lipid dysregulation contributes to endothelial dysfunction, impairing BBB repair mechanisms and further increasing barrier permeability. Collectively, these findings suggest that lipid metabolism and LD dynamics are central to PD pathogenesis, influencing both neuroinflammation and BBB function. Targeting lipid metabolic pathways, including cholesterol homeostasis, LD turnover, and phospholipid signaling, may offer novel therapeutic strategies to mitigate neuroinflammation and protect BBB integrity in PD.
+
+Preclinical studies assessing the effect of lipids on neuroinflammation or BBB function in PD.
+
+References	Country	Species	Involved cells	Damage or protection	Key lipids	Key factors or pathways	Effects on BBB	Mechanisms	 		USA	Cells, Mice	Neuron, AS	Protection	10-NO2-OA, 4-HNE	Nrf2, α-Synuclein	Indirect neuroinflammation	10-NO2-OA products decrease α-synuclein toxicity and neuronal loss.	 		Italy	Cells, Human	Neuron, AS	Damage	Cholesterol, LDs	ABCA1 signaling	Lipid overload in glial cells	Impaired cholesterol efflux leads to LD accumulation, sustaining inflammation.	 		Belgium	Cells, Human	Neuron, AS, Microglia	Damage	Cholesterol	LXR, VCAM-1	Indirect neuroinflammation	LXR is indispensable for maintaining BBB integrity and cholesterol efflux.	 		UK	Cells, Mice	Neuron, AS, Microglia	Damage	Cholesterol, Phospholipids	α-Synuclein, PLA2	Increased permeability	PLA2 overactivation regulated by cholesterol, disrupting tight junctions.	 		USA	Cells, Mice	Neuron, AS, ECs	Damage	LDs, TC	JNK/cJUN/ATF3 pathway, NF-κB pathway	Indirect neuroinflammation	LDs storage initially protects but later causes BBB dysfunction.	 		China	Mice	ECs	Protection	Sphingolipids	Mfsd2a	Altered permeability	Disrupted sphingolipid homeostasis weakens BBB integrity.	 		China	Cells, Mice	AS, ECs, Microglia	Protection	Omega-3, FA	NF-κB activation	Reduced neuroinflammation	DHA-derived resolvins suppress microglial activation and cytokine release.	 		USA	Mice	ECs	Protection	FA	PPAR-α signaling	Enhanced BBB repair	Activated PPAR-α reduces oxidative stress and restore tight junctions.	 		Japan	Cells, Mice	Neurons	Damage	CEs, LDs	ACAT1 enzyme	Neuronal apoptosis	ACAT1-driven cholesterol esterification promotes neurotoxicity.
+
+PD, Parkinson’s disease; BBB, blood–brain barrier; LDs, lipid droplets; AS, Astrocyte. 4-HNE, 4-Hydroxynonenal; 10-NO2-OA, Nitroalkene 10-nitro-oleic acid; CEs, Cholesterol esters; LXR, Liver X Receptor; ABCA1, ATP-binding cassette transporter A1; PLA2, Phospholipase A2; TC, Triglyceride; ECs, Endothelial cells; Mfsd2a, Major facilitator superfamily domain-containing 2a; COX-2, Cyclooxygenase-2; PPAR-α, Peroxisome proliferator-activated receptor alpha; ACAT1, Acyl-CoA cholesterol acyltransferase 1.
+
+Other neurological disorders
+
+Emerging research indicates that lipid metabolism and LDs play significant roles in neuroinflammation and BBB integrity across various neurodegenerative diseases, including multiple sclerosis (MS), Huntington’s disease (HD), and amyotrophic lateral sclerosis (ALS) (Table 4). In MS, disturbances in lipid metabolism have been linked to disease progression. Lipid metabolism is essential for myelin synthesis and maintenance, and disruptions in lipid homeostasis contribute to demyelination and neuroinflammation. Oligodendrocytes rely on lipid biosynthesis to generate myelin sheaths, and their dysfunction leads to impaired remyelination in MS lesions. Moreover, lipid mediators such as eicosanoids and sphingolipids play pivotal roles in immune cell activation and neuroinflammation, influencing disease progression. Notably, increased levels of cholesteryl esters have been observed in MS patients, suggesting a potential role in the disease’s pathology. These alterations in lipid composition may influence inflammatory processes and impact BBB integrity, thereby contributing to the neuroinflammatory environment characteristic of MS. In HD, lipid abnormalities have been observed in both the CNS and peripheral tissues, with changes in cholesterol homeostasis affecting synaptic function and neuronal viability. The mutant huntingtin protein disrupts lipid metabolism by impairing SREBPs, leading to reduced cholesterol biosynthesis and altered phospholipid composition, which may exacerbate neuronal dysfunction and degeneration. HD is also associated with significant lipid metabolic disturbances. Elevated cholesteryl ester levels have been detected in specific brain regions, such as the caudate and putamen, of HD patients. This accumulation may affect neuronal function and viability, potentially exacerbating neuroinflammation and compromising BBB integrity. The presence of increased cholesteryl esters underscores the importance of lipid metabolism in HD pathology. In ALS, lipid metabolism alterations have been implicated in motor neuron degeneration, energy metabolism deficits, and neuroinflammation. ALS patients often exhibit hypermetabolism and dyslipidemia, with increased lipid oxidation and altered fatty acid composition in motor neurons. Dysfunctional LDs in astrocytes and microglia also contribute to oxidative stress and inflammatory responses, aggravating disease pathology. While direct evidence linking LDs and lipid metabolism to neuroinflammation and BBB dysfunction in ALS is less extensive, metabolic alterations have been observed in ALS patients. These metabolic changes could influence lipid processing and storage, potentially affecting inflammatory responses and BBB function. Further research is necessary to elucidate the specific roles of lipid metabolism and LDs in ALS pathology.
+
+Preclinical studies assessing the effect of lipids on neuroinflammation or BBB function in other neurological disorders.
+
+References	Country	Species	Involved cells	Function	Key lipids	Disease	Key factors	Effects on BBB	Mechanisms	 		Italy	Mice	Oligodendrocytes, Microglia	Damage	CEs	MS	PPAR-γ signaling	Increased permeability	Cholesteryl ester accumulation drives demyelination.	 		Czech	Human	ECs	Protection	HDL-C	MS	Cholesterol metabolism	Reduced immune infiltration	NA	 		USA	Human	ECs	Protection	HDL-C	MS	CD80+, CD19+	Reduced neuroinflammation	Maintaining BBB integrity following the first demyelinating event	 		Australia	Human	Neurons	Damage	CEs	HD	ACAT1 enzyme	Cholesterol metabolism	ACAT1-driven cholesterol esterification in striatum exacerbates neurodegeneration.	 		USA	Cells, Mice, Human	Neurons, Microglia	Damage	LDs	HD	NLRP3 inflammasome	Pro-inflammatory polarization	LDs in microglia activate NLRP3, worsening neuroinflammation.	 		Spain	Human	Neurons	Damage	Phospholipids, CEs	ALS	PLA2 pathway	Mitochondrial dysfunction	PLA2-mediated phospholipid breakdown impairs mitochondrial integrity.	 		USA	mice	ECs	Damage	Sphingolipids	ALS	Ceramide synthase, COX-2	BBB leakage	Sphingolipid imbalance disrupts endothelial tight junctions.
+
+MS, Multiple sclerosis; HD, Huntington’s disease; ALS, Amyotrophic lateral sclerosis; CEs, Cholesteryl esters; ECs, Endothelial cells; BBB, Blood–brain barrier; LDs, Lipid droplets; PPAR-γ, Peroxisome proliferator-activated receptor gamma; HDL-C, high-density lipoprotein cholesterol; ACAT1, Acyl-CoA cholesterol acyltransferase 1; NLRP3, NOD-, LRR- and pyrin domain-containing protein 3; PLA2, Phospholipase A2.
+
+Applications in neurological disorders’ therapy
+
+Regulating lipid metabolism to improve neurological disorders
+
+Lipid metabolism, LDs, and liposomes have emerged as significant therapeutic targets in the treatment of neurological disorders. Modulating lipid homeostasis and LD dynamics offers promising strategies for alleviating neuroinflammation, supporting neuronal survival, and restoring brain homeostasis in conditions such as AD, PD, and MS. For instance, enhancing the activity of enzymes involved in lipid biosynthesis, such as LXRs and ABCA1, may promote cholesterol efflux, reduce lipid accumulation in glial cells, and thereby alleviate neuroinflammation. Additionally, targeting lipid signaling pathways, such as the SREBPs and TREM2, may help control LD formation and mitigate chronic inflammatory responses in microglia and astrocytes, two critical cell types involved in neuroinflammation. LDs, as intracellular lipid storage organelles, play a pivotal role in cellular energy balance and inflammation regulation. Excessive LD accumulation and lipid peroxidation are characteristic features of several neurodegenerative diseases, and regulating LD metabolism may help prevent oxidative stress and chronic neuroinflammation. Particularly in diseases like AD, microglial LD accumulation has been linked to prolonged inflammatory states and neuronal damage. Pharmacological interventions targeting LD-associated proteins, such as perilipins, may provide novel therapeutic opportunities by limiting inflammation and promoting tissue repair.
+
+Lipid particles for drug delivery across the blood–brain barrier
+
+Liposomes, as lipid-based nanocarriers, are increasingly being explored as drug delivery systems for neurological disorders. Their ability to encapsulate hydrophobic drugs, protect them from degradation, and facilitate targeted delivery across the BBB makes them ideal candidates for treating brain diseases (Table 5). Liposomes can be designed to encapsulate anti-inflammatory agents, neuroprotective compounds, or gene therapies, providing sustained and localized treatment in the brain. Notably, liposomal formulations of compounds such as curcumin and cannabinoids have demonstrated anti-inflammatory and neuroprotective potential in models of AD and PD. Additionally, liposomes can be engineered to target specific cell types within the brain, such as neurons, astrocytes, and microglia, enabling tailored therapeutic approaches. Liposomes can also deliver lipid-lowering agents or molecules that modulate lipid metabolism to restore proper lipid homeostasis in the brain, potentially alleviating neuroinflammation and improving cognitive function.
+
+Liposome-based nano drugs for CNS diseases and their status.
+
+References	Country	Disease	Product name	Species	Route	Lipid resources	Delivered drug	Mechanism	 		China	AD	Tf-HA-Cur	Mice	IV	Liposomes	Curcumin	Improving the cognitive and learning ability.	 		Greece	AD	Lipid-PEG-curcumin	Human	IV	Liposomes	Curcumin	Inhibition of amyloid-β aggregation	 		China	PD	CPC-NPs	Mice	IV	Liposomes	Curcumin	Inhibition of amyloid-β aggregation	 		Portugal	PD	Liposome-DA	Mice	IP	Liposomes	Dopamine	Enhances DA penetration	 		Israel	PD	BTL-SynO4	Mice	IV	Liposomes	mAbs	Enhance neuronal activity	 		Israel	IS	NC-VCAM	Mice	IV	LCs	VCAM1	Reduce neuroinflammation	 		UK	IS	Liposomes	Mice	IV	Liposomes	NA	Blocking inflammation, neuronal repair	 		Germany	MS	PEG-MP	Mice	IV	PEG	MP	Reduces infiltration of T cells and macrophages/microglia	 		USA	ALS	Cocktail liposomes	Cells	Incubation	Liposomes	Riluzole	Enhance BBB permeability	 		Australia	ALS	ASO-loaded nanoparticle	Mice	IV	CaP-NPs	Tofersen	Reducing misfolded proteins in motor neurons
+
+CNS, central nervous system; AD, Alzheimer’s disease; PD, Parkinson’s disease; MS, multiple sclerosis; HD, Huntington’s disease; Aβ, amyloid-beta; IV, Intravenous; IP, Intraperitoneal; LD, Lipid droplet; PEG, polyethylene glycol; CPC-NPs, curcumin-loaded polysorbate 80-modified cerasome nanoparticles; mAbs, Monoclonal antibodies; IS, Ischemic stroke; LCs, Lipid nanocarriers; VCAM1, vascular cellular adhesion molecule-1; MP, Methylprednisolone; ASOs, Antisense oligonucleotides; CaP-NPs, calcium phosphate lipid nanoparticles.
+
+Conclusions and prospects
+
+Lipid metabolism and LDs play central roles in regulating neuroinflammation and maintaining BBB integrity in neurological disorders. Dysregulation of lipid homeostasis contributes to chronic inflammation, neuronal damage, and BBB dysfunction, exacerbating diseases like stroke, AD, PD, and MS. Targeting lipid metabolic pathways, modulating LD dynamics, and utilizing lipid-based nanocarriers like liposomes offer promising therapeutic strategies to mitigate inflammation, restore lipid balance, and improve drug delivery to the brain. Future research should focus on developing specific interventions that regulate lipid metabolism and LD formation, offering new avenues for treating neurodegenerative diseases and enhancing therapeutic efficacy.
+
+Author contributions
+
+LF: Conceptualization, Data curation, Investigation, Resources, Validation, Visualization, Writing – original draft, Writing – review & editing. TL: Data curation, Investigation, Writing – original draft, Writing – review & editing. ZH: Data curation, Investigation, Validation, Writing – original draft, Writing – review & editing. YP: Data curation, Investigation, Writing – original draft, Writing – review & editing. WX: Conceptualization, Data curation, Writing – original draft, Writing – review & editing. LZ: Conceptualization, Data curation, Investigation, Writing – original draft, Writing – review & editing. ZL: Writing – original draft, Writing – review & editing. HZ: Data curation, Validation, Writing – original draft, Writing – review & editing. HL: Conceptualization, Funding acquisition, Investigation, Project administration, Resources, Supervision, Writing – original draft, Writing – review & editing. WW: Conceptualization, Data curation, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Writing – original draft, Writing – review & editing.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Generative AI statement
+
+The authors declare that no Gen AI was used in the creation of this manuscript.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+Altered lipid metabolism in brain injury and disorders
+
+Lipid oxidation and peroxidation in CNS health and disease: from molecular mechanisms to therapeutic opportunities
+
+Liver X receptors as regulators of macrophage inflammatory and metabolic pathways
+
+A comprehensive review on the advancements of dual COX-2/5-LOX inhibitors as anti-inflammatory drugs
+
+Lipidomics in understanding pathophysiology and pharmacologic effects in inflammatory diseases: considerations for drug development
+
+Prolonged opportunity for neuroprotection in experimental stroke with selective blockade of cyclooxygenase-2 activity
+
+Selective liposomal transport through blood brain barrier disruption in ischemic stroke reveals two distinct therapeutic opportunities
+
+Neuroprotective and anti-inflammatory effects of linoleic acid in models of Parkinson's disease: the implication of lipid droplets and lipophagy
+
+Dysregulated lipid metabolism and its role in α-synucleinopathy in Parkinson's disease
+
+Omega-3 fatty acids and risk of ischemic stroke in REGARDS
+
+LOX-1 mediates inflammatory activation of microglial cells through the p38-MAPK/NF-κB pathways under hypoxic-ischemic conditions
+
+Aged lipid-laden microglia display impaired responses to stroke
+
+Sphingolipids as regulators of neuro-inflammation and NADPH oxidase 2
+
+Lipids in liver failure syndromes: a focus on eicosanoids, specialized pro-resolving lipid mediators and lysophospholipids
+
+APOE4 is a risk factor and potential therapeutic target for Alzheimer's disease
+
+α-Synuclein-induced synapse damage in cultured neurons is mediated by cholesterol-sensitive activation of cytoplasmic phospholipase A2
+
+Pathophysiology of blood-brain barrier permeability throughout the different stages of ischemic stroke and its implication on hemorrhagic transformation and recovery
+
+Challenges in pharmacological intervention in perilipins (PLINs) to modulate lipid droplet dynamics in obesity and Cancer
+
+Sphingosine-1-phosphate (S1P) and S1P signaling pathway modulators, from current insights to future perspectives
+
+FTY720 (fingolimod) in multiple sclerosis: therapeutic effects in the immune and the central nervous system
+
+Liposomes for drug delivery in stroke
+
+Proresolving lipid mediators and mechanisms in the resolution of acute inflammation
+
+Amyloid β, lipid metabolism, basal cholinergic system, and therapeutics in Alzheimer's disease
+
+Inflammation, cytokines, immune response, apolipoprotein E, cholesterol, and oxidative stress in Alzheimer disease: therapeutic implications
+
+Sphingosine 1-phosphate: lipid signaling in pathology and therapy
+
+The new frontiers in neurodegenerative diseases treatment: liposomal-based strategies
+
+The lysolipid transporter Mfsd2a regulates lipogenesis in the developing brain
+
+Perilipins: a family of five fat-droplet storing proteins that play a significant role in fat homeostasis
+
+Roles of acyl-coenzyme A:cholesterol acyltransferase-1 and -2
+
+Cellular and molecular mechanisms of the blood-brain barrier dysfunction in neurodegenerative diseases
+
+Peroxisome proliferator-activated receptor gamma (PPAR-γ) and neurodegenerative disorders
+
+Lipidomics of bioactive lipids in Alzheimer's and Parkinson's diseases: where are we?
+
+Influence of oxidative stress and inflammation on nutritional status and neural plasticity: new perspectives on post-stroke neurorehabilitative outcome
+
+Impact of physical activity on cellular metabolism across both neurodegenerative and general neurological conditions: a narrative review
+
+Mechanisms of neurodegeneration and axonal dysfunction in progressive multiple sclerosis
+
+Cellular elements of the blood-brain barrier
+
+Lipid nanoparticles strategies to modify pharmacokinetics of central nervous system targeting drugs: crossing or circumventing the blood-brain barrier (BBB) to manage neurological disorders
+
+ACSL4 exacerbates ischemic stroke by promoting ferroptosis-induced brain injury and neuroinflammation
+
+Mitochondrial lipid homeostasis at the crossroads of liver and heart diseases
+
+Cholesterol metabolism in neurodegenerative diseases: molecular mechanisms and therapeutic targets
+
+Metabolic abnormalities, dietary risk factors and nutritional management in amyotrophic lateral sclerosis
+
+Peroxisome proliferator-activated receptor γ agonists accelerate oligodendrocyte maturation and influence mitochondrial functions and oscillatory Ca(2+) waves
+
+Omega-3 polyunsaturated fatty acids and oxylipins in neuroinflammation and management of Alzheimer disease
+
+Neuroprotective actions of a fatty acid nitroalkene in Parkinson's disease
+
+Evidence for alterations in lipid profiles and biophysical properties of lipid rafts from spinal cord in sporadic amyotrophic lateral sclerosis
+
+Thematic review series: brain lipids. Cholesterol metabolism in the central nervous system during early development and in the mature animal
+
+Lipoprotein-associated phospholipase A2, homocysteine, and Alzheimer's disease
+
+Long-chain omega-3 fatty acids and the brain: a review of the independent and shared effects of EPA, DPA and DHA
+
+SREBP transcription factors: master regulators of lipid homeostasis
+
+Lipid nanoparticles and transcranial focused ultrasound enhance the delivery of SOD1 antisense oligonucleotides to the murine brain for ALS therapy
+
+The role of peroxisome proliferator-activated receptors in healthy and diseased eyes
+
+Membrane phospholipid synthesis and endoplasmic reticulum function
+
+S1PR3, as a core protein related to ischemic stroke, is involved in the regulation of blood-brain barrier damage
+
+The neuroprotective mechanisms of PPAR-γ: inhibition of microglia-mediated neuroinflammation and oxidative stress in a neonatal mouse model of hypoxic-ischemic white matter injury
+
+Lipid droplets in neurodegenerative disorders
+
+N-3 fatty acid-derived lipid mediators in the brain: new weapons against oxidative stress and inflammation
+
+Phospholipids, sphingolipids, and cholesterol-derived lipid mediators and their role in neurological disorders
+
+Protective associations of HDL with blood-brain barrier injury in multiple sclerosis patients
+
+Neuroprotective properties of peroxisome proliferator-activated receptor alpha (PPARα) and its lipid ligands
+
+Therapeutic targeting of nuclear receptors, liver X and retinoid X receptors, for Alzheimer's disease
+
+Current understanding on the role of lipids in macrophages and associated diseases
+
+Mechanisms of blood-brain barrier protection by microbiota-derived short-chain fatty acids
+
+Immunological dimensions of neuroinflammation and microglial activation: exploring innovative immunomodulatory approaches to mitigate neuroinflammatory progression
+
+Damage mechanism and therapy progress of the blood-brain barrier after ischemic stroke
+
+Friend or foe: lipid droplets as organelles for protein and lipid storage in cellular stress response, aging and disease
+
+New advanced strategies for the treatment of lysosomal diseases affecting the central nervous system
+
+Dysregulated brain cholesterol metabolism is linked to neuroinflammation in Huntington's disease
+
+Molecular mechanisms of perilipin protein function in lipid droplet metabolism
+
+Fingolimod: direct CNS effects of sphingosine 1-phosphate (S1P) receptor modulation and implications in multiple sclerosis therapy
+
+Chronic unpredictable mild stress promotes atherosclerosis via HMGB1/TLR4-mediated downregulation of PPARγ/LXRα/ABCA1 in ApoE(−/−) mice
+
+Stroke induces prolonged changes in lipid metabolism, the liver and body composition in mice
+
+Plin4-dependent lipid droplets hamper neuronal mitophagy in the MPTP/p-induced mouse model of Parkinson's disease
+
+Apolipoprotein E: from lipid transport to neurobiology
+
+Rethinking neurodegenerative diseases: neurometabolic concept linking lipid oxidation to diseases in the central nervous system
+
+TREM2 dependent and independent functions of microglia in Alzheimer's disease
+
+Aerobic exercise facilitates the nuclear translocation of SREBP2 by activating AKT/SEC24D to contribute cholesterol homeostasis for improving cognition in APP/PS1 mice
+
+APOE and Alzheimer's disease: from lipid transport to physiopathology and therapeutics
+
+Inhibiting the cholesterol storage enzyme ACAT1/SOAT1 in aging apolipoprotein E4 mice alters their brains' inflammatory profiles
+
+Inhibition of fatty acid synthesis aggravates brain injury, reduces blood-brain barrier integrity and impairs neurological recovery in a murine stroke model
+
+Lipid droplets and the management of cellular stress
+
+Alteration of gut microbiome and correlated lipid metabolism in post-stroke depression
+
+Fragmented mitochondria released from microglia trigger A1 astrocytic response and propagate inflammatory neurodegeneration
+
+Understanding drug delivery to the brain using liposome-based strategies: studies that provide mechanistic insights are essential
+
+Liposome-based targeting of dopamine to the brain: a novel approach for the treatment of Parkinson's disease
+
+Lipid metabolism and neuroinflammation in Alzheimer's disease: a role for liver X receptors
+
+Mechanisms of anti-inflammatory and neuroprotective actions of PPAR-gamma agonists
+
+ABCA1 influences neuroinflammation and neuronal death
+
+N-acetylcysteine targets 5 lipoxygenase-derived, toxic lipids and can synergize with prostaglandin E(2) to inhibit ferroptosis and improve outcomes following hemorrhagic stroke in mice
+
+The dynamic blood–brain barrier
+
+Inhibition of calcium-dependent phospholipase A2 improves blood-brain barrier integrity in ApoE4 carrying mice
+
+Autophagy in major human diseases
+
+Lipids and lipid mediators associated with the risk and pathology of ischemic stroke
+
+Participation of ABCA1 transporter in pathogenesis of chronic obstructive pulmonary disease
+
+Exploring the molecular approach of COX and LOX in Alzheimer’s and Parkinson’s disorder
+
+Sepsis-associated encephalopathy: the blood-brain barrier and the sphingolipid rheostat
+
+The regulatory role of lipophagy in central nervous system diseases
+
+Triglyceride-rich lipoprotein lipolysis products increase blood-brain barrier transfer coefficient and induce astrocyte lipid droplets and cell stress
+
+Glutathione PEGylated liposomal methylprednisolone (2B3-201) attenuates CNS inflammation and degeneration in murine myelin oligodendrocyte glycoprotein induced experimental autoimmune encephalomyelitis
+
+CKN reduces TLR4-mediated inflammation and cerebral I/R injury by activating the LXRα/ABCA1 pathway in microglia
+
+Neuroinflammation and microglial activation in Alzheimer disease: where do we go from here?
+
+The impairment of cholesterol metabolism in Huntington disease
+
+Oxidative stress in ageing and chronic degenerative pathologies: molecular mechanisms involved in counteracting oxidative stress and chronic inflammation
+
+NF-κB and its crosstalk with endoplasmic reticulum stress in atherosclerosis
+
+Expression of SREBP2 and cholesterol metabolism related genes in TCGA glioma cohorts
+
+Therapeutic effect of multifunctional nano-liposomes on Alzheimer’s disease
+
+Peripheral apoE4 enhances Alzheimer's pathology and impairs cognition by compromising cerebrovascular function
+
+Structure, function, and regulation of the blood-brain barrier tight junction in central nervous system disorders
+
+Alterations of oligodendrocyte and myelin energy metabolism in multiple sclerosis
+
+Lipid and brain volumetric measures in multiple sclerosis patients: findings from a large observational study
+
+Lipid and lipoprotein metabolism in microglia
+
+The novel Omega-6 fatty acid docosapentaenoic acid positively modulates brain innate immune response for resolving neuroinflammation at early and late stages of humanized APOE-based Alzheimer's disease models
+
+Neuroinflammatory mechanisms in ischemic stroke: focus on cardioembolic stroke, background, and therapeutic approaches
+
+ABCA1- and ABCG1-mediated cholesterol efflux capacity of cerebrospinal fluid is impaired in Alzheimer's disease
+
+Neurodegeneration and inflammation-an interesting interplay in Parkinson's disease
+
+Role of cholesterol in APP metabolism and its significance in Alzheimer's disease pathogenesis
+
+FTY720 attenuates infection-induced enhancement of aβ accumulation in APP/PS1 mice by modulating astrocytic activation
+
+Ceramide 1-phosphate increases P-glycoprotein transport activity at the blood-brain barrier via prostaglandin E2 signaling
+
+Loss of fatty acid degradation by astrocytic mitochondria triggers neuroinflammation and neurodegeneration
+
+Lipid-based nanocarriers for CNS-targeted drug delivery
+
+Fatty acid transport into the brain: of fatty acid fables and lipid tails
+
+Liposome-mediated anti-viral drug delivery across blood-brain barrier: can lipid droplet target be game changers?
+
+Lipid droplets and lipid mediators in viral infection and immunity
+
+APOE4 leads to blood-brain barrier dysfunction predicting cognitive decline
+
+PPAR-α, a lipid-sensing transcription factor, regulates blood-brain barrier efflux transporter expression
+
+Brain-targeted drug delivery - nanovesicles directed to specific brain cells by brain-targeting ligands
+
+Neuronal ROS-induced glial lipid droplet formation is altered by loss of Alzheimer's disease-associated genes
+
+Multifunctional nanoliposomes with curcumin-lipid derivative and brain targeting functionality with potential applications for Alzheimer disease
+
+Natural product-driven dual COX-LOX inhibitors: overview of recent studies on the development of novel anti-inflammatory agents
+
+Phospholipase A2, reactive oxygen species, and lipid peroxidation in cerebral ischemia
+
+Sphingosine 1-phosphate signaling is involved in impaired blood-brain barrier function in ischemia-reperfusion injury
+
+Endothelial S1P(1) signaling counteracts infarct expansion in ischemic stroke
+
+Targeting lipid nanoparticles to the blood-brain barrier to ameliorate acute ischemic stroke
+
+TREM2 regulates microglial cholesterol metabolism upon chronic phagocytic challenge
+
+Dynamics and functions of lipid droplets
+
+Knockdown of NEAT1 prevents post-stroke lipid droplet agglomeration in microglia by regulating autophagy
+
+Liposomes: an emerging carrier for targeting Alzheimer's and Parkinson's diseases
+
+Dissecting the crosstalk between endothelial mitochondrial damage, vascular inflammation, and neurodegeneration in cerebral amyloid angiopathy and Alzheimer’s disease
+
+Lipid droplets diversity and functions in inflammation and immune response
+
+Cholesteryl ester levels are elevated in the caudate and putamen of Huntington's disease patients
+
+Lipid transport and metabolism at the blood-brain Interface: implications in health and disease
+
+New insights into multiple sclerosis mechanisms: lipids on the track to control inflammation and neurodegeneration
+
+Molecular pharmacology and novel potential therapeutic applications of Fingolimod
+
+Adaptive and maladaptive roles of lipid droplets in health and disease
+
+ApoE4 impairs neuron-astrocyte coupling of fatty acid metabolism
+
+Amyloid-beta and phosphorylated tau accumulations cause abnormalities at synapses of Alzheimer's disease neurons
+
+Fatty acid oxidation disorders
+
+Microglia: agents of the CNS pro-inflammatory response
+
+High-density lipoprotein transport through aortic endothelial cells involves scavenger receptor BI and ATP-binding cassette transporter G1
+
+Dual synergistic inhibition of COX and LOX by potential chemicals from Indian daily spices investigated through detailed computational studies
+
+Recent insights into the molecular pathophysiology of lipid droplet formation in hepatocytes
+
+Blood-brain barrier tight junction permeability and ischemic stroke
+
+Brain-targeted liposomes loaded with monoclonal antibodies reduce alpha-synuclein aggregation and improve behavioral symptoms in Parkinson's disease
+
+Inflammation resolution and specialized pro-resolving lipid mediators in CNS diseases
+
+SREBP-regulated lipid metabolism: convergent physiology - divergent pathophysiology
+
+ROS generation in microglia: understanding oxidative stress and inflammation in neurodegenerative disease
+
+Docosahexaenoic acid and the brain-what is its role?
+
+Structure of the blood brain barrier and its role in the transporters for the movement of substrates across the barriers
+
+A specialized nutritional formulation prevents hippocampal glial activation and memory impairment induced by amyloid-β oligomers in mice
+
+Pathophysiology of lipid droplets in neuroglia
+
+Inflammatory response in the CNS: friend or foe?
+
+Peptide-functionalized liposomes as therapeutic and diagnostic tools for cancer treatment
+
+Membrane lipid domains in the nervous system
+
+Resolvins, specialized proresolving lipid mediators, and their potential roles in metabolic diseases
+
+Critical role of the sphingolipid pathway in stroke: a review of current utility and potential therapeutic targets
+
+Lipid metabolism in microglia: emerging mechanisms and therapeutic opportunities for neurodegenerative diseases (review)
+
+Esterification of 24S-OHC induces formation of atypical lipid droplet-like structures, leading to neuronal cell death
+
+Lipid droplets in pathogen infection and host immunity
+
+Inflammation and immune dysfunction in Parkinson disease
+
+The why, when and how of lipid droplet diversity
+
+Lipids in pathophysiology and development of the membrane lipid therapy: new bioactive lipids
+
+Neuronal lipid metabolism: multiple pathways driving functional outcomes in health and disease
+
+Integrated stress response is involved in the 24(S)-hydroxycholesterol-induced unconventional cell death mechanism
+
+Inhibition of ACAT as a therapeutic target for Alzheimer's disease is independent of ApoE4 lipidation
+
+Membrane lipids: where they are and how they behave
+
+Getting into the brain: liposome-based strategies for effective drug delivery across the blood–brain barrier
+
+Molecular mechanisms of human lipodystrophies: from adipocyte lipid droplet to oxidative stress and lipotoxicity
+
+Lipid droplets and cellular lipid metabolism
+
+Lipid droplets, lipophagy, and beyond
+
+The sphingosine-1-phosphate signaling pathway (sphingosine-1-phosphate and its receptor, sphingosine kinase) and epilepsy
+
+Cholesterol metabolism in CNS diseases: the potential of SREBP2 and LXR as therapeutic targets
+
+Liver X receptors in lipid signalling and membrane homeostasis
+
+The role of exosome lipids in central nervous system diseases
+
+ABC transporters, cholesterol efflux, and implications for cardiovascular diseases
+
+Metabolism pathways of arachidonic acids: mechanisms and potential therapeutic targets
+
+Mfsd2a and Spns2 are essential for sphingosine-1-phosphate transport in the formation and maintenance of the blood-brain barrier
+
+Dynamic brain lipid profiles modulate microglial lipid droplet accumulation and inflammation under ischemic conditions in mice
+
+TREM2 regulates microglial lipid droplet formation and represses post-ischemic brain injury
+
+Structure and mechanism of blood-brain-barrier lipid transporter MFSD2A
+
+Liver X receptor alpha is important in maintaining blood-brain barrier function
+
+The blood-brain barrier: structure, regulation, and drug delivery
+
+IL-10 protects against OPC ferroptosis by regulating lipid reactive oxygen species levels post stroke
+
+Liraglutide improves lipid metabolism by enhancing cholesterol efflux associated with ABCA1 and ERK1/2 pathway
+
+Lipoprotein-associated phospholipase A2 is a risk factor for patients with Parkinson's disease
+
+Targeting oxidative stress and inflammation to prevent ischemia-reperfusion injury
+
+PPAR-mediated toxicology and applied pharmacology
+
+Fish oil protects the blood-brain barrier integrity in a mouse model of Alzheimer's disease
+
+TGF-β1 decreases microglia-mediated neuroinflammation and lipid droplet accumulation in an in vitro stroke model
+
+Enhanced acyl-CoA:cholesterol acyltransferase activity increases cholesterol levels on the lipid droplet surface and impairs adipocyte function
+
+Research progress of SREBP and its role in the pathogenesis of autoimmune rheumatic diseases
+
+LXR agonists: new potential therapeutic drug for neurodegenerative diseases
+
+Neuroprotective phytochemicals in experimental ischemic stroke: mechanisms and potential clinical applications
+
+Apolipoprotein E and Alzheimer disease: pathobiology and targeting strategies
+
+Verapamil and riluzole cocktail liposomes overcome pharmacoresistance by inhibiting P-glycoprotein in brain endothelial and astrocyte cells: A potent approach to treat amyotrophic lateral sclerosis
+
+Neuroinflammatory mechanisms of blood-brain barrier damage in ischemic stroke
+
+Lipid metabolism and Alzheimer's disease: clinical evidence, mechanistic link and therapeutic promise
+
+Cerebral ischemia-reperfusion injury: lysophosphatidic acid mediates inflammation by decreasing the expression of liver X receptor
+
+Aggregated alpha-synuclein activates microglia: a process leading to disease progression in Parkinson's disease
+
+Localized delivery of curcumin into brain with polysorbate 80-modified cerasomes by ultrasound-targeted microbubble destruction for improved Parkinson's disease therapy
+
+27-hydroxycholesterol contributes to disruptive effects on learning and memory by modulating cholesterol metabolism in the rat brain
+
+Lipid droplets in central nervous system and functional profiles of brain cells containing lipid droplets in various diseases
+
+Factors influencing the blood-brain barrier permeability
+
+The roles of liver X receptor α in inflammation and inflammation-associated diseases
+
+Brain lipids and lipid droplet dysregulation in Alzheimer's disease and neuropsychiatric disorders
+
+Astrocyte lipid droplet dynamics orchestrate neurological disorders and therapeutic horizons
+
+Glossary
+
+Aβ
+
+Amyloid-beta
+
+ABCA1
+
+ATP-binding cassette transporter A1
+
+ABCG1
+
+ATP-binding cassette transporter G1
+
+ACAT1
+
+Acyl-CoA cholesterol acyltransferase 1
+
+ACSL4
+
+Acyl-CoA synthetase long-chain family member 4
+
+AD
+
+Alzheimer’s Disease
+
+ALS
+
+Amyotrophic Lateral Sclerosis
+
+ApoE
+
+Apolipoprotein E
+
+APP
+
+Amyloid Precursor Protein
+
+AS
+
+Astrocytes
+
+BBB
+
+Blood–Brain Barrier
+
+CEs
+
+Cholesteryl Esters
+
+CNS
+
+Central Nervous System
+
+COX
+
+Cyclooxygenase
+
+COX-2
+
+Cyclooxygenase-2
+
+DHA
+
+Docosahexaenoic Acid
+
+EC
+
+Endothelial Cell
+
+ER
+
+Endoplasmic Reticulum
+
+FA
+
+Fatty Acid
+
+HDL-C
+
+High-Density Lipoprotein Cholesterol
+
+HD
+
+Huntington’s Disease
+
+ICH
+
+Intracerebral Hemorrhagic Stroke
+
+IFN-γ
+
+Interferon-gamma
+
+IL-1β
+
+Interleukin-1 beta
+
+IL-6
+
+Interleukin-6
+
+IR
+
+Insulin Receptor
+
+IS
+
+Ischemic Stroke
+
+LDs
+
+Lipid Droplets
+
+LDLR
+
+Low-Density Lipoprotein Receptor
+
+LOX
+
+Lipoxygenase
+
+LPA
+
+Lysophosphatidic Acid
+
+LXRs
+
+Liver X Receptors
+
+MDA
+
+Malondialdehyde
+
+MD
+
+Medical Doctor
+
+MFSD2A
+
+Major Facilitator Superfamily Domain-containing 2A
+
+MS
+
+Multiple Sclerosis
+
+NF-κB
+
+Nuclear Factor Kappa-Light-Chain-Enhancer of Activated B Cells
+
+PD
+
+Parkinson’s Disease
+
+PEGylation
+
+Polyethylene Glycol Modification
+
+PLA2
+
+Phospholipase A2
+
+PLINs
+
+Perilipins
+
+PPAR-γ
+
+Peroxisome Proliferator-Activated Receptor Gamma
+
+PUFA
+
+Polyunsaturated Fatty Acid
+
+ROS
+
+Reactive Oxygen Species
+
+S1P
+
+Sphingosine-1-phosphate
+
+S1PR
+
+Sphingosine-1-phosphate Receptor
+
+SREBPs
+
+Sterol Regulatory Element-Binding Proteins
+
+TC
+
+Triglycerides
+
+TfR
+
+Transferrin Receptor
+
+TG
+
+Triglycerides
+
+TNF-α
+
+Tumor Necrosis Factor-alpha
+
+TREM2
+
+Triggering Receptor Expressed on Myeloid cells 2
+
+4-HNE
+
+4-Hydroxynonenal
+
+10-NO2-OA
+
+10-Nitro-oleic Acid

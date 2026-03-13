@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 
 
-DATA_PATH = "data/abstracts.csv"
+DATA_PATH = "data/fulltext_corpus.csv"
 OUT_DIR = "vectorstore"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
@@ -75,7 +75,7 @@ def chunk_text(text, chunk_size=180, overlap_sentences=1):
     return chunks
 
 
-def embed_texts(model: SentenceTransformer, texts: list, batch_size: int = 64) -> np.ndarray:
+def embed_texts(model: SentenceTransformer, texts: list, batch_size: int = 32) -> np.ndarray:
     emb = model.encode(
         texts,
         batch_size=batch_size,
@@ -104,16 +104,19 @@ def main():
 
     df = load_corpus(DATA_PATH)
     print("Corpus loaded.")
+    print("Chunk rows: ", len(df))
 
     texts = df["text"].tolist()
 
-    print(f"Loaded {len(texts)} documents")
-
+    print(f"Loading embedding model...")
     model = SentenceTransformer(MODEL_NAME)
+    print("Model loaded")
 
+    print("Embedding text...")
     emb = embed_texts(model, texts, batch_size=64)
     print("Embeddings shape:", emb.shape)
 
+    print("Building FAISS index")
     index = build_faiss_index(emb)
 
     index_path = os.path.join(OUT_DIR, "index.faiss")

@@ -1,0 +1,339 @@
+Strategies for Enhancing the Permeation of CNS-Active Drugs through the Blood-Brain Barrier: A Review
+
+Background: The blood brain barrier (BBB) is a dynamic and functional structure which poses a vast challenge in the development of drugs acting on the central nervous system (CNS). While most substances are denied BBB crossing, selective penetration of substances mainly occurs through diffusion, carrier mediated transport, or receptor mediated transcytosis. Methods: Strategies in enhancing BBB penetration have been reviewed and summarized in accordance with their type of formulation. Highlights in monoclonal antibodies, peptide-vectors, nanoparticles, and simple prodrugs were included. Conclusion: Nanoparticles and simple prodrugs, for example, can be used for efficient BBB penetration through inhibition of efflux mechanisms, however, monoclonal antibodies are the most promising strategy in BBB penetration. Close follow-up of future development in this area should confirm our expectation.
+
+1. Introduction
+
+The blood brain barrier (BBB) is a structural and functional barrier which protects and maintains a highly controlled environment for central nervous system (CNS) neurons. The BBB lines brain and spinal cord capillaries with endothelial cells, astrocytes, pericytes, microglia, and muscle cells. The cells are connected by tight junctions and express a variety of receptors, transporters, and pores which allow for penetration of specific substances from the blood into the CNS. BBB tight junctions are formed by junctional adhesion molecules, occludin and claudin, and transmembrane proteins. Transport across the BBB can be achieved by the transcellular and paracellular pathways. Lipophilic agents are usually transported via transcellular pathways, while hydrophilic molecules cross via paracellular pathways. Paracellular pathways are regulated by tight junctions. Reversibly opening paracellular pathways through antisense oligonucleotides and siRNA or tight junction targeting by toxins and proteins has previously been reported.
+
+It is estimated that more than 98% of small molecule drugs and approximately 100% of large molecule drugs do not cross the BBB. Consequently, the BBB plays a pivotal role in minimizing CNS toxin exposure, controlling immune–CNS communication, maintaining a low protein CNS environment, separating peripheral and CNS neuro-signals, and importantly, regulating ion homeostasis.
+
+BBB Transport Routes
+
+In healthy individuals, substances have been found to cross the BBB through many pathways. The most common pathways are the following:
+
+A: Transmembrane diffusion
+
+The majority of compounds cross the BBB via this mechanism. While it is nonsaturable, it depends significantly on drug physico-chemical properties, such as low molecular weight, and lipid solubility. While higher lipid solubility leads to better BBB penetration, it also leads to an unfavorable increase in oxidative metabolism and volume of distribution. Therefore, the effects of increasing lipophilicity on BBB penetration must be balanced in light of membrane permeability and metabolism. Lipid solubility is affected by several factors, such as charge, protein binding, and most importantly, molecular weight, which is rarely above 500–600 Da.
+
+B: Carrier mediated transport: Influx and efflux
+
+A large variety of transporters are present at the BBB; including influx transporters such as l-type amino acid transporter (LAT1), glucose transporter (GLUT1), monocarboxylate lactate transporter (MCT1), cationic amino acid transporter (CAT1), choline transporter (ChT), sodium-coupled glucose transporters (SGLTs), among others. Examples of efflux transporters include p-glycoprotein (P-gp), peptide transport system-6 (PTS-6), and breast cancer resistant protein (BCRP). While influx transporters enhance substance uptake by BBB, efflux transporters retard it. Transporters can also be energy dependent, such as P-gp, or energy independent, such as GLUT1. Transporter-mediated uptake is roughly 10-fold faster than trans-membrane diffusion and can be utilized by either efflux inhibition or influx substrates to enhance drug delivery to the CNS.
+
+C: Transcytosis
+
+The most common type of transcytosis is receptor-mediated transcytosis. Several receptor transporters and their role in substance transport across the BBB have been identified. Insulin receptor (IR) provided the answer to how insulin can be found in abundance in the brain while there is no insulin mRNA in the brain. Transferrin receptor (TfR) mediates the transport of iron from the blood across the BBB and apo-transferrin from the brain to the blood. Many other receptors have also been located, such as low-density lipoprotein receptor (LDLR), neonatal Fc receptor (FcRn), and leptin receptor (LepR).
+
+D: Nasal delivery
+
+Also, intranasal delivery offers approaches to more direct and efficient drug delivery. Nasally administered drugs can reach the brain through direct or indirect pathways. Direct ones, i.e., the trigeminal nerve pathway and the olfactory mucosa pathway, offer approaches by which a hepatic first pass metabolism is potentially avoided as well as a direct diffusion into the brain. Indirect pathways involve the drug reaching the respiratory tract and circulating through the blood to reach the BBB classically. Although a small portion of the drug can eventually reach the brain (due to mucociliary clearance for example), intranasal delivery could provide answers to drug delivery to the brain.
+
+Drugs capable of crossing BBB have been on the market for decades and are well-known. Such drugs include l-DOPA, the metabolic precursor of dopamine, which crosses assisted by LAT1. Similarly, melphalan and gabapentin are substrates for LAT1 and cross through receptor-mediated endocytosis. This is due to their chemical structures mimicking that of large amino acids, like tyrosine for example, consisting of a branching structure with an amino group, a carboxyl group, and a hydrophobic side chain (Figure 1).
+
+Moreover, new agents for brain targeted delivery are also being granted FDA approval. Recent examples include cariprazine and brexpiprazole for schizophrenia, daclizumab and ocrelizumab for multiple sclerosis, edaravone for amyotrophic lateral sclerosis, and valbenazine for tardive dyskinesia (Figure 2). However, available treatments for neurodegenerative and CNS disorders are far from optimal. Major drawbacks from which current treatments suffer include peripheral metabolism and instability leading to the need of high doses, as well as BBB efflux and denied penetration. Many strategies are being employed to overcome the BBB penetration barrier in an attempt to potentiate treatments for those conditions. In this review, we highlight monoclonal antibodies, peptide-vectors, nanoparticles, and simple prodrugs as strategies for enhancing BBB penetration.
+
+2. Drug Delivery Strategies
+
+2.1. Monoclonal Antibody Strategy
+
+While the BBB prevents penetration of the majority of arriving substances, it selectively allows others. As previously mentioned, endogenous substances such as insulin, iron, LDLs, and others are substrates for carriers located at the BBB which facilitate their penetration into the CNS. Therefore, formulation of receptor-targeted monoclonal antibodies (MAbs) is being utilized to increase penetration across the BBB.
+
+Targeting of insulin receptors can be done using insulin, though this will lead to hypoglycaemia, therefore, monoclonal antibodies against human insulin receptors were developed. Pardridge et al. developed a human insulin receptor monoclonal antibody (HIRMAb) with high affinity binding to IR (KD = 1.2 nM). Then, the extent to which this MAb could act in drug delivery was tested. Biotnyl[125I]-Aβ1-40 (amyloid beta) was bound to the MAb and streptavidin. While film autoradiography determined that Aβ1-40 does not cross BBB, the drug-biological conjugate exhibited high brain uptake comparable to that of small molecules.
+
+Also, HIRMAb fusion proteins were synthesized. Iduronidase (IDUA) enzyme can be used for the treatment of mucopolysaccharidosis type I (MPSI) though it does not cross the BBB. HIRMAb-IDUA enables enzyme replacement therapy by increasing BBB penetration. The fusion protein AGT-181 had brain uptake of 1% ID/brain and fusion protein activity in brain predicts that an infusion dose of 1 mg/kg should restore enzyme activity to human brain. AGT-181 is currently in clinical trials for the treatment of Hurler syndrome in children; with reported treatment duration of 6 months.
+
+OX26 MAb is a substrate of rat and human transferrin receptor (TfR), the reason behind its original discovery. In mouse, OX26 was also found to have potential in delivering agents into mouse brain. OX26 in humans was used to deliver agents across the BBB by TfR targeting such as vasoactive intestinal peptide (VIP).
+
+Bispecific antibodies (bsAb) are novel molecules with two different binding sites. These molecules are still in development as BBB penetration enhancers. Recent attempts include a bsAb with TfR and BACE1 binding sites. The resulting bsAbs exhibited contrasting results due to their binding affinities to TfR. Low affinity binding to TfR resulted in increased BACE1 BBB penetration while high affinity resulted in poor penetration.
+
+Low-density lipoprotein receptor-related protein 1 (LRP1) is another target for MAb since it is responsible for the transport of several ligands across the BBB. ANG-1005, a conjugate between paclitaxel and Angiopep-2, was synthesized (Figure 3). Angiopep-2 is a derived peptide and a ligand for LRP1. Conjugated paclitaxel demonstrated significant improvement in BBB penetration vs. unconjugated paclitaxel.
+
+Brain derived neurotrophic factor (BDNF) can be used post stroke or brain injury to provide neuroprotection and prevent neuronal death. BDNF chimeric peptide was conjugated to TfRMAb through an SA-biotin linkage. The BDNF end of the peptide exerts its action on tropomyosin receptor kinase B (TRKB) receptors in the CNS for neuroprotection following brain injury while the MAb allows for targeted transport from the blood. Hence, the resulting agent combines the monoclonal antibody strategy and the following peptide-vector strategy.
+
+While the MAb strategy potentially has the ability to produce major BBB penetrating agents, it still, suffers from drawbacks. Monoclonal antibodies targeted at specific carriers will interfere with ligand transfer, such as insulin or iron, depending on the affinity of that MAb. This drawback is expected to have worse effects as the dose of the administered agent is increased. Furthermore, immune reactions to biologic drugs have previously been reported in practice.
+
+2.2. Peptide-Vector Strategy
+
+Large molecules such as peptides suffer from diminished BBB penetration and efflux and thus need to be injected into the cerebrospinal fluid (CSF) if they are to be used therapeutically. Nevertheless, certain peptides can be used as P-gp inhibitors to ease the penetration of other agents.
+
+In a work by Rouselle et al. antineoplastic doxorubicin (dox) was coupled to d-penetrin and SynB1, respectively, to enhance delivery of dox to brain (Figure 4). Dox BBB penetration was studied in rat brain perfusion is situ and by IV injection in mice. The team demonstrated that this technique resulted in a 6-fold increase in dox penetration as free dox exhibited very low uptake due to P-gp efflux while vectorized dox was able to bypass it.
+
+Cultured neurons show that Rabies virus glycoprotein (RVG) is likely to cross the BBB through nicotinic acetylcholine receptors, though it does not bind to nucleic acids, and hence, is incapable of delivering siRNA. In a work by Kumar et al., small interference RNA was transduced using derived RVG-9R. Specific gene silencing was achieved in mice providing protection against viral encephalitis. Results show that RVG-9R provides safe means for delivery of siRNA across the BBB.
+
+Other peptides, such as the highly cationic peptide HIV trans-activator of transcription (TAT), were studied as possible BBB penetration enhancers. Though, while TAT’s in vitro uptake is enhanced, results still reflect negatively on its role in vivo. Insulin-like growth factor 2 (IGF2) is also a peptide with high affinity to insulin-like growth factor receptors at the human BBB, although it suffers from high protein binding (>99%) in the blood and thus has proved impractical, as of yet, as a permeability enhancer. This was demonstrated in a fusion protein of N-acetyl-alpha-glucosaminidase-IGF2 (NAGLU-IGF2).
+
+2.3. Nanoparticles
+
+Due to great potential that nanoparticles (NPs) possess, such as surface functionalization and decoration, size variance, drug loading capacity, immune-compatibility, and others, their applications are being investigated in several fields. They can be organic, such as liposomes, or solid lipid NPs, or inorganic, such as gold or silver NPs.
+
+B6 is a peptide sequence with affinity for TfR receptors with potential to mediate delivery across BBB. Liu et al. have conjugated B6 to poly(ethylene glycol)-poly(lactic acid) (PEG-PLA) NPs to allow for increased penetration and demonstrated that B6 actually plays part in cellular uptake in mouse endothelial cells.
+
+Kim et al. used chitosan NPs targeted for BBB penetration through RVG conjugation. The pluronic-based nanocarriers in combination with RVG peptide and chitosan proved efficient in increasing BBB penetration substantially while maintaining activity of the tested delivered protein. Mittal et al. designed rasagiline chitosan glutamate nanoparticles. By comparing intranasal delivery, free drug solution, and IV delivery, the authors achieved significantly higher concentrations in brain following intranasal delivery.
+
+Cheng et al. tested gold NPs’ (AuNPs) ability to cross endothelial and brain tumour cells. Two types of NPs were decorated, one with TAT and another with PEG as stealth and uptake enhancers. TAT NPs exhibited markedly better penetration. AuNPs-TAT-Dox was successfully delivered in tumour-implanted mice and prevented premature death or body weight loss. Similarly, Clark and Davis prepared transferrin bearing AuNPs. Transferrin was linked to the AuNPs using a linker cleavable in acidic conditions resulting in a threefold increase in BBB penetration. Silver NPs (AgNPs), on the other hand, have been found to cause concentration-dependent BBB inflammation and cytotoxicity, and are, therefore, unsuitable carriers for BBB penetration.
+
+Liposomes are multi-layered spherical lipid particles which encapsulate an aqueous compartment. While the inner compartment can be used to deliver payloads, the outer lipid layers provide a shield before reaching the target site as well as sites to load lipophilic drugs. Moreover, the lipid layers can be conjugated with targeting molecules or carriers to specifically and efficiently reach the site of action, or in these cases, facilitate BBB penetration. In a study by Salvati et al., an anti-transferrin receptor antibody (RI7217) was conjugated to the surface of liposomes to facilitate BBB entry. The liposomes were fluorescent and composed of sphingomyelin and cholesterol known to bind to amyloid-β. Immunoblotting revealed that the liposomes bound to TfR had higher permeability in comparison to non-decorated liposomes.
+
+In a study by Li et al., transferrin-bound carbon dots loaded with doxorubicin were synthesized. Carbon dots are a new type of biocompatible nanoparticles with unique properties. Synthesized nanoparticles were composed of a carbon dot core unto which dox and transferrin were bound via carboxylic groups (CD-dox). Their efficacy was investigated in four pediatric cell lines with over-expressed TfR (CHLA-266, SJGBM2, CHLA-200, Daoy). The investigators report greater efficacy of the NPs, reducing viability by 14–45% when compared to dox alone.
+
+The application of single walled carbon nanotubes (SWCNTs) has been studied in several areas of medicine as drug carriers, in neuro-regeneration, cancer, and biomedical sensors. Tan et al. have studied the toxicity and potential application of SWCNTs as carriers for levodopa. Results reported show that SWCNT-COOH particles exhibited sustained-release of LD over more than 20 h. Furthermore, the SWCNT-COOH-LD nanohybrid was pH activated. Importantly, cell viability was not compromised even after 72 h after treatment with the NPs. Similarly, in a recent work by Guo et al., SWCNTs functionalized with lactoferrin and PEG were tested as carriers for dopamine delivery in mice. PEG coating increased stability and circulation time of the NPs while lactoferrin allowed for increased accumulation in striatum. The resulting SWCNT-PEG-Lf particles exhibit favourable properties for dopamine delivery to brain.
+
+Other carbon nanoparticles such as Fullerenes are being explored. Fullerenes are spherical C60 particles with unique geometrical shape. Though they possess unique photo-physical and antioxidant properties, their application is limited due to poor solubility in polar solvents—notably water. Therefore, conjugation of fullerenes to molecules with affinity to receptors, proteins, organelles, etc. … is crucial to their biological application. In a work by Tsao et al., carboxyfullerene 20 was tested on twenty different bacterial strains. Under specific conditions, BBB permeability of E. coli responsible for causing meningitis was diminished. It appeared that carboxyfullerenes inhibited cytokines and other factors released by neutrophils which alter BBB permeability.
+
+Bi et al. investigated the ability of PEG-poly(lactic co-glycolic acid) (PEG-PLGA) biodegradable nanoparticles to provide efficient delivery of rotigotine to brain via nasal administration. The NPs were spherical with narrow size distribution and negative potential. Two types of NPs were prepared: non-surface modified rotigotine NPs, and rotigotine surface-modified with lactoferrin (Lf). Surface modified NPs had a size of 160 nm while unmodified rotigotine NPs were 100 nm. In vitro toxicity of the NPs was found to be low and cellular uptake was enhanced in Lf modified NPs.
+
+Intracellular adhesion molecule 1 (ICAM-1) is a transmembrane protein expressed on cells in lysosomal disorders. Pathological factors such as oxidative stress, inflammation, and metabolic imbalance, which are characteristic of lysosomal disorders, are high up regulators of ICAM-1 expression. Several works exploring targeting of ICAM-1 have been reported in the literature. In a work by Garancho and Muro, polymer nanocarriers coated with ICAM-1 targeting peptide were examined. Prepared nanocarriers were endocytosed and trafficked to lysosomes, restoring levels of sphingomyelin and cholesterol within lysosomes. The authors state that the fibrinogen-derived ICAM-1 targeting peptide used in the study holds potential for lysosomal enzyme therapy.
+
+2.4. Simple Prodrug Strategy
+
+Prodrugs are molecules which upon their chemical or enzymatic activation result in an active and intended drug. This strategy has been applied widely throughout medicine in improving drug profiles and delivery. Although research has taken a trend towards nanomedicine and biologicals in recent years, this strategy still can be exploited in BBB penetration due to its simplicity and vast potential.
+
+In dopamine delivery, several prodrugs have been previously synthesized and aimed towards increased BBB penetration. Denora et al. have succeeded in preparing a series of 2-phenyl-imidazopyridine-3-acetic acid substituted dopamine compounds which maintained peripheral dopamine stability while enhancing CNS delivery.
+
+Due to the fact that glycosylated derivatives of drugs have the ability to increase CNS uptake by GLUT1, Fernandez et al. have synthesized several glycosylated derivatives of dopamine using several linkers to enhance dopamine BBB penetration (Figure 5A). They report that of the derivatives tested those with conjugates substituted at C-6 were much more potent inhibitors. Ester derivatives were found too unstable in the plasma while carbamate derivatives are the prodrugs of choice. In works by Bonina et al. and Ruocco et al., the authors attached dopamine to glucose C-3 and C-6 also targeting GLUT1 with favourable activity when compared to l-DOPA (Figure 5B).
+
+Glutathione conjugated prodrugs of dopamine were synthesized by More and Vince (Figure 6) targeting BBB glutathione transporters. Their prodrugs constituted dopamine connected to glutathione as a carrier through a variety of linkages of which amide was found to have high affinity to BBB glutathione transporters.
+
+In a work by Dalpiaz et al., ursodeoxycholic acid (UDCA) was used to increase the permeability of azidothymidine (AZT) into CNS using a simple ester prodrug (Figure 7). The 5′-ester conjugate of AZT with UDCA was able to bypass CNS efflux and deliver up to twenty times more of AZT to CNS macrophages. Permeability studies were carried out on HRPE cellular monolayer.
+
+Gynther et al. synthesized an ester prodrug of ketoprofen and l-tyrosine (Figure 8) to deliver hydrophilic ketoprofen to CNS through LAT1. The authors tested for LAT1 binding using radiotracer [14C] l-leucine showing that their prodrug provided marked inhibition of tracer uptake. The ester prodrug was able to reach brain parenchyma, although the authors stated that the ester linkage present would most likely to be broken by periphery esterase.
+
+Glucose and galactose esters of 7-chlorokynurenic acid were synthesized by Battaglia et al. (Figure 9) to facilitate BBB penetration through GLUT1 transporters. Following intraperitoneal injection, the delivered drug was found to have increased anti-seizure activity due to enhanced penetration. The authors state that this prodrug would be expected to undergo extensive hepatic metabolism if it were to be administered orally.
+
+Anti-HIV drugs are good P-gp substrates and are extensively denied BBB entry. Prodrug dimers were designed with P-gp inhibition in mind to increase abacavir BBB penetration. Namanja et al. linked two molecules of abacavir using sulphide and ester linkages which would be removed intracellularly. The resulting dimer was shown to have P-gp inhibitory action resulting in increased BBB penetration. Linking two identical or different P-gp substrates through simple linkages is of great potential since it can allow for dual-drug delivery or selective P-gp inhibition through an inactive substrate while the desired drug is granted BBB entry.
+
+The following Table 1 summarizes select strategies reported in this review.
+
+3. Summary and Conclusions
+
+Recent strategies can be categorized into monoclonal antibodies, peptide vectors, nanoparticles, and simple prodrugs (select works are reported in Table 1 above). Monoclonal antibodies possess significant potential, not only in BBB penetration but in other areas of drug design as well. Although, since they are tailored to match very specific sites, they tend to be quite tricky to design, thus hindering their discovery. In BBB penetration though, the recently approved daclizumab and ocrelizumab reflect the potential of this strategy, but, nevertheless, warrant close future follow-up to pass judgment on the success of this strategy.
+
+Peptide vectors, we believe, are the least promising of the strategies mentioned in this review. While peptides are good substrates for BBB transporters, the design and synthesis of peptides alone is challenging, and those with loaded active agents and controlled release are especially much harder and time consuming to deal with. When it comes to complexity, both the peptide vectors and monoclonal antibodies are similarly complex to design, though the latter are clearly superior when it comes to BBB penetration.
+
+Nanoparticles on the other hand, possess huge potential in BBB penetration as they do in other fields. Due to the vast types of possible nanoparticles, which can be organic or inorganic, surface decorated or not, bound to peptides or not, targeted or not, with one drug molecule or more, they appear to be the future of modern therapy though still far from complete. Nanoparticles rely on the continuous discovery and optimisation of drugs.
+
+Simple prodrugs, such as esters, still are possible contenders in BBB penetration. Dimers are of interest since they combine P-gp inhibition and delivery in one molecule. Though those reported in the review use two identical molecules, dimers can be used in combining two complimentary agents, or perhaps three. Alas, similar to nanoparticles, the design of prodrugs relies on the existence of the original drug, also making them dependent on the continuous delivery of active drugs.
+
+To conclude, and due to the continuous discovery of CNS active agents, it is obvious that BBB penetration is not the hardest of tasks facing drug designers nowadays. With strategies such as those highlighted in the review, and with the optimal agents, CNS drug delivery should produce a breakthrough within the upcoming decade.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Abbreviations
+
+BBB	Blood brain barrier	 	CNS	Central nervous system	 	LAT1	l-type amino acid transporter 1	 	GLUT1	Glucose transporter 1	 	MCT1	Monocarboxylate transporter 1	 	CAT1	Cationic amino acid transporter 1	 	ChT	Choline transporter	 	SGLT	Sodium-coupled glucose transporter	 	P-gp	P-glycoprotein	 	PTS-6	Peptide transport system 6	 	BCRP	Breast cancer resistant protein	 	IR	Insulin receptor	 	Tf	Transferrin	 	TfR	Transferrin receptor	 	LDLR	Low-density lipoprotein receptor	 	FcRn	Neonatal Fc receptor	 	LEPR	Leptin receptor	 	MAb	Monoclonal antibody	 	IDUA	Iduronidase	 	MPSI	Mucopolysaccharidosis type I	 	bsAb	Bispecific antibodies	 	LRP1	Low-density lipoprotein receptor related protein 1	 	BDNF	Brain derived neurotrophic factor	 	TRKB	Tropomyosin receptor kinase B	 	CSF	Cerebrospinal fluid	 	Dox	Doxorubicin	 	RVG	Rabies virus glycoprotein	 	TAT	Trans-activator of transcription	 	IGF2	Insulin-like growth factor 2	 	NAGLU	N-acetyl-alpha-glucosaminidase	 	NP	Nanoparticle	 	PEG	Poly (ethylene glycol)	 	PLA	Poly (lactic acid)	 	AuNP	Gold nanoparticle	 	AgNP	Silver nanoparticle	 	SWCNT	Single-walled carbon nanotube	 	CD	Carbon dot	 	PLGA	Poly (lactic co-glycolic acid)	 	Lf	Lactoferrin	 	UDCA	Ursodeoxycholic acid	 	AZT	Azidothymidine	 	ICAM-1	Intracellular adhesion molecule 1
+
+References
+
+Targeting blood–brain barrier changes during inflammatory pain: An opportunity for optimizing CNS drug delivery
+
+Critical role of tight junctions in drug delivery across epithelial and endothelial cell layers
+
+Tight junction modulator and drug delivery
+
+Why Is the Global CNS Pharmaceutical Market So Under-Penetrated?
+
+The blood-brain barrier: Bottleneck in brain drug development
+
+Blood–brain barrier structure and function and the challenges for CNS drug delivery
+
+Lipid solubility and drug penetration of the blood brain barrier
+
+Pharmacokinetics of CNS penetration
+
+Drug delivery to the central nervous system: A review
+
+Addressing central nervous system (CNS) penetration in drug discovery: Basics and implications of the evolving new concept
+
+Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings
+
+In silico predictive model to determine vector-mediated transport properties for the blood–brain barrier choline transporter
+
+Regional distribution of SGLT activity in rat brain in vivo
+
+Transporter-based delivery of anticancer drugs to the brain: Improving brain penetration by minimizing drug efflux at the blood-brain barrier
+
+Regulation of ABC transporters blood-brain barrier: The good, the bad, and the ugly
+
+Brain uptake of radiolabeled amino acids, amines, and hexoses after arterial injection
+
+Evaluation of rat insulin messenger RNA in pancreatic and extrapancreatic tissues
+
+Transport of [125i] transferrin through the rat blood-brain barrier
+
+Rapid transferrin efflux from brain to blood across the blood–brain barrier
+
+Expression of the neonatal fc receptor (FCRN) at the blood–brain barrier
+
+Human blood-brain barrier leptin receptor. Binding and endocytosis in isolated human brain microvessels
+
+Progress and perspectives on targeting nanoparticles for brain drug delivery
+
+A review of intranasal formulations for the treatment of seizure emergencies
+
+Progress in brain targeting drug delivery system by nasal route
+
+L-dopa transport properties in an immortalised cell line of rat capillary cerebral endothelial cells, RBE 4
+
+Melphalan penetration of the blood-brain barrier via the neutral amino acid transporter in tumor-bearing brain
+
+Mechanisms of action of gabapentin
+
+Brexpiprazole and cariprazine: Distinguishing two new atypical antipsychotics from the original dopamine stabilizer aripiprazole
+
+Immune therapy of multiple sclerosis-future strategies
+
+Edaravone: A new drug approved for ALS
+
+Human insulin receptor monoclonal antibody undergoes high affinity binding to human brain capillaries in vitro and rapid transcytosis through the blood–brain barrier in vivo in the primate
+
+Drug targeting of a peptide radiopharmaceutical through the primate blood-brain barrier in vivo with a monoclonal antibody to the human insulin receptor
+
+Genetic engineering of a lysosomal enzyme fusion protein for targeted delivery across the human blood-brain barrier
+
+Pharmacokinetics and brain uptake in the rhesus monkey of a fusion protein of arylsulfatase a and a monoclonal antibody against the human insulin receptor
+
+Agt-181: Expression in cho cells and pharmacokinetics, safety, and plasma iduronidase enzyme activity in rhesus monkeys
+
+Intravenous infusion of iduronidase-igg and its impact on the central nervous system in children with hurler syndrome
+
+Transferrin receptor on endothelium of brain capillaries
+
+Targeting rat anti-mouse transferrin receptor monoclonal antibodies through blood-brain barrier in mouse
+
+Pharmacologic effects in vivo in brain by vector-mediated peptide drug delivery
+
+Camelid single-domain antibodies: A versatile tool for in vivo imaging of extracellular and intracellular brain targets
+
+Alpha synuclein is transported into and out of the brain by the blood–brain barrier
+
+Lrp/amyloid β-peptide interaction mediates differential brain efflux of β isoforms
+
+Tissue-type plasminogen activator crosses the intact blood-brain barrier by low-density lipoprotein receptor–related protein-mediated transcytosis
+
+Antitumour activity of ang1005, a conjugate between paclitaxel and the new brain delivery vector angiopep-2
+
+Involvement of the low-density lipoprotein receptor-related protein in the transcytosis of the brain delivery vector angiopep-2
+
+Neuroprotection with noninvasive neurotrophin delivery to the brain
+
+Conjugation of brain-derived neurotrophic factor to a blood–brain barrier drug targeting system enables neuroprotection in regional brain ischemia following intravenous injection of the neurotrophin
+
+Neuroprotection in transient focal brain ischemia after delayed intravenous administration of brain-derived neurotrophic factor conjugated to a blood-brain barrier drug targeting system
+
+Delivery of biologics across the blood–brain barrier with molecular trojan horse technology
+
+Safety evaluation of biological drugs: What are toxicology studies in primates telling us?
+
+New advances in the transport of doxorubicin through the blood-brain barrier by a peptide vector-mediated strategy
+
+Rabies virus binding to an acetylcholine receptor α-subunit peptide
+
+Transvascular delivery of small interfering RNA to the central nervous system
+
+Comparison of five peptide vectors for improved brain delivery of the lysosomal enzyme arylsulfatase a
+
+The pharmacokinetics of cell-penetrating peptides
+
+Delivery of an enzyme-IGFII fusion protein to the mouse brain is therapeutic for mucopolysaccharidosis type IIIB
+
+Crossing the blood-brain barrier with nanoparticles
+
+Nanoparticle approaches against bacterial infections
+
+Nanoparticle-based combination therapy for cancer treatment
+
+Recombinant human adenovirus: Targeting to the human transferrin receptor improves gene transfer to brain microcapillary endothelium
+
+B6 peptide-modified peg-pla nanoparticles for enhanced brain delivery of neuroprotective peptide
+
+Brain-targeted delivery of protein using chitosan-and RVG peptide-conjugated, pluronic-based nano-carrier
+
+Brain targeted nanoparticulate drug delivery system of rasagiline via intranasal route
+
+Blood-brain barrier permeable gold nanoparticles: An efficient delivery platform for enhanced malignant glioma therapy and imaging
+
+Increased brain uptake of targeted nanoparticles by adding an acid-cleavable linkage between transferrin and the nanoparticle core
+
+Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells
+
+Liposomes functionalized to overcome the blood–brain barrier and to target amyloid-β peptide: The chemical design affects the permeability across an in vitro model
+
+Transferrin conjugated nontoxic carbon dots for doxorubicin delivery to target pediatric brain tumor cells
+
+Carbon dots: Promising biomaterials for bone-specific imaging and drug delivery
+
+Carbon nanotubes in neuroregeneration and repair
+
+Carbon nanotubes as optical biomedical sensors
+
+Release behaviour and toxicity evaluation of levodopa from carboxylated single-walled carbon nanotubes
+
+Functional single-walled carbon nanotubes ‘CAR’ for targeting dopamine delivery into the brain of parkinsonian mice
+
+Multidrug resistance protein p-gp interaction with nanoparticles (fullerenes and carbon nanotube) to assess their drug delivery potential: A theoretical molecular docking study
+
+Fullerene–biomolecule conjugates and their biomedicinal applications
+
+Inhibition of the increased permeability of blood-brain barrier in escherichia coli-induced meningitis by carboxyfullerene
+
+Intranasal delivery of rotigotine to the brain with lactoferrin-modified peg-plga nanoparticles for parkinson’s disease treatment
+
+Lysosomal enzyme replacement therapies: Historical development, clinical outcomes, and future perspectives
+
+Enhanced delivery of α-glucosidase for pompe disease by icam-1-targeted nanocarriers: Comparative performance of a strategy for three distinct lysosomal storage disorders
+
+Delivery of acid sphingomyelinase in normal and niemann-pick disease mice using intercellular adhesion molecule-1-targeted polymer nanocarriers
+
+Icam-1 targeting, intracellular trafficking, and functional activity of polymer nanocarriers coated with a fibrinogen-derived peptide for lysosomal enzyme replacement
+
+Dopamine and levodopa prodrugs for the treatment of parkinson’s disease
+
+Advanced prodrug strategies in nucleoside and non-nucleoside antiviral agents: A review of the recent five years
+
+Recent approaches to platinum (iv) prodrugs: A variety of strategies for enhanced delivery and efficacy
+
+Novel l-dopa and dopamine prodrugs containing a 2-phenyl-imidazopyridine moiety
+
+Synthesis of glycosyl derivatives as dopamine prodrugs: Interaction with glucose carrier glut-1
+
+Synthesis and biological studies of glycosyl dopamine derivatives as potential antiparkinsonian agents
+
+Glycosyl derivatives of dopamine and l-dopa as anti-parkinson prodrugs: Synthesis, pharmacological activity and in vitro stability studies
+
+Galactosylated dopamine enters into the brain, blocks the mesocorticolimbic system and modulates activity and scanning time in naples high excitability rats
+
+Design, synthesis and biological evaluation of glutathione peptidomimetics as components of anti-parkinson prodrugs
+
+Zidovudine and ursodeoxycholic acid conjugation: Design of a new prodrug potentially able to bypass the active efflux transport systems of the central nervous system
+
+Large neutral amino acid transporter enables brain drug delivery via prodrugs
+
+Systemically administered d-glucose conjugates of 7-chlorokynurenic acid are centrally available and exert anticonvulsant activity in rodents
+
+Toward eradicating hiv reservoirs in the brain: Inhibiting p-glycoprotein at the blood–brain barrier with prodrug abacavir dimers
+
+Research spotlight: Tools for eradicating hiv in the brain: Prodrug dimeric inhibitors of p-gp
+
+Chemical structures of tyrosine (an amino acid, LAT1 substrate), l-DOPA, Melphalan, and Gabapentin.
+
+Chemical structures of cariprazine, brexpiprazole, edaravone, and valbenazine.
+
+A schematic representation of ANG-1005, a conjugate between paclitaxel and Angiopep-2.
+
+Chemical structures of doxo-SynB1 and doxo-d-Penetrin.
+
+(A) Chemical structures of glycosylated derivatives of dopamine. (B) Chemical structures of glycosuccinyl derivatives of dopamine.
+
+Glutathione conjugated prodrug of dopamine.
+
+Chemical structure of AZT-UDCA prodrug.
+
+Chemical structure of ketoprofen prodrug targeted at LAT1 for CNS penetration.
+
+Chemical structures of glucose and galactose esters of 7-chlorokynurenic acid.
+
+Select works in improving CNS penetration reported in this review.
+
+Strategy Tested	Agent	Notes	Future Outlook	Ref.	 	Human insulin receptor monoclonal antibody	None	High affinity and high transcytosis.	Further investigation and optimization.		 	Human insulin receptor monoclonal antibody	Iduronidase & IGG fusion protein	Clinical trials for Hurler syndrome in children.	Further results from trial.		 	Bispecific antibody	TfR and BACE1 binding sites	Application of dual action antibodies.	Research of binding site combinations.		 	Peptide vectorization	Doxorubicin with d-penetrin or SynB1	6-fold increase in doxorubicin permeation.	d-penetrin or SybB1 can both be used as BBB targeting entities for other drugs.		 	Transferrin decorated carbon dots	Doxorubicin	Greater efficacy vs free doxorubicin in 4 pediatric cell lines.	Drugs other than doxorubicin can be tested.		 	Single walled carbon nanotubes	Levodopa	Sustained release properties with low toxicity.	Application as drug carriers in BBB penetration.		 	Single walled carbon nanotubes coated with PEG and functionalized with lactoferrin	Dopamine	PEG coating increases stability of the NPs while lactoferrin produces favorable striatum accumulation	Testing in mice is promising. Further toxicity and kinetics studies before human application is tested.		 	Carboxyfullerene NPs	None	Interaction and inhibition with inflammatory factors maintains BBB integrity.	Fullerenes are unexplored with vast potential should solubility be overcome.		 	PEG-poly(lactic co-glycolic acid) NPs surface modified with lactoferrin	None	Administration intranasally for CNS delivery. Low toxicity and enhanced cellular uptake.	Lactoferrin modification of NPs for CNS delivery.		 	Glycosylated derivatives of l-DOPA prodrugs	l-DOPA	Carbamate derivatives are more stable than ester ones. Glycosylated derivatives at C-6 is better than C-3.	Glycosylation at C-6 provides better inhibition and uptake through GLUT-1		 	Dimer prodrug	Abacavir	Sulphide and ester linkages between two P-gp substrates increases BBB penetration.	Two identical or different P-gp substrates allows for dual-drug delivery.
